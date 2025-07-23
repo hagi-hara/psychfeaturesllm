@@ -22,6 +22,15 @@
 ### llm
 This directory contains the code and dataset for calculating word features by large language models (LLMs).
 
+
+#### Run in Google Colab or Jupyter Notebook:
+
+Word_features_in_LLMs_exp1.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hagi-hara/psychfeaturesllm/blob/main/llm/Word_features_in_LLMs_exp1.ipynb)
+
+Word_features_in_LLMs_exp2.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hagi-hara/psychfeaturesllm/blob/main/llm/Word_features_in_LLMs_exp2.ipynb)
+
 After running the code (`word_features_in_LLMs_exp1.ipynb` and `word_features_in_LLMs_exp2.ipynb`), you will find the results in the `results_exp1` and `results_exp2` directories.
 ```bash
 # main results files
