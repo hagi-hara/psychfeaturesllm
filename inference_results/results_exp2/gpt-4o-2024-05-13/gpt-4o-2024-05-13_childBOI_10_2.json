@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJO6TRUeIDtHhHrD7q7dShsyT6R8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "country: 1\nhammer: 6\npony: 5\nanimal: 4\ngarden: 4\nsky: 2\nbreakfast: 6\nwolf: 2\npillow: 7\ndoctor: 3\nsee: 2\nhug: 6\narm: 7\nmuffin: 6\nsofa: 7\nnapkin: 6\nsister: 5\nbunny: 5\nmonkey: 3\ntime: 1\npuzzle: 6\ncoat: 6\npig: 5\nhamburger: 6\nperson: 5\nroom: 6\nsheep: 4\nblue: 2\nswim: 6\ncook: 5\nwindow: 3\nwait: 2\nladder: 4\npicnic: 5\nmake: 4\negg: 6\nfirst: 1\nshower: 6\ngarage: 3\ngum: 6\ntoy: 7\ndaddy: 5\nclimb: 5\nshake: 5\nmoon: 2\ntissue: 6\nmovie: 2\nfind: 3\nsink: 5\nturkey: 4\ncloset: 5\npoor: 1\njar: 6\npants: 6\ngirl: 5\nstop: 2\nwill: 1\ngo: 2\nhorse: 5\nclown: 3\nfood: 6\nbroom: 6\nskate: 5\nclose: 3\ndrop: 3\nhome: 6\nbottle: 6\ntruck: 5\npark: 5\ndryer: 5\nrefrigerator: 5\ncheek: 6\ncorn: 6\nget: 4\nempty: 2\nnap: 6\npotty: 6\nant: 6\nmouth: 7\nsoda: 6\nrun: 6\npolice: 3\nbuy: 3\nhit: 5\nmop: 6\nhose: 6\ncracker: 6\nlittle: 2\ndump: 2\nflower: 6\nbowl: 6\nduck: 6\nelephant: 3\nsticky: 3\nflag: 4\nput: 3\ntiger: 3\nkitchen: 6\nlady: 3\nbad: 2\nhard: 3\nboy: 5\ndance: 5\nsoap: 6\nawake: 2\nfinish: 2\nbus: 5\nfit: 3\nsoft: 6\njeans: 6\nopen: 3\nhair: 6\ndog: 6\nface: 7\nblack: 2\nlike: 2\nlove: 2\nbig: 2\ntuna: 5\ntray: 6\nhappy: 2\nsad: 2\nnew: 2\ntowel: 6\npicture: 3\njacket: 6\nstand: 5\nleg: 7\nnaughty: 2\nwindy: 2\ncute: 2\ncereal: 6\ncircus: 3\nwet: 3\ndonkey: 4\ncover: 5\ncrib: 6\ndrawer: 5\nschool: 3\nbasket: 6\nblanket: 7\nbath: 7\nsun: 2\noven: 5\npretend: 2\nlollipop: 6\nsweater: 6\nbelt: 6\nknock: 5\nstay: 2\nowl: 3\nsing: 4\ncatch: 5\nnight: 2\ntractor: 5\nwipe: 6\nlunch: 6\nstory: 3\nbee: 5\nslipper: 6\nhave: 2\ntaste: 4\nsoup: 6\nchild: 5\nroof: 2\nplant: 5\nbed: 7\nbug: 6\naunt: 3\npaint: 6\nscissors: 6\nyellow: 2\nsandwich: 6\nwrite: 4\nice: 5\nshow: 2\nback: 6\nstrawberry: 6\ncookie: 6\ngiraffe: 3\nsnow: 4\nstreet: 3\nlamb: 5\ntickle: 6\nzoo: 3\nspill: 4\nplate: 6\nhide: 4\nshoe: 6\nbaby: 5\npurse: 5\nlick: 5\nnose: 7\ngood: 2\nmedicine: 3\nstone: 4\nblock: 6\nfinger: 7\ncamera: 3\nglass: 3\nbutton: 6\nscarf: 6\nbucket: 6\nbird: 4\nbroken: 2\nbox: 6\npretzel: 6\nsleepy: 2\nradio: 3\nhand: 7\ncut: 3\nbrown: 2\nknee: 7\ntree: 5\ntiny: 2\ncold: 3\nstove: 5\nman: 3\nsick: 2\ntrain: 5\ndrive: 3\nyogurt: 6\nasleep: 2\nslow: 2\nvacuum: 6\nhurt: 2\ndeer: 4\nsled: 5\ntry: 3\nbook: 5\ndinner: 6\nfall: 3\nthink: 2\ndo: 2\ncar: 5\ndoll: 6\nballoon: 6\nrip: 3\nthrow: 5\ntape: 5\nbutter: 6\nbasement: 3\nmoney: 3\ntoe: 7\nhate: 2\nkiss: 5\nsock: 6\ngreen: 2\nhear: 2\njump: 6\nread: 3\nrock: 4\ndoor: 5\nalligator: 3\ngarbage: 4\neye: 7\nmad: 2\ntalk: 2\nankle: 7\ncat: 6\nsleep: 2\nred: 2\nhigh: 2\ngrass: 5\npeople: 5\nmoose: 3\npretty: 2\nmorning: 2\nhold: 6\npizza: 6\nchalk: 6\ndark: 2\nshare: 3\ngentle: 2\nyard: 4\ndirty: 3\nbuild: 4\nclock: 3\nsprinkler: 6\nfull: 2\near: 7\nday: 2\ncoke: 6\nbib: 6\nbite: 5\ncoffee: 3\nmeow: 2\nrooster: 4\nnice: 2\nbump: 3\nporch: 4\ncloud: 2\npaper: 5\nuncle: 3\nwash: 5\nspoon: 6\nlamp: 5\ngive: 3\ncandy: 6\nstick: 5\nbeach: 4\nwish: 2\npenny: 6\ntongue: 7\nhen: 4\nbrother: 5\nfine: 2\nfriend: 5\nsit: 5\nbe: 2\nhat: 6\ntummy: 7\nchocolate: 6\nsalt: 6\nwould: 1\nbanana: 7\nlion: 3\nspaghetti: 6\nblow: 4\ndish: 6\ntake: 3\nboat: 5\npush: 5\nfork: 6\nchase: 5\nmilk: 6\npuppy: 6\nlook: 2\nbat: 4\ndress: 6\nsauce: 6\ncarry: 4\ntable: 6\njuice: 6\nbring: 3\nbreak: 3\nmommy: 5\nfix: 4\ncup: 6\npull: 5\ngame: 5\nwind: 2\nwhite: 2\ntired: 2\nbrush: 6\nglue: 6\nteacher: 3\npresent: 3\nraisin: 6\nturtle: 5\nshoulder: 7\nfarm: 4\nheavy: 2\nsay: 2\nrain: 2\ntoast: 6\nwalk: 6\ntouch: 4\nclap: 5\ncake: 6\nzebra: 3\nstroller: 6\nnoisy: 2\npen: 6\nquiet: 2\ncry: 2\nshirt: 6\npool: 5\nbench: 5\npour: 5\nhead: 7\ntooth: 7\nstore: 3\nlisten: 2\ntear: 3\ncrayon: 6\nhouse: 6\nother: 1\ndiaper: 6\ntrash: 4\ndraw: 5\nold: 2\nmeat: 6\nride: 5\nmouse: 4\njelly: 6\ngoose: 4\nchair: 6",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989146,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 2065,
+    "prompt_tokens": 1735,
+    "total_tokens": 3800,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

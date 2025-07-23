@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses (sensations inside your body, tasting, smelling, feeling through touch, hearing and seeing). There are no right or wrong answers so please use your own judgement. 
+
+First, please answer with regard to smelling.
+
+The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+book: 0.60
+bear: 0.63
+nice: 0.76
+basket: 0.06
+old: 1.10
+find: 0.39
+cookie: 3.35
+bucket: 0.41
+red: 0.17
+get: 0.59
+oven: 1.79
+scarf: 0.33
+eye: 0.00
+button: 0.00
+butter: 2.61
+smile: 0.25
+hand: 0.30
+child: 1.40
+bug: 0.24
+jump: 0.00
+radio: 0.00
+drop: 0.00
+blow: 0.29
+fit: 0.00
+hear: 0.00
+say: 0.25
+people: 2.00
+cup: 0.69
+bat: 0.11
+wipe: 0.35
+be: 1.03
+pizza: 4.41
+scissors: 0.00
+new: 2.75
+nail: 0.00
+police: 0.06
+park: 1.18
+wolf: 0.72
+sick: 0.84
+lollipop: 1.56
+tear: 0.11
+street: 0.71
+sheep: 1.26
+push: 0.00
+thirsty: 1.10
+finger: 0.37
+close: 0.68
+puzzle: 0.11
+carry: 0.10
+gum: 1.59
+deer: 0.84
+nap: 0.00
+sandwich: 3.26
+sticky: 0.00
+pig: 2.25
+picnic: 1.65
+paint: 3.05
+chin: 0.00
+penguin: 0.45
+dog: 2.82
+finish: 0.31
+dump: 1.63
+napkin: 0.38
+kiss: 0.33
+tissue: 0.32
+person: 2.09
+flower: 4.39
+moose: 0.88
+listen: 0.00
+crib: 0.12
+soap: 3.38
+belt: 0.33
+hammer: 0.37
+give: 0.00
+boy: 0.50
+mommy: 0.90
+purse: 0.22
+rooster: 0.65
+wish: 0.00
+sky: 0.11
+coat: 0.67
+spill: 0.61
+egg: 2.94
+dryer: 0.41
+
+Please answer about all of the following words.
+
+milk
+soft
+owl
+ankle
+baby
+muffin
+farm
+throw
+nose
+stone
+splash
+rain
+school
+cat
+night
+home
+big
+teacher
+stick
+will
+tiger
+slipper
+hold
+feed
+turkey
+lady
+jacket
+towel
+tongue
+trash
+lion
+talk
+car
+tickle
+sister
+drawer
+sprinkler
+hot
+ant
+show
+hungry
+pickle
+arm
+couch
+sun
+bath
+hose
+climb
+wind
+cover
+giraffe
+goose
+meat
+soda
+cheese
+juice
+knee
+bus
+wait
+stand
+catch
+zipper
+read
+garage
+bite
+star
+truck
+fall
+potato
+duck
+share
+wet
+movie
+hard
+bed
+bib
+sweep
+sit
+windy
+heavy
+cook
+cracker
+potty
+play
+draw
+fix
+doll
+elephant
+lunch
+door
+candy
+friend
+box
+kitchen
+brother
+party
+shake
+animal
+ladder
+tummy
+ride
+raisin
+noisy
+pants
+doctor
+full
+swim
+garbage
+squirrel
+boat
+tree
+flag
+girl
+jar
+pretty
+chalk
+good
+money
+write
+snack
+cereal
+bee
+bench
+hair
+hit
+glass
+run
+aunt
+boots
+bunny
+roof
+table
+have
+awake
+pretzel
+pool
+white
+dress
+jelly
+hen
+refrigerator
+sofa
+monkey
+rock
+stop
+time
+face
+shovel
+make
+brush
+green
+vacuum
+sink
+pen
+tooth
+penny
+tape
+shoe
+cheek
+paper
+bird
+cut
+medicine
+spaghetti
+porch
+blanket
+yellow
+eat
+bowl
+tiny
+dark
+look
+quiet
+other
+country
+jeans
+slow
+sleepy
+window
+bump
+donkey
+balloon
+try
+pencil
+sad
+clap
+taste
+do
+broken
+toy
+game
+touch
+shower
+coffee
+cloud
+basement
+clock
+dinner
+head
+happy
+hide
+brown
+see
+zoo
+build
+alligator
+spoon
+toe
+hurt
+think
+leg
+cow
+stay
+poor
+lick
+high
+house
+help
+pony
+mad
+moon
+sing
+cute
+broom
+stroller
+morning
+pour
+buy
+soup
+blue
+pull
+present
+mouth
+crayon
+empty
+dance
+sleep
+bring
+fine
+lamp
+tuna
+pretend
+picture
+clown
+gentle
+shoulder
+day
+ice
+ball
+shirt
+hug
+church
+take
+hamburger
+meow
+zebra
+little
+like
+snow
+circus
+chair
+hate
+wash
+room
+tray
+corn
+daddy
+nurse
+asleep
+closet
+comb
+lamb
+chase
+first
+cry
+sweater
+fork
+food
+toast
+would
+chocolate
+mouse
+diaper
+hurry
+plant
+train
+plate
+open
+sauce
+turtle
+walk
+glue
+sock
+yogurt
+love
+beach
+pumpkin
+knock
+kick
+drive
+skate
+pillow
+black
+apple
+man
+tired
+mop
+banana
+go
+cake
+strawberry
+sled
+camera
+uncle
+dirty
+yard
+hat
+pick
+coke
+tractor
+block
+bread
+put
+ear
+store
+garden
+bad
+bottle
+dish
+break
+wake
+naughty
+story
+breakfast
+back
+sneaker
+stove
+rip
+salt
+cold
+puppy
+pudding
+horse
+grass

@@ -1,0 +1,45 @@
+stuck: 4
+watch (action): 1
+hurry: 4
+close: 2
+drive: 2
+wipe: 1
+take: 1
+catch: 2
+chase: 4
+swing (action): 3
+jump: 4
+run: 5
+walk: 4
+turn around: 2
+carry: 2
+splash: 2
+slide (action): 3
+kick: 4
+push: 2
+fix: 1
+build: 1
+help: 1
+hold: 1
+try to: 2
+shake: 2
+dance: 3
+climb: 3
+sweep: 1
+stand: 2
+pull: 2
+skate: 2
+get: 2
+bring: 2
+go: 4
+draw: 1
+touch: 1
+pick: 1
+sit: 2
+clap: 2
+wait: 1
+throw: 2
+slide (action): 3
+drop: 1
+hit: 2 
+step: N

@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJO6yg6WcOUaDtu95AaXdVeDFCqV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "balloon: 4.90\npull: 5.71\nopen: 5.95\nsquirrel: 5.80\nfinger: 6.00\nstand: 5.71\nclimb: 4.90\ndark: 5.00\nvacuum: 6.00\nbanana: 6.00\npuppy: 4.50\nscissors: 6.00\nsoft: 7.00\nhair: 6.00\nkitchen: 5.95\ncoke: 5.00\ntummy: 6.00\ncook: 5.71\nchalk: 6.00\npretend: 5.71\npoor: 5.00\nbath: 7.00\nfeed: 5.71\npotato: 6.00\nhappy: 4.50\nbe: 5.71\nget: 5.71\nblow: 5.00\ndiaper: 6.00\nbat: 5.00\nbig: 5.00\nbroken: 5.00\ntree: 6.00\npenny: 6.00\nlamb: 5.00\npresent: 5.00\nsheep: 6.00\ntoy: 5.00\nhungry: 5.00\nzebra: 6.00\nmilk: 6.00\nhen: 6.00\nwrite: 6.00\nbunny: 5.00\nshow: 5.00\ndeer: 5.00\nhome: 6.00\ntiger: 5.00\ncup: 6.00\nhat: 6.00\ncold: 5.00\ndraw: 6.00\nwake: 5.00\nhigh: 5.00\nhead: 6.00\nstove: 6.00\nporch: 6.00\ngirl: 6.00\nstar: 6.00\ncry: 5.00\nwash: 6.00\npig: 6.00\ncamera: 6.00\npicture: 6.00\nsandwich: 6.00\nsticky: 5.00\ndrop: 5.00\nbaby: 5.00\nsun: 6.00\nsoup: 6.00\npickle: 6.00\nfind: 6.00\ntear: 5.00\nsweater: 6.00\nhot: 5.00\nman: 6.00\nfriend: 5.00\nlittle: 5.00\nbreak: 5.00\nwipe: 6.00\nsoap: 6.00\nwhite: 6.00\nrooster: 6.00\nmouse: 6.00\nfine: 6.00\nlisten: 6.00\ncatch: 5.00\nhouse: 6.00\nhard: 5.00\nwind: 6.00\npolice: 6.00\ntrain: 6.00\nhold: 5.00\nknock: 6.00\nbench: 6.00\ndish: 6.00\nrock: 5.00\nthrow: 5.00\nwalk: 6.00\nteacher: 6.00\nmoon: 6.00\nlike: 5.00\nspoon: 6.00\nfork: 6.00\nbee: 5.00\nmop: 6.00\npark: 6.00\nwet: 6.00\npick: 5.00\nstop: 5.00\nquiet: 6.00\ndaddy: 6.00\ncookie: 5.00\ntray: 6.00\nblue: 6.00\nfinish: 5.00\neye: 6.00\nbear: 5.00\nglue: 6.00\nroom: 6.00\nspill: 5.00\nmommy: 6.00\nback: 6.00\nchurch: 6.00\ntractor: 6.00\nstreet: 6.00\nsplash: 5.00\ngood: 6.00\nsleep: 6.00\nhurry: 5.00\nwolf: 5.00\nankle: 6.00\neat: 5.00\nfit: 5.00\nboy: 6.00\nscarf: 6.00\nturtle: 6.00\ntake: 5.00\nlick: 5.00\nplate: 6.00\ndryer: 6.00\nclown: 5.00\nchin: 6.00\nlamp: 6.00\nmouth: 6.00\nlady: 6.00\nslipper: 6.00\nstroller: 6.00\npillow: 6.00\ntooth: 6.00\nnap: 6.00\narm: 6.00\nchocolate: 5.00\nmeat: 6.00\nbite: 5.00\ncomb: 6.00\nwould: 6.00\ncrayon: 6.00\ncandy: 5.00\nyellow: 6.00\ndrawer: 6.00\npaper: 6.00\nstone: 5.00\nladder: 6.00\nbroom: 6.00\nfarm: 6.00\nfall: 5.00\ndance: 5.00\ngreen: 6.00\ntry: 5.00\nlunch: 6.00\nice: 6.00\nspaghetti: 6.00\nnoisy: 5.00\npeople: 6.00\nboots: 6.00\ncoat: 6.00\ngarbage: 5.00\nmad: 5.00\nparty: 5.00\nsick: 5.00\nsauce: 6.00\nradio: 6.00\ntongue: 6.00\nleg: 6.00\nhurt: 5.00\nzipper: 6.00\ncheese: 6.00\negg: 6.00\nflower: 6.00\nbutton: 6.00\npool: 6.00\nsing: 5.00\ndog: 5.00\nflag: 6.00\nread: 6.00\ncracker: 6.00\ncircus: 5.00\nbrother: 6.00\ndump: 5.00\nbutter: 6.00\nface: 6.00\nsoda: 5.00\nwindy: 6.00\ncouch: 6.00\ntalk: 5.00\nlook: 5.00\nlion: 5.00\nhose: 6.00\nclock: 6.00\npizza: 5.00\ntruck: 6.00\nbowl: 6.00\nturkey: 6.00\nsee: 5.00",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989146,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 1573,
+    "prompt_tokens": 2388,
+    "total_tokens": 3961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

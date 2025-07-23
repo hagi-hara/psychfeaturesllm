@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-f72b53715dea48909da477050fda342a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings for the torso:\n\n1. Cook: 4\n2. Pretend: 3\n3. Fit: 2\n4. Help: 2\n5. Work: 4\n6. Careful: 3\n7. Get: 3\n8. Finish: 2\n9. Hold: 4\n10. Good: 2\n11. Have: 3\n12. Care: 3\n13. Wish: 2\n14. Clean: 4\n15. Make: 3\n16. Play: 4\n17. Rest: 2\n18. Sleep: 3\n19. Sit: 4\n20. Stay: 3",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560447,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1948,
+    "total_tokens": 2097,
+    "estimated_cost": 0.00012582
+  }
+}

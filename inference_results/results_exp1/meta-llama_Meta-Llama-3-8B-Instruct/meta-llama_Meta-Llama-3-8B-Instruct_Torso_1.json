@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-6a7f2e7dfd0d4cf49c811db8ac587f7b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "sit: 4",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560453,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 1948,
+    "total_tokens": 1952,
+    "estimated_cost": 0.00011712
+  }
+}

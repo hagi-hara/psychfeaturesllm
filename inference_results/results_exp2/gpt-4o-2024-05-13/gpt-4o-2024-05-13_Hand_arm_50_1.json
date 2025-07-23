@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNk6j8Nuxg1JOihsI2oTRDV5JSq",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "garden: 3.16\nwhite: 0.22\nwindow: 2.56\ncloud: 0.75\nraisin: 2.58\ntoy: 2.85\ndiaper: 2.45\nfit: 1.75\nbunny: 1.89\npencil: 4.05\nstore: 2.95\ncoffee: 2.75\ntissue: 3.00\nhand: 3.95\nkick: 0.65\nshovel: 4.10\ntrash: 3.75\nbench: 1.95\nfinish: 2.85\nchocolate: 2.10\njelly: 2.00\nquiet: 0.15\nmedicine: 2.45\nturtle: 1.30\nhold: 4.25\ncake: 2.55\nblanket: 2.65\nbaby: 2.00\nwolf: 1.50\nzipper: 3.90\nshow: 0.75\ntouch: 4.55\napple: 2.95\nlion: 1.95\nglue: 3.90\nalligator: 1.35\nhug: 3.42\neat: 2.10\npolice: 2.25\ngame: 3.85\nsquirrel: 1.95\nold: 0.95\nhungry: 1.90\nmuffin: 2.10\nsad: 0.42\nchalk: 3.25\nbib: 1.65\ncoke: 1.75\ncook: 4.25\nwill: 0.20\ngo: 3.15\ncamera: 2.55\ncouch: 1.90\npillow: 2.40\nsit: 1.75\nradio: 0.25\nwindy: 3.11\neye: 0.52\nwash: 4.05\nthirsty: 1.11\ntree: 2.10\nfriend: 2.05\ncircus: 1.90\npicnic: 2.25\npuppy: 2.30\nasleep: 1.45\nstay: 0.75\ntuna: 2.05\nwalk: 2.25\nstrawberry: 2.85\nbuild: 4.25\nsoda: 1.55\npool: 1.95\nfind: 2.85\ncry: 0.45\ntray: 2.95\ncracker: 2.25\ntiger: 1.90\ncat: 2.25\nhot: 2.25\nbrown: 0.70\npickle: 2.60\nsplash: 3.50\near: 0.40\nnaughty: 0.45\nplant: 2.75\nspaghetti: 2.40\ngarage: 2.25\nbrother: 1.80\nsofa: 1.65\nchair: 2.25\nthink: 0.35\nyellow: 0.20\npenguin: 1.15\ntalk: 0.20\nteacher: 2.25\nheavy: 2.75\nget: 3.10\nread: 2.75\njump: 3.55\nfork: 3.15\nhurt: 1.30\ntry: 1.75\npony: 1.50\ncold: 2.10\njar: 2.45\nwet: 2.65\nempty: 2.20\njuice: 1.85\nyard: 2.15\noven: 3.85\ncereal: 2.40\nstand: 1.75\npretty: 0.75\npretend: 0.35\nboy: 1.90\nzoo: 1.75\nother: 0.25\nspill: 3.35\nwipe: 3.85\nbowl: 2.65\nbus: 1.85\nsoap: 3.50\npaint: 4.10\nbear: 1.95\nleg: 0.55\nmoney: 2.05\nlike: 0.35\ndeer: 1.65\nthrow: 4.10\nrip: 3.65\nbrush: 4.25\nstick: 2.35\nchin: 0.25\nlollipop: 1.85\nbottle: 2.85\ntape: 4.15\nhate: 0.85\npenny: 2.85\ndrive: 2.35\ngoose: 1.35\npresent: 3.55\nsnack: 2.50\nlamp: 2.25\nsee: 0.25\ndoor: 2.95\nchild: 1.85\nsled: 1.10\nclown: 1.25\ngiraffe: 1.15\nwake: 1.50\npotty: 1.75\nlook: 0.25\nbreakfast: 2.25\nroof: 1.10\nred: 0.25\ncheek: 0.25\nsheep: 1.25\ncookie: 2.45\nsweep: 4.05\nladder: 3.55\ncomb: 3.75\nsauce: 2.55\nball: 3.55\nbox: 3.55\nhamburger: 2.25\nstroller: 2.25\nbird: 1.25\nwait: 0.15\npotato: 2.50\nfeed: 2.15\nsister: 1.85\ntime: 0.35\npen: 4.10\naunt: 1.50\nstop: 0.75\nchurch: 0.90\nbroken: 1.65\nelephant: 1.25\nscarf: 3.15\nnurse: 1.95\nanimal: 1.65\nyogurt: 2.15\ncar: 2.10\nsneaker: 1.50\narm: 3.95\ndonkey: 1.15\nback: 2.35\nchase: 3.15\nnapkin: 2.95\nvacuum: 4.35\nface: 0.55\npumpkin: 2.10\nclose: 3.85\nhit: 4.05\nhear: 0.25\nbump: 1.15\ncut: 4.25\ndrawer: 2.85\nboat: 1.95\ntaste: 0.75\ntractor: 2.55\nbath: 3.25\nmouth: 0.25\nsticky: 2.15\npeople: 1.75\ncover: 2.95\nfirst: 0.25\nclock: 0.55\nuncle: 1.65\nsleepy: 1.45\nbring: 2.85\nshoulder: 1.75\ncarry: 3.10\ncheese: 2.35",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989124,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 1587,
+    "prompt_tokens": 2262,
+    "total_tokens": 3849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

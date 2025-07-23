@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-b24ce269e4ef4bc097b4f99d395c49ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "say: 5\nowie: 5\nstand: 5\ngreen: 0\nfiretruck: 0\nfoot: 0\norange (food): 0\nsplash: 5\nhammer: 0\nall: 5\nstrawberry: 0\nbubble: 5\nother: 0\nsmile: 5\nhello: 5\nwipe: 5\nshoulder: 0\nsing: 0\nbathroom: 0\nvroom: 5\nlike: 5\nhate: 0\nthen: 0\nhow: 5\nsnack: 5\nanimal: 0\nroom: 5\nbeach: 0\nsalt: 0\nplay pen: 5\npark: 0\nchin: 0\nwater (beverage): 5\nrock: 0\nclean (action): 5\nanother: 0\noutside: 5\nrain: 0\nhamburger: 0\norange (description): 0\nyard: 0\npretzel: 0\nboat: 0\nnut: 0\nwatch (object): 0\nblue: 0\nbath: 0\nfish (food): 0\nthem: 5\nswim: 5\nwith: 5\nstop: 5\npumpkin: 0\nopen: 5\nheavy: 0\nrocking chair: 0\nstreet: 0\nshush: 5\nchicken (food): 0\nwere: 0\nclean (description): 0\nchild's own name: N\nasleep: 0\npaper: 0\nswing (object): 0\non top of: 0\nwind: 0\nhers: 0\nsoap: 0\nthey: 5\nstroller: 0\nany: 5\nmoney: 0\nhungry: 5\nladder: 0\nis: 5\ndinner: 5\nkick: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564132,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 439,
+    "prompt_tokens": 1950,
+    "total_tokens": 2389,
+    "estimated_cost": 0.00014334
+  }
+}

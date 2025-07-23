@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-331b7b6c12c745adaf206e4c1f372292",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "think: 3\nbread: N\nclown: 2\nis: 4\ntake: 4\nwater: 4\nplease: 4\nhis: 3\nbefore: 4\nfrench fries: 2\nyes: 4\ncoffee: 2\npants: 4\npretty: 4\nnight: 4\nbus: 2\npotato chip: 2\nsquirrel: 1\nso big: 2\nare: 4\nchin: N\ntelephone: 3\ntime: 4\nrooster: 1\nit: 4\ncheerio: 2\ntalk: 4\ncracker: 2\npick: 4\nbeach: 2\nwant to: 4\nfit: 2\ndrink: 4\nshare: 4\nwhich: 4\nbutton: 3\nfind: 4\nsplash: 2\ngiraffe: 1\nday: 4\nwoof woof: 1\nlemme: N\nmelon: 1\npickle: 1\nput: 4\nzoo: 2\nlamp: 2\nsauce: 2\npencil: 3\ntiny: 2\nrain: 2\nlike: 4\nnext to: 3\nbead: 1\nteacher: 2\nant: 1\ncall: 4\npretend: 3\nme: 4\ncircus: 2\nbuttocks: N\ngirl: 2\nmad: 2\nmilk: 2\ndraw: 3\npen: 3\npuppy: 2\nhair: 3\nlight: 2\ngrape: 1\nblack: 2\ncrib: 2\nsnowsuit: 2\nyou: 4\nsoda: 2\nstory: 2\ngoing to: 4\nbrother: 2\nwind: 2\nkey: 3\nthirsty: 2\nour: 4\ninto: 4\ndaddy: 2\npark: 2\nplay: 4\npajamas: 2\nnose: N\nstop: 4\ngonna get you: N\nlion: 1\nhide: 3\nbuy: 3\nboo boo: 2\ncarrot: 1\nmommy: 2\ntickle: 2\ndonut: 2\nmoney: 2\nshoulder: 3",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560453,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 544,
+    "prompt_tokens": 1950,
+    "total_tokens": 2494,
+    "estimated_cost": 0.00014964
+  }
+}

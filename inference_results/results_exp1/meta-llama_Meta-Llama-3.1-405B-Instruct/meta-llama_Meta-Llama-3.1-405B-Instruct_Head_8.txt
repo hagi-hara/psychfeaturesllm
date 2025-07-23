@@ -1,0 +1,126 @@
+head excluding mouth 
+
+stuck: 4
+watch (action): 5
+think: 5
+see: 5
+look: 5
+know: N
+hear: 5
+listen: 4
+say: 1
+so: 1
+yes: 1
+no: 1
+hi: 1
+hello: 1
+uh oh: 1
+oh no: N
+ouch: 2
+wow: N
+yum yum: 1
+night night: 1
+bye: 1
+big: 2
+long: 2
+high: 2
+old: 2
+little: 2
+young: N
+happy: 4
+sad: 4
+mad: 4
+scared: 4
+hurt: 3
+tired: 3
+sleepy: 3
+thirsty: 2
+hungry: 2
+angry: N
+bad: 2
+good: 2
+yucky: 2
+full: 2
+naughty: N
+sorry: N
+funny: N
+silly: N
+crazy: N
+shy: N
+quiet: 2
+loud: 2
+soft: 2
+hard: 2
+fast: 2
+slow: 2
+hot: 2
+cold: 2
+warm: N
+bright: N
+dark: 2
+light: 2
+heavy: 2
+wet: 2
+dry (description): 2
+clean (description): 2
+dirty: 2
+nice: 2
+mean: N
+pretty: 2
+ugly: N
+cute: 2
+beautiful: N
+friendly: N
+kind: N
+nice: 2
+sweet: N
+gentle: 2
+happy: 4
+sad: 4
+mad: 4
+scared: 4
+hurt: 3
+tired: 3
+sleepy: 3
+thirsty: 2
+hungry: 2
+angry: N
+bad: 2
+good: 2
+yucky: 2
+full: 2
+naughty: N
+sorry: N
+funny: N
+silly: N
+crazy: N
+shy: N
+quiet: 2
+loud: 2
+soft: 2
+hard: 2
+fast: 2
+slow: 2
+hot: 2
+cold: 2
+warm: N
+bright: N
+dark: 2
+light: 2
+heavy: 2
+wet: 2
+dry (description): 2
+clean (description): 2
+dirty: 2
+nice: 2
+mean: N
+pretty: 2
+ugly: N
+cute: 2
+beautiful: N
+friendly: N
+kind: N
+nice: 2
+sweet: N
+gentle: 2 
+...

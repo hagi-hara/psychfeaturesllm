@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-3716ba4c08644565b332ce3235829c27",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": " foot / leg: 0\nhand / arm: 0\ntorso: 0\nhead excluding mouth: 0\nmouth / throat: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562825,
+  "model": "microsoft/WizardLM-2-8x22B",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 2178,
+    "total_tokens": 2212,
+    "estimated_cost": 0.00139356
+  }
+}

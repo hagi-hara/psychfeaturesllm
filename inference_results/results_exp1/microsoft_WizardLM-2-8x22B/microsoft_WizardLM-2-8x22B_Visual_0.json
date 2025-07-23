@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-62a3607a043e4addb6f65f16aac1f04d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": " seeing:5\nsensations inside your body:0\ntasting:0\nsmelling:0\nfeeling through touch:0\nhearing:0\nsky:5\nyourself:5\nhome:5\nmoney:5\nlove:5\nsee:5\nlight:5\nwater (beverage):5\nfiretruck:5\ncar:5\nbicycle:5\nball:5\ncat:5\ndog:5\nbird:5\nhorse:5\ncow:5\nsheep:5\npig:5\nchicken (animal):5\nfish (animal):5\nfrog:5\nmouse:5\ninsect:5\nlion:5\ntiger:5\nelephant:5\ngiraffe:5\nzebra:5\nmonkey:5\nbear:5\nwolf:5\nfox:5\nrabbit:5\nsquirrel:5\ndolphin:5\nbutterfly:5\nspider:5\nbeetle:5\nsnake:5\nduck:5\nostrich:5\npenguin:5\ncanary:5\nparrot:5\neagle:5\nowl:5\nrooster:5\noctopus:5\nshark:5\nturtle:5\nsnail:5\nworm:5\nant:5\nbee:5\nfly:5\nmoth:5\ncricket:5\nladybug:5\nstarfish:5\nseal:5\nwhale:5\nflamingo:5\npeacock:5\nkangaroo:5\nkoala:5\nhippopotamus:5\nrhinoceros:5\ncrocodile:5\nalligator:5\ncamel:5\ngazelle:5\nhyena:5\nsloth:5\nmongoose:5\nferret:5\nporcupine:5\nllama:5\nplatypus:5\npanda:5\narmadillo:5\nmoose:5\nreindeer:5\ngiraffe:5\nzebra:5\nlion:5\ntiger:5\nelephant:5\ngiraffe:5\nzebra:5\nmonkey:5\nbear:5\nwolf:5\nfox:5\nrabbit:5\nsquirrel:5\ndolphin:5\nbutterfly:5\nspider:5\nbeetle:5\nsnake:5\nduck:5\nostrich:5\npenguin:5\ncanary:5\nparrot:5\neagle:5\nowl:5\nrooster:5\noctopus:5\nshark:5\nturtle:5\nsnail:5\nworm:5\nant:5\nbee:5\nfly:5\nmoth:5\ncricket:5\nladybug:5\nstarfish:5\nseal:5\nwhale:5\nflamingo:5\npeacock:5\nkangaroo:5\nkoala:5\nhippopotamus:5\nrhinoceros:5\ncrocodile:5\nalligator:5\ncamel:5\ngazelle:5\nhyena:5\nsloth:5\nmongoose:5\nferret:5\nporcupine:5\nllama:5\nplatypus:5\npanda:5\narmadillo:5\nmoose:5\nreindeer:5\ngiraffe:5\nzebra:5\nlion:5\ntiger:5\nelephant:5\ngiraffe:5\nzebra:5\nmonkey:5\nbear:5\nwolf:5\nfox:5\nrabbit:5\nsquirrel:5\ndolphin:5\nbutterfly:5\nspider:5\nbeetle:5\nsnake:5\nduck:5\nostrich:5\npenguin:5\ncanary:5\nparrot:5\neagle:5\nowl:5\nrooster:5\noctopus:5\nshark:5\nturtle:5\nsnail:5\nworm:5\nant:5\nbee:5\nfly:5\nmoth:5\ncricket:5\nladybug:5\nstarfish:5\nseal:5\nwhale:5\nflamingo:5\npeacock:5\nkangaroo:5\nkoala:5\nhippopotamus:5\nrhinoceros:5\ncrocodile:5\nalligator:5\ncamel:5\ngazelle:5\nhyena:5\nsloth:5\nmongoose:5\nferret:5\nporcupine:5\nllama:5\nplatypus:5\npanda:5\narmadillo:5\nmoose:5\nreindeer:5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562760,
+  "model": "microsoft/WizardLM-2-8x22B",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1126,
+    "prompt_tokens": 2166,
+    "total_tokens": 3292,
+    "estimated_cost": 0.00207396
+  }
+}

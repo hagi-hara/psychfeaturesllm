@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-39718516bc414e3b89bffe9935b94514",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for smelling:\n\nairplane: 2\nant: 3\napple: 4\nbaby: 2\nbanana: 4\nbath: 2\nbeach: 2\nbed: 1\nbook: 1\nbread: 5\nbrother: 1\nbroom: 2\nbubble: 2\ncake: 4\ncamera: 1\ncar: 1\ncheerio: 1\nchicken: 2\nchurch: 1\ncoffee: 4\ncookie: 4\ncountry: 1\ncow: 2\ncracker: 4\ndonut: 4\ndonkey: 2\ndowntown: 1\nduck: 2\negg: 2\nelephant: 2\neye: 1\nfarm: 1\nfireman: 1\nfish: 2\nfrog: 2\ngirl: 1\ngoose: 2\ngrandma: 1\ngrandpa: 1\nhair: 1\nhand: 1\nhat: 1\nhamburger: 4\nhelicopter: 2\nhorse: 2\nhouse: 1\nice cream: 4\njelly: 4\nkitty: 2\nlamp: 1\nlady: 1\nlawn mower: 2\nlion: 2\nlollipop: 4\nmelon: 4\nmommy: 1\nmonkey: 2\nmorning: 1\nmouse: 2\nnapkin: 1\nnurse: 1\norange: 4\npajamas: 1\npancake: 4\npencil: 1\npen: 1\npickle: 4\npotty: 2\npretzel: 4\npuppy: 2\nradio: 1\nrain: 2\nrooster: 2\nschool: 1\nshower: 2\nsleep: 1\nsoap: 2\nsoda: 4\nsquirrel: 2\nsun: 1\ntiger: 2\ntoothbrush: 1\ntoothpaste: 2\ntoy: 1\ntrain: 2\ntree: 1\ntrunk: 1\nturkey: 4\nuncle: 1\nvanilla: 4\nwater: 4\nwolf: 2\nwork: 1\nyogurt: 4\nzoo: 2",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560451,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 533,
+    "prompt_tokens": 1936,
+    "total_tokens": 2469,
+    "estimated_cost": 0.00014814
+  }
+}

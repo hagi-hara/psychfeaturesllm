@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-2a0cf192c0924cd29da8e627caf7cdce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the torso:\n\n* wipe: 2\n* sing: 3\n* hurt: 4\n* better: 2\n* fit: 2\n* hide: 1\n* be: 1\n* hurry: 2\n* can: 1\n* will: 1\n* try: 2\n* wish: 1\n* tired: 4\n* ride: 2\n* share: 1\n* have: 1\n* think: 3\n* read: 1\n* thank you: 1\n* want to: 2\n* help: 2\n* walk: 2\n* play: 2\n* go: 2\n* stay: 2\n* take: 2\n* make: 2\n* eat: 2\n* like: 2\n* need: 2\n* know: 1\n* see: 2\n* hear: 2\n* feel: 2\n* smell: 1\n* taste: 2\n* touch: 3\n* push: 2\n* pull: 2\n* turn: 2\n* bend: 2\n* stretch: 2\n* yawn: 2\n* cough: 2\n* sneeze: 2\n* laugh: 2\n* cry: 2\n* smile: 2\n* frown: 2\n* nod: 1\n* shake: 2\n* point: 1\n* wave: 1\n* clap: 1\n* whistle: 1\n* blow: 1\n* sniff: 1\n* snort: 1\n* hiccup: 1\n* burp: 1\n* fart: 1\n* cough up: 1\n* spit: 1",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564135,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 395,
+    "prompt_tokens": 1948,
+    "total_tokens": 2343,
+    "estimated_cost": 0.00014058
+  }
+}

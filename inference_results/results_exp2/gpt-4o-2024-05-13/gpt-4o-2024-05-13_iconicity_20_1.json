@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNkAHOrJ9uSNMUtGYxNxLyNy8XF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "fine: 3\ntry: 4\ntickle: 6\nchin: 3\nthink: 3\npull: 5\ndish: 3\ndog: 4\ntissue: 3\ncover: 2\nshower: 4\npick: 4\ntaste: 5\nkitchen: 3\nshoe: 3\nhamburger: 3\nbee: 5\nhelp: 4\nfood: 3\nyogurt: 2\nbump: 5\nteacher: 3\nthirsty: 5\ntouch: 5\nhat: 3\nbug: 4\nsnack: 4\ncloud: 4\ntiny: 5\ndress: 3\nbowl: 3\nfinger: 4\nlike: 4\npillow: 3\nhand: 3\nmoon: 4\nmop: 4\nlamb: 3\nhungry: 4\njeans: 3\nsandwich: 3\ngarbage: 2\nclock: 3\nhurry: 4\nwalk: 4\neat: 4\nmedicine: 3\npretty: 4\nboy: 3\nnose: 4\ncloset: 2\nhouse: 3\ncamera: 2\nbrush: 4\nslow: 4\npeople: 3\nblack: 3\npickle: 4\ncoffee: 3\nduck: 4\nsee: 3\npuppy: 4\nwhite: 3\nwould: 2\ndiaper: 3\nsquirrel: 3\nchocolate: 3\nuncle: 3\nscarf: 3\nbasement: 2\nface: 4\nshoulder: 3\npotty: 4\nsleepy: 4\nempty: 3\nstay: 3\nstar: 4\nbroom: 4\ngiraffe: 2\nhave: 3\npark: 3\nopen: 3\ntoy: 3\ncow: 4\ngive: 3\nhen: 4\nfarm: 3\nmeow: 6\nhold: 3\ncircus: 3\ncorn: 4\nflower: 4\nsit: 4\ndrop: 5\nmeat: 4\nsky: 4\nlady: 3\nballoon: 4\nhate: 4\nmommy: 4\ndance: 5\nsoft: 5\nporch: 2\ntruck: 4\ntear: 5\nraisin: 2\ndraw: 3\nschool: 3\nred: 4\nhorse: 4\nlisten: 3\ncatch: 4\ncoat: 3\nsofa: 3\nsay: 3\nbook: 3\ntime: 3\nhose: 3\nplant: 4\nrefrigerator: 2\nchurch: 2\nbird: 4\nclap: 6\nrock: 4\ntrain: 4\ndrive: 4\nstick: 4\ngarage: 2\nwill: 2\ntrash: 3\nankle: 2\nzebra: 3\nmouth: 4\nbite: 5\npoor: 3\nlion: 4\nbath: 4\ndoll: 3\nheavy: 4\nnurse: 3\nbeach: 4\nknee: 3\nbad: 4\nsalt: 3\nsad: 4\ndoctor: 3\ncat: 4\ntake: 3\nzipper: 5\nbig: 4\nwake: 4\nshare: 4\nrooster: 4\nturkey: 3\ncandy: 4\nturtle: 3\nblow: 5\npresent: 3\nstop: 5\nclose: 3\nwolf: 4\nboat: 4\nmake: 3\ncracker: 4\ndrawer: 2\nglass: 3\npen: 2\ngum: 3\nshake: 5\nladder: 3\nsick: 4\nnight: 4\nsing: 5\nread: 3\nstove: 3\npencil: 3\ntoe: 4\nput: 3\nball: 4\nmoose: 3\narm: 3\nroom: 3\njuice: 4\nbread: 3\npicture: 3\npenguin: 3\ndark: 4\nwind: 4\nnapkin: 3\nride: 4\ntummy: 4\nman: 3\nradio: 3\nwipe: 4\nclown: 3\nhurt: 3\ncereal: 3\ncookie: 4\nrun: 4\nbuild: 3\nbuy: 3\ntuna: 3\nstone: 4\ncook: 3\ntongue: 4\ngreen: 3\nthrow: 4\nquiet: 4\nbox: 3\nlook: 4\nflag: 3\ntape: 3\nother: 2\nawake: 4\nbutter: 3\nroof: 2\nfirst: 3\nyard: 3\nchild: 3\nbreakfast: 3\ncut: 4\nhit: 4\nstreet: 2\nhear: 3\nsweater: 3\ndo: 3\nfeed: 3\nlamp: 3\nsock: 3\ngood: 3\nsoup: 3\nhug: 4\ncoke: 3\nshirt: 3\nstore: 2\nplate: 3\noven: 2\ntray: 2\nbreak: 4\nfriend: 3\nbench: 3\ngentle: 4\npaper: 3\nsoda: 3\ncup: 3\nowl: 4\ndeer: 3\nelephant: 3\nsneaker: 3\nsister: 3\nfinish: 3\ncheese: 4\nwish: 4\nglue: 4\nnice: 4\near: 4\ncar: 3\nfull: 3\nmonkey: 3\nbroken: 3\npotato: 3\ndaddy: 3\npumpkin: 3\nbe: 2\nvacuum: 3\nblue: 3\nant: 4\napple: 4\npaint: 3\nkick: 5\nlove: 4\nsun: 4\nbed: 3\nhappy: 5\nmovie: 3\npizza: 4\ngo: 4\nbutton: 3\nfind: 3\nscissors: 3\ntalk: 3\npretend: 3\npenny: 3\nsink: 3\nstrawberry: 4\ncouch: 3\nsmile: 4\nfork: 3\naunt: 3\npour: 4\nmad: 4\neye: 4\nchair: 3\nstand: 3\nclimb: 4\npig: 4\nbaby: 4\negg: 4\ngoose: 4\nasleep: 3\nleg: 3\npony: 3\npretzel: 3\nchalk: 3\nspill: 4\nbear: 4\npuzzle: 3\nyellow: 4\ntiger: 4\nbucket: 3\ntooth: 4\nnoisy: 5\nlunch: 3\nplay: 4\npolice: 3\nanimal: 3\nhard: 4\nmouse: 3\nlittle: 4\nnew: 3\nbunny: 4\npurse: 3\nbelt: 3\nget: 3\ndinner: 3\nice: 4\nstory: 3\ncrib: 3\njump: 5\nkiss: 5\nshow: 3\nsnow: 4\nsplash: 6\nfall: 5\nmilk: 4\njar: 3\nsoap: 3\nday: 3\nnail: 3\ngirl: 3\nknock: 5\nmuffin: 3\ndump: 4\nsled: 3",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989124,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 1836,
+    "prompt_tokens": 1888,
+    "total_tokens": 3724,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

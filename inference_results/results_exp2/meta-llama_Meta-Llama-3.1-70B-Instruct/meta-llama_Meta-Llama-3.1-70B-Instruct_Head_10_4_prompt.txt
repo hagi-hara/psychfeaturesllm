@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using actions from five different parts of the body (foot / leg, hand / arm, torso, head excluding mouth and mouth / throat). There are no right or wrong answers so please use your own judgment. The parts of the body will be displayed as follows:
+
+First, please answer with regard to head excluding mouth.
+
+The rating scale runs from 0 (not experienced at all with that action) to 5 (experienced greatly with that action). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+bring: 1.47
+thirsty: 1.39
+penguin: 2.95
+penny: 2.20
+bite: 1.28
+flag: 2.47
+stop: 2.76
+corn: 1.58
+tissue: 2.05
+yogurt: 1.42
+potty: 1.20
+awake: 4.26
+sweater: 1.45
+door: 1.89
+little: 1.65
+bottle: 1.74
+soda: 1.55
+beach: 3.11
+tickle: 1.33
+people: 3.88
+tray: 1.82
+good: 3.25
+hit: 1.80
+fork: 1.65
+donkey: 1.81
+nurse: 3.59
+blow: 1.10
+coke: 1.95
+full: 2.44
+big: 3.10
+stick: 1.95
+hard: 2.57
+animal: 3.45
+goose: 2.70
+lick: 0.28
+pickle: 0.72
+food: 2.26
+store: 2.57
+bee: 2.50
+puzzle: 3.88
+
+Please answer about all of the following words.
+
+crayon
+puppy
+knock
+pretzel
+salt
+comb
+duck
+run
+table
+chair
+purse
+help
+kiss
+house
+swim
+child
+fine
+hen
+sing
+raisin
+yard
+have
+chocolate
+jelly
+broom
+basement
+drawer
+shoe
+coat
+dinner
+giraffe
+belt
+tooth
+room
+star
+first
+hungry
+cover
+stand
+lamp
+toy
+tummy
+nose
+cheek
+hamburger
+pants
+pretty
+cookie
+write
+bus
+break
+yellow
+pumpkin
+bunny
+clock
+hear
+head
+candy
+rip
+man
+morning
+chase
+tree
+egg
+snack
+take
+sun
+mouth
+balloon
+jacket
+basket
+wash
+monkey
+pick
+wet
+other
+bat
+alligator
+be
+mommy
+would
+cheese
+pillow
+share
+cake
+camera
+elephant
+cut
+sit
+find
+box
+scarf
+closet
+rain
+slipper
+strawberry
+kick
+book
+hug
+tear
+hot
+black
+drop
+bib
+boat
+garage
+spill
+try
+spaghetti
+bath
+cute
+day
+party
+zoo
+chalk
+picture
+oven
+think
+sad
+soap
+empty
+snow
+back
+hat
+ride
+stove
+carry
+boy
+say
+bed
+give
+moon
+lamb
+scissors
+garbage
+tuna
+cry
+sleepy
+jeans
+talk
+jump
+train
+pour
+lion
+sleep
+ice
+mouse
+clown
+hose
+read
+sink
+new
+farm
+feed
+tiny
+mad
+night
+make
+gum
+stone
+movie
+country
+crib
+flower
+friend
+chin
+white
+stay
+hurry
+happy
+brown
+bowl
+ladder
+build
+show
+climb
+moose
+drive
+finger
+doll
+window
+gentle
+buy
+coffee
+put
+face
+get
+touch
+bump
+tired
+cow
+arm
+close
+ankle
+hair
+sick
+doctor
+pony
+hurt
+see
+toast
+milk
+sock
+uncle
+home
+tape
+car
+fall
+porch
+pudding
+towel
+banana
+knee
+circus
+walk
+sheep
+cup
+heavy
+shirt
+bird
+hate
+muffin
+dark
+love
+brush
+cereal
+police
+school
+wish
+like
+tractor
+push
+plant
+open
+wait
+finish
+hammer
+street
+tiger
+bad
+daddy
+fix
+medicine
+ant
+garden
+sled
+aunt
+turkey
+lunch
+paper
+dump
+red
+bug
+wake
+stroller
+rooster
+zebra
+eye
+plate
+hide
+fit
+broken
+green
+lollipop
+dance
+glass
+ball
+dog
+refrigerator
+cat
+church
+money
+listen
+pull
+nice
+poor
+diaper
+park
+soft
+potato
+girl
+high
+hand
+slow
+dish
+horse
+tongue
+sauce
+couch
+squirrel
+go
+person
+sister
+nail
+throw
+cracker
+brother
+time
+truck
+windy
+draw
+blanket
+cold
+blue
+rock
+present
+shoulder
+deer
+pizza
+pretend
+wolf
+sweep
+meat
+splash
+radio
+story
+catch
+vacuum
+eat
+pen
+sneaker
+butter
+paint
+sandwich
+naughty
+shower
+sky
+teacher
+lady
+shovel
+quiet
+hold
+wipe
+asleep
+grass
+pig
+baby
+ear
+napkin
+kitchen
+cloud
+juice
+picnic
+breakfast
+jar
+glue
+cook
+button
+dress
+wind
+bear
+sticky
+look
+spoon
+nap
+bench
+dirty
+taste
+game
+bucket
+turtle
+will
+pool
+apple
+sprinkler
+mop
+owl
+sofa
+meow
+pencil
+toe
+play
+block
+trash
+do
+smile
+skate
+boots
+zipper
+noisy
+clap
+bread
+shake
+soup
+old
+roof
+dryer
+leg

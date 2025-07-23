@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-23ec79f304274a9d9bc4ce255631d264",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings for the actions from the head excluding mouth:\n\n* Think: 4\n* Look: 5\n* See: 5\n* Hear: 5\n* Feel: 3",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560445,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 1950,
+    "total_tokens": 1992,
+    "estimated_cost": 0.00011952000000000001
+  }
+}

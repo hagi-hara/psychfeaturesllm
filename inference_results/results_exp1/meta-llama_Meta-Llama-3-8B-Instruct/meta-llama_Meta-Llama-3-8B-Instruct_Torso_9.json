@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-bf8e9e96fa5b48638c62fd7a337ee8ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the torso:\n\nswim: 2\nfall: 4\ntry to: 5\nrun: 5\ncamping: 1\ndance: 5\nwork (place): 2\ngarden: 2\nstore: 1\ngrandpa: 1\nlamb: 1\nturkey: 1\nzoo: 1\nmonkey: 1\nlight: 2\ndo: 5\ncomb: 2\ndo: 5\npretzel: 1\nfix: 2\nride: 5\nslow: 2\ngentle: 2\ncold: 2\nowl: 1\neat: 5\nthrow: 4\nbuild: 2\nmeat: 1\nhello: 1\nboat: 1\nbreakfast: 1\nsleepy: 2\ntry: 5\ncamera: 1\ndonkey: 1\ntuna: 1\ntree: 1\ndowntown: 1\nheavy: 2\ntonight: 1\ncoat: 1\nbroom: 1\nlunch: 1\nteacher: 1\npencil: 1\ncake: 1\nporch: 1\nelephant: 1\nmine: 1\nother: 1\nbug: 1\nfeed: 2\ncover: 2\ngreen: 1\nhose: 1\nhorse: 1\nthen: 1\ncarrot: 1\nbottle: 1\nfrench fries: 1\nbear: 1\nget: 5\nin: 5\npour: 4\ncow: 1\npush: 4\ncircus: 1\nmitten: 1\nall gone: 1\ndoor: 1\nred: 1\nby: 1\njump: 5\nthis: 5\nshower: 2\nnoodle: 1\nhear: 2\nnail: 1\nwatch (action): 5\nhold: 5\nquiet: 5\nstick: 4\npeople: 1\nlady: 1\nmoney: 1\ndeer: 1\nshovel: 1\nstairs: 1\npresent: 1\nawake: 2\nmake: 5\nand: 5\nany: 1\ncall: 1\ncute: 1\ngiraffe: 1\nbucket: 1\naunt: 1\npull: 4\nbrother: 1\nmovie: 1\nface: 1\ncoffee: 1\npenguin: 1\nknock: 2\nhead: 5\nchild: 1\ncrib: 1\nclock: 1\nlick: 2\nchild's own name: 1\njelly: 1\nhis: 1\nwipe: 4\nball: 1\npoor: 1\nhi: 1\nshirt: 1\ntoast: 1\nmop: 1\ndirty: 2\nfarm: 1\ngotta: 5\naway: 2\nclap: 5\ntights: 1\nchocolate: 1\ngive me five: 1\nnut: 1\nlong: 2\nlook: 5\nthese: 1\ncookie: 1\nladder: 1\nfind: 4\nbeach: 1\nradio: 1\nnow: 1\njuice: 1\ncrayon: 1\nwolf: 1\njar: 1\npretend: 2\ncry: 2\nfood: 1\nsprinkler: 1\nquack quack: 1\ndog: 1\nkick: 4\ngive: 5\nstreet: 1\nme: 5\nsky: 1\nhide: 4\nlawn mower: 1\nlisten: 2\ntooth: 1\nour: 1\nbutterfly: 1\nwhy: 1\ngonna: 5\nvroom: 1\ntoy: 1\nput: 5\nneed: 5\nhelicopter: 1\npick: 4\nstand: 5\nchin: 1\ndress: 1\nbreak: 2\ndark: 2\nbrush: 2\nwindy: 2\nunder: 2\nmailman: 1\nsame: 1\nfireman: 1\nyour: 5\nsticky: 2\ncereal: 1\nplate: 1\ngreen beans: 1\nant: 1\npillow: 1\ndrop: 4\ndump: 4\nhungry: 2\nbefore: 2\nshow: 2\ninto: 5\nmorning: 1\nschool: 1\nsister: 1\nglove: 1\nplease: 1\nyum yum: 1\nus: 1\nsofa: 1\nspoon: 1\nbedroom: 1\ntouch: 5\nbackyard: 1\nit: 5\nan: 1\ncloud: 1\nlamp: 1\non: 5\nhard: 2\nrain: 1\ndinner: 1\nempty: 2\nstay: 5\non top of: 2\nall: 5\nbite: 2\nscarf: 1\nbib: 1\nwrite: 2\nsandbox: 1\ndry (description): 2\nbe: 5\nwake: 2\nplayground: 1\nbowl: 1\ncould: 2\nlemme: 1\nbye: 1\nblow: 2\ntoday: 1\nbelt: 1\nnap: 2\nsweater: 1\nchase: 4\nvitamins: 1\nvanilla: 1\ngame: 1\nyourself: 1\npumpkin: 1\nabove: 2\ninside: 2\nkitty: 1\nbutter: 1\nat: 5\ncan (auxiliary): 1\nsun: 1\npeanut butter: 1\nknee: 1\nfull: 2\nleg: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564142,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1381,
+    "prompt_tokens": 1948,
+    "total_tokens": 3329,
+    "estimated_cost": 0.00019973999999999998
+  }
+}

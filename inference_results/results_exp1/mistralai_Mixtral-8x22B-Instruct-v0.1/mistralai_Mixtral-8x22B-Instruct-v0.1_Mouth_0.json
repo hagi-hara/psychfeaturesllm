@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-38dc6bee7c88420485f86d041d148516",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": " mouth: 3\nfoot: 2\nleg: 2\nhand: 4\narm: 3\ntorso: 1\nhead: 2\nhead excluding mouth: 1\nmouth excluding throat: 3\nthroat: 2",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562350,
+  "model": "mistralai/Mixtral-8x22B-Instruct-v0.1",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2177,
+    "total_tokens": 2235,
+    "estimated_cost": 0.0014527499999999998
+  }
+}

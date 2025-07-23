@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-b8c61b934b684ed7bac4184751d80fb0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings:\n\nsing: 5\nwipe: 2\nice cream: 0\nmine: 0\nbabysitter: 0\nTV: 0\nhurt: 0\nscissors: 0\nunder: 0\nnurse: 0\nnail: 0\ngo: 0\ntooth: 0\npicture: 0\nbeside: 0\nstay: 0\nlemme: 0\ngarbage: 0\nmuch: 0\nsofa: 0\nhide: 0\neye: 5\ncake: 0\nbroken: 0\nbetter: 0\ncookie: 0\nnaughty: 0\ncar: 0\nwhy: 0\ndoctor: 0\nmeat: 0\njar: 0\nslide (object): 0\nbe: 0\nporch: 0\nsweater: 0\nkick: 0\nfit: 0\ndonut: 0\nchin: 0\nhim: 0\nwater (beverage): 0\nhurry: 0\npig: 0\ncall: 0\ncould: 0\nbabysitter's name: N\ngo potty: 0\nhear: 5\npeekaboo: 5\ntouch: 5\ngas station: 0\nmailman: 0\njacket: 0\npajamas: 0\nslide (action): 0\npaper: 0\nwill: 0\nyes: 0\nvacuum: 0\ntiny: 0\nfine: 0\ngot to: 0\nrip: 0\nshopping: 0\ncan (object): 0\npopcorn: 0\nglue: 0\nchair: 0\ntummy: 0\nsock: 0\ncook: 0\ncockadoodledoo: 0\ngoose: 0\nstove: 0\nsky: 0\nempty: 0\nwanna: 0\nchild's own name: N\nhave: 0\nwish: 0\nthey: 0\nyard: 0\nuh oh: 0\nwind: 0\nbird: 0\nsidewalk: 0\nbread: 0\nlip: 0\ntry to: 0\nhamburger: 0\nhammer: 0\nswim: 0\nwatch (action): 0\nwashing machine: 0\nride: 0\napplesauce: 0\nshare: 0\nhave to: 0\npoor: 0\nher: 0\nladder: 0\ntired: 0\npark: 0\nmoon: 0\ndrink (beverage): 0\ndid: 0\nwoof woof: 0\ncarrot: 0\nawake: 0\nturn around: 0\ndirty: 0\ndrop: 0\nday: 0\npotty: 0\nof: 0\nfix: 0\npeople: 0\nnight: 0\ndress: 0\nmouse: 0\nwhat: 0\nnext to: 0\nfor: 0\nbaa baa: 0\noven: 0\nlion: 0\ntickle: 0\nflower: 0\nhand: 0\nalligator: 0\nam: 0\nabove: 0\npenis: N\ndance: 0\nsnow: 0\nthink: 0\npillow: 0\nlunch: 0\nturkey: 0\nbicycle: 0\nbear: 0\nsee: 5\nquack quack: 0\nplant: 0\nanother: 0\nhate: 0\npretzel: 0\npenny: 0\ndrive: 0\nchicken (animal): 0\ncup: 0\njump: 0\nwould: 0\nbottle: 0\nabout: 0\nread: 0\nblue: 0\nthere: 0\nopen: 0\nspoon: 0\nthese: 0\nlollipop: 0\ncheese: 0\ngrape: 0\nthank you: 0\nfull: 0\nbrother: 0\ncoat: 0\nwash: 0\nstar: 0\nlamp: 0\nmy: 0\ncry: 0\ntaste: 0\nsprinkler: 0\nzipper: 0\nwas: 0\nshe: 0\napple: 0\nknife: 0\njello: 0\nbad: 0\nglass: 0\nhi: 0\nstairs: 0\nhome: 0\naunt: 0\nraisin: 0\nthis: 0\ngum: 0\ncountry: 0\nhead: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564139,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1082,
+    "prompt_tokens": 1950,
+    "total_tokens": 3032,
+    "estimated_cost": 0.00018192
+  }
+}

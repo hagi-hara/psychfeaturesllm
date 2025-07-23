@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-451b6c8c743a4f938d70610bfdc252f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "bus: 0.00\nhat: 0.00\nnight: 0.00\ncoat: 0.00\nbat: 0.00\nred: 0.00\npick: 0.00\npencil: 0.00\ndeer: 1.00\nrun: 0.00\nnap: 0.00\nballoon: 0.00\ncrib: 0.00\nput: 0.00\nrip: 0.00\nsmile: 0.00\npark: 0.00\ncookie: 3.00\ntray: 0.00\nnice: 0.00\ndress: 0.00\nfirst: 0.00\nkitchen: 2.00\nmeat: 2.50\nempty: 0.00\nspaghetti: 3.00\ncomb: 0.00\npush: 0.00\nshower: 0.00\nbee: 1.50\nscissors: 0.00\npurse: 0.00\nbelt: 0.00\ngentle: 0.00\ncandy: 3.50\nshow: 0.00\npumpkin: 2.50\nwish: 0.00\nteacher: 0.00\npaint: 0.00\nwet: 0.00\nstay: 0.00\npuppy: 1.50\nwould: 0.00\ncracker: 2.00\npillow: 0.00\negg: 2.00\nhose: 0.00\njacket: 0.00\ncloud: 0.00\nclown: 0.00\nthink: 0.00\nlook: 0.00\ntrain: 0.00\npotty: 0.00\ntape: 0.00\nyogurt: 2.00\ncook: 2.00\ncheek: 0.00\nstroller: 0.00\npizza: 3.50\nanimal: 1.00\nswim: 0.00\nsing: 0.00\nhard: 0.00\nstop: 0.00\nold: 0.00\nmilk: 2.00\nchin: 0.00\nfarm: 1.00\nlike: 0.00\nfine: 0.00\nbig: 0.00\nbucket: 0.00\nbroom: 0.00\nskate: 0.00\nslipper: 0.00\ncouch: 0.00\nlion: 1.00\ntummy: 0.00\nbroken: 0.00\nthrow: 0.00\nclose: 0.00\nwolf: 1.00\njeans: 0.00\nhead: 0.00\nhurry: 0.00\neye: 0.00\nhave: 0.00\ndrop: 0.00\nspill: 0.00\nowl: 1.00\npretty: 0.00\ngiraffe: 1.00\nthirsty: 0.00\nchurch: 0.00\nblack: 0.00\ncoffee: 2.50\ncircus: 0.00\nbird: 1.00\nstick: 0.00\nbad: 0.00\ntaste: 0.00\nnapkin: 0.00\nwalk: 0.00\nsled: 0.00\njar: 0.00\nboots: 0.00\nsleep: 0.00\nboy: 0.00\nmoose: 1.00\nmommy: 0.00\ncry: 0.00\nbowl: 0.00\ntuna: 2.00\nzebra: 1.00\nsnow: 0.00\ncereal: 2.00\ntongue: 0.00\nfork: 0.00\ntowel: 0.00\ngarage: 0.00\npicnic: 0.00\nradio: 0.00\npresent: 0.00\nsay: 0.00\nankle: 0.00\nbuy: 0.00\nnose: 0.00\nbe: 0.00\ngirl: 0.00\nhungry: 0.00\nwhite: 0.00\nhair: 0.00\nlick: 0.00\nperson: 0.00\nmedicine: 0.00\nknock: 0.00\nfix: 0.00\ncamera: 0.00\napple: 2.00\nhelp: 0.00\nother: 0.00\ndrive: 0.00\nlunch: 2.00\nwrite: 0.00\nsoup: 2.50\nstand: 0.00\nduck: 1.00\ngood: 0.00\nmouse: 0.00\ncloset: 0.00\npenguin: 1.00\nsit: 0.00\nplant: 0.00\ncake: 3.00\nwill: 0.00\ndish: 0.00\ntissue: 0.00\nbath: 0.00\ndoctor: 0.00\nknee: 0.00\nhen: 1.00\nsick: 0.00\nrain: 0.00\npool: 0.00\nporch: 0.00\nsnack: 2.00\npoor: 0.00\nturtle: 1.00\ngo: 0.00\ntalk: 0.00\ncorn: 1.50\nmouth: 0.00\nbear: 1.00\nstory: 0.00\nnew: 0.00\nflower: 1.00\nsee: 0.00\nshovel: 0.00\ndinner: 3.00\nalligator: 1.00\npants: 0.00\ncat: 1.00\ntime: 0.00\ntable: 0.00\nsister: 0.00\nfood: 2.50\ngarden: 1.00\ncatch: 0.00\nstore: 0.00\ngive: 0.00\nfriend: 0.00\nplate: 0.00\npuzzle: 0.00\nsweep: 0.00\nhand: 0.00\nmuffin: 2.00\nblock: 0.00\ngarbage: 2.00\ntouch: 0.00\nstar: 0.00\neat: 0.00\ndog: 1.00\npull: 0.00\nsprinkler: 0.00\nlove: 0.00\ndark: 0.00\ndonkey: 1.00\nbox: 0.00\nfall: 0.00\nmovie: 0.00\ncute: 0.00\ntired: 0.00\noven: 1.00",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989762,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1590,
+    "prompt_tokens": 2278,
+    "total_tokens": 3868,
+    "estimated_cost": 0.0011599400000000001
+  }
+}

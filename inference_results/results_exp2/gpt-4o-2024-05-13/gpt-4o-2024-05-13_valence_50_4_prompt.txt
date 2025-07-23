@@ -1,0 +1,439 @@
+You are invited to take part in the study that is investigating emotion, and concerns how people respond to different types of words. You will use a scale to rate how you felt while reading each word. There will be approximately 700 words. The scale ranges from 1 (happy) to 9 (unhappy). At one extreme of this scale, you are happy, pleased, satisfied, contented, hopeful. When you feel completely happy you should indicate this by choosing rating 1. The other end of the scale is when you feel completely unhappy, annoyed, unsatisfied, melancholic, despaired, or bored. You can indicate feeling completely unhappy by selecting 9. The numbers also allow you to describe intermediate feelings of pleasure, by selecting any of the other feelings. If you feel completely neutral, neither happy nor sad, select the middle of the scale (rating 5).
+
+Please work at a rapid pace and don’t spend too much time thinking about each word. Rather, make your ratings based on your first and immediate reaction as you read each word.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+puzzle: 3.47
+pretty: 2.30
+rock: 4.28
+rooster: 4.47
+spoon: 4.10
+animal: 2.94
+naughty: 3.96
+snack: 3.47
+scissors: 4.97
+money: 2.90
+splash: 3.47
+horse: 3.95
+arm: 4.56
+show: 4.09
+toe: 4.76
+drawer: 5.33
+cover: 4.41
+sick: 7.71
+sleepy: 5.64
+shoulder: 4.90
+owl: 3.70
+bump: 4.95
+rip: 6.72
+camera: 3.39
+wake: 3.43
+brown: 4.48
+cracker: 4.89
+cake: 2.42
+hurt: 7.55
+man: 4.58
+plate: 5.20
+quiet: 3.53
+present: 3.15
+hamburger: 3.07
+farm: 3.78
+school: 4.59
+cow: 4.58
+gum: 4.11
+tooth: 4.94
+cry: 6.78
+stove: 4.37
+pull: 4.41
+person: 3.90
+star: 2.53
+tongue: 3.71
+morning: 3.59
+bucket: 5.45
+balloon: 3.16
+glass: 4.52
+hungry: 6.46
+mommy: 2.61
+picnic: 2.89
+baby: 3.33
+kiss: 2.22
+mop: 5.47
+bad: 6.76
+lamb: 3.70
+noisy: 6.79
+carry: 4.33
+do: 4.59
+tissue: 4.70
+pig: 5.17
+tiger: 4.00
+bear: 4.67
+ankle: 4.60
+hold: 3.95
+doll: 4.12
+sled: 3.65
+cat: 3.05
+taste: 3.37
+tractor: 4.95
+think: 3.32
+banana: 3.29
+garage: 4.50
+crayon: 4.24
+oven: 3.84
+jump: 3.56
+lick: 3.62
+plant: 2.95
+purse: 4.05
+medicine: 4.10
+stone: 5.19
+cheese: 3.19
+rain: 3.42
+go: 3.68
+zoo: 3.00
+dish: 4.30
+turtle: 3.84
+broom: 4.50
+fine: 3.50
+skate: 3.26
+face: 3.64
+write: 3.55
+story: 2.73
+sticky: 5.35
+walk: 3.23
+coffee: 3.00
+egg: 4.05
+asleep: 3.50
+wait: 5.45
+eye: 3.82
+store: 4.06
+good: 2.11
+broken: 7.25
+wet: 4.36
+open: 3.86
+porch: 3.60
+cheek: 4.10
+deer: 3.11
+nice: 3.05
+hen: 3.86
+cute: 2.44
+mouse: 5.20
+penguin: 3.35
+penny: 3.71
+cookie: 2.68
+sweater: 3.81
+basement: 5.19
+block: 5.52
+pony: 3.29
+table: 4.51
+ladder: 4.68
+love: 2.00
+eat: 2.90
+have: 4.14
+nose: 4.50
+fall: 6.11
+daddy: 2.73
+mad: 7.53
+cut: 6.10
+bug: 6.55
+kick: 5.45
+sauce: 3.42
+finish: 3.59
+duck: 3.89
+clock: 4.35
+candy: 2.73
+pen: 4.37
+give: 2.27
+throw: 4.45
+feed: 3.05
+lunch: 3.36
+tray: 4.86
+yogurt: 3.00
+doctor: 4.07
+tummy: 3.95
+dog: 3.00
+pumpkin: 3.00
+grass: 3.53
+slipper: 4.20
+toy: 2.71
+cup: 4.06
+nail: 5.40
+make: 3.91
+black: 4.60
+bus: 4.88
+brush: 4.53
+boat: 3.64
+cold: 5.68
+hurry: 5.68
+box: 4.67
+fit: 3.72
+thirsty: 5.52
+trash: 7.26
+couch: 3.48
+beach: 2.79
+tree: 2.41
+bee: 6.32
+listen: 3.09
+hot: 4.27
+pencil: 4.35
+pour: 4.84
+sweep: 4.73
+sleep: 2.78
+play: 2.45
+windy: 4.00
+knee: 5.30
+milk: 3.26
+clap: 3.95
+glue: 5.15
+movie: 2.76
+other: 4.59
+button: 4.52
+sing: 2.50
+help: 3.05
+wolf: 3.74
+night: 3.32
+meow: 3.86
+sister: 3.00
+raisin: 3.95
+friend: 3.21
+butter: 3.64
+corn: 4.05
+wash: 4.00
+shake: 5.41
+day: 3.64
+scarf: 4.00
+back: 5.24
+boots: 4.11
+towel: 3.86
+pool: 3.22
+room: 4.45
+shirt: 4.44
+cook: 2.88
+pudding: 3.28
+sad: 7.90
+picture: 3.27
+sink: 5.38
+nurse: 4.59
+old: 6.81
+blue: 3.47
+touch: 3.36
+aunt: 3.44
+
+Please answer about all of the following words.
+
+lollipop
+tired
+stick
+train
+door
+ant
+pretend
+breakfast
+crib
+radio
+big
+puppy
+chin
+wipe
+mouth
+window
+break
+red
+slow
+leg
+turkey
+dinner
+happy
+hammer
+green
+awake
+spaghetti
+potato
+gentle
+girl
+chair
+new
+juice
+tuna
+circus
+house
+giraffe
+toast
+blanket
+bring
+moon
+paint
+police
+street
+basket
+time
+garbage
+bread
+paper
+full
+lady
+home
+boy
+hate
+soap
+see
+sheep
+heavy
+swim
+would
+dryer
+car
+truck
+bird
+zipper
+spill
+coke
+game
+elephant
+close
+apple
+say
+pickle
+cloud
+chocolate
+flag
+fix
+ride
+bench
+closet
+pillow
+sun
+salt
+sprinkler
+draw
+party
+napkin
+ball
+comb
+buy
+smile
+hair
+take
+meat
+blow
+stop
+sandwich
+strawberry
+talk
+stand
+finger
+park
+empty
+drop
+poor
+find
+flower
+ear
+goose
+be
+moose
+dark
+squirrel
+zebra
+vacuum
+soda
+sock
+shower
+cereal
+stroller
+roof
+sky
+hit
+bath
+wish
+head
+catch
+brother
+soft
+build
+donkey
+dirty
+get
+dress
+look
+monkey
+jar
+pretzel
+ice
+dance
+hide
+chase
+uncle
+refrigerator
+hat
+child
+bottle
+lion
+coat
+shovel
+sneaker
+muffin
+lamp
+tape
+hug
+tickle
+chalk
+fork
+book
+put
+dump
+bowl
+climb
+tiny
+potty
+sofa
+church
+wind
+bunny
+hear
+first
+jelly
+like
+share
+run
+read
+knock
+white
+hand
+belt
+nap
+food
+country
+will
+jeans
+push
+drive
+bat
+high
+alligator
+teacher
+diaper
+clown
+pizza
+soup
+stay
+pick
+yellow
+pants
+try
+jacket
+kitchen
+snow
+garden
+shoe
+bite
+bib
+little
+bed
+hose
+people
+hard
+tear
+sit
+yard

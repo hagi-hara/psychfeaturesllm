@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-b06baa10eca64e2592e3baa8571dfccc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for seeing:\n\nairplane: 5\nalligator: 5\nanimal: 5\nant: 5\naunt: 5\nball: 5\nbanana: 5\nbat: 5\nbear: 5\nbee: 5\nbird: 5\nboat: 5\nbook: 5\nbottle: 5\nbox: 5\nbrother: 5\nbroom: 5\nbubble: 5\nbunny: 5\nbus: 5\ncake: 5\ncamera: 5\ncar: 5\nchair: 5\nchicken: 5\nchild: 5\nclown: 5\ncoat: 5\ncow: 5\ncup: 5\ndog: 5\ndoll: 5\ndonkey: 5\nduck: 5\nelephant: 5\neye: 5\nfish: 5\nfriend: 5\nfrog: 5\ngame: 5\ngirl: 5\ngrandma: 5\ngrandpa: 5\nguitar: N\nhair: 5\nhat: 5\nhelicopter: 5\nhorse: 5\nhouse: 5\nice cream: 5\njacket: 5\njar: 5\nkitty: 5\nknife: 5\nlady: 5\nlamp: 5\nlion: 5\nlollipop: 5\nman: 5\nmonkey: 5\nmoon: 5\nmotorcycle: 5\nmouse: 5\nmovie: 5\nnap: 5\nnurse: 5\norange: 5\nowl: 5\npanda: 5\nparty: 5\npencil: 5\npen: 5\nperson: 5\nphone: 5\npicnic: 5\npillow: 5\npizza: 5\nplay: 5\npuppy: 5\nradio: 5\nred: 5\nrooster: 5\nroof: 5\nroom: 5\nschool: 5\nshirt: 5\nshoe: 5\nshow: 5\nsky: 5\nslide: 5\nsock: 5\nsoda: 5\nsong: 5\nspoon: 5\nstar: 5\nstore: 5\nsun: 5\nsweater: 5\nswing: 5\ntable: 5\nteacher: 5\nteddybear: 5\ntelephone: 5\ntelevision: 5\ntoe: 5\ntoothbrush: 5\ntoothpaste: 5\ntoys: 5\ntrain: 5\ntree: 5\ntricycle: 5\ntruck: 5\nturtle: 5\ntv: 5\numbrella: N\nunderwear: 5\nvacuum: 5\nvase: N\nviolin: N\nwatch: 5\nwater: 5\nwindow: 5\nwoman: 5\nworm: 5\nyellow: 5\nyogurt: 5\nzebra: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560452,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 687,
+    "prompt_tokens": 1936,
+    "total_tokens": 2623,
+    "estimated_cost": 0.00015738
+  }
+}

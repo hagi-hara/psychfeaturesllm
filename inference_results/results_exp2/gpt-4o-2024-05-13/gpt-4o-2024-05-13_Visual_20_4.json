@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJP2oZzzvvf07RPi62hCwjw1Beuk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "ice: 4.05\ntruck: 4.06\ntree: 4.71\nbasement: 3.85\nlamp: 4.65\nshovel: 4.23\ntry: 2.91\ngoose: 4.56\nsofa: 4.45\nankle: 4.12\nwould: 1.15\nhouse: 4.70\nhammer: 4.21\nnapkin: 4.08\ntuna: 3.88\nladder: 4.62\nzipper: 4.50\nnice: 3.90\nbird: 4.75\nbad: 2.15\nmouth: 4.05\nsquirrel: 4.69\nawake: 2.75\npizza: 4.30\ndonkey: 4.55\nlollipop: 4.10\ntoy: 4.58\npretzel: 3.95\njacket: 4.35\nsnack: 4.00\nmorning: 3.95\ndish: 4.40\nelephant: 4.70\njelly: 3.50\nglue: 4.08\nfull: 3.10\npants: 4.15\nman: 4.60\ntear: 3.10\nhurry: 2.85\nlion: 4.65\nwindy: 2.50\nshake: 3.20\nother: 1.80\nsleepy: 2.10\ncoke: 3.70\nmilk: 4.25\ntoast: 4.00\nbelt: 4.20\ndiaper: 4.12\nalligator: 4.40\nduck: 4.65\nasleep: 1.50\njeans: 4.50\nuncle: 3.80\nbreak: 2.95\nfine: 2.85\nthrow: 3.50\ngo: 2.10\nyellow: 4.80\nyard: 4.25\nhold: 2.95\ngum: 4.10\npencil: 4.50\nstar: 4.75\ntouch: 3.20\ncover: 3.35\ntractor: 4.35\npoor: 2.20\ndryer: 4.50\ncircus: 4.25\nblow: 2.75\nmoon: 4.60\npresent: 4.30\npaint: 4.50\nface: 4.75\nnaughty: 1.90\nfriend: 3.85\nback: 4.00\ntowel: 4.45\nnight: 4.40\nrain: 4.50\nbe: 1.20\ncut: 3.70\nsing: 1.85\nspill: 2.85\noven: 4.15\ndrawer: 4.20\nsock: 4.45\ndress: 4.55\nclimb: 3.95\nnew: 3.80\nskate: 4.00\nhug: 2.40\njar: 4.25\nhard: 3.80\ncold: 3.65\ncheek: 4.30\ndaddy: 4.50\nplay: 2.85\nlisten: 1.20\nstand: 2.60\nsee: 0.10\nbook: 4.65\npenguin: 4.60\nscissors: 4.30\ndoctor: 4.00\nbump: 2.75\nhorse: 4.65\ncloud: 4.50\npolice: 4.15\nlady: 4.35\ngame: 3.20\nsay: 1.50\npotato: 3.85\npicnic: 4.30\nkiss: 3.20\npickle: 3.95\ngarden: 4.50\nshoe: 4.60\nrefrigerator: 4.70\nstone: 4.30\nshow: 3.90\nnail: 4.30\nspaghetti: 3.95\ngreen: 4.80\ncup: 4.50\nsticky: 3.50\ntoe: 4.15\nquiet: 2.10\nwait: 2.10\nplate: 4.50\nmoney: 4.20\nslow: 2.10\ncry: 2.00\nsit: 2.40\npick: 3.10\nmonkey: 4.50\nbroom: 3.80\napple: 4.45\nheavy: 3.90\nbuy: 3.00\npush: 2.70\nbottle: 4.25\nchild: 4.50\nwet: 3.10\nwhite: 4.80\nbunny: 4.60\nleg: 4.20\nsad: 1.90\nknee: 4.10\nbrush: 4.30\nsoft: 3.70\nsky: 4.70\nsheep: 4.50\nhome: 4.50\nshare: 2.60\nhat: 4.50\nsandwich: 4.05\nhair: 4.60\nchurch: 3.80\nflag: 4.50\ncatch: 3.90\nsister: 4.50\nstrawberry: 4.00\nstove: 4.25\ncorn: 4.10\nclock: 4.70\nturtle: 4.50\nsoap: 4.10\nwipe: 3.20\nhide: 3.00\nbear: 4.60\nclap: 2.10\nsauce: 3.90\npretend: 1.85\nhate: 1.50\nhamburger: 4.15\nopen: 3.50\njump: 3.20\nblock: 4.20\npull: 3.20\ngarage: 4.15\nbreakfast: 4.15\ntray: 4.00\nboat: 4.60\nbrown: 4.50\nbed: 4.60\nanimal: 4.50\nballoon: 4.50\nbus: 4.50\ndoor: 4.70\nhot: 3.80\nbee: 4.50\nbat: 4.50\nturkey: 4.50\nstroller: 4.20\ntalk: 1.40\nwrite: 4.10\nblanket: 4.40\nkitchen: 4.60\nfeed: 3.10\neye: 4.70\ndinner: 4.20\narm: 4.30\nempty: 2.10\nhigh: 3.80\ngentle: 2.70\nday: 4.50\nteacher: 4.20\ntrash: 4.10\ncrayon: 4.40\ndog: 4.80\nsnow: 4.50\nbug: 4.50\npeople: 4.70\nbench: 4.20\npumpkin: 4.50\nhelp: 2.10\nkick: 2.80\nrun: 3.20\njuice: 4.20\nsweep: 3.80\nball: 4.50\npotty: 2.90\nold: 2.60\ncamera: 4.60\ngrass: 4.60\nred: 4.80\nlick: 2.75\nnap: 1.60\nparty: 4.10\neat: 2.20\ntiny: 3.20\ntickle: 2.90\ndump: 3.10\nsoup: 4.20\ndance: 2.10\npark: 4.50\npaper: 4.50\nlittle: 3.60\nbucket: 4.20\nchin: 4.20\nradio: 4.10\nthirsty: 2.10\nspoon: 4.40\nhen: 4.30\nglass: 4.50\nboots: 4.50\nhose: 4.20\nfood: 4.10\nslipper: 4.20\nwolf: 4.50\nlamb: 4.50\nfall: 3.00\nlook: 1.20\nfix: 3.70\ncloset: 4.00\nwake: 2.10\nmeat: 3.90\nchase: 3.20\ntime: 3.60\nchalk: 4.10\nstop: 2.30\npour: 3.50\nmedicine: 3.70\nfirst: 2.20\ndirty: 3.20\nzoo: 4.50\ncheese: 3.90\nfork: 4.50\ndeer: 4.50\nsoda: 3.80\nsled: 4.10\ntaste: 1.20\nsalt: 3.70\nswim: 2.80\nporch: 4.30\ncoffee: 4.10\nknock: 1.80\nwindow: 4.70\nride: 3.80\ncake: 4.20\nfinger: 4.30\negg: 4.10\nbib: 4.00\ngood: 2.70\nstick: 4.30\nbrother: 4.50\nget: 1.90\ndrop: 3.10\nboy: 4.50\nsick: 1.80\ntake: 2.90\nbroken: 3.20\nmovie: 4.50\nrooster: 4.50\ncarry: 2.80\ntooth: 4.30\ncrib: 4.20\nroof: 4.60\ncountry: 4.50\npudding: 3.90\nbite: 2.50\nhave: 1.40\nvacuum: 4.00\nbutter: 3.80\nlove: 2.80\nshirt: 4.50\nsneaker: 4.50\nnurse: 4.00\nant: 4.40\ntired: 1.80\nwash: 3.50\nroom: 4.60\nhit: 2.80\nflower: 4.70\nbread: 4.10\nplant: 4.50\ncar: 4.70\nwill: 1.10\nschool: 4.60\ncookie: 4.10\nclown: 4.50\nchair: 4.60\npony: 4.50\nsun: 4.80\nmeow: 1.10\ncereal: 4.10\ngarbage: 4.10\nblue: 4.80\npen: 4.60\ntable: 4.70\nmad: 2.10\nhurt: 2.50\nscarf: 4.50\nhead: 4.40\nlike: 2.80\ncracker: 4.00\nhappy: 2.90\nbutton: 4.20\naunt: 3.80\npool: 4.50\ncomb: 4.20",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989204,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 2517,
+    "prompt_tokens": 1602,
+    "total_tokens": 4119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

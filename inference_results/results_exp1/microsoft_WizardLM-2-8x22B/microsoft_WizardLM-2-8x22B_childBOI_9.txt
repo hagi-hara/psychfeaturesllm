@@ -1,0 +1,743 @@
+ open: 7
+swim: 6
+fall: 5
+hair: 6
+them: N
+sidewalk: 6
+basement: 5
+shh: N
+try to: N
+woods: 5
+swing (action): 6
+grrr: N
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet: N
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: 6
+bean: 5
+with: N
+snowman: 5
+not: N
+motorcycle: 4
+firetruck: 4
+snack: 6
+bread: 6
+moose: 4
+duck: 6
+I: N
+broken: N
+banana: 7
+cook: N
+woof woof: N
+sneaker: 6
+hat: 6
+party: 6
+where: N
+pony: 5
+doll: 6
+hand: 7
+stove: 3
+person: 7
+blanket: 7
+stop: N
+airplane: 4
+truck: 5
+climb: 6
+after: N
+watch (object): 5
+man: 7
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 6
+orange (food): 6
+yellow: N
+Ice: N
+fire: 2
+cloud: 2
+milk: 6
+oven: 3
+mouse: 6
+new: N
+hers: N
+balloon: 6
+camping: 5
+run: 7
+going to: N
+tray: 5
+pea: 5
+strawberry: 6
+more: N
+nice: N
+frog: 6
+wet

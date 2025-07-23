@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-468ec1e14e59453baf31aee2eb83accc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the words with mouth/throat actions:\n\nsay: 5\nowie: 0\nhello: 5\nsmile: 4\nsing: 5\nshush: 4\nhush: 4\nyucky: 4\ncheese: 3\npattycake: 4\nyogurt: 3\ndrink (action): 5\nmommy: 4\nso big: 4\nneed to: 4\nboo boo: 4\nnoisy: 4\nsit: 3\neat: 5\nmeow: 4\ntickle: 4\nbaa baa: 4\nme: 4\nhi: 5\nbye: 5\nyum yum: 5\nuh oh: 4\nmoo: 4\nhurry: 4\ntaste: 5\nlick: 4\nbite: 4\nouch: 4\nplease: 5\nget: 4",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564874,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 214,
+    "prompt_tokens": 1950,
+    "total_tokens": 2164,
+    "estimated_cost": 0.0011744999999999998
+  }
+}

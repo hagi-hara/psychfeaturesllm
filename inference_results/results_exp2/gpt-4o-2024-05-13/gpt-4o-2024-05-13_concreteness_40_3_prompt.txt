@@ -1,0 +1,448 @@
+Some words refer to things or actions in reality, which you can experience directly through one of the five senses. We call these words concrete words. Other words refer to meanings that cannot be experienced directly but which we know because the meanings can be defined by other words. These are abstract words. Still other words fall in-between the two extremes, because we can experience them to some extent and in addition we rely on language to understand them. We want you to indicate how concrete the meaning of each word is for you by using a 5-point rating scale going from abstract to concrete.
+
+A concrete word comes with a higher rating and refers to something that exists in reality; you can have immediate experience of it through your senses (smelling, tasting, touching, hearing, seeing) and the actions you do. The easiest way to explain a word is by pointing to it or by demonstrating it (e.g. To explain 'sweet' you could have someone eat sugar; To explain 'jump' you could simply jump up and down or show people a movie clip about someone jumping up and down; To explain 'couch', you could point to a couch or show a picture of a couch).
+
+An abstract word comes with a lower rating and refers to something you cannot experience directly through your senses or actions. Its meaning depends on language. The easiest way to explain it is by using other words (e.g. There is no simple way to demonstrate 'justice'; but we can explain the meaning of the word by using other words that capture parts of its meaning).
+
+Because we are collecting values for all the words in a dictionary (over 60 thousand in total), you will see that there are various types of words, even single letters. Always think of how concrete (experience based) the meaning of the word is to you. In all likelihood, you will encounter several words you do not know well enough to give a useful rating. This is informative to us too, as in our research we only want to use words known to people. We may also include one or two fake words which cannot be known by you. Please indicate when you don't know a word by using the letter N.
+
+So, we ask you to use a 5-point rating scale going from abstract to concrete and to use the letter N when you do not know the word well enough to give an answer.
+
+Abstract (language based) 1,2,3,4,5 Concrete (experience based)
+N = I do not know this word well enough to give a rating.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the word well enough to give an answer, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+spoon: 4.96
+street: 4.75
+sit: 4.80
+turtle: 5.00
+broom: 4.89
+story: 3.30
+sky: 4.45
+bath: 4.85
+duck: 4.86
+bunny: 4.97
+lick: 4.52
+big: 3.66
+bite: 4.44
+fix: 2.93
+chair: 4.58
+fall: 4.04
+egg: 4.97
+hamburger: 5.00
+scarf: 4.97
+sandwich: 4.90
+soup: 4.72
+stove: 4.96
+cow: 4.96
+finger: 5.00
+pudding: 4.90
+girl: 4.85
+quiet: 2.76
+cook: 4.32
+basement: 4.89
+star: 4.69
+nose: 4.89
+toe: 4.93
+strawberry: 5.00
+deer: 4.86
+naughty: 2.04
+sad: 3.07
+circus: 4.43
+paper: 4.93
+sheep: 4.90
+tiger: 5.00
+present: 3.39
+go: 3.15
+moon: 4.90
+horse: 5.00
+spill: 4.07
+cake: 4.81
+sticky: 3.59
+head: 4.75
+mad: 2.76
+noisy: 3.56
+couch: 4.71
+walk: 4.07
+tuna: 4.89
+old: 2.72
+pen: 4.92
+train: 4.79
+tear: 4.56
+other: 2.04
+pencil: 4.88
+taste: 4.07
+asleep: 3.71
+eat: 4.44
+lady: 4.33
+jar: 5.00
+diaper: 4.82
+jelly: 4.93
+camera: 5.00
+chin: 4.89
+flag: 4.79
+cut: 4.55
+bat: 5.00
+soap: 4.93
+carry: 4.04
+money: 4.54
+pig: 5.00
+puppy: 4.78
+broken: 4.11
+high: 3.46
+mommy: 4.07
+owl: 4.93
+sun: 4.83
+nap: 4.03
+cheese: 4.70
+salt: 4.89
+touch: 3.86
+wet: 4.46
+ride: 3.75
+dance: 4.32
+tongue: 4.93
+brother: 4.43
+button: 4.96
+poor: 2.70
+milk: 4.92
+share: 2.96
+first: 2.76
+hand: 4.72
+yellow: 4.30
+basket: 5.00
+slipper: 4.86
+cookie: 5.00
+get: 2.38
+squirrel: 4.89
+movie: 4.59
+school: 4.79
+leg: 4.83
+towel: 4.86
+look: 2.96
+blue: 3.76
+food: 4.80
+kitchen: 4.97
+wolf: 4.79
+beach: 4.79
+child: 4.78
+friend: 3.07
+sick: 2.97
+tape: 4.90
+roof: 4.79
+animal: 4.61
+cover: 4.23
+wait: 2.68
+pants: 4.86
+hug: 4.14
+purse: 4.90
+hold: 3.68
+mouth: 4.74
+think: 2.41
+box: 4.90
+drive: 3.86
+truck: 4.84
+white: 3.89
+knee: 5.00
+pretty: 2.40
+cereal: 4.83
+like: 1.89
+ankle: 4.81
+house: 5.00
+book: 4.90
+pizza: 5.00
+dryer: 4.79
+hit: 4.11
+gum: 4.89
+giraffe: 4.73
+bowl: 4.87
+would: 1.12
+yard: 4.82
+break: 3.71
+uncle: 4.24
+nail: 4.93
+tree: 5.00
+pour: 4.14
+tooth: 4.89
+ant: 4.86
+hammer: 4.77
+fine: 2.61
+refrigerator: 5.00
+butter: 4.90
+wash: 4.35
+country: 4.17
+cute: 2.76
+find: 2.63
+dark: 4.29
+throw: 4.04
+lunch: 4.31
+cold: 3.85
+doll: 5.00
+alligator: 4.96
+rip: 3.79
+green: 4.07
+breakfast: 4.43
+
+Please answer about all of the following words.
+
+penguin
+crayon
+red
+jeans
+bib
+stand
+dog
+room
+moose
+party
+bread
+church
+store
+write
+car
+black
+dirty
+scissors
+help
+hurt
+bird
+open
+smile
+table
+empty
+hose
+oven
+blow
+kiss
+pool
+face
+sleepy
+farm
+mouse
+happy
+shovel
+say
+corn
+jump
+chocolate
+fit
+dress
+sofa
+radio
+arm
+picture
+bed
+spaghetti
+juice
+chase
+toast
+hat
+slow
+heavy
+ice
+plate
+day
+hear
+stay
+bug
+little
+push
+zipper
+stroller
+blanket
+puzzle
+sleep
+zoo
+new
+hen
+shake
+lion
+sneaker
+bring
+wish
+bench
+lollipop
+morning
+eye
+bottle
+coffee
+coat
+wake
+build
+crib
+dish
+sing
+climb
+stop
+potato
+knock
+dump
+cup
+comb
+hurry
+sweep
+snack
+clock
+snow
+garage
+pony
+chalk
+nurse
+finish
+do
+sled
+flower
+sweater
+coke
+tired
+stone
+sock
+hard
+monkey
+people
+garden
+hot
+wipe
+trash
+mop
+kick
+brush
+cat
+stick
+pickle
+hungry
+teacher
+plant
+skate
+man
+rock
+splash
+elephant
+try
+pumpkin
+ball
+full
+glass
+game
+sprinkler
+bus
+tickle
+take
+hate
+listen
+nice
+toy
+sink
+have
+turkey
+daddy
+cracker
+shirt
+ear
+door
+tiny
+lamb
+sauce
+draw
+goose
+block
+candy
+bad
+soda
+pull
+night
+garbage
+yogurt
+brown
+apple
+person
+good
+pretzel
+read
+meat
+sister
+paint
+home
+napkin
+cheek
+back
+pick
+dinner
+shoulder
+picnic
+pillow
+cloud
+see
+potty
+bucket
+bear
+drawer
+swim
+drop
+pretend
+play
+be
+bump
+gentle
+porch
+rooster
+make
+time
+raisin
+soft
+balloon
+show
+grass
+thirsty
+muffin
+medicine
+zebra
+banana
+feed
+hair
+window
+glue
+close
+donkey
+boots
+will
+tray
+police
+penny
+closet
+tissue
+shoe
+fork
+give
+ladder
+belt
+love
+bee
+jacket
+clown
+talk
+tummy
+tractor
+park
+catch
+lamp
+cry
+baby
+awake
+buy
+shower
+boy
+wind
+clap
+vacuum
+run
+aunt
+boat
+meow
+put
+hide
+rain
+windy
+doctor

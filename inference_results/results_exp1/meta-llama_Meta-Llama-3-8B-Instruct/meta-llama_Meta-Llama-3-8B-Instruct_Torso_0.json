@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-311cd2d314774e9ea6b46184594ec960",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the torso:\n\nbend: 5\nstretch: 5\ntwist: 5\nlean: 5\narch: 4\ncrunch: 4\ncurl: 3\nhunch: 3\nslouch: 2\nstraighten: 2\nbreathe: 5\ninhale: 5\nexhale: 5\nsigh: 4\ngasp: 4\nhuff: 3\npuff: 3\nsuck: 2\nblow: 2\nbelly laugh: 5\nchuckle: 4\ngiggle: 4\nsnort: 3\nsnicker: 3\ncough: 2\nsneeze: 2\nhug: 5\nsqueeze: 5\ncradle: 4\nrock: 4\nsway: 3\nbounce: 3\njolt: 2\nshake: 2",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560447,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 208,
+    "prompt_tokens": 1948,
+    "total_tokens": 2156,
+    "estimated_cost": 0.00012936
+  }
+}

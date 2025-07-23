@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-6a26fdbaad6b41af84f9c40c4a408326",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to the foot/leg:\n\nballoon: 0\npull: 2\nopen: 0\nsquirrel: 0\nfinger: 0\nstand: 4\nclimb: 4\ndark: 0\nvacuum: 0\nbanana: 0\npuppy: 0\nscissors: 0\nsoft: 0\nhair: 0\nkitchen: 0\ncoke: 0\ntummy: 0\ncook: 0\nchalk: 0\npretend: 0\npoor: 0\nbath: 0\nfeed: 0\npotato: 0\nhappy: 0\nbe: 0\nget: 2\nblow: 0\ndiaper: 0\nbat: 0\nbig: 0\nbroken: 0\ntree: 0\npenny: 0\nlamb: 0\npresent: 0\nsheep: 0\ntoy: 0\nhungry: 0\nzebra: 0\nmilk: 0\nhen: 0\nwrite: 0\nbunny: 0\nshow: 0\ndeer: 0\nhome: 0\ntiger: 0\ncup: 0\nhat: 0\ncold: 0\ndraw: 0\nwake: 0\nhigh: 0\nhead: 0\nstove: 0\nporch: 0\ngirl: 0\nstar: 0\ncry: 0\nwash: 0\npig: 0\ncamera: 0\npicture: 0\nsandwich: 0\nsticky: 0\ndrop: 0\nbaby: 0\nsun: 0\nsoup: 0\npickle: 0\nfind: 0\ntear: 0\nsweater: 0\nhot: 0\nman: 0\nfriend: 0\nlittle: 0\nbreak: 0\nwipe: 0\nsoap: 0\nwhite: 0\nrooster: 0\nmouse: 0\nfine: 0\nlisten: 0\ncatch: 0\nhouse: 0\nhard: 0\nwind: 0\npolice: 0\ntrain: 0\nhold: 0\nknock: 0\nbench: 0\ndish: 0\nrock: 0\nthrow: 0\nwalk: 4\nteacher: 0\nmoon: 0\nlike: 0\nspoon: 0\nfork: 0\nbee: 0\nmop: 0\npark: 0\nwet: 0\npick: 0\nstop: 0\nquiet: 0\ndaddy: 0\ncookie: 0\ntray: 0\nblue: 0\nfinish: 0\neye: 0\nbear: 0\nglue: 0\nroom: 0\nspill: 0\nmommy: 0\nback: 2\nchurch: 0\ntractor: 0\nstreet: 0\nsplash: 0\ngood: 0\nsleep: 0\nhurry: 0\nwolf: 0\nankle: 5\neat: 0\nfit: 0\nboy: 0\nscarf: 0\nturtle: 0\ntake: 0\nlick: 0\nplate: 0\ndryer: 0\nclown: 0\nchin: 0\nlamp: 0\nmouth: 0\nlady: 0\nslipper: 5\nstroller: 0\npillow: 0\ntooth: 0\nnap: 0\narm: 0\nchocolate: 0\nmeat: 0\nbite: 0\ncomb: 0\nwould: 0\ncrayon: 0\ncandy: 0\nyellow: 0\ndrawer: 0\npaper: 0\nstone: 0\nladder: 0\nbroom: 0\nfarm: 0\nfall: 2\ndance: 2\ngreen: 0\ntry: 0\nlunch: 0\nice: 0\nspaghetti: 0\nnoisy: 0\npeople: 0\nboots: 5\ncoat: 0\ngarbage: 0\nmad: 0\nparty: 0\nsick: 0\nsauce: 0\nradio: 0\ntongue: 0\nleg: 5\nhurt: 0\nzipper: 0\ncheese: 0\negg: 0\nflower: 0\nbutton: 0\npool: 0\nsing: 0\ndog: 0\nflag: 0\nread: 0\ncracker: 0\ncircus: 0\nbrother: 0\ndump: 0\nbutter: 0\nface: 0\nsoda: 0\nwindy: 0\ncouch: 0\ntalk: 0\nlook: 0\nlion: 0\nhose: 0\nclock: 0\npizza: 0\ntruck: 0\nbowl: 0\nturkey: 0\nsee: 0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989441,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1169,
+    "prompt_tokens": 2292,
+    "total_tokens": 3461,
+    "estimated_cost": 0.0009947600000000001
+  }
+}

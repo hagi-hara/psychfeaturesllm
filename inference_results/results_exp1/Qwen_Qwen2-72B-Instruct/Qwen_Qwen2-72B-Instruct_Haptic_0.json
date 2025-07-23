@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-59e16a94ae3542248886cb99a795358b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "touch: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723563067,
+  "model": "Qwen/Qwen2-72B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 1938,
+    "total_tokens": 1942,
+    "estimated_cost": 0.00108836
+  }
+}

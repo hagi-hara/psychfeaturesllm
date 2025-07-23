@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+hug: 7.70
+noisy: 8.36
+doll: 7.13
+have: 3.75
+garbage: 1.27
+black: 2.50
+sleepy: 6.70
+cut: 1.94
+jump: 3.60
+pig: 1.42
+doctor: 6.70
+pizza: 1.91
+lunch: 4.70
+banana: 3.08
+crayon: 7.50
+closet: 1.92
+donkey: 1.00
+hurry: 2.73
+chocolate: 2.14
+trash: 1.73
+bite: 3.62
+find: 2.91
+bread: 2.10
+blow: 2.50
+milk: 9.12
+pencil: 2.36
+clock: 3.30
+love: 8.33
+circus: 4.45
+drop: 2.54
+bucket: 1.50
+cheese: 1.92
+button: 3.80
+wash: 5.45
+pick: 2.26
+hide: 4.75
+police: 1.90
+breakfast: 4.70
+house: 3.17
+coffee: 2.29
+stop: 2.78
+naughty: 5.50
+jeans: 1.08
+listen: 2.17
+sit: 5.83
+nose: 5.83
+pour: 2.18
+oven: 1.30
+baby: 10.00
+cereal: 6.32
+old: 1.45
+sky: 2.42
+ball: 6.00
+be: 2.24
+pool: 1.67
+zipper: 2.70
+dish: 3.55
+home: 5.23
+grass: 1.73
+lamb: 5.00
+kiss: 6.47
+bath: 7.67
+bear: 4.80
+go: 2.90
+hold: 6.68
+bee: 1.80
+meat: 2.42
+sandwich: 2.70
+butter: 2.40
+sofa: 2.20
+tree: 3.36
+corn: 1.82
+potty: 6.91
+hot: 1.90
+glue: 1.64
+hose: 2.31
+sleep: 7.73
+coke: 1.50
+juice: 6.75
+alligator: 1.31
+pull: 3.11
+buy: 4.07
+cat: 2.00
+muffin: 2.31
+
+Please answer about all of the following words.
+
+church
+write
+catch
+lion
+stay
+lady
+stick
+window
+hat
+fix
+sheep
+bring
+yard
+hair
+mommy
+bad
+toast
+sticky
+friend
+crib
+high
+cup
+break
+tiny
+food
+monkey
+bottle
+train
+heavy
+party
+open
+boat
+carry
+get
+strawberry
+money
+spoon
+cry
+will
+taste
+clap
+brown
+jacket
+bowl
+lollipop
+pumpkin
+tuna
+dress
+feed
+dark
+sink
+egg
+shake
+hand
+sister
+elephant
+drawer
+give
+coat
+country
+medicine
+dump
+store
+fit
+throw
+run
+school
+ice
+apple
+truck
+back
+glass
+basket
+bunny
+horse
+puzzle
+present
+leg
+try
+boots
+zebra
+swim
+uncle
+tray
+picture
+shower
+squirrel
+snow
+raisin
+knock
+pudding
+zoo
+girl
+think
+show
+garage
+scissors
+windy
+eye
+salt
+tear
+cute
+flag
+take
+nail
+wet
+hamburger
+dance
+book
+bug
+bat
+fine
+brush
+lick
+brother
+lamp
+head
+belt
+pretend
+draw
+soda
+cow
+movie
+smile
+plant
+door
+tongue
+rooster
+kick
+hit
+chair
+bird
+night
+fork
+bib
+pretzel
+mouse
+day
+chalk
+person
+soft
+look
+ride
+park
+dinner
+pen
+make
+tape
+full
+clown
+porch
+pony
+toe
+gum
+wait
+pretty
+wolf
+bed
+sick
+arm
+hard
+happy
+paper
+slipper
+farm
+sled
+spaghetti
+hurt
+say
+radio
+morning
+slow
+tummy
+walk
+goose
+shirt
+stove
+roof
+boy
+chin
+gentle
+block
+potato
+aunt
+hen
+stand
+star
+moose
+giraffe
+do
+sneaker
+cake
+pants
+hammer
+room
+shoe
+time
+awake
+share
+balloon
+scarf
+stone
+broken
+box
+towel
+kitchen
+touch
+first
+play
+eat
+cover
+child
+garden
+jar
+wake
+hear
+soup
+splash
+asleep
+help
+mad
+diaper
+tired
+cheek
+spill
+penny
+rip
+see
+white
+plate
+finger
+owl
+skate
+hungry
+red
+finish
+little
+dog
+shoulder
+cookie
+turkey
+tissue
+jelly
+sweater
+bus
+quiet
+climb
+beach
+pillow
+cold
+bump
+puppy
+people
+pickle
+yellow
+cook
+nap
+wipe
+put
+candy
+wish
+rain
+stroller
+sprinkler
+cloud
+close
+comb
+game
+yogurt
+nurse
+teacher
+sing
+snack
+empty
+duck
+tickle
+blue
+knee
+dirty
+other
+sock
+street
+thirsty
+moon
+drive
+tractor
+dryer
+ant
+hate
+story
+soap
+chase
+sun
+green
+refrigerator
+build
+face
+fall
+broom
+animal
+blanket
+nice
+rock
+paint
+good
+wind
+table
+sweep
+picnic
+meow
+cracker
+turtle
+man
+toy
+penguin
+big
+shovel
+car
+ladder
+deer
+poor
+would
+mouth
+ear
+tooth
+sauce
+mop
+new
+read
+sad
+bench
+tiger
+ankle
+basement
+camera
+purse
+flower
+daddy
+vacuum
+talk
+push
+napkin
+like
+couch

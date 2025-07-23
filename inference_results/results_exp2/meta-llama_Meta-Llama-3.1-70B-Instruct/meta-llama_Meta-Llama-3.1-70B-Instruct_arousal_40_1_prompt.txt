@@ -1,0 +1,439 @@
+You are invited to take part in the study that is investigating emotion, and concerns how people respond to different types of words. You will use a scale to rate how you felt while reading each word. There will be approximately 700 words. The scale ranges from 1 (excited) to 9 (calm). At one extreme of this scale, you are stimulated, excited, frenzied, jittery, wide-awake, or aroused. When you feel completely aroused you should indicate this by choosing rating 1. The other end of the scale is when you feel completely relaxed, calm, sluggish, dull, sleepy, or unaroused. You can indicate feeling completely calm by selecting 9. The numbers also allow you to describe intermediate feelings of calmness/arousal, by selecting any of the other feelings. If you feel completely neutral, not excited nor at all calm, select the middle of the scale (rating 5).
+
+Please work at a rapid pace and don’t spend too much time thinking about each word. Rather, make your ratings based on your first and immediate reaction as you read each word.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+hair: 6.29
+tree: 7.33
+chalk: 7.10
+soda: 5.23
+talk: 6.62
+church: 6.37
+uncle: 5.95
+tractor: 6.27
+doctor: 5.95
+hide: 6.48
+turtle: 7.48
+bunny: 6.14
+bench: 6.54
+heavy: 6.35
+share: 6.80
+build: 6.62
+rip: 4.74
+touch: 5.10
+yellow: 6.17
+naughty: 3.05
+juice: 5.40
+tummy: 6.22
+fix: 6.40
+pickle: 6.52
+hit: 4.52
+jacket: 6.65
+sun: 5.36
+ball: 6.52
+poor: 5.33
+camera: 6.95
+dress: 5.27
+tiny: 5.40
+donkey: 7.10
+country: 6.29
+hammer: 5.44
+pillow: 7.10
+kitchen: 6.48
+cut: 4.93
+finger: 5.85
+bowl: 6.79
+comb: 7.67
+school: 5.43
+coat: 6.90
+nurse: 5.36
+arm: 6.56
+stone: 6.75
+sandwich: 5.06
+book: 6.87
+fork: 6.65
+awake: 4.50
+towel: 7.10
+hard: 5.50
+zebra: 6.10
+moon: 6.57
+closet: 6.45
+ice: 6.70
+gentle: 6.83
+slow: 7.11
+pick: 6.38
+bite: 4.90
+bat: 5.43
+nice: 6.47
+ladder: 5.91
+picnic: 6.35
+boat: 5.95
+nap: 5.86
+cheek: 6.53
+time: 6.59
+spaghetti: 5.96
+asleep: 8.00
+pretty: 4.50
+other: 6.52
+fall: 5.76
+present: 5.18
+bee: 4.35
+tray: 6.43
+stop: 5.86
+lion: 4.71
+shower: 5.85
+alligator: 4.64
+think: 6.25
+drawer: 7.00
+paper: 6.48
+clock: 6.65
+home: 6.22
+high: 5.90
+face: 5.41
+mop: 6.86
+chair: 7.14
+sick: 5.33
+drive: 5.81
+feed: 5.45
+hug: 5.15
+shake: 4.80
+tiger: 4.45
+sauce: 6.05
+salt: 5.47
+big: 5.67
+bib: 6.43
+flower: 6.33
+day: 6.38
+be: 6.57
+hamburger: 5.80
+person: 6.29
+candy: 4.97
+breakfast: 5.00
+purse: 6.79
+squirrel: 5.52
+dirty: 4.95
+lunch: 6.43
+go: 5.14
+sweep: 6.11
+old: 5.52
+shovel: 6.50
+mommy: 6.30
+drop: 5.33
+red: 4.98
+mad: 4.41
+napkin: 6.91
+train: 5.95
+cloud: 7.19
+hat: 7.12
+happy: 3.95
+draw: 6.40
+refrigerator: 6.75
+basket: 7.52
+gum: 6.80
+crib: 5.74
+slipper: 6.17
+cereal: 6.95
+bug: 3.94
+new: 4.86
+tongue: 5.75
+tickle: 4.14
+sleepy: 6.96
+lollipop: 6.12
+play: 6.19
+give: 5.43
+sheep: 7.05
+jar: 7.23
+taste: 5.44
+ant: 6.73
+cup: 7.40
+cake: 4.67
+medicine: 6.00
+nail: 6.95
+owl: 6.43
+morning: 6.05
+cute: 4.95
+rock: 6.86
+boy: 5.89
+scissors: 5.98
+tooth: 6.48
+dark: 5.91
+broken: 5.14
+good: 6.34
+sister: 6.14
+pen: 7.25
+cheese: 6.20
+write: 6.19
+basement: 6.67
+tear: 5.20
+fine: 6.14
+oven: 7.05
+wait: 6.38
+bad: 5.14
+bed: 7.00
+brown: 6.68
+yogurt: 5.48
+
+Please answer about all of the following words.
+
+get
+game
+have
+first
+sleep
+finish
+buy
+sled
+party
+help
+would
+soup
+cat
+wish
+chocolate
+run
+windy
+food
+daddy
+sad
+shirt
+glass
+hurry
+swim
+black
+nose
+story
+hot
+rain
+pull
+boots
+hen
+box
+zipper
+knee
+cover
+toy
+kiss
+white
+show
+thirsty
+blue
+sink
+block
+penguin
+walk
+carry
+pig
+hungry
+pretzel
+doll
+radio
+glue
+goose
+truck
+meow
+teacher
+vacuum
+stove
+child
+cook
+man
+penny
+stroller
+moose
+wind
+try
+cookie
+night
+apple
+toe
+see
+diaper
+sky
+kick
+tissue
+eat
+dump
+door
+pudding
+blanket
+yard
+fit
+tired
+brush
+potty
+lamb
+snack
+clap
+puppy
+shoulder
+pizza
+splash
+muffin
+porch
+head
+meat
+table
+hate
+find
+soap
+chase
+bread
+mouse
+cow
+hold
+garage
+corn
+room
+push
+belt
+jeans
+throw
+little
+grass
+catch
+milk
+quiet
+garbage
+circus
+dinner
+spoon
+people
+dish
+wet
+eye
+look
+plate
+sit
+broom
+ride
+ear
+window
+bring
+bump
+horse
+wake
+climb
+coffee
+zoo
+picture
+pencil
+put
+hurt
+pretend
+baby
+sneaker
+will
+stay
+sticky
+like
+bear
+knock
+deer
+skate
+make
+sweater
+couch
+tuna
+brother
+police
+coke
+shoe
+bottle
+hear
+mouth
+movie
+dance
+giraffe
+bath
+crayon
+stick
+break
+hand
+open
+blow
+friend
+lamp
+flag
+turkey
+garden
+elephant
+spill
+plant
+clown
+wash
+star
+trash
+noisy
+toast
+monkey
+banana
+green
+tape
+chin
+jelly
+car
+sock
+butter
+wolf
+lick
+bird
+smile
+cracker
+aunt
+listen
+roof
+soft
+balloon
+love
+sofa
+close
+dryer
+take
+duck
+read
+pumpkin
+hose
+animal
+potato
+rooster
+raisin
+strawberry
+dog
+back
+farm
+leg
+bucket
+stand
+wipe
+sing
+button
+egg
+house
+lady
+girl
+cold
+beach
+say
+store
+money
+pony
+cry
+bus
+sprinkler
+full
+pants
+pour
+pool
+park
+jump
+ankle
+snow
+paint
+street
+do
+scarf
+empty
+puzzle

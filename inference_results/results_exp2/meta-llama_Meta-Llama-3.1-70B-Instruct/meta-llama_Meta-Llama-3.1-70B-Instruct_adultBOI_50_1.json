@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-0a67d98748954ecfb27c25c225656056",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "garden: 5.45\nwhite: 1.40\nwindow: 4.59\ncloud: 1.57\nraisin: 6.07\ntoy: 6.36\ndiaper: 6.23\nfit: 2.12\nbunny: 5.52\npencil: 6.27\nstore: 5.11\ncoffee: 6.01\ntissue: 6.06\nhand: 6.48\nkick: 3.24\nshovel: 6.17\ntrash: 5.15\nbench: 5.94\nfinish: 2.16\nchocolate: 6.40\njelly: 6.04\nquiet: 2.04\nmedicine: 5.64\nturtle: 4.65\nhold: 3.38\ncake: 6.29\nblanket: 6.23\nbaby: 6.22\nwolf: 4.39\nzipper: 6.14\nshow: 2.83\ntouch: 4.69\napple: 6.36\nlion: 4.56\nglue: 6.03\nalligator: 3.99\nhug: 4.72\neat: 3.45\npolice: 5.49\ngame: 4.69\nsquirrel: 4.81\nold: 2.13\nhungry: 2.60\nmuffin: 6.18\nsad: 2.07\nchalk: 6.04\nbib: 6.19\ncoke: 6.13\ncook: 4.75\nwill: 1.49\ngo: 1.45\ncamera: 5.94\ncouch: 6.33\npillow: 6.30\nsit: 3.42\nradio: 5.52\nwindy: 2.51\neye: 5.94\nwash: 4.78\nthirsty: 2.63\ntree: 5.43\nfriend: 5.48\ncircus: 4.94\npicnic: 5.55\npuppy: 6.04\nasleep: 2.11\nstay: 2.30\ntuna: 6.04\nwalk: 3.49\nstrawberry: 6.10\nbuild: 2.95\nsoda: 6.04\npool: 5.61\nfind: 2.43\ncry: 2.61\ntray: 5.95\ncracker: 6.03\ntiger: 4.50\ncat: 6.04\nhot: 2.35\nbrown: 1.80\npickle: 6.01\nsplash: 3.34\near: 5.93\nnaughty: 2.06\nplant: 5.52\nspaghetti: 6.07\ngarage: 5.64\nbrother: 5.42\nsofa: 6.31\nchair: 6.44\nthink: 1.56\nyellow: 1.42\npenguin: 4.62\ntalk: 2.85\nteacher: 5.51\nheavy: 2.59\nget: 2.29\nread: 2.74\njump: 3.51\nfork: 6.12\nhurt: 2.64\ntry: 2.39\npony: 5.49\ncold: 2.34\njar: 5.93\nwet: 2.49\nempty: 2.10\njuice: 6.06\nyard: 5.45\noven: 5.73\ncereal: 6.06\nstand: 3.58\npretty: 2.11\npretend: 2.85\nboy: 5.51\nzoo: 5.03\nother: 2.07\nspill: 3.31\nwipe: 4.74\nbowl: 6.05\nbus: 5.58\nsoap: 6.04\npaint: 5.54\nbear: 5.41\nleg: 5.93\nmoney: 5.49\nlike: 2.08\ndeer: 4.93\nthrow: 3.40\nrip: 2.94\nbrush: 6.06\nstick: 5.94\nchin: 5.88\nlollipop: 6.17\nbottle: 6.16\ntape: 5.96\nhate: 2.05\npenny: 6.04\ndrive: 2.88\ngoose: 4.71\npresent: 5.53\nsnack: 6.04\nlamp: 5.93\nsee: 2.14\ndoor: 5.81\nchild: 5.52\nsled: 5.94\nclown: 5.39\ngiraffe: 4.65\nwake: 2.17\npotty: 6.03\nlook: 2.15\nbreakfast: 5.96\nroof: 4.82\nred: 1.83\ncheek: 5.88\nsheep: 4.93\ncookie: 6.19\nsweep: 4.79\nladder: 5.83\ncomb: 6.06\nsauce: 6.01\nball: 6.13\nbox: 6.04\nhamburger: 6.17\nstroller: 6.04\nbird: 5.49\nwait: 2.33\npotato: 6.04\nfeed: 4.77\nsister: 5.46\ntime: 2.10\npen: 6.20\naunt: 5.43\nstop: 2.24\nchurch: 5.44\nbroken: 2.60\nelephant: 4.91\nscarf: 6.10\nnurse: 5.53\nanimal: 5.37\nyogurt: 6.04\ncar: 5.93\nsneaker: 6.39\narm: 5.93\ndonkey: 4.93\nback: 5.48\nchase: 3.48\nnapkin: 6.06\nvacuum: 5.85\nface: 5.94\npumpkin: 5.96\nclose: 2.35\nhit: 3.41\nhear: 2.16\nbump: 3.35\ncut: 3.34\ndrawer: 5.93\nboat: 5.69\ntaste: 2.59\ntractor: 5.85\nbath: 5.94\nmouth: 5.94\nsticky: 3.42\npeople: 5.44\ncover: 4.83\nfirst: 2.11\nclock: 5.56\nuncle: 5.43\nsleepy: 2.13\nbring: 2.40\nshoulder: 5.88\ncarry: 3.51\ncheese: 6.07",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989323,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1596,
+    "prompt_tokens": 2666,
+    "total_tokens": 4262,
+    "estimated_cost": 0.00125158
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-aa5a416ea8e142a99ef7825113da09c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings:\n\nwill: 2\npeople: 3\nmorning: 4\nteacher: 1\nbanana: 3\npour: 2\nyour: 4\nwait: 2\ncould: 2\nclown: 1\ndrop: 2\nlollipop: 3\ncow: 1\nblock: 1\nbottle: 2\nbat: 1\nmelon: N\nbabysitter's name: N\ntape: 2\ndowntown: 1\nhard: 2\ntired: 3\nbackyard: 3\ncloset: 2\nwoods: 1\nand: 5\nplate: 2\ntrain: 1\ntummy: 2\ngive: 3\nhis: 2\nkitchen: 3\nstone: 1\nout: 2\nlet me: 2\nlook: 4\nbottom: 2\ncan (object): 2\nbeside: 3\nevery: 4\ncircus: 1\ndon't: 2\nporch: 2\nbe: 5\npull: 2\nchurch: 1\nopen: 2\nwant to: 3\ngrrr: 1\ncowboy: 1\nmommy: 3\ncorn: 1\nthere: 5\ngreen: 2\nturtle: 1\ngo: 4\ncheek: 2\npet's name: N\nkey: 2\nice cream: 3\njuice: 2\nsandwich: 2\npuzzle: 2\non: 5\npuppy: 2\nstop: 2\npenguin: 1\npopcorn: 2\nelephant: 1\nsoap: 2\ndo: 4\nwrite: 3\nkitty: 1\nslow: 2\nroof: 1\nfireman: 1\nplay: 4\nquack quack: 1\ncup: 2\ntoast: 2\nmouse: 1\nso big: 2\nvanilla: 1\nsink: 2\nbaby: 3\nup: 4\nhen: 1\nwipe: 2\npenis: 0\nperson: 3\negg: 1\nbead: 1\nwork (action): 3\ndoctor: 1\nchicken (food): 2\nfarm: 1\nno: 2\npoor: 2\nlove: 4\nwe: 5\nyourself: 3\nneed: 4\nsleep: 3\nmuch: 2\nhelp: 3\nsidewalk: 2\ncat: 2\nbig: 3\nhide: 2\nsneaker: 2\nnurse: 1\nhello: 4\npeanut butter: 2\nthey: 5\nmoon: 1\nhave to: 3\npickle: 1\nnaughty: 1\nraisin: 1\nbuild: 2\nknock: 2\nstick: 2\nstrawberry: 1\nbabysitter: 1\ndump: 2\nshake: 2\nwindy: 2\npancake: 2\nthat: 5\nall gone: 2\nto: 5\nafter: 2\nstove: 2\nwolf: 1\nfirst: 2\npretzel: 1\npillow: 2\nglove: 1\ndaddy: 3\nread: 3\npush: 2\nsticky: 2\nsick: 2\nthose: 4\nfriend: 3\ndrive: 2\nsofa: 2\nnew: 2\ntiger: 1\nhungry: 2\nhead: 4",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564136,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 836,
+    "prompt_tokens": 1950,
+    "total_tokens": 2786,
+    "estimated_cost": 0.00016716000000000002
+  }
+}

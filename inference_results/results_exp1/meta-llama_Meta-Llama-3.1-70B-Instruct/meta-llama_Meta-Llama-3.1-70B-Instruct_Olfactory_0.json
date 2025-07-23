@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-c1c7571ec4bc4b22b428871591e1f30a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for smelling:\n\nplant: 4\ngrandma: 0\ngiraffe: 0\ngreen beans: 2\nmeat: 3\ncookie: 4\npicnic: 2\nduck: 0\ntissue: 0\nglue: 2\ngas station: 2\ncrayon: 0\nstroller: 0\nturtle: 0\nlawn mower: 1\ndump: 1\nstone: 0\ncircus: 0\nsalt: 2\nbird: 0\nfarm: 2\ncoffee: 4\npumpkin: 2\npuppy: 0\nmotorcycle: 1\ncheek: 0\nchase: 0\ncowboy: 0\ndoll: 0\npool: 0\njar: 0\ncoffee: 4\norange (description): 3\ntrain: 0\nbutter: 2\nfish (food): 2\npickle: 3\nshoe: 0\nsock: 0\nbanana: 3\ncereal: 2\nbaa baa: 0\nrooster: 0\ncamping: 1\ncoke: 2\negg: 2\nmuffin: 2\ndonkey: 0\npopcorn: 3\nchocolate: 4\nlunch: 2\ntime: 0\nnail: 0\nbicycle: 0\nfiretruck: 0\nbathtub: 0\nso big: 0\nbedroom: 0\ntummy: 0\nmilk: 2\nyogurt: 2\npark: 0\ncar: 0\nfeed: 0\nrain: 0\nam: 0\npoor: 0\nwork (place): 0\nsweep: 0\nslide (object): 0\nunder: 0\nboots: 0\nturkey: 2\nwalk: 0\nwash: 0\nknock: 0\ngrandpa: 0\nthirsty: 0\ndrop: 0\ncan (object): 0\nshovel: 0\nbubble: 0\nrefrigerator: 1\nmeow: 0\nloud: 0\nfirst: 0\nmoo: 0\nraisin: 2\npopsicle: 2\ntonight: 0\ncall: 0\nof: 0\nchicken (animal): 0\nover: 0\nliving room: 0\nshower: 0\ndoor: 0\nlemme: 0\nrocking chair: 0\nclock: 0\nthere: 0\nswing (object): 0\nstand: 0\njuice: 2\npencil: 0\nboo boo: 0\nanimal: 0\ncry: 0\nbecause: 0\ntry: 0\ncoat: 0\nthen: 0\nnapkin: 0\ndinner: 2\nhold: 0\nstop: 0\ntear: 0\nempty: 0\nhand: 0\nface: 0\nice: 0\nhigh: 0\nnight: 0\nhat: 0\ndonut: 3\nbee: 0\nsled: 0\nhi: 0\ncracker: 2\nbottom: 0\ncan (auxiliary): 0\ndowntown: 0\nzoo: 0\nwhy: 0\nbump: 0\ndry (description): 0\ncake: 3\nnow: 0\ngive: 0\npresent: 0\nmyself: 0\nbabysitter: 0\nnaughty: 0\nleg: 0\nsoda: 2\ncook: 2\ntuna: 2\nmoose: 0\nbroken: 0\nblack: 0\na: 0\nlittle: 0\nwater (not beverage): 0\ntoothbrush: 0\nnext to: 0\nquiet: 0\nkleenex: 0\nfireman: 0\nball: 0\ncockadoodledoo: 0\nschool: 0\ncomb: 0\nsome: 0\nsoup: 2\ntable: 0\npicture: 0\nfish (animal): 0\ngoing to: 0\ngum: 2\nswim: 0\nlet me: 0\nwet: 0\nsleepy: 0\nsneaker: 0\naway: 0\nsister: 0\nnecklace: 0\nbaby: 0\nbreakfast: 2\nstuck: 0\naround: 0\nthey: 0\nhurt: 0\near: 0\npotato chip: 3\nkiss: 0\nme: 0\ntowel: 0\nhear: 0\ngo potty: 0\nnot: 0\nbad: 0\ndid: 0\nback: 0\nshe: 0\ntrash: 1\nlamp: 0\npizza: 3\nhen: 0\napplesauce: 2\ndance: 0\nTV: 0\npony: 0\nclown: 0\nstore: 0\nhelicopter: 0\nneed: 0\nlip: 0\nfinish: 0\nsnack: 2\ngarden: 2\nbook: 0\nshopping: 0\nthis: 0\nhers: 0\nmine: 0\nbucket: 0\ntomorrow: 0\ndrive: 0\npretzel: 2\nbottle: 0\nmy: 0\nit: 0\nanother: 0\nmedicine: 2\ntricycle: 0\ndeer: 0\ngonna get you: 0\nbrush: 0\npancake: 2\nbabysitter's name: 0\nfrench fries: 3\njeans: 0\ntooth: 0\nhelp: 0\nhigh chair: 0\ntheir: 0\nsticky: 0\ngentle: 0\nstairs: 0\nshake: 0\nchurch: 0\nlollipop: 3\nbetter: 0\nhammer: 0\nkick: 0\nice cream: 4\nride: 0\ndog: 0\nfood: 2\ntoast: 2\nvitamins: 0\nhappy: 0\npush: 0\npudding: 2\nbasement: 0\nwind: 0\non: 0\nsoap: 2\nlisten: 0\nclap: 0\nbunny: 0\ncountry: 0\nflower: 3\ncrib: 0\nglass: 0\ncandy: 3\ncold: 0\npotty: 0\nsofa: 0\nthe: 0\njump: 0\narm: 0\npolice: 0\nup: 0\nso: 0\nkitchen: 2\nare: 0\nzipper: 0\ngoose: 0\npen: 0\nsandbox: 0\nyum yum: 0\npig: 0\ntoy: 0\nlamb: 0\nbus: 0\nowl: 0\nclean (action): 1\nwhite: 0\nvagina: 0\nstrawberry: 3\nthese: 0\nmelon: 2\ntoday: 0\ncheese: 2\nbye: 0\npea: 2\ncow: 0\nwho: 0\nsoft: 0\npet's name: 0\nbrown: 0\nhello: 0\nnose: 0\npeople: 0\nslow: 0\nabout: 0\nnight night: 0\nwashing machine: 0\ntray: 0\nwhere: 0\nknee: 0\ncarrot: 2\nwill: 0\npajamas: 0\nhim: 0\nrock: 0\ntired: 0\nteacher: 0\nglasses: 0\nsandwich: 2\ntights: 0\npeanut butter: 3\nsheep: 0\nbeach: 0\npenis: 0\npuzzle: 0\nyucky: 0\nabove: 0\nturn around: 0\nbread: 2\nplay dough: 0\nfit: 0\njelly: 2\nwindow: 0\nboat: 0\ntree: 0\nvacuum: 0\ngonna: 0\nhug: 0\npenguin: 0\nbeside: 0\nno: 0\noutside: 0\ngarage: 0\ntaste: 0\nsad: 0\nwolf: 0\nbe: 0\norange (food): 3\nelephant: 0\nankle: 0\npretend: 0\nblue: 0\nvanilla: 3\nplate: 0\nnoisy: 0\nold: 0\nan: 0\nbench: 0\nstove: 0\ndry (action): 0\nspaghetti: 2\ndo: 0\nsnowsuit: 0\nchicken (food): 2\nlick: 0\nfix: 0\nhamburger: 3\nblock: 0\nlong: 0\nhush: 0\nshorts: 0\napple: 3\nscared: 0\ntake: 0\nsprinkler: 0\nthank you: 0\nyou: 0\nsing: 0\nballoon: 0\nwe: 0\noven: 0\nvroom: 0\ngirl: 0\nfinger: 0\nout: 0\ntiny: 0\nshush: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562034,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2204,
+    "prompt_tokens": 1936,
+    "total_tokens": 4140,
+    "estimated_cost": 0.00265972
+  }
+}

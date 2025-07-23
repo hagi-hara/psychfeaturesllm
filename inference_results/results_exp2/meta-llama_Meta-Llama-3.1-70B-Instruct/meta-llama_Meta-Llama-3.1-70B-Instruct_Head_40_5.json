@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-ce8d2caa4bf54f4786804cf8e95a1d0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for each word with regard to head excluding mouth:\n\ngarage: 0.5\nthrow: 0.5\ntalk: 4.5\npumpkin: 1.5\nmuffin: 1.5\ncloud: 2.5\nmedicine: 2.5\ntray: 1.5\ncorn: 1.5\ndinner: 2.5\nfix: 2.0\nmake: 2.0\nbroken: 1.5\nwrite: 3.5\nbath: 2.0\nzipper: 1.0\nstreet: 2.0\njar: 1.5\ndark: 2.5\nboy: 2.5\neye: 4.5\ncarry: 1.5\nbutter: 1.5\nlike: 3.5\npolice: 2.5\nsick: 3.0\ntired: 3.5\nnice: 3.0\nbunny: 2.5\nlove: 4.0\npool: 2.5\nmoney: 2.0\nplant: 2.0\nlamp: 2.0\nnew: 2.5\nbear: 2.5\nlunch: 2.5\noven: 2.0\nput: 2.0\nhard: 2.0\npickle: 1.5\nbowl: 1.5\nsalt: 1.5\nsprinkler: 1.5\ncookie: 2.0\nwindow: 2.5\ncute: 3.0\ntrain: 2.5\npush: 2.0\nfarm: 2.0\nowl: 2.5\npuzzle: 2.5\ncar: 2.5\nwolf: 2.5\nsled: 2.0\ncoffee: 2.5\nbox: 1.5\ncry: 3.5\nhamburger: 2.5\nbrown: 2.0\nchurch: 2.5\nwalk: 2.0\nwill: 2.5\nbanana: 2.0\nsay: 4.0\negg: 1.5\nshoulder: 1.5\npenny: 1.5\nsing: 3.5\nnose: 4.0\nclown: 2.5\nspoon: 1.5\ngood: 3.0\ngame: 2.5\nsit: 2.0\nread: 3.5\nhot: 2.5\nlady: 2.5\nhungry: 3.0\napple: 2.0\ntree: 2.5\nbroom: 1.5\nfine: 2.5\ncomb: 1.5\nback: 2.0\ncheek: 4.0\ncook: 2.0\nbus: 2.5\nmilk: 2.0\nshower: 2.5\nrun: 2.5\ncracker: 1.5\nboat: 2.5\nanimal: 2.5\nbottle: 1.5\nchocolate: 2.5\nheavy: 2.0\ndance: 2.5\nmop: 1.5\nwipe: 1.5\ntickle: 3.5\nsee: 4.5\ncandy: 2.5\nsauce: 2.0\nnight: 2.5\nfriend: 3.5\nbig: 2.5\ncatch: 2.0\nyard: 2.0\nfirst: 2.5\nsweater: 1.5\npretty: 3.0\npudding: 2.0\nthink: 4.0\nlamb: 2.5\njacket: 1.5\npotty: 1.5\nlook: 4.0\nrip: 1.5\nsheep: 2.5\npotato: 1.5\ntuna: 1.5\nsweep: 1.5\nmommy: 3.5\nsoup: 2.0\ngive: 2.5\nskate: 2.0\ncircus: 2.5\npull: 2.0\nmoose: 2.5\nclose: 2.0\ngiraffe: 2.5\neat: 2.5\npresent: 2.5\ndrive: 2.5\nbird: 2.5\nclock: 2.5\nporch: 2.0\ntouch: 2.5\nzebra: 2.5\nhand: 1.5\nfood: 2.5\nlion: 2.5\nshoe: 1.5\nturkey: 2.5\ncouch: 2.0\npen: 2.0\nhat: 1.5\nsink: 1.5\ntruck: 2.5\npaint: 2.0\ndress: 1.5\ndoctor: 2.5\nbuy: 2.0\nsnack: 2.0\nhose: 1.5\nhurt: 3.0\ntime: 2.5\nspaghetti: 2.0\nold: 2.0\nknock: 2.0\nrock: 2.0\nmouth: N\nhelp: 3.0\npark: 2.5\ndrop: 2.0\nankle: 1.5\nchalk: 1.5\ngo: 2.5\ntry: 2.5\nmovie: 2.5\ngirl: 2.5\nnap: 2.5\nstone: 2.0\nwish: 3.5\ncoke: 2.0\nred: 2.0\nduck: 2.5\nstay: 2.5\nmonkey: 2.5\nglass: 2.0\nmouse: 2.0\nshow: 2.5\ntooth: 1.5\ncrayon: 1.5\nsister: 3.0\nwet: 2.0\nchin: 4.0\nbrush: 1.5\nstar: 2.5\nlick: 1.5\nflag: 2.0\ncoat: 1.5\nhen: 2.0\nblack: 2.0\nthirsty: 3.0\nbench: 2.0\nbasement: 2.0\npaper: 2.0\nsun: 2.5\npoor: 2.5\npenguin: 2.5\nbaby: 3.0\nbad: 2.5\ntoy: 2.0\ndiaper: 1.5\nant: 1.5\nballoon: 2.0\nlittle: 2.5\nhave: 2.5\ntape: 1.5\nbreak: 2.0\ncloset: 1.5\nstick: 1.5\nsleepy: 3.5\nalligator: 2.5\npretzel: 1.5\nbug: 1.5\nwould: 2.5\ndo: 2.5\nplate: 1.5\nswim: 2.5\nroof: 2.0\nwhite: 2.0\nbread: 2.0\ntowel: 1.5\nwind: 2.5\ntable: 2.0\naunt: 2.5\ngarden: 2.5\ntummy: 2.5\ntaste: 2.5\nball: 2.0\nfall: 2.5\nstrawberry: 2.0\nsleep: 3.5\nspill: 2.0\ncheese: 2.0\nstroller: 1.5\nfinger: 1.5\nyellow: 2.0\nhurry: 2.5\ndryer: 1.5\npicnic: 2.5\nsmile: 3.5\ncat: 2.5\nstop: 2.5\nteacher: 2.5\ncrib: 1.5\nperson: 2.5\npour: 2.0\ngentle: 2.5\nempty: 2.0\ndog: 2.5\nsock: 1.5\nstore: 2.5\nrefrigerator: 2.0\npick: 2.0\nstand: 2.0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989766,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1925,
+    "prompt_tokens": 2072,
+    "total_tokens": 3997,
+    "estimated_cost": 0.00124656
+  }
+}

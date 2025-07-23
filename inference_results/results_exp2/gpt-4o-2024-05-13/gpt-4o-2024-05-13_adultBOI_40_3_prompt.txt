@@ -1,0 +1,441 @@
+Words differ in the extent to which they refer to objects orthings that a human body can physically interact with. Somewords refer to objects or things that a human body can easilyphysically interact with, whereas other words refer to objectsor things that a human body cannot easily physically interactwith. The purpose of this experiment is to rate words as to theease with which a human body can physically interact withwhat they represent. For example, the word “chair” refers toan object or thing that a human body can easily physicallyinteract with (e.g., a human body can sit on a chair, or standon a chair, or move a chair from one part of a room to another),whereas the word “ceiling” refers to an object or thing that ahuman body cannot easily physically interact with (e.g., ahuman body could jump up and touch a ceiling). Any word (e.g., “chair”) that in your estimation refers to an object orthing that a human body can easily physically interact withshould be given a high body-object interaction rating (at theupper end of the numerical scale). Any word (e.g., “ceiling”) that in your estimation refers to an object or thing that a humanbody cannot easily physically interact with should be given alow body–object interaction rating (at the lower end of thescale).
+
+It is important that you base these ratings on how easily ahuman body can physically interact with what a word represents,and not on how easily it can be experienced by humansenses (e.g., vision, taste, etc.). Also, because words tend tomake you think of other words as associates, it is importantthat your ratings not be based on this and that you judge onlythe ease with which a human body can physically interact withwhat a word represents.
+
+Your body–object interaction ratings will be made on a 1 to7 scale. A value of 1 will indicate a low body–object interactionrating, and a value of 7 will indicate a high body–object interaction rating. Values of 2 to 6 will indicate intermediateratings. Please feel free to use the whole range of values providedwhen making your ratings. Choose the rating that ismost appropriate for each word. When making your ratings,try to be as accurate as possible, but do not spend too muchtime on any one word.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+spoon: 6.12
+street: 4.71
+sit: 3.43
+turtle: 4.82
+broom: 6.42
+story: 2.82
+sky: 1.57
+bath: 5.96
+duck: 5.04
+bunny: 4.50
+lick: 4.65
+big: 2.65
+bite: 3.72
+fix: 2.12
+chair: 6.88
+fall: 2.31
+egg: 6.07
+hamburger: 6.15
+scarf: 6.43
+sandwich: 6.33
+soup: 5.58
+stove: 5.75
+cow: 5.43
+finger: 6.00
+pudding: 5.96
+girl: 5.52
+quiet: 1.96
+cook: 3.92
+basement: 4.60
+star: 1.92
+nose: 6.00
+toe: 5.95
+strawberry: 6.36
+deer: 4.42
+naughty: 1.87
+sad: 2.17
+circus: 3.72
+paper: 5.70
+sheep: 4.50
+tiger: 3.87
+present: 4.32
+go: 1.54
+moon: 2.08
+horse: 5.88
+spill: 3.30
+cake: 6.09
+sticky: 2.85
+head: 5.48
+mad: 1.81
+noisy: 2.00
+couch: 6.26
+walk: 3.20
+tuna: 4.92
+old: 1.76
+pen: 6.64
+train: 5.33
+tear: 4.44
+other: 2.04
+pencil: 5.87
+taste: 2.48
+asleep: 2.62
+eat: 3.12
+lady: 5.32
+jar: 6.21
+diaper: 5.64
+jelly: 5.48
+camera: 6.09
+chin: 5.88
+flag: 5.85
+cut: 2.84
+bat: 5.04
+soap: 6.43
+carry: 2.80
+money: 6.29
+pig: 4.56
+puppy: 6.25
+broken: 2.08
+high: 1.30
+mommy: 5.43
+owl: 3.79
+sun: 2.09
+nap: 3.23
+cheese: 6.39
+salt: 5.26
+touch: 2.67
+wet: 4.04
+ride: 2.92
+dance: 4.44
+tongue: 5.93
+brother: 5.04
+button: 6.15
+poor: 1.87
+milk: 5.96
+share: 2.22
+first: 2.46
+hand: 6.44
+yellow: 1.65
+basket: 6.39
+slipper: 6.17
+cookie: 6.50
+get: 2.33
+squirrel: 4.35
+movie: 2.83
+school: 5.16
+leg: 5.88
+towel: 6.04
+look: 2.68
+blue: 1.40
+food: 6.47
+kitchen: 5.62
+wolf: 3.39
+beach: 5.67
+child: 5.70
+friend: 5.00
+sick: 2.62
+tape: 5.83
+roof: 3.79
+animal: 5.96
+cover: 4.25
+wait: 1.97
+pants: 6.33
+hug: 4.65
+purse: 6.29
+hold: 2.32
+mouth: 6.30
+think: 1.83
+box: 6.29
+drive: 2.57
+truck: 6.04
+white: 1.26
+knee: 5.82
+pretty: 1.57
+cereal: 5.96
+like: 1.46
+ankle: 5.83
+house: 5.78
+book: 6.48
+pizza: 6.54
+dryer: 5.56
+hit: 2.58
+gum: 6.36
+giraffe: 4.00
+bowl: 6.16
+would: 1.44
+yard: 4.25
+break: 2.04
+uncle: 5.39
+nail: 5.54
+tree: 5.84
+pour: 2.17
+tooth: 6.04
+ant: 4.84
+hammer: 6.17
+fine: 1.88
+refrigerator: 5.85
+butter: 6.22
+wash: 2.85
+country: 3.36
+cute: 1.65
+find: 2.40
+dark: 2.04
+throw: 3.59
+lunch: 6.04
+cold: 2.78
+doll: 6.43
+alligator: 3.61
+rip: 2.56
+green: 2.17
+breakfast: 6.17
+
+Please answer about all of the following words.
+
+penguin
+crayon
+red
+jeans
+bib
+stand
+dog
+room
+moose
+party
+bread
+church
+store
+write
+car
+black
+dirty
+scissors
+help
+hurt
+bird
+open
+smile
+table
+empty
+hose
+oven
+blow
+kiss
+pool
+face
+sleepy
+farm
+mouse
+happy
+shovel
+say
+corn
+jump
+chocolate
+fit
+dress
+sofa
+radio
+arm
+picture
+bed
+spaghetti
+juice
+chase
+toast
+hat
+slow
+heavy
+ice
+plate
+day
+hear
+stay
+bug
+little
+push
+zipper
+stroller
+blanket
+puzzle
+sleep
+zoo
+new
+hen
+shake
+lion
+sneaker
+bring
+wish
+bench
+lollipop
+morning
+eye
+bottle
+coffee
+coat
+wake
+build
+crib
+dish
+sing
+climb
+stop
+potato
+knock
+dump
+cup
+comb
+hurry
+sweep
+snack
+clock
+snow
+garage
+pony
+chalk
+nurse
+finish
+do
+sled
+flower
+sweater
+coke
+tired
+stone
+sock
+hard
+monkey
+people
+garden
+hot
+wipe
+trash
+mop
+kick
+brush
+cat
+stick
+pickle
+hungry
+teacher
+plant
+skate
+man
+rock
+splash
+elephant
+try
+pumpkin
+ball
+full
+glass
+game
+sprinkler
+bus
+tickle
+take
+hate
+listen
+nice
+toy
+sink
+have
+turkey
+daddy
+cracker
+shirt
+ear
+door
+tiny
+lamb
+sauce
+draw
+goose
+block
+candy
+bad
+soda
+pull
+night
+garbage
+yogurt
+brown
+apple
+person
+good
+pretzel
+read
+meat
+sister
+paint
+home
+napkin
+cheek
+back
+pick
+dinner
+shoulder
+picnic
+pillow
+cloud
+see
+potty
+bucket
+bear
+drawer
+swim
+drop
+pretend
+play
+be
+bump
+gentle
+porch
+rooster
+make
+time
+raisin
+soft
+balloon
+show
+grass
+thirsty
+muffin
+medicine
+zebra
+banana
+feed
+hair
+window
+glue
+close
+donkey
+boots
+will
+tray
+police
+penny
+closet
+tissue
+shoe
+fork
+give
+ladder
+belt
+love
+bee
+jacket
+clown
+talk
+tummy
+tractor
+park
+catch
+lamp
+cry
+baby
+awake
+buy
+shower
+boy
+wind
+clap
+vacuum
+run
+aunt
+boat
+meow
+put
+hide
+rain
+windy
+doctor

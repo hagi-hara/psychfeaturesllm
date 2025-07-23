@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-e93a97723df64cc8b0fb5d5ae1808165",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "build: 3\neat: 2\ngood: 1\nopen: 2\npour: 2\nrun: 1\nhome: 1\nwork: 3\nlove: 1\nshare: 1\nspill: 2\nwake: 1\ncarry: 2\nsleep: 1\ndraw: 2\nhave: 1\ndrink: 2\nclean: 2\nmake: 2\nclose: 2\nthink: 1\nwatch: 1\ncry: 1\ntry: 1\ncoat: 1\nhold: 2\nstop: 1\ntear: 2\nface: 1\nhigh: 1\nnight: 1\nlisten: 1\nclap: 2\nshake: 2\npush: 2\nkick: 2\nride: 1\nfood: 1\nhappy: 1\npudding: 1\nwind: 1\nlisten: 1\nclap: 2\nshake: 2\npush: 2\nkick: 2\nride: 1\njump: 2\narm: 1\nup: 1\nso: 1\nkitchen: 1\nare: 1\ngoose: 1\npen: 1\nfit: 1\ntree: 1\nturn around: 1\ntake: 1\nfix: 2\nlick: 1\nlong: 1\nshorts: 1\nscared: 1\nsprinkler: 1\nthank you: 1\nsing: 2\nwe: 1\nout: 1\ntiny: 1\nshush: 1",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723563106,
+  "model": "Qwen/Qwen2-72B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 369,
+    "prompt_tokens": 1948,
+    "total_tokens": 2317,
+    "estimated_cost": 0.00137501
+  }
+}

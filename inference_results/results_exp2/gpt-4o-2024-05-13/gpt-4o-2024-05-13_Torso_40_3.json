@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJOYS1MjhQR5eoRzEf53a2JER1rG",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "penguin: 0.32\ncrayon: 0.35\nred: 0.26\njeans: 1.11\nbib: 1.29\nstand: 2.20\ndog: 1.85\nroom: 1.62\nmoose: 0.36\nparty: 1.75\nbread: 1.22\nchurch: 1.70\nstore: 1.70\nwrite: 0.35\ncar: 2.67\nblack: 0.50\ndirty: 2.43\nscissors: 0.35\nhelp: 1.55\nhurt: 1.35\nbird: 0.00\nopen: 0.25\nsmile: 1.35\ntable: 2.84\nempty: 0.00\nhose: 0.32\noven: 0.32\nblow: 0.06\nkiss: 0.35\npool: 2.11\nface: 0.37\nsleepy: 3.12\nfarm: 1.62\nmouse: 0.32\nhappy: 1.35\nshovel: 0.35\nsay: 0.05\ncorn: 1.22\njump: 1.85\nchocolate: 1.22\nfit: 1.00\ndress: 1.29\nsofa: 3.62\nradio: 0.29\narm: 0.21\npicture: 0.55\nbed: 3.19\nspaghetti: 1.22\njuice: 1.50\nchase: 1.85\ntoast: 1.22\nhat: 0.05\nslow: 0.00\nheavy: 3.63\nice: 3.63\nplate: 1.22\nday: 0.00\nhear: 0.00\nstay: 1.55\nbug: 0.00\nlittle: 1.55\npush: 1.85\nzipper: 1.11\nstroller: 2.05\nblanket: 2.95\npuzzle: 0.35\nsleep: 3.12\nzoo: 1.62\nnew: 0.00\nhen: 0.32\nshake: 1.35\nlion: 0.35\nsneaker: 0.39\nbring: 2.05\nwish: 1.35\nbench: 2.84\nlollipop: 1.22\nmorning: 0.00\neye: 0.37\nbottle: 1.50\ncoffee: 1.50\ncoat: 1.29\nwake: 3.12\nbuild: 0.35\ncrib: 3.19\ndish: 1.22\nsing: 0.05\nclimb: 1.85\nstop: 1.55\npotato: 1.22\nknock: 0.35\ndump: 0.00\ncup: 1.22\ncomb: 0.05\nhurry: 1.55\nsweep: 0.91\nsnack: 1.22\nclock: 0.29\nsnow: 2.43\ngarage: 1.62\npony: 0.36\nchalk: 0.35\nnurse: 1.70\nfinish: 0.00\ndo: 0.00\nsled: 2.60\nflower: 0.65\nsweater: 1.29\ncoke: 1.50\ntired: 3.12\nstone: 0.00\nsock: 1.11\nhard: 0.00\nmonkey: 0.36\npeople: 1.00\ngarden: 1.62\nhot: 2.41\nwipe: 1.37\ntrash: 1.62\nmop: 0.91\nkick: 1.26\nbrush: 0.05\ncat: 1.85\nstick: 0.35\npickle: 1.22\nhungry: 1.60\nteacher: 1.70\nplant: 0.65\nskate: 1.85\nman: 1.62\nrock: 0.00\nsplash: 2.11\nelephant: 0.36\ntry: 0.00\npumpkin: 1.22\nball: 1.85\nfull: 0.00\nglass: 1.22\ngame: 0.00\nsprinkler: 2.11\nbus: 2.67\ntickle: 1.85\ntake: 0.00\nhate: 1.16\nlisten: 0.00\nnice: 1.00\ntoy: 1.35\nsink: 1.22\nhave: 0.00\nturkey: 1.22\ndaddy: 1.95\ncracker: 1.35\nshirt: 1.29\near: 0.37\ndoor: 0.32\ntiny: 0.00\nlamb: 0.60\nsauce: 1.22\ndraw: 0.35\ngoose: 0.00\nblock: 0.35\ncandy: 1.22\nbad: 1.10\nsoda: 1.50\npull: 1.85\nnight: 0.00\ngarbage: 1.62\nyogurt: 1.50\nbrown: 0.00\napple: 1.22\nperson: 1.00\ngood: 1.00\npretzel: 1.22\nread: 0.35\nmeat: 1.22\nsister: 1.75\npaint: 0.35\nhome: 1.62\nnapkin: 1.22\ncheek: 0.37\nback: 3.68\npick: 0.35\ndinner: 1.22\nshoulder: 0.37\npicnic: 1.62\npillow: 3.19\ncloud: 0.53\nsee: 0.00\npotty: 1.29\nbucket: 0.32\nbear: 0.36\ndrawer: 0.32\nswim: 2.11\ndrop: 0.00\npretend: 0.00\nplay: 0.00\nbe: 0.00\nbump: 1.35\ngentle: 0.00\nporch: 1.62\nrooster: 0.00\nmake: 0.00\ntime: 0.00\nraisin: 1.22\nsoft: 0.00\nballoon: 0.00\nshow: 0.00\ngrass: 0.65\nthirsty: 1.60\nmuffin: 1.22\nmedicine: 1.37\nzebra: 0.36\nbanana: 1.22\nfeed: 1.60\nhair: 0.37\nwindow: 0.32\nglue: 0.35\nclose: 0.25\ndonkey: 0.36\nboots: 0.39\nwill: 0.00\ntray: 0.32\npolice: 1.70\npenny: 0.00\ncloset: 1.62\ntissue: 0.05\nshoe: 0.39\nfork: 1.22\ngive: 0.00\nladder: 0.32\nbelt: 1.29\nlove: 1.35\nbee: 0.00\njacket: 1.29\nclown: 1.70\ntalk: 0.05\ntummy: 3.68\ntractor: 1.62\npark: 1.62\ncatch: 0.00\nlamp: 0.32\ncry: 1.35\nbaby: 1.75\nawake: 3.12\nbuy: 1.70\nshower: 2.95\nboy: 1.62\nwind: 0.53\nclap: 0.00\nvacuum: 1.62\nrun: 1.85\naunt: 1.70\nboat: 2.67\nmeow: 0.00\nput: 0.00\nhide: 0.00\nrain: 0.53\nwindy: 0.53\ndoctor: 1.70",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989174,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 1906,
+    "prompt_tokens": 2040,
+    "total_tokens": 3946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

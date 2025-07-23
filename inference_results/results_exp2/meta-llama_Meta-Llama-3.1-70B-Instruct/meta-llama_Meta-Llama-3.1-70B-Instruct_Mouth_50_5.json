@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-f3c4c262cf304908be6a6a251ae9f317",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words, using the mouth/throat action:\n\nbus: 0\nhat: 0\nnight: 0\ncoat: 0\nbat: 0\nred: 0\npick: 0\npencil: 0\ndeer: 0\nrun: 0\nnap: 0\nballoon: 0\ncrib: 0\nput: 0\nrip: 0\nsmile: 2\npark: 0\ncookie: 4\ntray: 0\nnice: 0\ndress: 0\nfirst: 0\nkitchen: 0\nmeat: 3\nempty: 0\nspaghetti: 4\ncomb: 0\npush: 0\nshower: 0\nbee: 0\nscissors: 0\npurse: 0\nbelt: 0\ngentle: 0\ncandy: 4\nshow: 0\npumpkin: 3\nwish: 0\nteacher: 0\npaint: 0\nwet: 0\nstay: 0\npuppy: 0\nwould: 0\ncracker: 4\npillow: 0\negg: 3\nhose: 0\njacket: 0\ncloud: 0\nclown: 0\nthink: 0\nlook: 0\ntrain: 0\npotty: 0\ntape: 0\nyogurt: 4\ncook: 0\ncheek: 2\nstroller: 0\npizza: 4\nanimal: 0\nswim: 0\nsing: 2\nhard: 0\nstop: 0\nold: 0\nmilk: 4\nchin: 2\nfarm: 0\nlike: 0\nfine: 0\nbig: 0\nbucket: 0\nbroom: 0\nskate: 0\nslipper: 0\ncouch: 0\nlion: 0\ntummy: 2\nbroken: 0\nthrow: 0\nclose: 0\nwolf: 0\njeans: 0\nhead: 0\nhurry: 0\neye: 0\nhave: 0\ndrop: 0\nspill: 0\nowl: 0\npretty: 0\ngiraffe: 0\nthirsty: 4\nchurch: 0\nblack: 0\ncoffee: 4\ncircus: 0\nbird: 0\nstick: 0\nbad: 0\ntaste: 4\nnapkin: 0\nwalk: 0\nsled: 0\njar: 0\nboots: 0\nsleep: 0\nboy: 0\nmoose: 0\nmommy: 0\ncry: 2\nbowl: 3\ntuna: 4\nzebra: 0\nsnow: 0\ncereal: 4\ntongue: 4\nfork: 0\ntowel: 0\ngarage: 0\npicnic: 0\nradio: 0\npresent: 0\nsay: 2\nankle: 0\nbuy: 0\nnose: 2\nbe: 0\ngirl: 0\nhungry: 4\nwhite: 0\nhair: 0\nlick: 4\nperson: 0\nmedicine: 0\nknock: 0\nfix: 0\ncamera: 0\napple: 4\nhelp: 0\nother: 0\ndrive: 0\nlunch: 4\nwrite: 0\nsoup: 4\nstand: 0\nduck: 0\ngood: 0\nmouse: 0\ncloset: 0\npenguin: 0\nsit: 0\nplant: 0\ncake: 4\nwill: 0\ndish: 3\ntissue: 0\nbath: 0\ndoctor: 0\nknee: 0\nhen: 0\nsick: 0\nrain: 0\npool: 0\nporch: 0\nsnack: 4\npoor: 0\nturtle: 0\ngo: 0\ntalk: 2\ncorn: 3\nmouth: 4\nbear: 0\nstory: 0\nnew: 0\nflower: 0\nsee: 0\nshovel: 0\ndinner: 4\nalligator: 0\npants: 0\ncat: 0\ntime: 0\ntable: 0\nsister: 0\nfood: 4\ngarden: 0\ncatch: 0\nstore: 0\ngive: 0\nfriend: 0\nplate: 3\npuzzle: 0\nsweep: 0\nhand: 0\nmuffin: 4\nblock: 0\ngarbage: 0\ntouch: 0\nstar: 0\neat: 4\ndog: 0\npull: 0\nsprinkler: 0\nlove: 0\ndark: 0\ndonkey: 0\nbox: 0\nfall: 0\nmovie: 0\ncute: 0\ntired: 0\noven: 0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989749,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1176,
+    "prompt_tokens": 2292,
+    "total_tokens": 3468,
+    "estimated_cost": 0.0009975600000000002
+  }
+}

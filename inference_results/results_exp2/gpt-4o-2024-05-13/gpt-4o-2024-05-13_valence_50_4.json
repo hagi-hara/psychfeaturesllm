@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJP2xzvJTAH0YhjN3XmGx56JKP3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "lollipop: 3\ntired: 6\nstick: 5\ntrain: 4\ndoor: 4\nant: 5\npretend: 3\nbreakfast: 3\ncrib: 3\nradio: 3\nbig: 4\npuppy: 2\nchin: 4\nwipe: 4\nmouth: 4\nwindow: 4\nbreak: 6\nred: 3\nslow: 5\nleg: 4\nturkey: 4\ndinner: 3\nhappy: 2\nhammer: 4\ngreen: 3\nawake: 3\nspaghetti: 3\npotato: 4\ngentle: 3\ngirl: 3\nchair: 4\nnew: 3\njuice: 3\ntuna: 4\ncircus: 3\nhouse: 3\ngiraffe: 3\ntoast: 3\nblanket: 3\nbring: 4\nmoon: 3\npaint: 3\npolice: 4\nstreet: 4\nbasket: 4\ntime: 4\ngarbage: 7\nbread: 3\npaper: 4\nfull: 3\nlady: 3\nhome: 3\nboy: 3\nhate: 7\nsoap: 4\nsee: 3\nsheep: 3\nheavy: 5\nswim: 3\nwould: 4\ndryer: 4\ncar: 4\ntruck: 4\nbird: 3\nzipper: 4\nspill: 5\ncoke: 3\ngame: 3\nelephant: 3\nclose: 4\napple: 3\nsay: 3\npickle: 4\ncloud: 3\nchocolate: 3\nflag: 3\nfix: 4\nride: 3\nbench: 4\ncloset: 4\npillow: 3\nsun: 2\nsalt: 4\nsprinkler: 3\ndraw: 3\nparty: 3\nnapkin: 4\nball: 3\ncomb: 4\nbuy: 3\nsmile: 2\nhair: 3\ntake: 4\nmeat: 3\nblow: 3\nstop: 4\nsandwich: 3\nstrawberry: 3\ntalk: 3\nstand: 4\nfinger: 4\npark: 3\nempty: 6\ndrop: 5\npoor: 6\nfind: 3\nflower: 3\near: 4\ngoose: 4\nbe: 3\nmoose: 4\ndark: 5\nsquirrel: 3\nzebra: 3\nvacuum: 4\nsoda: 3\nsock: 4\nshower: 3\ncereal: 3\nstroller: 4\nroof: 4\nsky: 3\nhit: 6\nbath: 3\nwish: 3\nhead: 4\ncatch: 4\nbrother: 3\nsoft: 3\nbuild: 3\ndonkey: 4\ndirty: 5\nget: 4\ndress: 3\nlook: 3\nmonkey: 3\njar: 4\npretzel: 3\nice: 4\ndance: 3\nhide: 4\nchase: 4\nuncle: 3\nrefrigerator: 4\nhat: 4\nchild: 3\nbottle: 4\nlion: 3\ncoat: 4\nshovel: 4\nsneaker: 4\nmuffin: 3\nlamp: 4\ntape: 4\nhug: 2\ntickle: 3\nchalk: 4\nfork: 4\nbook: 3\nput: 4\ndump: 5\nbowl: 4\nclimb: 3\ntiny: 3\npotty: 4\nsofa: 3\nchurch: 4\nwind: 3\nbunny: 3\nhear: 3\nfirst: 3\njelly: 3\nlike: 3\nshare: 3\nrun: 3\nread: 3\nknock: 4\nwhite: 3\nhand: 4\nbelt: 4\nnap: 3\nfood: 3\ncountry: 3\nwill: 3\njeans: 4\npush: 4\ndrive: 4\nbat: 4\nhigh: 4\nalligator: 4\nteacher: 4\ndiaper: 4\nclown: 3\npizza: 3\nsoup: 3\nstay: 4\npick: 4\nyellow: 3\npants: 4\ntry: 4\njacket: 4\nkitchen: 3\nsnow: 3\ngarden: 3\nshoe: 4\nbite: 5\nbib: 4\nlittle: 3\nbed: 3\nhose: 4\npeople: 3\nhard: 5\ntear: 5\nsit: 4\nyard: 4",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989204,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 1148,
+    "prompt_tokens": 2374,
+    "total_tokens": 3522,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

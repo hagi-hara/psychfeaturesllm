@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-1487407c8935432790274e765c3ea318",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are my ratings for the words you provided, in the format \"word: number\":\n\nbasket: 0.20\nnight: 0.15\nchin: 0.10\nsled: 0.40\ntime: 0.00\nwhite: 0.00\ncrayon: 0.10\ncat: 2.20\ndoctor: 0.50\nhorse: 2.00\nsit: 0.00\nraisin: 2.50\nfriend: 0.60\nbreak: 0.00\ngarden: 2.80\ncrib: 0.30\npour: 0.40\nsprinkler: 1.20\nlittle: 0.00\nrip: 0.00\nhammer: 0.20\nstreet: 0.40\nfind: 0.00\nchase: 0.30\ntaste: 0.00\ncar: 0.60\nsink: 0.40\nschool: 0.80\nhold: 0.00\nbee: 2.00\ntree: 2.40\nrefrigerator: 1.00\ntalk: 0.00\nwait: 0.00\nsoft: 0.20\ntake: 0.00\ncouch: 0.40\ncute: 0.40\nhot: 1.20\nstay: 0.00\negg: 2.20\nman: 0.60\nopen: 0.00\nperson: 0.80\nbutton: 0.00\nbath: 2.00\nbrother: 0.60\ntowel: 1.20\nsalt: 2.00\ntoy: 0.60\ngoose: 2.20\nhome: 1.00\ntummy: 1.40\nfirst: 0.00\nwet: 1.00\nclown: 0.60\nbaby: 1.20\nshoulder: 0.20\nwind: 0.60\nhelp: 0.00\nhair: 0.80\nsee: 0.00\nbucket: 0.40\ngiraffe: 2.00\nrock: 0.40\nhat: 0.20\nsheep: 2.20\ntray: 0.40\nshower: 2.20\nvacuum: 0.80\ndrive: 0.60\nfarm: 2.20\ncry: 0.40\ncook: 2.60\nfood: 3.20\nbird: 2.40\nsnow: 1.00\nbroom: 0.80\nbuild: 0.20\nyard: 1.20\nhave: 0.00\nsock: 0.20\ntiger: 2.20\nquiet: 0.20\nlamp: 0.40\nshovel: 0.60\npony: 2.20\nbus: 0.60\nbench: 0.20\naunt: 0.60\nyogurt: 2.20\npretty: 0.40\nlisten: 0.00\ncup: 0.80\npudding: 2.60\nlamb: 2.40\nbed: 0.80\npool: 1.20\nowl: 2.00\nsweater: 0.40\nwill: 0.00\nsky: 0.20\nturkey: 2.40\npenny: 0.00\nbox: 0.20\nstand: 0.00\ndance: 0.40\nbump: 0.20\nkiss: 0.40\nstrawberry: 3.20\nzoo: 2.20\npillow: 0.80\nbread: 2.60\njar: 0.80\nbunny: 2.40\nrain: 1.20\nhen: 2.20\nleg: 0.20\nbottle: 1.20\nmommy: 1.00\nhurt: 0.40\nbug: 1.00\ntable: 0.60\nbear: 2.40\njeans: 0.20\nsandwich: 2.80\nnaughty: 0.20\nmedicine: 1.20\nmovie: 0.40\nlady: 0.60\nnapkin: 0.80\ntiny: 0.20\ndump: 0.60\nslow: 0.00\ngirl: 0.80\njump: 0.20\nfinger: 0.20\nwalk: 0.00\nelephant: 2.20\nglue: 0.20\ndo: 0.00\nbutter: 2.20\nboy: 0.80\nskate: 0.40\nbe: 0.00\nbite: 0.40\ncereal: 2.20\napple: 2.80\nbig: 0.00\nice: 1.00\nwindow: 0.20\nradio: 0.20\nsticky: 0.40\nbrush: 0.40\nhard: 0.00\nwrite: 0.00\nbreakfast: 2.80\nyellow: 0.20\nant: 1.00\nporch: 0.80\nglass: 0.40\nnew: 0.00\nwish: 0.00\ncamera: 0.20\nduck: 2.20\npick: 0.20\nsad: 0.20\nblow: 0.40\npuppy: 2.40\npoor: 0.20\nhear: 0.00\nhurry: 0.20\npicture: 0.20\ntickle: 0.40\nmorning: 0.40\nclimb: 0.20\njacket: 0.40\nsleepy: 0.20\ncake: 3.00\nclock: 0.20\nawake: 0.00\nbrown: 0.20\nshake: 0.40\nshoe: 0.40\nput: 0.00\ndoor: 0.20\nfull: 0.20\ngarbage: 2.60\nday: 0.20\ngood: 0.20\ndoll: 0.60\nknee: 0.20\nsister: 0.60\nmake: 0.00\npizza: 3.20\nmeow: 2.20\nzebra: 2.00\nblanket: 0.80\ndaddy: 1.00\nteacher: 0.60\nlike: 0.00\ngrass: 1.20\npotato: 2.00\npresent: 0.40\nthrow: 0.20\nstone: 0.40\nstove: 1.20\nmouse: 1.00\nmeat: 2.60\nhouse: 1.00\nkick: 0.20\nspill: 0.40\nrun: 0.20\nfall: 0.20\nlick: 0.40\nladder: 0.40\nscissors: 0.20\ngum: 2.00\nmonkey: 2.20\nlove: 0.20\nclose: 0.00\ncover: 0.20\nhappy: 0.20\nnoisy: 0.20\nmoon: 0.20\narm: 0.20\ndark: 0.00\ngive: 0.00\ncloud: 0.20\ntooth: 0.40\nsplash: 0.40\ntape: 0.20\nsleep: 0.20\npickle: 2.20\nscarf: 0.40\nwould: 0.00\nsoup: 2.80\nbasement: 0.20\nfinish: 0.00\nhamburger: 3.00\npig: 2.20\nclap: 0.20\nankle: 0.20\ntoast: 2.20\npaint: 0.40\ngarage: 0.40\nmuffin: 2.40\nblock: 0.20\npuzzle: 0.20\nkitchen: 1.40\ndress: 0.40\nbroken: 0.20\nsmile: 0.20\nturtle: 2.00\ntrain: 0.60\nbanana: 2.60\ntongue: 0.40\nsneaker: 0.40\ntear: 0.20\npolice: 0.20\nboots: 0.40\nswim: 0.20\nstop: 0.00\nread: 0.00\ndrawer: 0.20\nchocolate: 3.20\neat: 0.00\ntired: 0.20\ncloset: 0.20\ncoffee: 2.40\nshare: 0.00\ncracker: 2.00\npants: 0.20\nstroller: 0.40\npurse: 0.20\nget: 0.00\ncarry: 0.00\ncheek: 0.20\ntouch: 0.00\njelly: 2.20\nbat: 0.20\npen: 0.20\ncoke: 2.00\nasleep: 0.00\nbowl: 0.80\nbuy: 0.00\nparty: 0.40\nmoney: 0.00\nspoon: 0.80\nhug: 0.40\nthirsty: 0.40\ncandy: 2.80\ngo: 0.00\nother: 0.00\ntoe: 0.20\nchurch: 0.20\nblack: 0.00\ndiaper: 0.40\nrooster: 2.20\nbelt: 0.20\nlion: 2.20\npicnic: 2.20",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989477,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2259,
+    "prompt_tokens": 1843,
+    "total_tokens": 4102,
+    "estimated_cost": 0.00132749
+  }
+}

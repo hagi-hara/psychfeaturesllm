@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-9b747133adc84cc585a48ea4fb4e0cdb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "balloon: 5\npull: 4\nopen: 4\nsquirrel: 5\nfinger: 5\nstand: 4\nclimb: 4\ndark: 3\nvacuum: 5\nbanana: 5\npuppy: 5\nscissors: 5\nsoft: 3\nhair: 5\nkitchen: 5\ncoke: 5\ntummy: 4\ncook: 4\nchalk: 5\npretend: 2\npoor: 2\nbath: 5\nfeed: 4\npotato: 5\nhappy: 3\nbe: 2\nget: 2\nblow: 4\ndiaper: 5\nbat: 5\nbig: 3\nbroken: 3\ntree: 5\npenny: 5\nlamb: 5\npresent: 4\nsheep: 5\ntoy: 5\nhungry: 3\nzebra: 5\nmilk: 5\nhen: 5\nwrite: 4\nbunny: 5\nshow: 4\ndeer: 5\nhome: 5\ntiger: 5\ncup: 5\nhat: 5\ncold: 3\ndraw: 4\nwake: 3\nhigh: 3\nhead: 5\nstove: 5\nporch: 5\ngirl: 5\nstar: 5\ncry: 3\nwash: 4\npig: 5\ncamera: 5\npicture: 5\nsandwich: 5\nsticky: 4\ndrop: 4\nbaby: 5\nsun: 5\nsoup: 5\npickle: 5\nfind: 2\ntear: 4\nsweater: 5\nhot: 3\nman: 5\nfriend: 4\nlittle: 3\nbreak: 4\nwipe: 4\nsoap: 5\nwhite: 3\nrooster: 5\nmouse: 5\nfine: 2\nlisten: 3\ncatch: 4\nhouse: 5\nhard: 3\nwind: 4\npolice: 5\ntrain: 5\nhold: 4\nknock: 4\nbench: 5\ndish: 5\nrock: 5\nthrow: 4\nwalk: 4\nteacher: 5\nmoon: 5\nlike: 2\nspoon: 5\nfork: 5\nbee: 5\nmop: 5\npark: 5\nwet: 3\npick: 4\nstop: 4\nquiet: 2\ndaddy: 5\ncookie: 5\ntray: 5\nblue: 3\nfinish: 2\neye: 5\nbear: 5\nglue: 5\nroom: 5\nspill: 4\nmommy: 5\nback: 4\nchurch: 5\ntractor: 5\nstreet: 5\nsplash: 4\ngood: 2\nsleep: 3\nhurry: 2\nwolf: 5\nankle: 5\neat: 4\nfit: 3\nboy: 5\nscarf: 5\nturtle: 5\ntake: 2\nlick: 4\nplate: 5\ndryer: 5\nclown: 5\nchin: 5\nlamp: 5\nmouth: 5\nlady: 5\nslipper: 5\nstroller: 5\npillow: 5\ntooth: 5\nnap: 3\narm: 5\nchocolate: 5\nmeat: 5\nbite: 4\ncomb: 5\nwould: 2\ncrayon: 5\ncandy: 5\nyellow: 3\ndrawer: 5\npaper: 5\nstone: 5\nladder: 5\nbroom: 5\nfarm: 5\nfall: 4\ndance: 4\ngreen: 3\ntry: 2\nlunch: 5\nice: 5\nspaghetti: 5\nnoisy: 3\npeople: 5\nboots: 5\ncoat: 5\ngarbage: 5\nmad: 2\nparty: 4\nsick: 3\nsauce: 5\nradio: 5\ntongue: 5\nleg: 5\nhurt: 3\nzipper: 5\ncheese: 5\negg: 5\nflower: 5\nbutton: 5\npool: 5\nsing: 4\ndog: 5\nflag: 5\nread: 4\ncracker: 5\ncircus: 5\nbrother: 5\ndump: 5\nbutter: 5\nface: 5\nsoda: 5\nwindy: 3\ncouch: 5\ntalk: 4\nlook: 4\nlion: 5\nhose: 5\nclock: 5\npizza: 5\ntruck: 5\nbowl: 5\nturkey: 5\nsee: 4",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989439,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1153,
+    "prompt_tokens": 2701,
+    "total_tokens": 3854,
+    "estimated_cost": 0.0010824300000000001
+  }
+}

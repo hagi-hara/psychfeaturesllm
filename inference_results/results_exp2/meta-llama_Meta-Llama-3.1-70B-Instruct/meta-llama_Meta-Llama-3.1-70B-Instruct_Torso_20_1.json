@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-e28f36803d9e4aa5b6c2722af49b73c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to the torso:\n\nfine: 1.2\ntry: 1.5\ntickle: 2.5\nchin: 0.5\nthink: 0.8\npull: 2.2\ndish: 0.5\ndog: 0.8\ntissue: 0.5\ncover: 1.8\nshower: 2.8\npick: 1.2\ntaste: 0.5\nkitchen: 0.8\nshoe: 0.5\nhamburger: 1.2\nbee: 0.5\nhelp: 1.5\nfood: 1.2\nyogurt: 0.8\nbump: 2.2\nteacher: 0.8\nthirsty: 1.2\ntouch: 1.5\nhat: 0.5\nbug: 0.5\nsnack: 1.2\ncloud: 0.5\ntiny: 0.5\ndress: 1.2\nbowl: 0.8\nfinger: 0.5\nlike: 1.2\npillow: 2.2\nhand: 0.8\nmoon: 0.5\nmop: 1.2\nlamb: 0.8\nhungry: 1.5\njeans: 1.2\nsandwich: 1.2\ngarbage: 0.8\nclock: 0.5\nhurry: 1.5\nwalk: 2.5\neat: 2.2\nmedicine: 1.2\npretty: 1.2\nboy: 0.8\nnose: 0.5\ncloset: 0.8\nhouse: 1.2\ncamera: 0.5\nbrush: 0.8\nslow: 1.2\npeople: 1.5\nblack: 0.5\npickle: 0.8\ncoffee: 1.2\nduck: 0.8\nsee: 1.2\npuppy: 1.2\nwhite: 0.5\nwould: 1.2\ndiaper: 1.2\nsquirrel: 0.8\nchocolate: 1.2\nuncle: 0.8\nscarf: 1.2\nbasement: 0.8\nface: 1.2\nshoulder: 2.5\npotty: 1.2\nsleepy: 2.2\nempty: 1.2\nstay: 1.5\nstar: 0.5\nbroom: 1.2\ngiraffe: 0.8\nhave: 1.2\npark: 1.5\nopen: 1.5\ntoy: 1.2\ncow: 0.8\ngive: 1.5\nhen: 0.8\nfarm: 1.2\nmeow: 0.5\nhold: 2.2\ncircus: 1.5\ncorn: 0.8\nflower: 1.2\nsit: 2.5\ndrop: 2.2\nmeat: 1.2\nsky: 0.5\nlady: 0.8\nballoon: 1.2\nhate: 1.5\nmommy: 1.2\ndance: 2.5\nsoft: 1.5\nporch: 1.2\ntruck: 1.2\ntear: 1.5\nraisin: 0.8\ndraw: 1.2\nschool: 1.2\nred: 0.5\nhorse: 1.2\nlisten: 1.5\ncatch: 2.2\ncoat: 1.5\nsofa: 1.5\nsay: 1.2\nbook: 0.8\ntime: 1.2\nhose: 1.2\nplant: 1.2\nrefrigerator: 1.2\nchurch: 1.2\nbird: 0.8\nclap: 1.5\nrock: 1.2\ntrain: 1.2\ndrive: 2.5\nstick: 1.5\ngarage: 1.2\nwill: 1.2\ntrash: 0.8\nankle: 2.2\nzebra: 0.8\nmouth: 1.2\nbite: 1.5\npoor: 1.2\nlion: 1.2\nbath: 2.2\ndoll: 1.2\nheavy: 2.2\nnurse: 1.2\nbeach: 1.5\nknee: 2.5\nbad: 1.2\nsalt: 0.8\nsad: 1.5\ndoctor: 1.2\ncat: 0.8\ntake: 1.5\nzipper: 1.2\nbig: 1.2\nwake: 2.2\nshare: 1.5\nrooster: 0.8\nturkey: 1.2\ncandy: 1.2\nturtle: 0.8\nblow: 1.5\npresent: 1.2\nstop: 1.5\nclose: 1.5\nwolf: 1.2\nboat: 1.2\nmake: 1.5\ncracker: 1.2\ndrawer: 1.2\nglass: 0.8\npen: 0.8\ngum: 0.8\nshake: 2.2\nladder: 2.2\nsick: 2.2\nnight: 1.5\nsing: 2.2\nread: 1.2\nstove: 1.2\npencil: 0.8\ntoe: 2.2\nput: 1.5\nball: 1.5\nmoose: 0.8\narm: 2.5\nroom: 1.2\njuice: 1.2\nbread: 1.2\npicture: 1.2\npenguin: 0.8\ndark: 1.2\nwind: 1.5\nnapkin: 1.2\nride: 2.5\ntummy: 2.2\nman: 1.2\nradio: 0.8\nwipe: 1.5\nclown: 1.2\nhurt: 2.2\ncereal: 1.2\ncookie: 1.2\nrun: 3.0\nbuild: 2.2\nbuy: 1.5\ntuna: 1.2\nstone: 1.2\ncook: 1.5\ntongue: 1.2\ngreen: 0.8\nthrow: 2.5\nquiet: 1.5\nbox: 1.2\nlook: 1.5\nflag: 1.2\ntape: 1.2\nother: 1.2\nawake: 2.2\nbutter: 1.2\nroof: 1.2\nfirst: 1.2\nyard: 1.2\nchild: 1.2\nbreakfast: 1.5\ncut: 2.2\nhit: 2.5\nstreet: 1.5\nhear: 1.5\nsweater: 1.5\ndo: 1.5\nfeed: 1.5\nlamp: 1.2\nsock: 1.2\ngood: 1.5\nsoup: 1.5\nhug: 2.5\ncoke: 1.2\nshirt: 1.5\nstore: 1.2\nplate: 1.2\noven: 1.2\ntray: 1.2\nbreak: 2.2\nfriend: 1.5\nbench: 1.2\ngentle: 1.5\npaper: 0.8\nsoda: 1.2\ncup: 1.2\nowl: 0.8\ndeer: 0.8\nelephant: 1.2\nsneaker: 1.2\nsister: 1.2\nfinish: 1.5\ncheese: 1.2\nwish: 1.5\nglue: 1.2\nnice: 1.5\near: 0.8\ncar: 1.5\nfull: 2.2\nmonkey: 1.2\nbroken: 1.5\npotato: 1.2\ndaddy: 1.2\npumpkin: 1.2\nbe: 1.2\nvacuum: 1.2\nblue: 0.8\nant: 0.5\napple: 1.2\npaint: 1.5\nkick: 2.5\nlove: 2.2\nsun: 1.5\nbed: 2.2\nhappy: 2.2\nmovie: 1.5\npizza: 1.5\ngo: 2.5\nbutton: 1.2\nfind: 1.5\nscissors: 1.2\ntalk: 1.5\npretend: 1.5\npenny: 0.8\nsink: 1.2\nstrawberry: 1.2\ncouch: 2.2\nsmile: 2.2\nfork: 1.2\naunt: 1.2\npour: 1.5\nmad: 1.5\neye: 0.8\nchair: 1.5\nstand: 2.5\nclimb: 2.5\npig: 1.2\nbaby: 1.5\negg: 1.2\ngoose: 0.8\nasleep: 2.2\nleg: 2.5\npony: 1.2\npretzel: 1.2\nchalk: 1.2\nspill: 1.5\nbear: 1.2\npuzzle: 1.5\nyellow: 0.8\ntiger: 1.2\nbucket: 1.2\ntooth: 1.2\nnoisy: 1.5\nlunch: 1.5\nplay: 2.2\npolice: 1.5\nanimal: 1.2\nhard: 2.2\nmouse: 0.8\nlittle: 1.2\nnew: 1.2\nbunny: 1.2\npurse: 1.2\nbelt: 1.2\nget: 1.5\ndinner: 1.5\nice: 1.2\nstory: 1.5\ncrib: 1.2\njump: 2.5\nkiss: 2.2\nshow: 1.5\nsnow: 1.2\nsplash: 2.2\nfall: 2.5\nmilk: 1.2\njar: 1.2\nsoap: 1.2\nday: 1.5\nnail: 1.2\ngirl: 1.2\nknock: 1.5\nmuffin: 1.2\ndump: 1.5\nsled: 2.2",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989362,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2554,
+    "prompt_tokens": 1645,
+    "total_tokens": 4199,
+    "estimated_cost": 0.00139995
+  }
+}

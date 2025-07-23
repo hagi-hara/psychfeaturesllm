@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-3ccfb6e82cf84afab083ed2f0a209907",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for each word using the foot/leg action:\n\n1. boy: 0\n2. wipe: 0\n3. sing: 0\n4. ice cream: 0\n5. mine: 0\n6. babysitter: 0\n7. TV: 0\n8. hurt: 0\n9. scissors: 0\n10. under: 0\n11. nurse: 0\n12. nail: 0\n13. go: 5\n14. tooth: 0\n15. picture: 0\n16. beside: 0\n17. stay: 0\n18. lemme: 0\n19. garbage: 0\n20. much: 0\n21. sofa: 0\n22. hide: 0\n23. eye: 0\n24. cake: 0\n25. broken: 0\n26. better: 0\n27. cookie: 0\n28. naughty: 0\n29. car: 2\n30. why: 0\n31. doctor: 0\n32. meat: 0\n33. jar: 0\n34. slide (object): 4\n35. be: 0\n36. porch: 0\n37. sweater: 0\n38. kick: 5\n39. fit: 0\n40. donut: 0\n41. chin: 0\n42. him: 0\n43. water (beverage): 0\n44. hurry: 0\n45. pig: 0\n46. call: 0\n47. could: 0\n48. babysitter's name: 0\n49. go potty: 0\n50. hear: 0\n51. peekaboo: 0\n52. touch: 0\n53. gas station: 0\n54. mailman: 0\n55. jacket: 0\n56. pajamas: 0\n57. slide (action): 5\n58. paper: 0\n59. will: 0\n60. yes: 0\n61. vacuum: 0\n62. tiny: 0\n63. fine: 0\n64. got to: 0\n65. rip: 0\n66. shopping: 0\n67. can (object): 0\n68. popcorn: 0\n69. glue: 0\n70. chair: 0\n71. tummy: 0\n72. sock: 0\n73. cook: 0\n74. cockadoodledoo: 0\n75. goose: 0\n76. stove: 0\n77. sky: 0\n78. empty: 0\n79. wanna: 0\n80. child's own name: 0\n81. have: 0\n82. wish: 0\n83. they: 0\n84. yard: 0\n85. uh oh: 0\n86. wind: 0\n87. bird: 0\n88. sidewalk: 2\n89. bread: 0\n90. lip: 0\n91. try to: 0\n92. hamburger: 0\n93. hammer: 0\n94. swim: 4\n95. watch (action): 0\n96. washing machine: 0\n97. ride: 4\n98. applesauce: 0\n99. share: 0\n100. have to: 0\n\n...and so on. Please let me know when to stop.",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564892,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 766,
+    "prompt_tokens": 1950,
+    "total_tokens": 2716,
+    "estimated_cost": 0.0015884999999999999
+  }
+}

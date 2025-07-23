@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-047967e17b1349e0a0c2211ae8a5bd8d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for sensations inside my body:\n\nowie: 4\nhungry: 5\nthirsty: 5\ntired: 4\nasleep: 3\nawake: 5\nouch: 4\nhurt: 4\nyucky: 3\nsick: 3\ncold: 3\nhot: 3\nfull: 4\nempty: 4",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564870,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 1939,
+    "total_tokens": 2027,
+    "estimated_cost": 0.0010742799999999997
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-b762180e26f848b199713e1a112e58ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "morning: 1.40\nschool: 4.24\nmoose: 3.61\npresent: 5.52\nsplash: 2.92\nbuy: 2.44\nslow: 1.96\nperson: 5.92\ngiraffe: 4.33\nsay: 2.68\nspoon: 6.24\ndrop: 3.04\ncat: 5.80\nball: 6.40\npretzel: 6.24\nsad: 1.88\nride: 4.96\nrooster: 4.88\nother: 2.44\npaint: 5.84\npumpkin: 5.96\njar: 6.04\nhurt: 2.76\nscissors: 6.20\ntime: 2.12\nwalk: 4.88\nhen: 5.28\nsink: 5.80\nback: 5.24\ntuna: 5.92\nrain: 2.68\ncountry: 4.44\nhide: 3.16\nclown: 5.24\ntoy: 6.36\nspaghetti: 6.16\nwindow: 5.36\nhand: 6.44\nshow: 4.28\nbasket: 6.08\nbanana: 6.24\nfarm: 5.08\ngood: 2.60\npool: 5.72\ngarage: 5.28\ncloset: 5.44\ndrive: 4.92\nyogurt: 6.20\nmake: 3.32\nalligator: 4.40\nslipper: 6.32\naunt: 5.68\nelephant: 5.24\nclose: 3.24\nmedicine: 5.80\nplay: 4.68\ncut: 3.44\nfriend: 5.56\nduck: 5.36\nraisin: 6.12\ndoll: 6.16\nday: 2.52\nknee: 5.96\ncake: 6.28\nstreet: 5.00\nzipper: 6.04\nlion: 5.04\nsweater: 6.36\nmovie: 4.40\npen: 6.24\nclock: 5.96\nladder: 5.88\nstrawberry: 6.20\nwould: 2.40\nnapkin: 6.08\near: 5.92\ntray: 6.04\nbox: 6.00\nhit: 3.44\nblanket: 6.24\npretty: 2.64\nswim: 4.92\nhug: 5.80\nbasement: 4.80\nhair: 5.96\ncrib: 6.08\nhammer: 6.20\nbring: 3.44\nold: 2.52\nlike: 2.56\ntake: 2.68\npretend: 4.28\nsnow: 2.80\ncandy: 6.24\nbottle: 6.20\ngum: 6.16\nmouse: 5.80\ncute: 2.64\nsock: 6.24\nsandwich: 6.24\ngive: 3.16\npenguin: 5.36\npaper: 6.04\ndraw: 4.68\nwindy: 2.76\nrefrigerator: 5.88\nopen: 3.32\neye: 5.92\ndirty: 2.76\npenny: 6.04\nmoon: 1.96\ngarbage: 5.24\nsoft: 2.68\nlady: 5.56\nkick: 4.28\npuppy: 5.80\ntear: 3.04\nempty: 2.92\nface: 5.92\ndress: 6.24\ndish: 6.08\nlisten: 2.60\nbed: 6.24\nbat: 5.80\ngirl: 5.68\nroom: 5.44\nhurry: 2.80\nfull: 2.76\nsneaker: 6.32\njuice: 6.16\nplate: 6.12\nsquirrel: 5.36\nthink: 2.52\nbreak: 3.24\nhear: 2.56\nman: 5.68\nhat: 6.24\ncry: 3.04\nlunch: 5.80\npudding: 6.20\ndinner: 5.92\nbe: 2.40\ncrayon: 6.16\nhappy: 2.64\nstove: 5.96\nturtle: 5.36\nasleep: 2.76\ncloud: 2.44\nanimal: 5.44\nspill: 3.16\nzebra: 5.04\nyellow: 1.96\nbug: 5.36\nchalk: 6.08\nsheep: 5.28\ntruck: 5.52\nmop: 6.08\nshovel: 6.12\npolice: 5.56\nbucket: 6.04\nnurse: 5.68\nbowl: 6.12\nbroken: 2.92\ngreen: 2.52\nzoo: 5.00\nheavy: 3.04\nnaughty: 2.64\nsofa: 6.20\nglue: 6.08\ndonkey: 5.28\ncow: 5.44\nflag: 5.56\nbutton: 6.04\nblow: 3.44\nfix: 3.68\nhelp: 3.24\nsalt: 6.04\npour: 3.68\nblock: 6.00\nstick: 6.08\nnew: 2.60\nplant: 5.92\nstore: 5.40\nred: 2.44\ntaste: 2.76\nteacher: 5.68\ntired: 2.80\nshare: 3.24\nsit: 4.96\ndoor: 5.96\nhot: 3.04\npillow: 6.24\nbrush: 6.16\nporch: 5.56\ntiny: 2.64\nshower: 5.92\nlamb: 5.36\ntrash: 5.24\ncheek: 5.92\nyard: 5.40\npizza: 6.20\ntoe: 5.96\ntiger: 5.04\nmonkey: 5.36\ngarden: 5.56\nstay: 3.24\nsoup: 6.12\nsleep: 2.76\nwait: 2.80\npick: 4.28\nparty: 5.08\nbee: 5.36\nbench: 6.04\nread: 4.40\ngentle: 2.68\nwipe: 3.68\ncarry: 4.28\ncracker: 6.16\ntouch: 5.92\ndog: 5.80\npants: 6.32\nfirst: 2.60\ngame: 5.08\ntractor: 5.52\nrun: 4.68\ndiaper: 6.08\npush: 4.28\nchair: 6.48\nstar: 2.44\nshoulder: 5.96\nfood: 6.08\ntape: 6.04\ndark: 2.76\nbib: 6.08\nhouse: 5.68\ndeer: 5.28\ncoffee: 6.20\ncup: 6.16\npickle: 6.12\nkiss: 5.92\nbook: 6.12\nshoe: 6.32\nawake: 2.76\nankle: 5.96\nfine: 2.64\nlittle: 2.60\nmommy: 5.68\nthirsty: 2.80\nhave: 2.68\nsleepy: 2.76\nclimb: 4.28\nrip: 3.44\nsee: 2.56\nput: 3.44\nclap: 4.28\nbad: 2.64\nsick: 2.80\nwish: 2.52\nsnack: 6.08\npony: 5.36\nlove: 2.64\nmoney: 5.56\ngrass: 5.40\ndaddy: 5.68\nbreakfast: 5.92\nboots: 6.32\njump: 4.68\nsing: 4.40\ntable: 6.08\ncheese: 6.20\nwake: 2.76\nnose: 5.92\ntummy: 5.96\ndump: 5.24\nbear: 5.28\nwet: 3.04\ntree: 5.44\nsmile: 2.64\npicnic: 5.56\ncereal: 6.12\ndryer: 5.92\nsled: 6.04\ntry: 3.24\nbump: 3.44\njelly: 6.16\ncover: 3.68\nflower: 5.92\npig: 5.36\npeople: 5.68\nmeow: 5.36\ncookie: 6.24\ntissue: 6.08\npuzzle: 5.92\nhome: 5.68\nmouth: 5.96\nfork: 6.16\ntickle: 5.92\nmilk: 6.20\nchin: 5.96\nchase: 4.28\nchild: 5.68\nradio: 5.92",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989690,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2238,
+    "prompt_tokens": 2231,
+    "total_tokens": 4469,
+    "estimated_cost": 0.00140833
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-db6c47604e70427d94d17df5c2437803",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to the torso:\n\nstand: 5\nowie: 4\nhurt: 4\nouch: 4\nall: 3\nheavy: 3\nbig: 3\ntired: 3\nasleep: 3\nsleepy: 2\nyawn: N\nhug: 2\ntouch: 2\ngentle: 2\nscared: 2\ncold: 2\nhot: 2\nsweater: 1\nshirt: 1\npants: 1\njeans: 1\njacket: 1\ncoat: 1\ndress: 1\ngloves: 1\nhat: 1\nscarf: 1\nbelt: 1\nunderpants: 1\nsocks: 1\nshoes: 1\nboots: 1\nbump: 1\nouch: 1\nboo boo: 1\nhurt: 1\nowie: 1\nouch: 1\nyucky: 1\ndirty: 1\nwet: 1\ndry: 1\nclean: 1\nfull: 1\nempty: 1\nall gone: 1\nmine: 1\nmy: 1\nme: 1\nI: 1\nyou: 1\nhe: 1\nshe: 1\nit: 1\nwe: 1\nthey: 1\nus: 1\nour: 1\ntheir: 1\nmyself: 1\nyourself: 1\nhimself: 1\nherself: 1\nitself: 1\nis: 1\nare: 1\nam: 1\nbe: 1\nhave: 1\nhas: 1\nhad: 1\ndo: 1\ndoes: 1\ndid: 1\nwill: 1\nwould: 1\nshall: 1\nshould: 1\ncan: 1\ncould: 1\nmay: 1\nmight: 1\nmust: 1\nneed: 1\nought: 1\nshall: 1\nshould: 1\nwill: 1\nwould: 1\ngonna: 1\nwanna: 1\nhafta: 1\ngotta: 1\nlemme: 1\nlet me: 1\nget: 1\ngot: 1\ngive: 1\ngave: 1\ntake: 1\ntook: 1\nmake: 1\nmade: 1\ndo: 1\ndoes: 1\ndid: 1\ngo: 1\nwent: 1\ncome: 1\ncame: 1\nsay: 1\nsays: 1\nsaid: 1\ntell: 1\ntells: 1\ntold: 1\nask: 1\nasks: 1\nasked: 1\nknow: 1\nknows: 1\nknew: 1\nthink: 1\nthinks: 1\nthought: 1\nsee: 1\nsees: 1\nsaw: 1\nlook: 1\nlooks: 1\nlooked: 1\nwatch: 1\nwatches: 1\nwatched: 1\nlisten: 1\nlistens: 1\nlistened: 1\nhear: 1\nhears: 1\nheard: 1\nsmell: 1\nsmells: 1\nsmelled: 1\ntaste: 1\ntastes: 1\ntasted: 1\nfeel: 1\nfeels: 1\nfelt: 1\ntouch: 1\ntouches: 1\ntouched: 1\nhold: 1\nholds: 1\nheld: 1\ncarry: 1\ncarries: 1\ncarried: 1\npush: 1\npushes: 1\npushed: 1\npull: 1\npulls: 1\npulled: 1\nopen: 1\nopens: 1\nopened: 1\nclose: 1\ncloses: 1\nclosed: 1\npick: 1\npicks: 1\npicked: 1\nchoose: 1\nchooses: 1\nchose: 1\nwant: 1\nwants: 1\nwanted: 1\nneed: 1\nneeds: 1\nneeded: 1\nlike: 1\nlikes: 1\nliked: 1\nlove: 1\nloves: 1\nloved: 1\nhate: 1\nhates: 1\nhated: 1\nhappy: 1\nhappier: 1\nhappiest: 1\nsad: 1\nsadder: 1\nsaddest: 1\nbig: 1\nbigger: 1\nbiggest: 1\nlittle: 1\n littler: 1\nlittlest: 1\nlong: 1\nlonger: 1\nlongest: 1\nhigh: 1\nhigher: 1\nhighest: 1\nlow: 1\nlower: 1\nlowest: 1\nhot: 1\nhotter: 1\nhottest: 1\ncold: 1\ncolder: 1\ncoldest: 1\nfull: 1\nfuller: 1\nfullest: 1\nempty: 1\nemptier: 1\nemptiest: 1\nclean: 1\ncleaner: 1\ncleanest: 1\ndirty: 1\ndirtier: 1\ndirtiest: 1\nheavy: 1\nheavier: 1\nheaviest: 1\nlight: 1\nlighter: 1\nlightest: 1\nhard: 1\nharder: 1\nhardest: 1\nsoft: 1\nsofter: 1\nsoftest: 1\nfast: 1\nfaster: 1\nfastest: 1\nslow: 1\nslower: 1\nslowest: 1\nloud: 1\nlouder: 1\nloudest: 1\nquiet: 1\nquieter: 1\nquietest: 1\nold: 1\nolder: 1\noldest: 1\nnew: 1\nnewer: 1\nnewest: 1\ngood: 1\nbetter: 1\nbest: 1\nbad: 1\nworse: 1\nworst: 1\nyes: 1\nno: 1\nmaybe: 1\nokay: 1\noh: 1\nwow: 1\nah: 1\num: 1\nuh: 1\noops: 1\noh no: 1\noh dear: 1\noh my: 1\noh me: 1\noh boy: 1\noh girl: 1\noh wow: 1\noh yeah: 1\noh no: 1\noh dear: 1\noh my: 1\noh me: 1\noh boy: 1\noh girl: 1\noh wow: 1\noh yeah: 1\noh no: 1\noh dear: 1\noh my: 1\noh me: 1\noh boy: 1\noh girl: 1\noh wow: 1\noh yeah: 1\noh no: 1\noh dear: 1\noh my: 1\noh me: 1\noh boy: 1\noh girl: 1\noh wow: 1\noh yeah: 1\noh no: 1\noh dear: 1\noh my: 1\noh me: 1\noh boy: 1\noh girl: 1\noh wow: 1\noh yeah: 1",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564922,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1756,
+    "prompt_tokens": 1948,
+    "total_tokens": 3704,
+    "estimated_cost": 0.00232996
+  }
+}

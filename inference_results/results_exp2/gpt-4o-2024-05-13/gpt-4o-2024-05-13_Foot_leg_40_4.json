@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJP2G0Fxf6gQCiwViiodtcJUcYW7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "knee: 4.89\nlove: 0.00\npaper: 0.70\ncat: 1.00\ntoe: 4.60\ncute: 0.00\nbread: 0.19\nhave: 1.00\ngiraffe: 0.70\ncold: 1.65\npenny: 0.00\nthirsty: 0.00\nball: 2.65\nbib: 0.00\nhome: 0.00\nsprinkler: 1.50\nshoulder: 0.00\nmouth: 0.00\nchair: 1.00\nstove: 0.00\nyellow: 0.00\nstore: 0.00\nstory: 0.00\ntired: 1.55\nbottle: 0.00\nmommy: 0.00\nfull: 0.00\nbrush: 0.00\nchase: 3.00\nscarf: 0.00\ncereal: 0.00\nbad: 0.00\ntray: 0.00\nhorse: 1.10\nlamb: 0.00\npen: 0.00\nwhite: 0.00\ndaddy: 0.00\ncook: 0.00\ntiny: 0.00\nalligator: 0.00\nowl: 0.00\ncircus: 0.00\nrooster: 0.00\ntoy: 0.00\nnapkin: 0.00\nsoda: 0.00\ntickle: 0.00\nsoap: 0.00\ncake: 0.00\ngive: 0.00\ndump: 0.00\ncloset: 0.00\nbutter: 0.00\nuncle: 0.00\nhappy: 0.00\nblue: 0.00\nperson: 0.00\ndoor: 0.00\nshow: 0.00\nbreak: 1.55\nold: 0.00\nsit: 1.00\nnoisy: 0.00\nbroom: 1.55\nballoon: 0.00\ncoat: 0.00\nsink: 0.00\nshake: 0.00\nstick: 0.00\nslow: 0.00\ndress: 0.00\nbus: 1.68\ngoose: 0.00\nrain: 0.00\nwait: 0.00\nfarm: 0.00\ncheek: 0.00\nasleep: 1.55\nsnack: 0.00\nsalt: 0.00\nblanket: 0.00\nyard: 0.00\nnew: 0.00\ndirty: 0.00\nfriend: 0.00\nwish: 0.00\nbowl: 0.00\nspill: 0.00\nmoose: 0.00\nzipper: 0.00\nbench: 0.00\npull: 0.00\nhair: 0.00\npig: 0.00\nbear: 0.00\npumpkin: 0.00\nhide: 0.00\ncamera: 0.00\nstroller: 0.00\nwolf: 0.00\nwould: 0.00\ngood: 0.00\nbug: 0.00\npretty: 0.00\ntowel: 0.00\nzebra: 0.00\nswim: 2.00\ndoll: 0.00\nsoup: 0.00\ndance: 2.00\nsled: 2.00\nschool: 0.00\nradio: 0.00\ngrass: 0.00\npicture: 0.00\nlisten: 0.00\nsing: 0.00\ndo: 1.00\nsmile: 0.00\nwindow: 0.00\ngreen: 0.00\nporch: 0.00\nthrow: 1.00\npresent: 0.00\nwet: 0.00\nduck: 0.00\nmorning: 0.00\ncow: 1.00\nsock: 4.00\nhouse: 0.00\nput: 0.00\ntalk: 0.00\nspaghetti: 0.00\nblock: 0.00\nblack: 0.00\nshower: 0.00\ndoctor: 0.00\nchurch: 0.00\nhungry: 0.00\njump: 4.00\nshare: 0.00\nstone: 0.00\nstand: 4.00\nrefrigerator: 0.00\nsleepy: 1.55\nwind: 0.00\nhigh: 0.00\ncountry: 0.00\nlion: 0.00\ngarden: 0.00\ntooth: 0.00\npudding: 0.00\nlamp: 0.00\ncar: 1.00\nmouse: 0.00\nbrother: 0.00\nyogurt: 0.00\ntouch: 0.00\ndraw: 0.00\nbird: 0.00\nhurt: 0.00\nkick: 4.60\negg: 0.00\nfind: 0.00\ndonkey: 0.00\near: 0.00\nrun: 4.00\npencil: 0.00\ntrain: 0.00\ngo: 3.00\nlook: 0.00\nread: 0.00\nshovel: 1.00\nteacher: 0.00\nglass: 0.00\nfood: 0.00\ncloud: 0.00\nshirt: 0.00\nbuy: 0.00\ndeer: 0.00\ncorn: 0.00\ntape: 0.00\npizza: 0.00\nchalk: 0.00\nface: 0.00\ntongue: 0.00\nhate: 0.00\nheavy: 0.00\ntry: 0.00\nfirst: 0.00\ntiger: 0.00\nsweater: 0.00\nfine: 0.00\nkiss: 0.00\npour: 0.00\nsquirrel: 0.00\nskate: 3.00\nclown: 0.00\nfall: 2.00\nhurry: 0.00\nslipper: 4.00\npicnic: 0.00\nday: 0.00\nhit: 1.00\ndish: 0.00\nmoney: 0.00\ncrib: 0.00\ncouch: 0.00\nbee: 0.00\nnurse: 0.00\nmad: 0.00\ntruck: 1.00\nlunch: 0.00\ndrive: 1.00\ncut: 0.00\nclap: 0.00\nbath: 0.00\nnight: 0.00\nhug: 0.00\ntoast: 0.00\ncoffee: 0.00\nstreet: 1.00\ntractor: 1.00\nkitchen: 0.00\nwill: 0.00\npick: 0.00\nmeat: 0.00\ncarry: 0.00\nrip: 0.00\naunt: 0.00\nsheep: 0.00\nsticky: 0.00\nmeow: 0.00\nrock: 0.00\ncracker: 0.00\nhot: 0.00\nflag: 0.00\nglue: 0.00\nbanana: 0.00\nfix: 0.00\nbuild: 0.00\nother: 0.00\nmuffin: 0.00\nhear: 0.00\nhamburger: 0.00\ncomb: 0.00\ntrash: 0.00\nplant: 0.00\npickle: 0.00\nsun: 0.00\ncoke: 0.00\nride: 3.00\nbasket: 0.00\nplate: 0.00\npool: 2.00\npush: 1.00\ndrop: 0.00\nsofa: 0.00",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989204,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 1902,
+    "prompt_tokens": 2042,
+    "total_tokens": 3944,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

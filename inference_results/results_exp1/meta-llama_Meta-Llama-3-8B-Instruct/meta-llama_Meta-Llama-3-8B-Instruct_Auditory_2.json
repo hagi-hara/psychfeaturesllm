@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-d73eaf984cc441169f7ce137ac7aa6a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the sense of hearing:\n\nbanana: 2\nsneaker: 3\nlion: 4\ncook: 1\nshirt: 1\norange (food): 2\negg: 1\nvagina: N\nchicken (animal): 2\nsandwich: 2\nfit: 1\nthank you: 4\nnext to: 1\nno: 1\npolice: 4\nput: 1\nleg: 2\nfrog: 3\nstuck: 2\nchoo choo: 4\nride: 3\nladder: 2\ntruck: 3\nbear: 3\nmovie: 4\npretty: 1\nankle: 1\ndid: 1\nyard: 2\ncry: 4\nrain: 4\nboots: 2\nrocking chair: 3\npen: 1\ntricycle: 3\nsing: 4\nstone: 1\nlove: 1\nraisin: 1\ntoe: 1\nknee: 1\nbefore: 1\ncold: 1\nus: 1\nbrown: 1\nchase: 3\nbetter: 1\nbug: 2\ngarden: 2\ndrink (beverage): 4\njump: 4\nradio: 4\nhelp: 4\nglass: 2\nsprinkler: 3\nbowl: 2\nfish (food): 2\nnoisy: 4\nam: 1\nlook: 4\npuzzle: 2\nhello: 4\ngarage: 2\nkitchen: 2\nbench: 2\nplate: 2\nher: 1\npretend: 2\nfine: 1\nhow: 1\ndoll: 2\nsick: 2\nchild: 2\nairplane: 4\nwhat: 1\nzoo: 3\ndo: 1\nmoney: 1\nfarm: 2\nmailman: 2\ncloset: 2\nslow: 1\ngarbage: 2\ninside: 2\npattycake: 2\nzipper: 2\nlike: 1\nsticky: 2\ntape: 2\nslide (object): 3\ndown: 1\nwhere: 1\nmommy: 4\nnight night: 4\npancake: 2\npaper: 1\nspoon: 2\nperson: 2\nsalt: 1\nshower: 2\nfind: 2\nfall: 2\nshare: 2\nscarf: 2\nempty: 1\ncould: 1\nsame: 1\ngoose: 2\nyes: 1\nlick: 2\ncircus: 3\nhard: 1\nsome: 1\nout: 1\nhigh: 2\ncloud: 2\nbee: 2\nmop: 2\nice: 2\ncut: 2\nthink: 2\nwoof woof: 3\ndiaper: 2\ngrrr: 2\nwork (place): 2\nmotorcycle: 3\nwipe: 2\nred: 1\nanimal: 2\nteacher: 2\nmouse: 2\nschool: 2\ntractor: 2\nblock: 2\ntelephone: 2\ntaste: 1\ngreen beans: 2\nwater (not beverage): 2\npour: 2\nglasses: 2\ndraw: 2\nbib: 2\nwoods: 2\ndryer: 2\npea: 1\njuice: 2\npenny: 1\nbottle: 2\nswim: 3\nshopping: 2\ncute: 1\nalligator: 2\ntoo: 1\nfinger: 1\nfinish: 1\nhold: 1\ncoffee: 2\nmelon: 2\ngood: 1\nvitamins: 1\nall gone: 1\nhave: 1\nwashing machine: 2\nthirsty: 2\ncomb: 2\nliving room: 2\ntights: 2\nbath: 2\ngonna: 1\npopcorn: 2\nknife: 2\nyesterday: 1\npudding: 2\nshoulder: 1\nget: 1\nfiretruck: 3\ncareful: 1\nan: 1\njacket: 2\nbreakfast: 2\npick: 1\nfull: 1\nhouse: 2\nlamp: 2\ngonna get you: 2\ndirty: 2\npeanut butter: 2\nbus: 2\ndinner: 2\ndoctor: 2\nslide (action): 3\ncoat: 2\ntable: 2\nwish: 1\ntongue: 1\nsoup: 2\nwolf: 2\nlip: 1\npotato chip: 2\nhair: 1\nwalk: 2\npenis: 1\nplease: 4\ncouch: 2\nawake: 1\nshush: 2\nabove: 1\nfoot: 1\ntrain: 3\nstreet: 2\nhers: 1\nturtle: 2\ndoes: 1\nour: 1\nhim: 1\nsock: 1\nafter: 1\nice cream: 2\nelephant: 2\nabout: 1\nhafta: 1\nmuch: 1\nwalker: 2\ncookie: 2\nbutterfly: 2\npotato: 1\nfood: 2\nclose: 1\nsoap: 2\nflag: 2\noutside: 2\nbead: 1\ngrape: 1\nstove: 2\nyourself: 1\nclean (action): 2\na: 1\npotty: 2\nyour: 1\ndish: 2\nquack quack: 3\nin: 1\ndry (description): 1\nsit: 1\nback: 1\nmitten: 2\nsleep: 2\nwake: 1\nbutton: 1\nsay: 1\nI: 1\nare: 1\ndeer: 2\nmonkey: 2\nwill: 1\nbite: 2\nrip: 2\nmake: 2\ntuna: 2\nowl: 2\ncandy: 2\npicnic: 2\nthis: 1\nheavy: 1\ncow: 2\nmouth: 1\nshoe: 1\nchocolate: 2\ntree: 2\ninto: 1\nsidewalk: 2\nstar: 2\ncup: 1\npet's name: 2\nchin: 1\nup: 1\nsister: 2\ncrayon: 2\npillow: 2\nhush: 2\nbook: 2\npop: 2\nunder: 1\nstay: 1\neach: 1\nfirst: 1\ncountry: 2\npoor: 1\nclean (description): 1\nmoo: 2\nwork (action): 2\nsnow: 2\nball: 2\nant: 2\ngame: 2\nowie: 2\nbaby: 2\nwas: 1\nany: 1\nwant to: 2\nneed: 1\nturn around: 2\nsleepy: 2\nbackyard: 2\nbat: 2\nplay: 2\ncockadoodledoo: 3\ndog: 2\nshovel: 2\nbrush: 2\nwhen: 1\njeans: 1\nhear: 4",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560463,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1741,
+    "prompt_tokens": 1936,
+    "total_tokens": 3677,
+    "estimated_cost": 0.00022061999999999998
+  }
+}

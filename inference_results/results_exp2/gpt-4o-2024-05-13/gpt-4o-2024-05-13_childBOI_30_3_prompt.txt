@@ -1,0 +1,445 @@
+Words differ in the extent to which they refer to objects or things that a child has experience physically interacting with. Some words refer to objects or things that a child easily interacts with physically, whereas other words refer to objects or things that a child does not easily physically interact with. We need your help to judge the words listed on the following pages for how easily the average 6-year-old can physically interact (using the body: hands, mouth, etc.) with what each word represents.
+
+For example, the words “ball”, “pillow”, and “banana” refer to objects or things that a 6-year-old child physically interacts with easily, using their hands, face, mouth, etc. Things like this should get high ratings.
+
+In contrast the words, “unicorn”, “fire”, and “cloud” refer to objects or things that a 6-year-old child does not physically interact with easily and so should get low ratings; a “unicorn” is imaginary, so although children may be familiar with unicorn they cannot easily physically interact with them; “fire” is dangerous and so not easy for children to interact with, and a “cloud” is too large, distant, and vaporous for children to easily interact with.
+
+Please rate the child’s experiences with the real object or thing, not a toy version of an object. Also, because words tend to make you think of other words as associates, it is important that your ratings not be based on this and that you judge only the ease with which a child could physically interact with what the given word represents.
+
+Your child-object interaction ratings will be made on a 1 to 7 scale. A value of 1 will indicate a low child-object interaction rating, and a value of 7 will indicate a high child-object interaction rating. Values of 2 to 6 will indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings. Choose the rating that is most appropriate for each word. When making your ratings, try to be as accurate as possible, but do not spend too much time on any one word. If you are unsure of what the word means, please skip the rating.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are unsure of what the word means, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+ear: 6.61
+wipe: 4.61
+deer: 3.96
+sandwich: 6.88
+sister: 6.08
+candy: 6.26
+elephant: 3.64
+dryer: 5.56
+stroller: 6.00
+donkey: 5.06
+story: 5.16
+mad: 3.91
+park: 6.35
+camera: 6.08
+zebra: 3.88
+talk: 5.04
+potato: 6.11
+drawer: 5.74
+windy: 5.12
+tree: 6.67
+like: 2.95
+help: 3.64
+listen: 3.65
+fine: 2.73
+old: 3.44
+naughty: 3.94
+bite: 5.15
+cow: 4.97
+pony: 5.26
+pull: 3.79
+police: 4.46
+have: 2.98
+buy: 3.54
+shower: 6.30
+jump: 4.81
+bench: 5.04
+goose: 3.59
+garage: 5.91
+kick: 5.00
+would: 1.89
+wake: 2.88
+coke: 3.47
+dish: 6.74
+hurt: 3.96
+cute: 3.53
+dress: 6.43
+wash: 5.20
+sauce: 5.69
+dance: 4.78
+see: 4.69
+nice: 3.17
+bump: 4.40
+basement: 6.11
+church: 3.41
+cut: 4.93
+gum: 5.85
+movie: 5.28
+rooster: 3.80
+juice: 6.13
+sprinkler: 5.74
+crib: 4.38
+penguin: 3.89
+people: 6.21
+tissue: 6.22
+spill: 5.41
+muffin: 5.97
+car: 6.52
+dirty: 3.97
+drive: 4.18
+comb: 6.09
+aunt: 5.77
+sticky: 4.68
+time: 2.67
+close: 3.76
+read: 4.74
+train: 5.67
+snow: 6.46
+slow: 3.62
+couch: 6.59
+cookie: 6.38
+teacher: 5.94
+happy: 4.07
+plant: 6.03
+dark: 4.04
+soda: 4.16
+mop: 5.19
+dinner: 6.16
+pickle: 5.74
+hand: 6.75
+duck: 5.11
+ladder: 5.44
+back: 4.41
+food: 6.83
+home: 6.19
+tickle: 5.24
+towel: 6.80
+bee: 5.38
+porch: 4.67
+sky: 3.54
+bird: 5.04
+sun: 3.60
+puzzle: 6.55
+hit: 4.32
+blow: 3.79
+cheese: 6.14
+squirrel: 4.46
+coat: 6.24
+knock: 4.97
+bucket: 6.36
+chalk: 6.39
+pretend: 4.09
+tuna: 4.97
+sleepy: 3.56
+lion: 3.70
+hat: 5.63
+blue: 5.54
+nurse: 4.67
+book: 6.92
+crayon: 6.96
+animal: 6.16
+picnic: 4.96
+door: 6.79
+bug: 5.59
+white: 4.30
+toy: 7.00
+black: 3.60
+
+Please answer about all of the following words.
+
+chin
+banana
+lamb
+flag
+stove
+spaghetti
+swim
+give
+climb
+bowl
+do
+puppy
+think
+be
+write
+sneaker
+bib
+plate
+star
+doll
+open
+tray
+pillow
+room
+owl
+money
+tractor
+asleep
+boots
+cracker
+brush
+cry
+arm
+breakfast
+wish
+cat
+eat
+closet
+egg
+bottle
+hurry
+sock
+scarf
+belt
+box
+broken
+show
+wet
+rock
+stone
+sleep
+jacket
+hide
+hard
+full
+oven
+cheek
+raisin
+dog
+green
+ride
+spoon
+zipper
+grass
+shirt
+carry
+apple
+bear
+sweater
+soft
+bath
+yogurt
+cover
+jelly
+bus
+chocolate
+paper
+sled
+sad
+beach
+bed
+good
+red
+friend
+yard
+say
+butter
+country
+push
+catch
+pig
+fork
+lick
+kiss
+daddy
+play
+garbage
+feed
+tape
+pumpkin
+rain
+shoe
+girl
+block
+medicine
+new
+cereal
+paint
+circus
+sing
+tummy
+pretty
+school
+corn
+shoulder
+pour
+gentle
+tiny
+night
+bunny
+shake
+purse
+hate
+soap
+table
+pen
+head
+pants
+heavy
+dump
+quiet
+hammer
+moose
+finger
+wind
+throw
+sink
+cake
+toast
+moon
+mouse
+house
+sheep
+sick
+taste
+stand
+lollipop
+eye
+radio
+hair
+roof
+drop
+child
+rip
+face
+day
+nail
+cloud
+take
+chase
+clap
+lady
+make
+scissors
+splash
+snack
+jeans
+fix
+brown
+cook
+love
+ankle
+poor
+toe
+chair
+try
+thirsty
+potty
+blanket
+fit
+go
+noisy
+empty
+high
+hen
+cup
+milk
+ball
+finish
+soup
+mouth
+game
+little
+uncle
+kitchen
+boat
+strawberry
+tired
+smile
+break
+tiger
+awake
+stay
+boy
+pencil
+build
+doctor
+party
+picture
+window
+turkey
+hold
+coffee
+button
+slipper
+find
+jar
+yellow
+get
+monkey
+pretzel
+hear
+lunch
+stop
+horse
+share
+wait
+bat
+bread
+broom
+pudding
+bad
+wolf
+leg
+pick
+man
+morning
+salt
+other
+baby
+put
+knee
+present
+shovel
+ant
+skate
+sit
+meat
+big
+nap
+hamburger
+stick
+cold
+sofa
+look
+tongue
+mommy
+street
+hug
+basket
+run
+napkin
+alligator
+lamp
+hungry
+brother
+tear
+first
+person
+farm
+bring
+meow
+pizza
+balloon
+fall
+ice
+turtle
+clown
+glue
+zoo
+giraffe
+will
+clock
+tooth
+glass
+diaper
+trash
+walk
+hose
+truck
+nose
+garden
+penny
+refrigerator
+store
+draw
+flower
+hot
+touch
+vacuum
+sweep
+pool

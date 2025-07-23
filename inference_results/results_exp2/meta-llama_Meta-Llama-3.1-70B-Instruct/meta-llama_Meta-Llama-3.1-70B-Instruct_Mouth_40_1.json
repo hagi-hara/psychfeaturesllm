@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-a37e8cb2d2e94b52a55b0968dc5ce891",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for each word using the mouth/throat action:\n\nget: 1\ngame: 0\nhave: 1\nfirst: 0\nsleep: 0\nfinish: 1\nbuy: 0\nsled: 0\nparty: 2\nhelp: 1\nwould: 0\nsoup: 4\ncat: 0\nwish: 1\nchocolate: 5\nrun: 0\nwindy: 0\nfood: 4\ndaddy: 1\nsad: 0\nshirt: 0\nglass: 3\nhurry: 0\nswim: 0\nblack: 0\nnose: 1\nstory: 2\nhot: 1\nrain: 0\npull: 0\nboots: 0\nhen: 0\nbox: 0\nzipper: 0\nknee: 0\ncover: 0\ntoy: 0\nkiss: 5\nwhite: 0\nshow: 2\nthirsty: 4\nblue: 0\nsink: 0\nblock: 0\npenguin: 0\nwalk: 0\ncarry: 0\npig: 0\nhungry: 4\npretzel: 4\ndoll: 0\nradio: 0\nglue: 0\ngoose: 0\ntruck: 0\nmeow: 0\nteacher: 1\nvacuum: 0\nstove: 0\nchild: 1\ncook: 2\nman: 1\npenny: 0\nstroller: 0\nmoose: 0\nwind: 0\ntry: 1\ncookie: 5\nnight: 0\napple: 5\ntoe: 0\nsee: 0\ndiaper: 0\nsky: 0\nkick: 0\ntissue: 2\neat: 5\ndump: 0\ndoor: 0\npudding: 5\nblanket: 0\nyard: 0\nfit: 0\ntired: 0\nbrush: 0\npotty: 0\nlamb: 0\nsnack: 4\nclap: 0\npuppy: 0\nshoulder: 0\npizza: 5\nsplash: 0\nmuffin: 4\nporch: 0\nhead: 0\nmeat: 4\ntable: 0\nhate: 1\nfind: 0\nsoap: 0\nchase: 0\nbread: 4\nmouse: 0\ncow: 0\nhold: 0\ngarage: 0\ncorn: 0\nroom: 0\npush: 0\nbelt: 0\njeans: 0\nthrow: 0\nlittle: 0\ngrass: 0\ncatch: 0\nmilk: 4\nquiet: 0\ngarbage: 0\ncircus: 0\ndinner: 4\nspoon: 4\npeople: 1\ndish: 0\nwet: 0\neye: 0\nlook: 0\nplate: 0\nsit: 0\nbroom: 0\nride: 0\near: 0\nwindow: 0\nbring: 0\nbump: 0\nhorse: 0\nwake: 1\nclimb: 0\ncoffee: 4\nzoo: 0\npicture: 0\npencil: 0\nput: 0\nhurt: 0\npretend: 0\nbaby: 1\nsneaker: 0\nwill: 1\nstay: 0\nsticky: 0\nlike: 2\nbear: 0\nknock: 0\ndeer: 0\nskate: 0\nmake: 1\nsweater: 0\ncouch: 0\ntuna: 4\nbrother: 1\npolice: 0\ncoke: 4\nshoe: 0\nbottle: 4\nhear: 1\nmouth: 5\nmovie: 0\ndance: 0\ngiraffe: 0\nbath: 0\ncrayon: 0\nstick: 0\nbreak: 0\nhand: 0\nopen: 0\nblow: 3\nfriend: 1\nlamp: 0\nflag: 0\nturkey: 4\ngarden: 0\nelephant: 0\nspill: 0\nplant: 0\nclown: 0\nwash: 0\nstar: 0\ntrash: 0\nnoisy: 0\ntoast: 4\nmonkey: 0\nbanana: 4\ngreen: 0\ntape: 0\nchin: 1\njelly: 4\ncar: 0\nsock: 0\nbutter: 4\nwolf: 0\nlick: 4\nbird: 0\nsmile: 2\ncracker: 4\naunt: 1\nlisten: 1\nroof: 0\nsoft: 0\nballoon: 0\nlove: 2\nsofa: 0\nclose: 0\ndryer: 0\ntake: 0\nduck: 0\nread: 0\npumpkin: 4\nhose: 0\nanimal: 0\npotato: 4\nrooster: 0\nraisin: 4\nstrawberry: 4\ndog: 0\nback: 0\nfarm: 0\nleg: 0\nbucket: 0\nstand: 0\nwipe: 0\nsing: 2\nbutton: 0\negg: 4\nhouse: 0\nlady: 1\ngirl: 1\ncold: 0\nbeach: 0\nsay: 3\nstore: 0\nmoney: 0\npony: 0\ncry: 2\nbus: 0\nsprinkler: 0\nfull: 0\npants: 0\npour: 3\npool: 0\npark: 0\njump: 0\nankle: 0\nsnow: 0\npaint: 0\nstreet: 0\ndo: 1\nscarf: 0\nempty: 0\npuzzle: 0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989326,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1413,
+    "prompt_tokens": 2072,
+    "total_tokens": 3485,
+    "estimated_cost": 0.00104176
+  }
+}

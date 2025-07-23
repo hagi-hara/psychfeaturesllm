@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+giraffe: 4.50
+share: 3.86
+horse: 2.00
+sprinkler: 2.73
+find: 2.91
+listen: 2.17
+park: 5.14
+sticky: 5.92
+flag: 1.91
+catch: 2.50
+sweep: 1.69
+closet: 1.92
+rip: 2.18
+full: 3.36
+wipe: 8.27
+give: 3.50
+lamb: 5.00
+hair: 2.80
+milk: 9.12
+empty: 2.38
+daddy: 9.00
+sister: 7.10
+wish: 3.92
+snow: 1.44
+oven: 1.30
+teacher: 2.90
+chalk: 2.36
+sock: 4.60
+apple: 3.50
+sick: 5.60
+cat: 2.00
+tissue: 3.00
+alligator: 1.31
+camera: 4.90
+bat: 1.62
+pudding: 5.60
+cake: 4.17
+bread: 2.10
+toast: 2.53
+gentle: 7.27
+
+Please answer about all of the following words.
+
+boots
+potty
+tummy
+coke
+clown
+walk
+sleep
+cover
+leg
+door
+hose
+bee
+house
+knee
+bug
+towel
+baby
+bib
+tray
+school
+green
+wet
+build
+doctor
+close
+white
+tickle
+cut
+wind
+bird
+brother
+poor
+flower
+will
+try
+fix
+high
+grass
+stove
+yogurt
+cup
+food
+hate
+scissors
+put
+monkey
+sit
+smile
+wait
+soap
+fall
+crib
+blue
+napkin
+cracker
+donkey
+cold
+moose
+tongue
+pumpkin
+kiss
+mommy
+lunch
+spoon
+lick
+ball
+help
+nose
+little
+raisin
+pony
+look
+elephant
+potato
+run
+tape
+fit
+cloud
+hide
+first
+person
+man
+shake
+love
+heavy
+coat
+salt
+tired
+bring
+squirrel
+tuna
+read
+lollipop
+hat
+tiny
+sweater
+scarf
+pick
+friend
+dish
+bump
+sneaker
+knock
+train
+think
+beach
+hand
+cute
+cheese
+duck
+push
+night
+belt
+wake
+would
+medicine
+turkey
+talk
+say
+soda
+cereal
+day
+basement
+blow
+drawer
+boy
+splash
+box
+happy
+bad
+strawberry
+bowl
+toe
+asleep
+goose
+go
+shoulder
+cheek
+present
+chin
+deer
+couch
+lion
+star
+meow
+slipper
+dryer
+rock
+ice
+tractor
+wash
+refrigerator
+slow
+lamp
+balloon
+sleepy
+aunt
+street
+feed
+other
+have
+windy
+money
+table
+jeans
+bus
+arm
+girl
+bucket
+quiet
+pillow
+mouse
+snack
+radio
+swim
+book
+dance
+zoo
+nurse
+zipper
+back
+bench
+pretzel
+soft
+sauce
+cow
+break
+jacket
+broken
+old
+skate
+tiger
+wolf
+banana
+home
+zebra
+hurt
+glue
+taste
+get
+boat
+cook
+car
+paint
+cookie
+purse
+basket
+doll
+buy
+egg
+bite
+touch
+show
+thirsty
+time
+tear
+crayon
+tree
+bed
+uncle
+game
+ear
+kitchen
+store
+play
+truck
+penguin
+pants
+trash
+hamburger
+story
+shovel
+jump
+comb
+puppy
+stand
+window
+sofa
+sun
+brush
+open
+finger
+farm
+red
+glass
+sad
+awake
+country
+do
+lady
+pull
+picnic
+butter
+coffee
+see
+kick
+write
+room
+dress
+eye
+head
+make
+chair
+brown
+toy
+garage
+moon
+roof
+shower
+noisy
+shirt
+yard
+bottle
+fine
+chocolate
+button
+ladder
+fork
+mop
+stick
+penny
+mad
+dog
+finish
+diaper
+circus
+breakfast
+candy
+pour
+sled
+hard
+owl
+dirty
+muffin
+sky
+pizza
+drive
+be
+nail
+dark
+ant
+puzzle
+draw
+chase
+cry
+sink
+paper
+hungry
+ride
+garden
+meat
+nap
+yellow
+spaghetti
+bath
+hammer
+throw
+eat
+like
+clock
+vacuum
+sandwich
+good
+plant
+hit
+tooth
+pool
+dump
+nice
+shoe
+picture
+hurry
+child
+rooster
+rain
+corn
+hen
+pretend
+ankle
+black
+sing
+sheep
+pickle
+block
+hold
+bear
+new
+pen
+morning
+turtle
+mouth
+face
+pretty
+party
+drop
+church
+stay
+animal
+spill
+pig
+stop
+take
+bunny
+garbage
+soup
+hot
+dinner
+movie
+gum
+pencil
+plate
+carry
+naughty
+clap
+hear
+porch
+hug
+police
+jelly
+blanket
+jar
+big
+broom
+stone
+climb
+juice
+people
+stroller

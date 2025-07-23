@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-196573cb876e49698cf3bb6b2aebfd67",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the words using actions from the foot/leg:\n\nrun: 5\nwalk: 5\nfall: 5\nclimb: 4\njump: 4\nkick: 4\ndance: 3\nstand: 3\nsit: 2\nslide (action): 2\nskate: 2\nswim: 1\nswing (action): 1\nclimb: 1\ntricycle: 1\nride: 1\ndrive: 1\nall other words: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564871,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1950,
+    "total_tokens": 2065,
+    "estimated_cost": 0.0011002499999999999
+  }
+}

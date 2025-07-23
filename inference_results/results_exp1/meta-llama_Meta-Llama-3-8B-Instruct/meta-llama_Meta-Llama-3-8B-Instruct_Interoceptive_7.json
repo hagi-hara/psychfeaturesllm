@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-c014b6b527bc4580bc110f314d963aa8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings for the sensations inside my body:\n\nowie: 3\nstand: 2\nfoot: 2\nshoulder: 2\nchin: 2\nneck: 2\nback: 2\nbelly button: 2\nhead: 2\nankle: 2\nknee: 2\nleg: 2\nhand: 2\ntummy: 2\nbuttocks: 2\nnose: 1\neye: 1\near: 1\ntongue: 1\nlips: 1",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564137,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1939,
+    "total_tokens": 2061,
+    "estimated_cost": 0.00012366
+  }
+}

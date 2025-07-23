@@ -1,0 +1,728 @@
+ open: 6
+swim: 5
+fall: 4
+hair: 3
+them: N
+sidewalk: 5
+basement: 4
+shh: N
+try to: N
+woods: 4
+swing (action): 5
+grrr: N
+milk: 3
+oven: 4
+mouse: 5
+new: N
+hers: N
+balloon: 5
+camping: 4
+run: 6
+going to: N
+tray: 4
+pea: 3
+strawberry: 4
+more: N
+nice: N
+frog: 5
+wet: 3
+thank you: N
+potty: 4
+hammer: 5
+buy: N
+tractor: 5
+mommy: N
+bean: 3
+with: N
+snowman: 4
+not: N
+motorcycle: 5
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck: 5
+I: N
+broken: 3
+banana: 4
+cook: N
+woof woof: N
+sneaker: 5
+hat: 5
+party: 4
+where: N
+pony: 5
+doll: 5
+hand: 6
+stove: 4
+person: 6
+blanket: 5
+stop: 4
+airplane: 3
+truck: 5
+climb: 5
+after: N
+watch (object): 5
+man: 6
+let me: N
+vacuum: 4
+who: N
+myself: N
+button: 5
+chicken (food): 4
+orange (food): 4
+yellow: N
+Ice: N
+firetruck: 5
+snack: 4
+bread: 4
+moose: 4
+duck

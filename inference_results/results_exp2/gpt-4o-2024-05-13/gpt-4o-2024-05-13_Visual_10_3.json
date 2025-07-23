@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJOYiNTBNRji0LPrVnZ4wpUc6aAF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "full: 3.00\nhen: 4.11\nlisten: 2.00\nrefrigerator: 4.50\ncut: 2.00\nrock: 4.00\njump: 3.56\ntouch: 2.00\nbrown: 4.47\npillow: 4.12\nlollipop: 4.11\nclown: 4.20\nget: 3.56\ncold: 3.00\nride: 3.56\nopen: 3.84\nstroller: 4.00\napple: 4.47\nflower: 4.47\ndrop: 3.56\nbanana: 4.47\nchin: 4.25\ngoose: 4.11\ntruck: 4.32\nmad: 2.94\nsky: 4.47\nhungry: 1.35\njeans: 4.25\nfind: 3.56\npenguin: 4.11\ntime: 3.00\nstove: 4.00\nheavy: 3.56\npull: 3.56\npumpkin: 4.47\nfirst: 3.00\nasleep: 2.00\ncountry: 3.00\nbroom: 4.00\nshake: 2.00\ntiger: 4.11\nsalt: 3.25\nhammer: 4.00\nlamp: 4.00\ndrive: 3.56\ncracker: 3.25\ngarbage: 3.00\ncereal: 3.25\nsnack: 3.25\ndiaper: 3.00\nschool: 4.00\ntummy: 2.00\nslipper: 4.00\npuppy: 4.20\nwrite: 3.56\nshirt: 4.25\nslow: 2.00\ncheek: 4.25\nbrother: 4.20\ngo: 3.56\nhide: 3.00\nsandwich: 4.11\nchurch: 4.00\nsick: 2.00\ncamera: 4.50\ngentle: 3.00\nmorning: 3.00\ntickle: 2.00\ntooth: 4.25\nblanket: 4.00\nraisin: 4.00\npuzzle: 3.00\nbig: 4.28\nbreakfast: 3.00\ndog: 4.20\ntongue: 4.25\nmilk: 3.25\nflag: 4.47\nbroken: 3.00\nfall: 3.56\nperson: 4.50\nowl: 4.11\nfriend: 4.20\nankle: 4.25\ndo: 3.56\ndoctor: 4.00\ngarden: 4.47\nhose: 4.00\ncake: 4.11\npen: 3.56\ntractor: 4.32\nempty: 3.00\nsoft: 2.00\ntable: 4.00\npudding: 3.25\nsleep: 2.00\nbump: 2.00\nbee: 4.19\nmuffin: 4.11\ngiraffe: 4.11\ncrayon: 4.00\nchalk: 4.00\nleg: 4.25\nplate: 4.00\npretzel: 4.00\nmoon: 4.47\nsquirrel: 4.11\nstick: 4.00\ntiny: 4.28\nshow: 3.56\njacket: 4.25\ncloud: 4.47\nsay: 3.56\npig: 4.11\nmovie: 4.47\negg: 4.11\nwake: 3.00\ntake: 3.56\nman: 4.50\ncorn: 4.47\nblow: 2.00\nyard: 4.00\nstand: 3.56\nice: 3.25\nawake: 3.00\npants: 4.25\nspill: 3.00\nbucket: 4.00\npool: 4.00\nwhite: 4.47\ngum: 3.25\nplant: 4.47\npizza: 4.11\nuncle: 4.20\nbite: 2.00\nbutter: 3.25\ntoe: 4.25\nballoon: 4.47\nbear: 4.11\nhand: 4.25\nchase: 3.56\nspoon: 4.00\ntry: 3.56\nsock: 4.25\nface: 4.25\naunt: 4.20\nbunny: 4.11\nteacher: 4.00\nfit: 3.00\nthrow: 3.56\nsprinkler: 4.00\nnap: 2.00\nradio: 3.56\ncircus: 4.00\nbuy: 3.56\nant: 4.19\nbasement: 4.00\nhead: 4.25\npotato: 4.11\ncookie: 4.11\nlamb: 4.11\npenny: 4.33\nyellow: 4.47\nbat: 4.11\npush: 3.56\ntrash: 3.00\ncry: 2.00\ndish: 4.00\nred: 4.47\nback: 4.25\neat: 3.56\nmake: 3.56\nbath: 4.00\nchair: 4.00\ntalk: 3.56\nbook: 4.50\nkick: 3.56\nglass: 4.00\nstone: 4.00\npretend: 3.00\nlady: 4.50\nmoose: 4.11\nbe: 3.00\nsneaker: 4.00\noven: 4.00\nbread: 4.11\nskate: 3.56\nlook: 3.56\nclap: 2.00\nnaughty: 3.00\ncouch: 4.00\nsheep: 4.11\ntowel: 4.00\nnapkin: 4.00\nwould: 3.00\npaint: 4.47\nbib: 4.00\npicnic: 4.00\nsad: 2.94\ndinner: 4.00\nbowl: 4.00\nwindow: 4.88\nstrawberry: 4.11\nsister: 4.20\nbus: 4.32\njuice: 3.25\nhard: 2.00\nhigh: 4.47\ncup: 4.00\nday: 4.47\nnight: 4.47\nzipper: 4.00\ntaste: 3.00\nduck: 4.11\nsoup: 3.25\nroof: 4.00\nhome: 4.88\ncute: 3.00\nwalk: 3.56\ntray: 4.00\ngarage: 4.00\nbring: 3.56\nsee: 3.56\nbutton: 4.00\nsun: 4.88\nmommy: 4.50\nball: 4.47\ncoffee: 3.25\nbaby: 4.50\nrain: 4.47\nbreak: 3.56\nelephant: 4.11\ndraw: 3.56\npotty: 4.00\nhorse: 4.11\npeople: 4.50\ndonkey: 4.11\nhit: 2.00\nwind: 4.47\ntoast: 4.00\npencil: 4.00\nsauce: 3.25\nshoulder: 4.25\ntissue: 4.00\nspaghetti: 4.11\nlike: 3.00\nhug: 3.00\nboots: 4.25\nfinish: 3.00\ntrain: 4.32\nsoda: 3.25\nroom: 4.00\nsplash: 3.00\near: 4.25\njar: 4.00\nsoap: 4.00\nnew: 3.00\nkiss: 3.00\nsit: 3.56\nfix: 3.56\nsnow: 4.47\njelly: 4.00\nput: 3.56\nwait: 3.00\nhurry: 3.00\nshare: 3.56\nnoisy: 2.00\nrip: 2.00\nbox: 4.00\ncandy: 4.00\nplay: 3.56\nwet: 2.00\nhat: 4.25\nlion: 4.11\nread: 4.50\nquiet: 2.00\ndump: 3.00\nhear: 2.00\ncow: 4.11\nyogurt: 3.25\ncarry: 3.56\nturtle: 4.11\nbrush: 4.00\nmouse: 4.11\nchocolate: 3.25\nwindy: 4.47\npark: 4.00\nsticky: 2.00\nwipe: 3.00\ncook: 3.56\npresent: 4.00\nthink: 3.00\ndrawer: 4.00\ncar: 4.32\nporch: 4.00\nbed: 4.00\ndaddy: 4.50\nhair: 4.25\nhave: 3.56\nblock: 4.00\npickle: 4.11\nbeach: 4.47\nfarm: 4.47\nfeed: 3.56\nparty: 4.00\nblue: 4.47\ndeer: 4.11\nsweep: 4.00\nwish: 3.00\nlick: 2.00\npour: 3.56\nscarf: 4.00\ntired: 2.00\nother: 3.00\ntuna: 4.00\nshower: 4.00\nstay: 3.00\nhot: 2.00\ndoor: 4.88\nnurse: 4.00\nsled: 4.00\npurse: 4.00\nanimal: 4.47\nlunch: 3.00\nsing: 2.00\nlove: 3.00\ndoll: 4.11\nfork: 4.00\nboy: 4.50\nsink: 4.00\ndirty: 2.00\ntape: 4.00\nstore: 4.00\ndress: 4.25\npolice: 4.00\neye: 4.25\nalligator: 4.11\narm: 4.25\nhurt: 2.00\ndryer: 4.00\ncatch: 3.56\ndark: 4.47\nsofa: 4.00\nvacuum: 4.00\nhate: 2.94\ngrass: 4.47\nmeow: 2.00\ntoy: 4.00\nrooster: 4.11\ntree: 4.47\ngame: 4.00\nhappy: 3.00\nmonkey: 4.11\npick: 3.56\nkitchen: 4.00\nbad: 2.94\nzebra: 4.11\ncrib: 4.00\ncat: 4.11\nswim: 3.56\nwill: 3.00\nshoe: 4.25\ncoat: 4.25\nsweater: 4.25\nnice: 3.00\nhamburger: 4.11\nfine: 3.00\nbasket: 4.00\nstop: 3.56\ncover: 3.00\ntear: 2.00\npaper: 4.00\nblack: 4.47\npony: 4.11\nbelt: 4.00\nnail: 4.25\nfinger: 4.25\ncomb: 4.00\ncloset: 4.00\npretty: 3.00\nstar: 4.47\nmedicine: 3.00\nhelp: 3.56\nclimb: 3.56\nbottle: 4.00\nbuild: 3.56\npicture: 4.50\nold: 3.00",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989174,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 2847,
+    "prompt_tokens": 1382,
+    "total_tokens": 4229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

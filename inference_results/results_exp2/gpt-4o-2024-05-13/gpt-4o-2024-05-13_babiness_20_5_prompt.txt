@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+morning: 3.58
+bus: 2.29
+basket: 5.00
+wake: 5.41
+ankle: 4.45
+tape: 1.50
+slipper: 2.00
+jacket: 4.00
+medicine: 3.27
+school: 3.79
+stove: 1.10
+coat: 2.36
+soup: 2.64
+block: 4.47
+cover: 3.08
+sticky: 5.92
+bump: 7.36
+room: 4.60
+story: 7.00
+party: 5.83
+find: 2.91
+finger: 5.17
+green: 2.00
+monkey: 2.23
+ride: 2.70
+radio: 1.80
+climb: 2.91
+stick: 1.25
+dress: 2.90
+ear: 3.91
+kitchen: 4.17
+blanket: 8.92
+scissors: 1.20
+fit: 1.67
+daddy: 9.00
+chair: 4.53
+kiss: 6.47
+cat: 2.00
+sled: 1.55
+splash: 3.06
+tiny: 8.00
+happy: 6.91
+listen: 2.17
+awake: 6.20
+yogurt: 3.50
+uncle: 5.22
+closet: 1.92
+chase: 3.80
+bunny: 2.80
+box: 1.94
+dirty: 6.46
+nurse: 6.36
+asleep: 7.19
+basement: 1.36
+country: 1.86
+horse: 2.00
+hate: 2.75
+meow: 1.82
+lion: 2.25
+gum: 3.71
+windy: 1.60
+crib: 9.32
+share: 3.86
+bug: 3.08
+will: 1.82
+refrigerator: 2.35
+zebra: 1.73
+strawberry: 2.83
+high: 3.08
+home: 5.23
+play: 8.91
+grass: 1.73
+noisy: 8.36
+blow: 2.50
+lollipop: 5.18
+owl: 2.42
+bowl: 4.40
+leg: 3.30
+hug: 7.70
+squirrel: 1.50
+full: 3.36
+milk: 9.12
+hit: 2.86
+sad: 2.10
+
+Please answer about all of the following words.
+
+toy
+nice
+raisin
+red
+glue
+egg
+pumpkin
+picnic
+dryer
+chocolate
+naughty
+mouth
+sleepy
+plant
+close
+pen
+dump
+stay
+couch
+puppy
+pick
+bread
+snow
+stand
+bottle
+gentle
+catch
+knock
+brother
+corn
+pour
+nail
+blue
+church
+jump
+purse
+jelly
+pizza
+plate
+sink
+see
+apple
+night
+do
+candy
+baby
+bench
+tear
+tree
+table
+knee
+banana
+bath
+hungry
+get
+sun
+would
+penguin
+tiger
+truck
+cloud
+brush
+beach
+cheese
+dark
+hammer
+time
+paper
+diaper
+potty
+doctor
+zipper
+say
+breakfast
+arm
+sit
+garden
+present
+try
+puzzle
+throw
+good
+tuna
+cut
+shake
+hear
+thirsty
+cook
+lick
+crayon
+garage
+kick
+turkey
+wet
+hold
+belt
+cracker
+butter
+pretend
+turtle
+ladder
+elephant
+build
+mouse
+oven
+juice
+chin
+hide
+sock
+meat
+porch
+take
+head
+feed
+buy
+eye
+taste
+sleep
+little
+jeans
+hat
+pool
+write
+empty
+soap
+white
+dish
+cow
+shirt
+finish
+window
+book
+camera
+back
+toe
+push
+ant
+sneaker
+mop
+sheep
+bear
+fine
+boat
+napkin
+dance
+spoon
+poor
+lunch
+black
+carry
+trash
+break
+bib
+bite
+go
+sauce
+pudding
+doll
+tired
+jar
+rip
+fall
+aunt
+pull
+yellow
+spill
+shovel
+circus
+quiet
+ball
+hurry
+hard
+muffin
+button
+sweater
+tummy
+give
+wish
+cold
+hose
+walk
+hair
+sing
+donkey
+lamp
+be
+salt
+drawer
+cereal
+pig
+pretty
+star
+door
+animal
+talk
+yard
+sick
+money
+alligator
+cheek
+rain
+big
+open
+boy
+heavy
+tissue
+sweep
+police
+friend
+clown
+cookie
+bed
+giraffe
+child
+comb
+picture
+other
+store
+cute
+coffee
+cup
+zoo
+wash
+bad
+food
+new
+pickle
+brown
+fork
+lamb
+stop
+duck
+like
+pony
+moon
+bat
+toast
+bee
+hot
+have
+scarf
+swim
+broom
+teacher
+coke
+rooster
+spaghetti
+cake
+old
+fix
+bring
+goose
+show
+sofa
+potato
+love
+sprinkler
+balloon
+people
+clap
+clock
+nap
+car
+house
+mad
+street
+drop
+smile
+flower
+glass
+slow
+put
+hamburger
+wait
+dinner
+broken
+touch
+sky
+rock
+train
+tractor
+drive
+eat
+farm
+roof
+hurt
+chalk
+read
+first
+hen
+shoe
+moose
+snack
+tickle
+sandwich
+pants
+wind
+run
+park
+day
+nose
+penny
+help
+skate
+vacuum
+hand
+wipe
+paint
+think
+soft
+stone
+flag
+shoulder
+make
+bird
+towel
+face
+sister
+game
+pillow
+look
+tray
+garbage
+boots
+stroller
+ice
+girl
+man
+pencil
+wolf
+soda
+tooth
+lady
+deer
+person
+shower
+tongue
+draw
+cry
+dog
+pretzel
+bucket
+movie
+mommy

@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNhuGQwYH52Jg0HnI98TRrUfxpZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "boots: 6.81\npotty: 6.91\ntummy: 6.83\ncoke: 6.54\nclown: 5.47\nwalk: 6.72\nsleep: 6.83\ncover: 6.21\nleg: 6.83\ndoor: 6.65\nhose: 6.29\nbee: 5.38\nhouse: 6.52\nknee: 6.83\nbug: 6.30\ntowel: 6.67\nbaby: 6.67\nbib: 6.74\ntray: 6.42\nschool: 6.37\ngreen: 3.42\nwet: 4.61\nbuild: 6.18\ndoctor: 6.11\nclose: 6.15\nwhite: 3.56\ntickle: 6.18\ncut: 5.91\nwind: 3.32\nbird: 6.25\nbrother: 6.52\npoor: 3.17\nflower: 6.30\nwill: 2.95\ntry: 3.12\nfix: 4.58\nhigh: 2.88\ngrass: 6.31\nstove: 6.12\nyogurt: 6.38\ncup: 6.74\nfood: 6.82\nhate: 2.74\nscissors: 6.30\nput: 6.21\nmonkey: 5.36\nsit: 6.81\nsmile: 6.12\nwait: 3.61\nsoap: 6.62\nfall: 6.25\ncrib: 6.45\nblue: 3.42\nnapkin: 6.41\ncracker: 6.76\ndonkey: 5.38\ncold: 4.52\nmoose: 3.67\ntongue: 6.72\npumpkin: 6.42\nkiss: 6.62\nmommy: 6.81\nlunch: 6.74\nspoon: 6.72\nlick: 6.72\nball: 6.83\nhelp: 3.62\nnose: 6.83\nlittle: 2.94\nraisin: 6.46\npony: 5.42\nlook: 3.61\nelephant: 4.29\npotato: 6.76\nrun: 6.72\ntape: 6.12\nfit: 3.28\ncloud: 2.68\nhide: 5.62\nfirst: 2.76\nperson: 3.64\nman: 3.58\nshake: 6.25\nlove: 3.61\nheavy: 3.68\ncoat: 6.72\nsalt: 6.12\ntired: 3.64\nbring: 3.61\nsquirrel: 5.32\ntuna: 6.21\nread: 3.68\nlollipop: 6.72\nhat: 6.83\ntiny: 3.28\nsweater: 6.72\nscarf: 6.72\npick: 6.12\nfriend: 6.12\ndish: 6.62\nbump: 6.21\nsneaker: 6.83\nknock: 6.21\ntrain: 6.12\nthink: 2.88\nbeach: 6.38\nhand: 6.83\ncute: 3.68\ncheese: 6.74\nduck: 6.25\npush: 6.21\nnight: 3.42\nbelt: 6.72\nwake: 6.72\nwould: 2.61\nmedicine: 5.91\nturkey: 6.21\ntalk: 3.68\nsay: 3.61\nsoda: 6.54\ncereal: 6.72\nday: 3.42\nbasement: 5.92\nblow: 6.21\ndrawer: 6.12\nboy: 6.12\nsplash: 6.25\nbox: 6.83\nhappy: 3.68\nbad: 3.68\nstrawberry: 6.74\nbowl: 6.83\ntoe: 6.83\nasleep: 6.83\ngoose: 6.25\ngo: 3.61\nshoulder: 6.83\ncheek: 6.83\npresent: 6.12\nchin: 6.83\ndeer: 4.29\ncouch: 6.72\nlion: 4.25\nstar: 2.83\nmeow: 3.56\nslipper: 6.83\ndryer: 6.21\nrock: 6.25\nice: 6.12\ntractor: 6.38\nwash: 6.21\nrefrigerator: 6.21\nslow: 2.91\nlamp: 6.21\nballoon: 6.76\nsleepy: 3.64\naunt: 6.52\nstreet: 6.21\nfeed: 6.21\nother: 2.61\nhave: 2.88\nwindy: 2.68\nmoney: 6.12\ntable: 6.83\njeans: 6.83\nbus: 6.12\narm: 6.83\ngirl: 6.12\nbucket: 6.41\nquiet: 3.61\npillow: 6.83\nmouse: 6.21\nsnack: 6.72\nradio: 6.12\nswim: 6.62\nbook: 3.68\ndance: 6.12\nzoo: 6.21\nnurse: 6.11\nzipper: 6.72\nback: 6.83\nbench: 6.62\npretzel: 6.62\nsoft: 3.68\nsauce: 6.62\ncow: 5.32\nbreak: 3.64\njacket: 6.83\nbroken: 3.61\nold: 3.68\nskate: 6.12\ntiger: 4.29\nwolf: 4.29\nbanana: 6.83\nhome: 6.21\nzebra: 4.29\nhurt: 3.61\nglue: 6.21\ntaste: 3.68\nget: 3.61\nboat: 6.12\ncook: 6.21\ncar: 6.21\npaint: 6.12\ncookie: 6.83\npurse: 6.21\nbasket: 6.83\ndoll: 6.83\nbuy: 3.61\negg: 6.72\nbite: 6.21\ntouch: 6.12\nshow: 3.68\nthirsty: 3.61\ntime: 3.42\ntear: 3.61\ncrayon: 6.83\ntree: 6.12\nbed: 6.83\nuncle: 6.52\ngame: 6.21\near: 6.83\nkitchen: 6.83\nstore: 6.21\nplay: 6.72\ntruck: 6.12\npenguin: 5.36\npants: 6.83\ntrash: 6.21\nhamburger: 6.72\nstory: 3.68\nshovel: 6.12\njump: 6.72\ncomb: 6.72\npuppy: 6.52\nstand: 6.72\nwindow: 6.21\nsofa: 6.72\nsun: 2.91\nbrush: 6.72\nopen: 6.21\nfinger: 6.83\nfarm: 6.21\nred: 3.42\nglass: 6.21\nsad: 3.68\nawake: 6.83\ncountry: 3.64\ndo: 3.61\nlady: 6.12\npull: 6.21\npicnic: 6.21\nbutter: 6.72\ncoffee: 6.54\nsee: 3.61\nkick: 6.21\nwrite: 3.61\nroom: 6.83\ndress: 6.83\neye: 6.83\nhead: 6.83\nmake: 3.61\nchair: 6.83\nbrown: 3.42\ntoy: 6.83\ngarage: 6.21\nmoon: 2.83\nroof: 6.21\nshower: 6.12\nnoisy: 3.64\nshirt: 6.83\nyard: 6.21\nbottle: 6.72\nfine: 3.68\nchocolate: 6.72\nbutton: 6.72\nladder: 6.21\nfork: 6.72\nmop: 6.21\nstick: 6.25\npenny: 6.12\nmad: 3.68\ndog: 6.52\nfinish: 3.61\ndiaper: 6.72\ncircus: 6.12\nbreakfast: 6.72\ncandy: 6.72\npour: 6.21\nsled: 6.12\nhard: 3.68\nowl: 5.36\ndirty: 3.68\nmuffin: 6.72\nsky: 2.83\npizza: 6.72\ndrive: 6.12\nbe: 2.88\nnail: 6.21\ndark: 3.64\nant: 6.21\npuzzle: 6.12\ndraw: 6.12\nchase: 6.12\ncry: 3.61\nsink: 6.21\npaper: 6.12\nhungry: 3.61\nride: 6.21\ngarden: 6.21\nmeat: 6.72\nnap: 6.83\nyellow: 3.42\nspaghetti: 6.72\nbath: 6.72\nhammer: 6.21\nthrow: 6.21\neat: 6.72\nlike: 3.61\nclock: 6.21\nvacuum: 6.21\nsandwich: 6.72\ngood: 3.68\nplant: 6.12\nhit: 6.21\ntooth: 6.83\npool: 6.12\ndump: 6.21\nnice: 3.68\nshoe: 6.83\npicture: 6.12\nhurry: 3.61\nchild: 6.12\nrooster: 5.36\nrain: 6.21\ncorn: 6.72\nhen: 5.32\npretend: 3.61\nankle: 6.83\nblack: 3.42\nsing: 3.61\nsheep: 5.32\npickle: 6.72\nblock: 6.83\nhold: 6.12\nbear: 5.38\nnew: 3.68\npen: 6.21\nmorning: 3.42\nturtle: 5.36\nmouth: 6.83\nface: 6.83\npretty: 3.68\nparty: 6.12\ndrop: 6.21\nchurch: 6.21\nstay: 3.61\nanimal: 6.12\nspill: 6.21\npig: 5.32\nstop: 3.61\ntake: 3.61\nbunny: 6.52\ngarbage: 6.21\nsoup: 6.72\nhot: 3.68\ndinner: 6.72\nmovie: 3.68\ngum: 6.72\npencil: 6.21\nplate: 6.72\ncarry: 6.21\nnaughty: 3.68\nclap: 6.21\nhear: 3.61\nporch: 6.21\nhug: 6.21\npolice: 6.12\njelly: 6.72\nblanket: 6.72\njar: 6.21\nbig: 3.68\nbroom: 6.21\nstone: 6.25\nclimb: 6.21\njuice: 6.72\npeople: 3.64\nstroller: 6.72",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989121,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 2849,
+    "prompt_tokens": 1735,
+    "total_tokens": 4584,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

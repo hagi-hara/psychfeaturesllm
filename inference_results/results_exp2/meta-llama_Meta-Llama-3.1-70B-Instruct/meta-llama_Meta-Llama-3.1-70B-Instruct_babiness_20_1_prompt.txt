@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+banana: 3.08
+wait: 4.30
+hide: 4.75
+towel: 5.40
+back: 3.50
+old: 1.45
+door: 1.80
+garden: 3.27
+party: 5.83
+cry: 8.00
+sticky: 5.92
+wash: 5.45
+push: 4.14
+swim: 2.50
+bring: 3.10
+sweep: 1.69
+money: 4.80
+table: 3.93
+blanket: 8.92
+sprinkler: 2.73
+pool: 1.67
+sheep: 3.40
+windy: 1.60
+dryer: 2.35
+picnic: 2.73
+sauce: 1.82
+write: 1.36
+nap: 8.50
+boots: 3.00
+tree: 3.36
+naughty: 5.50
+brown: 4.10
+basket: 5.00
+morning: 3.58
+country: 1.86
+skate: 2.07
+grass: 1.73
+pants: 3.43
+dirty: 6.46
+bus: 2.29
+person: 6.00
+fit: 1.67
+home: 5.23
+shovel: 2.00
+carry: 5.91
+hair: 2.80
+crayon: 7.50
+toast: 2.53
+alligator: 1.31
+tired: 4.25
+fix: 2.09
+block: 4.47
+wet: 6.59
+lick: 3.57
+lollipop: 5.18
+slipper: 2.00
+spoon: 6.90
+hammer: 4.90
+chase: 3.80
+zoo: 3.73
+rain: 2.17
+rip: 2.18
+cheek: 5.84
+stroller: 8.54
+high: 3.08
+pudding: 5.60
+comb: 3.88
+bottle: 9.60
+cake: 4.17
+bib: 9.75
+jacket: 4.00
+brother: 5.30
+head: 4.10
+bat: 1.62
+cold: 2.50
+donkey: 1.00
+spaghetti: 4.00
+sleep: 7.73
+tractor: 1.29
+hot: 1.90
+game: 4.38
+cute: 8.80
+jelly: 2.50
+window: 3.00
+
+Please answer about all of the following words.
+
+fine
+try
+tickle
+chin
+think
+pull
+dish
+dog
+tissue
+cover
+shower
+pick
+taste
+kitchen
+shoe
+hamburger
+bee
+help
+food
+yogurt
+bump
+teacher
+thirsty
+touch
+hat
+bug
+snack
+cloud
+tiny
+dress
+bowl
+finger
+like
+pillow
+hand
+moon
+mop
+lamb
+hungry
+jeans
+sandwich
+garbage
+clock
+hurry
+walk
+eat
+medicine
+pretty
+boy
+nose
+closet
+house
+camera
+brush
+slow
+people
+black
+pickle
+coffee
+duck
+see
+puppy
+white
+would
+diaper
+squirrel
+chocolate
+uncle
+scarf
+basement
+face
+shoulder
+potty
+sleepy
+empty
+stay
+star
+broom
+giraffe
+have
+park
+open
+toy
+cow
+give
+hen
+farm
+meow
+hold
+circus
+corn
+flower
+sit
+drop
+meat
+sky
+lady
+balloon
+hate
+mommy
+dance
+soft
+porch
+truck
+tear
+raisin
+draw
+school
+red
+horse
+listen
+catch
+coat
+sofa
+say
+book
+time
+hose
+plant
+refrigerator
+church
+bird
+clap
+rock
+train
+drive
+stick
+garage
+will
+trash
+ankle
+zebra
+mouth
+bite
+poor
+lion
+bath
+doll
+heavy
+nurse
+beach
+knee
+bad
+salt
+sad
+doctor
+cat
+take
+zipper
+big
+wake
+share
+rooster
+turkey
+candy
+turtle
+blow
+present
+stop
+close
+wolf
+boat
+make
+cracker
+drawer
+glass
+pen
+gum
+shake
+ladder
+sick
+night
+sing
+read
+stove
+pencil
+toe
+put
+ball
+moose
+arm
+room
+juice
+bread
+picture
+penguin
+dark
+wind
+napkin
+ride
+tummy
+man
+radio
+wipe
+clown
+hurt
+cereal
+cookie
+run
+build
+buy
+tuna
+stone
+cook
+tongue
+green
+throw
+quiet
+box
+look
+flag
+tape
+other
+awake
+butter
+roof
+first
+yard
+child
+breakfast
+cut
+hit
+street
+hear
+sweater
+do
+feed
+lamp
+sock
+good
+soup
+hug
+coke
+shirt
+store
+plate
+oven
+tray
+break
+friend
+bench
+gentle
+paper
+soda
+cup
+owl
+deer
+elephant
+sneaker
+sister
+finish
+cheese
+wish
+glue
+nice
+ear
+car
+full
+monkey
+broken
+potato
+daddy
+pumpkin
+be
+vacuum
+blue
+ant
+apple
+paint
+kick
+love
+sun
+bed
+happy
+movie
+pizza
+go
+button
+find
+scissors
+talk
+pretend
+penny
+sink
+strawberry
+couch
+smile
+fork
+aunt
+pour
+mad
+eye
+chair
+stand
+climb
+pig
+baby
+egg
+goose
+asleep
+leg
+pony
+pretzel
+chalk
+spill
+bear
+puzzle
+yellow
+tiger
+bucket
+tooth
+noisy
+lunch
+play
+police
+animal
+hard
+mouse
+little
+new
+bunny
+purse
+belt
+get
+dinner
+ice
+story
+crib
+jump
+kiss
+show
+snow
+splash
+fall
+milk
+jar
+soap
+day
+nail
+girl
+knock
+muffin
+dump
+sled

@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-68bce0b7e80d4768a65bfb18b465acc0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the actions related to the hand / arm:\n\n* open: 5\n* swim: 0\n* fall: 0\n* hair: 0\n* them: N\n* sidewalk: 0\n* basement: 0\n* shh: 0\n* try to: 0\n* woods: 0\n* swing (action): 5\n* grrr: 0\n* milk: 0\n* oven: 0\n* mouse: 0\n* new: 0\n* hers: 0\n* balloon: 0\n* camping: 0\n* run: 0\n* going to: 0\n* tray: 0\n* pea: 0\n* strawberry: 0\n* more: 0\n* nice: 0\n* frog: 0\n* wet: 0\n* thank you: 0\n* potty: 0\n* hammer: 5\n* buy: 0\n* tractor: 0\n* mommy: 0\n* bean: 0\n* with: 0\n* snowman: 0\n* not: 0\n* motorcycle: 0\n* firetruck: 0\n* snack: 0\n* bread: 0\n* moose: 0\n* duck: 0\n* I: 0\n* broken: 0\n* banana: 0\n* cook: 0\n* woof woof: 0\n* sneaker: 0\n* hat: 0\n* party: 0\n* where: 0\n* pony: 0\n* doll: 0\n* hand: 5\n* stove: 0\n* person: 0\n* blanket: 0\n* stop: 0\n* airplane: 0\n* truck: 0\n* climb: 0\n* after: 0\n* watch (object): 0\n* man: 0\n* let me: 0\n* vacuum: 0\n* who: 0\n* myself: 0\n* button: 5\n* chicken (food): 0\n* orange (food): 0\n* yellow: 0\n* ice: 0\n* black: 0\n* sheep: 0\n* ear: 0\n* wait: 0\n* shoe: 0\n* dance: 0\n* she: 0\n* what: 0\n* this little piggy: 0\n* hug: 0\n* high: 0\n* splash: 0\n* water (not beverage): 0\n* does: 0\n* donut: 0\n* catch: 0\n* foot: 0\n* cheerio: 0\n* bee: 0\n* towel: 0\n* outside: 0\n* yard: 0\n* goose: 0\n* tear: 0\n* candy: 0\n* were: 0\n* bat: 0\n* think: 0\n* meow: 0\n* cockadoodledoo: 0\n* dish: 0\n* garden: 0\n* brown: 0\n* work (place): 0\n* pattycake: 0\n* pants: 0\n* finger: 5\n* kiss: 0\n* apple: 0\n* lion: 0\n* stuck: 0\n* skate: 0\n* boo boo: 0\n* block: 0\n* grape: 0\n* did ya: 0\n* store: 0\n* her: 0\n* underpants: 0\n* mad: 0\n* zebra: 0\n* slide (object): 0\n* so: 0\n* is: 0\n* slide (action): 0\n* their: 0\n* grandpa: 0\n* shorts: 0\n* dry (action): 0\n* sleep: 0\n* couch: 0\n* need to: 0\n* trash: 0\n* soda: 0\n* like: 0\n* applesauce: 0\n* cat: 0\n* which: 0\n* living room: 0\n* asleep: 0\n* sock: 0\n* telephone: 0\n* drink (beverage): 0\n* next to: 0\n* hush: 0\n* tiger: 0\n* jacket: 0\n* soup: 0\n* was: 0\n* lamb: 0\n* raisin: 0\n* bird: 0\n* zoo: 0\n* him: 0\n* loud: 0\n* closet: 0\n* hot: 0\n* turkey: 0\n* cheese: 0\n* fish (food): 0\n* about: 0\n* comb: 0\n* do: 0\n* yucky: 0\n* drawer: 0\n* babysitter's name: N\n* monkey: 0\n* light: 0\n* turn around: 0\n* mouth: 0\n* melon: 0\n* got to: 0\n* taste: 0\n* that: 0\n* clean (description): 0\n* here: 0\n* behind: 0\n* table: 0\n* flag: 0\n* he: 0\n* stone: 0\n* old: 0\n* walk: 0\n* fast: 0\n* ouch: 0\n* animal: 0\n* sandwich: 0\n* clean (action): 0\n* later: 0\n* garage: 0\n* arm: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564141,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1262,
+    "prompt_tokens": 1950,
+    "total_tokens": 3212,
+    "estimated_cost": 0.00019272
+  }
+}

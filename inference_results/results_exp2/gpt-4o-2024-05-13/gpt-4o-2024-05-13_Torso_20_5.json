@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJPRyGSwx7yx5XNzsrlmOCsZ4owS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "toy: 1.10\nnice: 0.66\nraisin: 0.62\nred: 0.25\nglue: 0.32\negg: 0.45\npumpkin: 0.68\npicnic: 1.92\ndryer: 0.32\nchocolate: 0.58\nnaughty: 0.66\nmouth: 1.05\nsleepy: 3.24\nplant: 0.35\nclose: 0.38\npen: 0.29\ndump: 1.45\nstay: 1.02\ncouch: 2.74\npuppy: 1.34\npick: 0.62\nbread: 0.75\nsnow: 0.72\nstand: 0.95\nbottle: 0.50\ngentle: 0.52\ncatch: 0.55\nknock: 0.85\nbrother: 1.08\ncorn: 0.56\npour: 0.70\nnail: 0.20\nblue: 0.25\nchurch: 0.62\njump: 2.75\npurse: 1.10\njelly: 0.55\npizza: 0.75\nplate: 0.45\nsink: 0.35\nsee: 0.15\napple: 0.75\nnight: 1.50\ndo: 0.34\ncandy: 0.41\nbaby: 1.95\nbench: 1.22\ntear: 1.05\ntree: 0.38\ntable: 0.85\nknee: 0.45\nbanana: 0.55\nbath: 2.70\nhungry: 2.95\nget: 0.32\nsun: 0.50\nwould: 0.62\npenguin: 0.30\ntiger: 0.30\ntruck: 1.30\ncloud: 0.30\nbrush: 0.30\nbeach: 1.30\ncheese: 0.45\ndark: 1.45\nhammer: 0.45\ntime: 0.34\npaper: 0.25\ndiaper: 1.75\npotty: 1.95\ndoctor: 1.56\nzipper: 0.55\nsay: 0.15\nbreakfast: 1.05\narm: 0.45\nsit: 3.10\ngarden: 0.75\npresent: 0.95\ntry: 0.32\npuzzle: 0.26\nthrow: 1.95\ngood: 0.85\ntuna: 0.55\ncut: 0.65\nshake: 1.25\nhear: 0.15\nthirsty: 2.95\ncook: 0.75\nlick: 0.15\ncrayon: 0.30\ngarage: 0.28\nkick: 1.50\nturkey: 0.85\nwet: 0.95\nhold: 2.15\nbelt: 0.55\ncracker: 0.58\nbutter: 0.45\npretend: 0.32\nturtle: 0.26\nladder: 1.85\nelephant: 0.25\nbuild: 0.32\nmouse: 0.35\noven: 0.55\njuice: 0.55\nchin: 0.10\nhide: 0.32\nsock: 0.55\nmeat: 0.50\nporch: 0.75\ntake: 0.32\nhead: 0.15\nfeed: 0.75\nbuy: 0.32\neye: 0.10\ntaste: 0.75\nsleep: 3.50\nlittle: 0.55\njeans: 2.65\nhat: 0.75\npool: 1.55\nwrite: 0.28\nempty: 0.32\nsoap: 1.25\nwhite: 0.25\ndish: 0.45\ncow: 0.35\nshirt: 3.05\nfinish: 0.32\nwindow: 0.45\nbook: 0.32\ncamera: 0.29\nback: 3.10\ntoe: 0.35\npush: 1.10\nant: 0.26\nsneaker: 0.45\nmop: 1.05\nsheep: 0.25\nbear: 0.30\nfine: 0.45\nboat: 0.85\nnapkin: 0.45\ndance: 2.25\nspoon: 0.45\npoor: 0.26\nlunch: 0.55\nblack: 0.25\ncarry: 1.15\ntrash: 0.28\nbreak: 0.75\nbib: 1.35\nbite: 0.65\ngo: 1.32\nsauce: 0.55\npudding: 0.45\ndoll: 1.05\ntired: 3.50\njar: 0.38\nrip: 0.75\nfall: 2.75\naunt: 1.05\npull: 1.05\nyellow: 0.25\nspill: 0.75\nshovel: 1.95\ncircus: 0.85\nquiet: 0.50\nball: 0.75\nhurry: 1.45\nhard: 0.55\nmuffin: 0.45\nbutton: 0.45\nsweater: 2.85\ntummy: 3.45\ngive: 0.95\nwish: 0.55\ncold: 2.75\nhose: 1.05\nwalk: 1.50\nhair: 0.10\nsing: 0.32\ndonkey: 0.26\nlamp: 0.25\nbe: 0.35\nsalt: 0.45\ndrawer: 0.25\ncereal: 0.45\npig: 0.35\npretty: 0.55\nstar: 0.25\ndoor: 0.35\nanimal: 0.30\ntalk: 0.10\nyard: 0.75\nsick: 2.70\nmoney: 0.25\nalligator: 0.26\ncheek: 0.10\nrain: 0.30\nbig: 0.55\nopen: 0.32\nboy: 0.35\nheavy: 1.75\ntissue: 0.15\nsweep: 1.45\npolice: 0.55\nfriend: 1.05\nclown: 0.25\ncookie: 0.55\nbed: 3.55\ngiraffe: 0.25\nchild: 1.55\ncomb: 0.15\npicture: 0.25\nother: 0.32\nstore: 0.35\ncute: 0.55\ncoffee: 0.75\ncup: 0.35\nzoo: 0.35\nwash: 1.35\nbad: 0.55\nfood: 0.45\nnew: 0.45\npickle: 0.45\nbrown: 0.25\nfork: 0.45\nlamb: 0.25\nstop: 0.32\nduck: 0.26\nlike: 0.35\npony: 0.35\nmoon: 0.25\nbat: 0.25\ntoast: 0.45\nbee: 0.26\nhot: 0.55\nhave: 0.34\nscarf: 1.65\nswim: 1.55\nbroom: 1.05\nteacher: 1.20\ncoke: 0.45\nrooster: 0.24\nspaghetti: 0.55\ncake: 0.45\nold: 0.55\nfix: 1.05\nbring: 0.32\ngoose: 0.26\nshow: 0.32\nsofa: 2.75\npotato: 0.45\nlove: 1.55\nsprinkler: 1.30\nballoon: 0.75\npeople: 1.55\nclap: 0.55\nclock: 0.25\nnap: 3.50\ncar: 1.10\nhouse: 2.15\nmad: 1.65\nstreet: 0.85\ndrop: 0.75\nsmile: 0.85\nflower: 0.45\nglass: 0.25\nslow: 0.55\nput: 0.32\nhamburger: 0.55\nwait: 0.55\ndinner: 1.05\nbroken: 0.75\ntouch: 0.32\nsky: 0.25\nrock: 0.25\ntrain: 0.75\ntractor: 0.55\ndrive: 1.15\neat: 1.55\nfarm: 0.75\nroof: 0.35\nhurt: 1.85\nchalk: 0.25\nread: 0.32\nfirst: 0.32\nhen: 0.25\nshoe: 0.45\nmoose: 0.26\nsnack: 0.55\ntickle: 1.85\nsandwich: 0.55\npants: 2.75\nwind: 0.25\nrun: 1.95\npark: 0.85\nday: 0.55\nnose: 0.10\npenny: 0.25\nhelp: 0.32\nskate: 1.95\nvacuum: 0.55\nhand: 0.32\nwipe: 0.32\npaint: 0.32\nthink: 0.25\nsoft: 0.25\nstone: 0.25\nflag: 0.25\nshoulder: 0.32\nmake: 0.32\nbird: 0.26\ntowel: 0.55\nface: 0.10\nsister: 1.08\ngame: 0.55\npillow: 2.55\nlook: 0.15\ntray: 0.25\ngarbage: 0.28\nboots: 0.45\nstroller: 1.15\nice: 0.25\ngirl: 0.35\nman: 0.35\npencil: 0.29\nwolf: 0.24\nsoda: 0.45\ntooth: 0.10\nlady: 0.35\ndeer: 0.25\nperson: 0.35\nshower: 2.95\ntongue: 0.15\ndraw: 0.32\ncry: 1.85\ndog: 1.35\npretzel: 0.45\nbucket: 0.35\nmovie: 0.55\nmommy: 1.55",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989229,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 2519,
+    "prompt_tokens": 1615,
+    "total_tokens": 4134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

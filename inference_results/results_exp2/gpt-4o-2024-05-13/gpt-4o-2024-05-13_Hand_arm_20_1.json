@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNhddN09FOPDCdKhxhcU8404CWS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "fine: 2.00\ntry: 3.32\ntickle: 3.95\nchin: 1.74\nthink: 1.05\npull: 4.42\ndish: 3.63\ndog: 1.90\ntissue: 2.95\ncover: 3.95\nshower: 3.16\npick: 4.26\ntaste: 1.26\nkitchen: 2.16\nshoe: 1.00\nhamburger: 2.05\nbee: 1.05\nhelp: 3.16\nfood: 2.74\nyogurt: 1.95\nbump: 1.11\nteacher: 1.74\nthirsty: 1.79\ntouch: 2.05\nhat: 1.74\nbug: 1.05\nsnack: 2.16\ncloud: 1.00\ntiny: 1.00\ndress: 1.90\nbowl: 2.74\nfinger: 3.90\nlike: 1.00\npillow: 2.19\nhand: 4.74\nmoon: 0.95\nmop: 4.16\nlamb: 1.05\nhungry: 1.74\njeans: 1.00\nsandwich: 2.45\ngarbage: 3.74\nclock: 1.00\nhurry: 1.00\nwalk: 2.90\neat: 2.74\nmedicine: 1.00\npretty: 1.00\nboy: 1.00\nnose: 1.00\ncloset: 1.00\nhouse: 1.00\ncamera: 1.00\nbrush: 4.16\nslow: 1.00\npeople: 1.00\nblack: 1.00\npickle: 1.00\ncoffee: 1.00\nduck: 1.00\nsee: 1.00\npuppy: 1.00\nwhite: 1.00\nwould: 1.00\ndiaper: 1.00\nsquirrel: 1.00\nchocolate: 1.00\nuncle: 1.00\nscarf: 1.00\nbasement: 1.00\nface: 1.00\nshoulder: 1.00\npotty: 1.00\nsleepy: 1.00\nempty: 1.00\nstay: 1.00\nstar: 1.00\nbroom: 4.16\ngiraffe: 1.00\nhave: 1.00\npark: 1.00\nopen: 3.90\ntoy: 1.00\ncow: 1.00\ngive: 4.76\nhen: 1.00\nfarm: 1.00\nmeow: 1.00\nhold: 4.76\ncircus: 1.00\ncorn: 1.00\nflower: 1.00\nsit: 1.00\ndrop: 3.21\nmeat: 1.00\nsky: 1.00\nlady: 1.00\nballoon: 1.00\nhate: 1.00\nmommy: 1.00\ndance: 1.00\nsoft: 1.00\nporch: 1.00\ntruck: 1.00\ntear: 1.00\nraisin: 1.00\ndraw: 4.74\nschool: 1.00\nred: 1.00\nhorse: 1.00\nlisten: 1.00\ncatch: 4.16\ncoat: 4.10\nsofa: 1.00\nsay: 1.00\nbook: 1.00\ntime: 1.00\nhose: 1.00\nplant: 1.00\nrefrigerator: 1.00\nchurch: 1.00\nbird: 1.00\nclap: 4.16\nrock: 1.00\ntrain: 1.00\ndrive: 1.00\nstick: 1.00\ngarage: 1.00\nwill: 1.00\ntrash: 1.00\nankle: 1.00\nzebra: 1.00\nmouth: 1.00\nbite: 1.00\npoor: 1.00\nlion: 1.00\nbath: 1.00\ndoll: 1.00\nheavy: 1.00\nnurse: 1.00\nbeach: 1.00\nknee: 1.00\nbad: 1.00\nsalt: 1.00\nsad: 1.00\ndoctor: 1.00\ncat: 1.00\ntake: 4.16\nzipper: 1.00\nbig: 1.00\nwake: 1.00\nshare: 1.00\nrooster: 1.00\nturkey: 1.00\ncandy: 1.00\nturtle: 1.00\nblow: 1.00\npresent: 1.00\nstop: 3.95\nclose: 3.90\nwolf: 1.00\nboat: 1.00\nmake: 1.00\ncracker: 1.00\ndrawer: 1.00\nglass: 1.00\npen: 4.74\ngum: 1.00\nshake: 4.16\nladder: 1.00\nsick: 1.00\nnight: 1.00\nsing: 1.00\nread: 1.00\nstove: 1.00\npencil: 4.74\ntoe: 1.00\nput: 4.42\nball: 1.00\nmoose: 1.00\narm: 4.74\nroom: 1.00\njuice: 1.00\nbread: 1.00\npicture: 1.00\npenguin: 1.00\ndark: 1.00\nwind: 1.00\nnapkin: 1.00\nride: 1.00\ntummy: 1.00\nman: 1.00\nradio: 1.00\nwipe: 3.95\nclown: 1.00\nhurt: 1.00\ncereal: 1.00\ncookie: 1.00\nrun: 1.00\nbuild: 4.16\nbuy: 1.00\ntuna: 1.00\nstone: 1.00\ncook: 1.00\ntongue: 1.00\ngreen: 1.00\nthrow: 4.16\nquiet: 1.00\nbox: 1.00\nlook: 1.00\nflag: 1.00\ntape: 1.00\nother: 1.00\nawake: 1.00\nbutter: 1.00\nroof: 1.00\nfirst: 1.00\nyard: 1.00\nchild: 1.00\nbreakfast: 1.00\ncut: 4.16\nhit: 4.16\nstreet: 1.00\nhear: 1.00\nsweater: 1.00\ndo: 1.00\nfeed: 4.16\nlamp: 1.00\nsock: 1.00\ngood: 1.00\nsoup: 1.00\nhug: 1.00\ncoke: 1.00\nshirt: 1.00\nstore: 1.00\nplate: 1.00\noven: 1.00\ntray: 1.00\nbreak: 4.16\nfriend: 1.00\nbench: 1.00\ngentle: 1.00\npaper: 1.00\nsoda: 1.00\ncup: 1.00\nowl: 1.00\ndeer: 1.00\nelephant: 1.00\nsneaker: 1.00\nsister: 1.00\nfinish: 1.00\ncheese: 1.00\nwish: 1.00\nglue: 4.16\nnice: 1.00\near: 1.00\ncar: 1.00\nfull: 1.00\nmonkey: 1.00\nbroken: 1.00\npotato: 1.00\ndaddy: 1.00\npumpkin: 1.00\nbe: 1.00\nvacuum: 1.00\nblue: 1.00\nant: 1.00\napple: 1.00\npaint: 4.16\nkick: 1.00\nlove: 1.00\nsun: 1.00\nbed: 1.00\nhappy: 1.00\nmovie: 1.00\npizza: 1.00\ngo: 1.00\nbutton: 1.00\nfind: 1.00\nscissors: 4.16\ntalk: 1.00\npretend: 1.00\npenny: 1.00\nsink: 1.00\nstrawberry: 1.00\ncouch: 1.00\nsmile: 1.00\nfork: 1.00\naunt: 1.00\npour: 1.00\nmad: 1.00\neye: 1.00\nchair: 1.00\nstand: 1.00\nclimb: 1.00\npig: 1.00\nbaby: 1.00\negg: 1.00\ngoose: 1.00\nasleep: 1.00\nleg: 1.00\npony: 1.00\npretzel: 1.00\nchalk: 1.00\nspill: 1.00\nbear: 1.00\npuzzle: 1.00\nyellow: 1.00\ntiger: 1.00\nbucket: 1.00\ntooth: 1.00\nnoisy: 1.00\nlunch: 1.00\nplay: 1.00\npolice: 1.00\nanimal: 1.00\nhard: 1.00\nmouse: 1.00\nlittle: 1.00\nnew: 1.00\nbunny: 1.00\npurse: 1.00\nbelt: 1.00\nget: 1.00\ndinner: 1.00\nice: 1.00\nstory: 1.00\ncrib: 1.00\njump: 1.00\nkiss: 1.00\nshow: 1.00\nsnow: 1.00\nsplash: 1.00\nfall: 1.00\nmilk: 1.00\njar: 1.00\nsoap: 1.00\nday: 1.00\nnail: 1.00\ngirl: 1.00\nknock: 1.00\nmuffin: 1.00\ndump: 1.00\nsled: 1.00",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989121,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 2524,
+    "prompt_tokens": 1617,
+    "total_tokens": 4141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

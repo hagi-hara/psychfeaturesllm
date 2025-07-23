@@ -1,0 +1,695 @@
+boy: 7
+wipe: 6
+sing: 5
+ice cream: 7
+mine: 4
+babysitter: 5
+TV: 6
+hurt: 5
+scissors: 6
+under: 3
+nurse: 5
+nail: 5
+go: 4
+tooth: 6
+picture: 7
+beside: 4
+stay: 4
+lemme: 2
+garbage: 6
+much: 3
+sofa: 6
+hide: 5
+eye: 6
+cake: 7
+broken: 5
+better: 4
+cookie: 7
+naughty: 5
+car: 7
+why: 3
+doctor: 5
+meat: 6
+jar: 5
+slide (object): 6
+be: 3
+porch: 6
+sweater: 6
+kick: 5
+fit: 4
+donut: 7
+chin: 5
+him: 4
+water (beverage): 6
+hurry: 5
+pig: 6
+call: 4
+could: 3
+babysitter's name: 5
+go potty: 5
+hear: 4
+peekaboo: 6
+touch: 5
+gas station: 6
+mailman: 5
+jacket: 6
+pajamas: 6
+slide (action): 6
+paper: 5
+will: 3
+yes: 2
+vacuum: 6
+tiny: 4
+fine: 4
+got to: 4
+rip: 5
+shopping: 6
+can (object): 5
+popcorn: 7
+glue: 5
+chair: 6
+tummy: 6
+sock: 5
+cook: 5
+cockadoodledoo: 6
+goose: 6
+stove: 6
+sky: 6
+empty: 4
+wanna: 4
+child's own name: 5
+have: 3
+wish: 4
+they: 3
+yard: 6
+uh oh: 5
+wind: 5
+bird: 6
+sidewalk: 6
+bread: 6
+lip: 5
+try to: 4
+hamburger: 7
+hammer: 6
+swim: 6
+watch (action): 5
+washing machine: 6
+ride: 5
+applesauce: 7
+share: 4
+have to: 4
+poor: 4
+her: 3
+ladder: 6
+tired: 5
+park: 6
+moon: 6
+drink (beverage): 6
+did: 3
+woof woof: 6
+carrot: 6
+awake: 5
+turn around: 5
+dirty: 5
+drop: 5
+day: 5
+potty: 5
+of: 2
+fix: 5
+people: 5
+night: 5
+dress: 6
+mouse: 6
+what: 3
+next to: 4
+for: 2
+baa baa: 6
+oven: 6
+lion: 6
+tickle: 5
+flower: 6
+hand: 6
+alligator: 6
+am: 2
+above: 4
+penis: 5
+dance: 6
+snow: 6
+think: 4
+pillow: 6
+lunch: 6
+turkey: 6
+bicycle: 7
+bear: 6
+see: 4
+quack quack: 6
+plant: 6
+another: 4
+hate: 5
+pretzel: 7
+penny: 5
+drive: 6
+chicken (animal): 6
+cup: 5
+jump: 5
+would: 3
+bottle: 6
+about: 3
+read: 5
+blue: 5
+there: 3
+open: 4
+spoon: 5
+these: 3
+lollipop: 7
+cheese: 6
+grape: 6
+thank you: 4
+full: 4
+brother: 5
+coat: 6
+wash: 5
+star: 6
+lamp: 6
+my: 3
+cry: 5
+taste: 5
+sprinkler: 6
+zipper: 5
+was: 2
+she: 3
+apple: 6
+knife: 6
+jello: 6
+bad: 4
+glass: 6
+hi: 2
+stairs: 6
+home: 6
+aunt: 5
+raisin: 6
+this: 3
+gum: 5
+country: 6
+head: 5
+hello: 4
+wolf: 6
+duck: 6
+help: 5
+walk: 5
+he: 3
+behind: 4
+want to: 4
+book: 6
+play: 5
+tonight: 5
+basement: 6
+squirrel: 6
+animal: 5
+black: 5
+pen: 5
+stuck: 5
+crib: 6
+dish: 5
+belly button: 5
+feed: 5
+hat: 6
+zoo: 6
+going to: 4
+hard: 4
+bath: 6
+climb: 5
+which: 3
+does: 3
+boots: 6
+pickle: 6
+old: 4
+it: 2
+present: 6
+yellow: 5
+heavy: 5
+carry: 5
+draw: 5
+nose: 5
+hen: 6
+camping: 6
+gonna get you: 5
+jeans: 6
+rooster: 6
+sister: 5
+sandbox: 6
+elephant: 6
+where: 3
+stop: 4
+same: 4
+bucket: 6
+owl: 6
+grandma: 5
+napkin: 5
+can (auxiliary): 2
+french fries: 7
+popsicle: 7
+blanket: 6
+any: 3
+yum yum: 6
+time: 4
+say: 4
+potato: 6
+that: 3
+grass: 6
+hit: 5
+nap: 5
+here: 3
+pumpkin: 6
+belt: 5
+peanut butter: 7
+big: 4
+kleenex: 6
+bench: 6
+garage: 6
+stone: 6
+push: 5
+dog: 6
+bat: 6
+purse: 6
+frog: 6
+orange (food): 6
+soup: 6
+on: 2
+out: 3
+yogurt: 6
+because: 4
+knock: 5
+boo boo: 5
+soap: 5
+hose: 6
+train: 7
+but: 3
+bean: 5
+yesterday: 5
+work (place): 6
+other: 3
+window: 6
+sandwich: 7
+blow: 5
+ball: 6
+butter: 6
+refrigerator: 6
+how: 3
+every: 3
+pony: 6
+after: 3
+asleep: 5
+shoe: 6
+fish (food): 6
+tear: 5
+bottom: 5
+you: 3
+sticky: 5
+sad: 5
+salt: 5
+watch (object): 6
+who: 3
+story: 5
+toothbrush: 6
+butterfly: 6
+stand: 5
+fast: 4
+helicopter: 7
+toe: 5
+airplane: 7
+toy: 6
+mouth: 5
+pretend: 5
+talk: 5
+comb: 5
+your: 3
+bee: 6
+cold: 5
+ice: 6
+rain: 6
+some: 3
+lick: 5
+potato chip: 7
+block: 6
+hold: 5
+snack: 6
+let me: 4
+teddybear: 6
+put: 4
+glove: 6
+teacher: 5
+scared: 5
+clean (description): 4
+fork: 5
+were: 3
+soda: 6
+spill: 5
+high: 4
+no: 2
+and: 2
+meow: 6
+police: 6
+key: 5
+camera: 6
+us: 3
+none: 3
+now: 3
+ear: 5
+tractor: 7
+dinner: 6
+trash: 6
+strawberry: 6
+over: 3
+slipper: 6
+breakfast: 6
+box: 5
+movie: 6
+snowsuit: 6
+pencil: 5
+I: 2
+bump: 5
+broom: 6
+ant: 6
+tissue: 5
+bubble: 6
+sneaker: 6
+them: 3
+stick: 5
+dark: 5
+money: 5
+scarf: 6
+downtown: 6
+shovel: 6
+bunny: 6
+white: 5
+owie: 5
+finger: 5
+pop: 5
+myself: 4
+cracker: 6
+bead: 5
+shush: 5
+high chair: 6
+kitchen: 6
+girl: 5
+work (action): 5
+man: 5
+green beans: 6
+hush: 5
+chase: 5
+zebra: 6
+party: 6
+fireman: 6
+plate: 5
+bye: 4
+cowboy: 6
+so: 3
+kitty: 6
+get: 4
+his: 3
+ankle: 5
+clean (action): 5
+ouch: 5
+backyard: 6
+drawer: 5
+bathroom: 6
+noisy: 5
+puzzle: 6
+kiss: 5
+room: 5
+bring: 5
+basket: 6
+rock: 6
+bite: 5
+living room: 6
+first: 4
+we: 3
+chocolate: 7
+yucky: 5
+tree: 6
+in: 2
+break: 4
+playground: 6
+tiger: 6
+vagina: 5
+play pen: 6
+an: 2
+tape: 5
+nice: 4
+grandpa: 5
+mitten: 6
+drink (action): 5
+back: 3
+farm: 6
+finish: 4
+shh: 5
+pizza: 7
+gentle: 4
+show: 5
+noodle: 6
+up: 3
+cereal: 6
+smile: 5
+bed: 6
+choo choo: 6
+a lot: 4
+find: 4
+so big: 5
+fall: 5
+closet: 6
+moo: 6
+food: 5
+cute: 4
+leg: 5
+catch: 5
+hug: 5
+write: 5
+necklace: 6
+mad: 5
+take: 4
+vitamins: 5
+wet: 5
+game: 5
+shorts: 6
+tray: 5
+tuna: 6
+sheep: 6
+please: 4
+horse: 6
+around: 3
+uncle: 5
+turtle: 6
+night night: 5
+morning: 5
+cheek: 5
+cow: 6
+close: 4
+at: 2
+underpants: 6
+then: 3
+bathtub: 6
+cat: 6
+love: 5
+thirsty: 5
+button: 5
+tights: 6
+tricycle: 7
+happy: 5
+brown: 5
+hungry: 5
+each: 3
+buttocks: 5
+gonna: 4
+school: 6
+pudding: 6
+picnic: 6
+last: 4
+fish (animal): 6
+this little piggy: 6
+clock: 6
+eat: 5
+make: 5
+cut: 5
+bus: 6
+monkey: 6
+all gone: 5
+clown: 6
+dry (action): 5
+pattycake: 6
+yourself: 4
+away: 3
+gotta: 4
+garden: 6
+chicken (food): 6
+deer: 6
+face: 5
+towel: 6
+sink: 6
+down: 3
+on top of: 4
+pants: 6
+cloud: 6
+mop: 6
+today: 5
+stroller: 6
+walker: 6
+baby: 6
+swing (object): 6
+candy: 7
+later: 4
+good: 4
+couch: 6
+don't: 3
+splash: 5
+with: 2
+dryer: 6
+when: 3
+long: 4
+pet's name: 5
+like: 3
+egg: 6
+arm: 5
+banana: 6
+corn: 6
+person: 5
+radio: 6
+cheerio: 6
+bug: 6
+coke: 6
+pick: 5
+new: 4
+to: 2
+hot: 5
+door: 6
+pretty: 4
+sweep: 5
+sauce: 5
+cover: 5
+puppy: 6
+give me five: 5
+child: 5
+our: 3
+too: 3
+daddy: 5
+flag: 6
+need to: 4
+look: 4
+throw: 5
+paint: 6
+circus: 6
+windy: 5
+skate: 6
+hafta: 4
+table: 6
+red: 5
+buy: 4
+vanilla: 6
+if: 3
+snowman: 6
+juice: 6
+lawn mower: 7
+crayon: 6
+not: 2
+moose: 6
+into: 3
+dump: 6
+brush: 5
+shake: 5
+dry (description): 4
+shirt: 6
+tomorrow: 5
+bowl: 5
+wait: 4
+before: 3
+are: 2
+sleep: 5
+the: 2
+run: 5
+friend: 5
+build: 5
+pour: 5
+tongue: 5
+firetruck: 7
+light: 5
+lamb: 6
+grrr: 5
+bib: 5
+hers: 3
+pull: 5
+toast: 6
+do: 3
+foot: 5
+me: 2
+doll: 6
+sick: 5
+slow: 4
+coffee: 6
+milk: 6
+vroom: 6
+is: 2
+balloon: 6
+telephone: 6
+muffin: 6
+pool: 6
+try: 4
+truck: 7
+orange (description): 5
+did ya: 4
+quiet: 4
+penguin: 6
+little: 4
+melon: 6
+sleepy: 5
+play dough: 6
+pancake: 6
+store: 6
+sled: 6
+medicine: 6
+church: 6
+jelly: 6
+loud: 5
+roof: 6
+boat: 6
+soft: 4
+shower: 6
+a: 2
+those: 3
+spaghetti: 7
+sun: 6
+water (not beverage): 6
+nut: 5
+hair: 5
+their: 3
+motorcycle: 7
+need: 4
+more: 4
+give: 4
+swing (action): 6
+knee: 5
+off: 3
+woods: 6
+sit: 4
+green: 5
+clap: 5
+all: 3
+listen: 5
+giraffe: 6
+shoulder: 5
+pea: 5
+bedroom: 6
+beach: 6
+inside: 4
+diaper: 6
+wake: 5
+donkey: 6
+house: 6
+chalk: 5
+careful: 4
+rocking chair: 6
+street: 6
+lady: 5
+outside: 4
+mommy: 5
+by: 2
+glasses: 6

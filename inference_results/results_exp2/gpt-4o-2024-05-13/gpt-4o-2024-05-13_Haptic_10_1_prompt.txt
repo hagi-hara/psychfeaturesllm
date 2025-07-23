@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses (sensations inside your body, tasting, smelling, feeling through touch, hearing and seeing). There are no right or wrong answers so please use your own judgement. 
+
+First, please answer with regard to feeling through touch.
+
+The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+giraffe: 1.06
+share: 2.11
+horse: 3.41
+sprinkler: 3.00
+find: 1.83
+listen: 0.05
+park: 0.76
+sticky: 3.88
+flag: 1.78
+catch: 3.35
+sweep: 2.33
+closet: 1.43
+rip: 1.12
+full: 1.63
+wipe: 3.88
+give: 1.22
+lamb: 2.29
+hair: 3.78
+milk: 1.83
+empty: 2.12
+daddy: 2.11
+sister: 1.63
+wish: 0.04
+snow: 3.62
+oven: 2.37
+teacher: 0.60
+chalk: 3.59
+sock: 4.11
+apple: 3.28
+sick: 0.74
+cat: 3.63
+tissue: 3.26
+alligator: 1.88
+camera: 3.65
+bat: 2.58
+pudding: 2.05
+cake: 2.44
+bread: 3.11
+toast: 3.35
+gentle: 3.26
+
+Please answer about all of the following words.
+
+boots
+potty
+tummy
+coke
+clown
+walk
+sleep
+cover
+leg
+door
+hose
+bee
+house
+knee
+bug
+towel
+baby
+bib
+tray
+school
+green
+wet
+build
+doctor
+close
+white
+tickle
+cut
+wind
+bird
+brother
+poor
+flower
+will
+try
+fix
+high
+grass
+stove
+yogurt
+cup
+food
+hate
+scissors
+put
+monkey
+sit
+smile
+wait
+soap
+fall
+crib
+blue
+napkin
+cracker
+donkey
+cold
+moose
+tongue
+pumpkin
+kiss
+mommy
+lunch
+spoon
+lick
+ball
+help
+nose
+little
+raisin
+pony
+look
+elephant
+potato
+run
+tape
+fit
+cloud
+hide
+first
+person
+man
+shake
+love
+heavy
+coat
+salt
+tired
+bring
+squirrel
+tuna
+read
+lollipop
+hat
+tiny
+sweater
+scarf
+pick
+friend
+dish
+bump
+sneaker
+knock
+train
+think
+beach
+hand
+cute
+cheese
+duck
+push
+night
+belt
+wake
+would
+medicine
+turkey
+talk
+say
+soda
+cereal
+day
+basement
+blow
+drawer
+boy
+splash
+box
+happy
+bad
+strawberry
+bowl
+toe
+asleep
+goose
+go
+shoulder
+cheek
+present
+chin
+deer
+couch
+lion
+star
+meow
+slipper
+dryer
+rock
+ice
+tractor
+wash
+refrigerator
+slow
+lamp
+balloon
+sleepy
+aunt
+street
+feed
+other
+have
+windy
+money
+table
+jeans
+bus
+arm
+girl
+bucket
+quiet
+pillow
+mouse
+snack
+radio
+swim
+book
+dance
+zoo
+nurse
+zipper
+back
+bench
+pretzel
+soft
+sauce
+cow
+break
+jacket
+broken
+old
+skate
+tiger
+wolf
+banana
+home
+zebra
+hurt
+glue
+taste
+get
+boat
+cook
+car
+paint
+cookie
+purse
+basket
+doll
+buy
+egg
+bite
+touch
+show
+thirsty
+time
+tear
+crayon
+tree
+bed
+uncle
+game
+ear
+kitchen
+store
+play
+truck
+penguin
+pants
+trash
+hamburger
+story
+shovel
+jump
+comb
+puppy
+stand
+window
+sofa
+sun
+brush
+open
+finger
+farm
+red
+glass
+sad
+awake
+country
+do
+lady
+pull
+picnic
+butter
+coffee
+see
+kick
+write
+room
+dress
+eye
+head
+make
+chair
+brown
+toy
+garage
+moon
+roof
+shower
+noisy
+shirt
+yard
+bottle
+fine
+chocolate
+button
+ladder
+fork
+mop
+stick
+penny
+mad
+dog
+finish
+diaper
+circus
+breakfast
+candy
+pour
+sled
+hard
+owl
+dirty
+muffin
+sky
+pizza
+drive
+be
+nail
+dark
+ant
+puzzle
+draw
+chase
+cry
+sink
+paper
+hungry
+ride
+garden
+meat
+nap
+yellow
+spaghetti
+bath
+hammer
+throw
+eat
+like
+clock
+vacuum
+sandwich
+good
+plant
+hit
+tooth
+pool
+dump
+nice
+shoe
+picture
+hurry
+child
+rooster
+rain
+corn
+hen
+pretend
+ankle
+black
+sing
+sheep
+pickle
+block
+hold
+bear
+new
+pen
+morning
+turtle
+mouth
+face
+pretty
+party
+drop
+church
+stay
+animal
+spill
+pig
+stop
+take
+bunny
+garbage
+soup
+hot
+dinner
+movie
+gum
+pencil
+plate
+carry
+naughty
+clap
+hear
+porch
+hug
+police
+jelly
+blanket
+jar
+big
+broom
+stone
+climb
+juice
+people
+stroller

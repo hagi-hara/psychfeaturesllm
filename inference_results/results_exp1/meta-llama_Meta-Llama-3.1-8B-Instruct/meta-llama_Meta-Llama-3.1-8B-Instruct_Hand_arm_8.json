@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-dcf905c833c34999a97369e7835ea87a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the action \"watch (action)\" with regard to hand / arm:\n\nwatch: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723565047,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 1950,
+    "total_tokens": 1973,
+    "estimated_cost": 0.00011838
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-e418c25f9d634c01a961906541628834",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "wet: 4.40\nballoon: 5.00\npick: 4.15\nsky: 4.55\nglass: 4.95\nshare: 2.58\nbath: 4.69\nbrush: 4.92\ncereal: 4.89\nride: 4.43\nschool: 4.82\nnoisy: 3.95\nraisin: 4.88\ntaste: 4.27\nheavy: 4.15\ntickle: 4.28\nbrother: 4.38\nbuy: 3.20\nopen: 3.91\nblanket: 4.94\nshovel: 4.96\nred: 4.41\ntake: 3.36\npumpkin: 4.96\nbite: 4.46\nbug: 4.89\ndrive: 4.39\nchild: 4.72\npig: 4.93\nhit: 4.26\ngum: 4.85\nowl: 4.88\nold: 3.55\nlunch: 4.82\nelephant: 4.97\nzipper: 4.92\nbasket: 4.89\nwipe: 4.34\nkick: 4.49\nmilk: 4.94\nblack: 4.43\ntree: 4.93\ncat: 4.96\nslipper: 4.94\nhungry: 3.96\nhose: 4.87\nchin: 4.85\npickle: 4.92\npolice: 4.75\ntime: 3.58\npony: 4.92\ntongue: 4.88\ntoast: 4.95\nbuild: 4.26\nteacher: 4.69\nwake: 4.32\ntrain: 4.95\nhead: 4.89\nbutter: 4.94\nlook: 3.95\nsink: 4.93\nclap: 4.41\nfirst: 3.44\nstar: 4.83\nrooster: 4.92\nbread: 4.96\nbottle: 4.95\ntable: 4.97\nradio: 4.90\npicture: 4.92\nsofa: 4.95\npizza: 4.98\ndump: 4.76\ntummy: 4.85\nparty: 4.59\npenguin: 4.96\nchair: 4.97\ngarbage: 4.78\ncow: 4.94\nhard: 3.94\nbeach: 4.84\ndirty: 3.99\nbe: 2.31\nhold: 4.25\nsit: 4.34\nbucket: 4.94\ntruck: 4.97\nscissors: 4.96\ndinner: 4.87\nlion: 4.96\nbib: 4.92\nchalk: 4.93\nhome: 4.85\nawake: 4.32\nshower: 4.92\ncake: 4.98\npotato: 4.96\nthrow: 4.46\njacket: 4.95\nstand: 4.39\ntowel: 4.94\ntractor: 4.96\ncold: 4.41\nstay: 3.93\nsplash: 4.52\nhide: 4.25\nplate: 4.95\nempty: 4.18\narm: 4.91\npull: 4.35\nknock: 4.44\ncut: 4.49\npudding: 4.94\ncoke: 4.95\neye: 4.94\nsoup: 4.93\nbreakfast: 4.88\nkitchen: 4.94\npuppy: 4.97\nboat: 4.96\npicnic: 4.86\npretzel: 4.94\nknee: 4.88\nbox: 4.95\ngive: 3.43\nstick: 4.83\nmoose: 4.96\nlamp: 4.94\nmouse: 4.94\ndiaper: 4.92\nbroken: 3.97\nmonkey: 4.95\nstory: 4.59\njuice: 4.94\nback: 4.41\ndress: 4.89\nlick: 4.41\nwindy: 3.95\ntissue: 4.92\nsock: 4.94\nwalk: 4.43\negg: 4.96\nbig: 3.91\nbelt: 4.85\nlisten: 3.95\nsalt: 4.85\nclimb: 4.42\ncloset: 4.87\nbowl: 4.94\nlove: 2.53\nwash: 4.35\ndish: 4.93\ndance: 4.51\nporch: 4.84\nyard: 4.82\nplay: 4.46\ncountry: 4.63\nmoney: 4.72\nant: 4.88\nstone: 4.92\nsmile: 4.38\ncircus: 4.73\ntiger: 4.96\nday: 4.43\nbutton: 4.89\nnaughty: 2.71\npencil: 4.96\nclown: 4.86\nsad: 2.76\nsandwich: 4.96\nbench: 4.94\nsled: 4.95\nfood: 4.84\ncup: 4.96\nstore: 4.89\ncandy: 4.96\nrun: 4.53\ngiraffe: 4.97\nankle: 4.86\ndo: 3.27\nwill: 2.35\nkiss: 4.39\ncrib: 4.92\nsprinkler: 4.94\nwindow: 4.96\nleg: 4.91\nsoap: 4.94\nsweep: 4.43\nsister: 4.73\nsweater: 4.94\nbird: 4.95\nhand: 4.96\nfix: 4.39\nfork: 4.95\nblock: 4.92\ncover: 4.35\npretend: 3.93\nbed: 4.96\nsee: 4.39\nfinish: 4.26\npour: 4.45\nhouse: 4.96\nfit: 4.29\nbump: 4.46\nput: 4.27\nroof: 4.92\nnew: 3.92\nfall: 4.44\nstroller: 4.94\nalligator: 4.97\nlittle: 3.99\ntouch: 4.41\nuncle: 4.69\nhelp: 3.98\nrain: 4.55",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989577,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1589,
+    "prompt_tokens": 2701,
+    "total_tokens": 4290,
+    "estimated_cost": 0.0012568299999999998
+  }
+}

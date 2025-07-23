@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-759853c82f0d4385b312f8dfd392ab76",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the actions related to the concept of foot / leg:\n\npaint: 0\nbubble: N\nsock: 4\nslipper: 4\ndon't: N\nbench: N\nbottom: 2\nwolf: N\npajamas: N\nlove: N\ngotta: N\nasleep: N\ncorn: N\nmad: N\nbib: N\nkleenex: N\ntelephone: N\nowie: 2\ncut: 2\npenis: N\npaper: N\near: N\ngoing to: N\nbanana: N\nfork: N\nskate: 5\ntoday: N\npudding: N\nsmile: N\npenguin: N\nfinish: N\ngive: N\nsandbox: N\nbehind: 2\nglass: N\nhen: N\nany: N\nhelp: N\nbead: N\nclose: N\nsofa: N\nwith: N\ntrain: N\nwater (beverage): N\nfireman: N\nhat: N\nbrown: N\nthis little piggy: 5\nmilk: N\narm: N\nhis: N\nhome: N\ngarbage: N\ntractor: N\nhappy: N\norange (description): N\nold: N\nthey: N\nstone: N\ntights: N\nwould: N\nblock: N\nsoup: N\npresent: N\npants: N\nrip: 2\ndark: N\nballoon: N\ncrayon: N\nbrush: N\nthere: N\nthat: N\nsweater: N\nbreak: N\nsee: N\noff: N\njar: N\nbecause: N\nand: N\nbox: N\nhard: N\nlady: N\nglove: N\nclock: N\nhafta: N\nbuy: N\nsweep: N\nhere: N\nsoap: N\nboo boo: N\ntricycle: N\njeans: N\nmake: N\ncareful: N\nbean: N\nnight: N\nclap: N\nsun: N\ngreen beans: N\nmyself: N\npoor: N\nuh oh: N\nface: N\nvagina: N\nslide (object): N\nTV: N\nladder: N\nall gone: N\ngive me five: N\negg: N\npicnic: N\non top of: N\ndonut: N\nstove: N\ngiraffe: N\nour: N\nmop: N\nhold: N\npen: N\nbad: N\nthis: N\nanother: N\ngo: N\nback: N\ncountry: N\nyogurt: N\nbutton: N\nlater: N\nyum yum: N\nlunch: N\ntoo: N\nsplash: N\nget: N\nbowl: N\nman: N\nanimal: N\nlast: N\nride: N\npour: N\nthink: N\nzoo: N\nclean (action): 5\nclean (description): N\nchalk: N\noven: N\ngonna: N\nnapkin: N\njuice: N\nstay: N\nbutter: N\nloud: N\ndrink (action): 5\nhair: N\nwindy: N\npretzel: N\ntruck: N\nthem: N\nboy: N\nslow: N\nfix: N\nwhen: N\nfit: N\neat: N\ngarage: N\nclown: N\npark: N\nstick: N\ngrrr: N\nhe: N\nbathtub: N\nbabysitter: N\ndrawer: N\nsing: N\nschool: N\nswing (object): N\nhose: N\ntowel: N\ncould: N\nput: N\nbuild: N\nhammer: N\ntoothbrush: N\nant: N\ndoll: N\nbig: N\nchurch: N\nempty: N\nnail: N\nnext to: N\nspoon: N\neach: N\npeekaboo: N\nmuch: N\nchicken (food): N\nlemme: N\ndog: N\nare: N\nhigh: N\nday: N\nbear: N\nstore: N\ncall: N\nwere: N\nhigh chair: N\nbottle: N\nsauce: N\nme: N\ndump: N\nboots: N\nnew: N\nice cream: N\nbasement: N\ncloset: N\nroof: N\napplesauce: N\nliving room: N\ngrape: N\nmine: N\nmailman: N\nbug: N\nouch: N\nrefrigerator: N\nmeow: N\nsled: N\nmouse: N\nbump: N\nbasket: N\nhush: N\nblanket: N\nbaby: N\nboat: N\npool: N\npuppy: N\nbathroom: N\nbetter: N\nsheep: N\nstroller: N\nscissors: N\ndinner: N\ndoctor: N\nairplane: N\nwash: N\nso big: N\nplay pen: N\ncheese: N\nwanna: N\nmotorcycle: N\nlike: N\nhit: N\nspaghetti: N\na: N\npizza: N\ncookie: N\nhead: N\ndeer: N\ncouch: N\nwhy: N\nsay: N\nhave: N\nturn around: N\nknife: N\ndid ya: N\npopcorn: N\ndoor: N\nparty: N\nchin: N\nfinger: N\nsalt: N\nlawn mower: N\nbefore: N\nkitchen: N\ntiny: N\norange (food): N\ncoat: N\nmelon: N\nbeach: N\nnecklace: N\nheavy: N\nchocolate: N\nsky: N\ncoke: N\ncracker: N\nyou: N\nnone: N\nmoney: N\ndraw: N\nsister: N\nthese: N\nshake: N\nhear: N\nthirsty: N\nrooster: N\nkiss: N\nsticky: N\npancake: N\ncrib: N\nby: N\nmorning: N\nknock: N\ncatch: N\nwake: N\non: N\nhamburger: N\nchoo choo: N\nhand: N\nfind: N\nhelicopter: N\npillow: N\njump: N\nkitty: N\nshh: N\ngirl: N\nstory: N\ntable: N\npretend: N\nfarm: N\ntongue: N\npotty: N\ncamping: N\nwashing machine: N\ncake: N\nfriend: N\nvitamins: N\nplay dough: N\napple: N\ntired: N\nraisin: N\nhug: N\ntray: N\nwalk: N\nmommy: N\ngonna get you: N\ntiger: N\nuncle: N\nmoose: N\ncomb: N\nbreakfast: N\ncan (object): N\npuzzle: N\nsad: N\nrock: N\nkey: N\nhorse: N\nplate: N\nmouth: N\ndid: N\nslide (action): N\nfeed: N\ndown: N\nshow: N\nsprinkler: N\ndress: N\nlamb: N\nread: N\nhello: N\nup: N\nof: N\nlittle: N\ntuna: N\npig: N\ngrass: N\nshirt: N\nknee: 5\npop: N\nplayground: N\ntoe: 5\nlook: N\ngrandpa: N\nblow: N\nnose: N\npumpkin: N\nglue: N\nsnow: N\ninside: N\nfor: N\nus: N\ncereal: N\nvacuum: N\npattycake: N\npush: N\npicture: N\nelephant: N\nlamp: N\nchair: N\nwho: N\ncheerio: N\nfiretruck: N\nfoot: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560464,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1794,
+    "prompt_tokens": 1950,
+    "total_tokens": 3744,
+    "estimated_cost": 0.00022464000000000002
+  }
+}

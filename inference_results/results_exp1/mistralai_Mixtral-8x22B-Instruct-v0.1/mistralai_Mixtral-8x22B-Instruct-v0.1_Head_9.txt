@@ -1,0 +1,596 @@
+ head:open 5
+head:swim 0
+head:fall 1
+head:hair 5
+head:them 0
+head:sidewalk 0
+head:basement 0
+head:shh 5
+head:try to 2
+head:woods 0
+head:swing (action) 0
+head:grrr 0
+head:milk 0
+head:oven 0
+head:mouse 0
+head:new 0
+head:hers 0
+head:balloon 0
+head:camping 0
+head:run 0
+head:going to 0
+head:tray 0
+head:pea 0
+head:strawberry 0
+head:more 0
+head:nice 0
+head:frog 0
+head:wet 0
+head:thank you 0
+head:potty 0
+head:hammer 0
+head:buy 0
+head:tractor 0
+head:mommy 0
+head:bean 0
+head:with 0
+head:snowman 0
+head:not 0
+head:motorcycle 0
+head:firetruck 0
+head:snack 0
+head:bread 0
+head:moose 0
+head:duck 0
+head:I 0
+head:broken 0
+head:banana 0
+head:cook 0
+head:woof woof 0
+head:sneaker 0
+head:hat 0
+head:party 0
+head:where 0
+head:pony 0
+head:doll 0
+head:hand 0
+head:stove 0
+head:person 0
+head:blanket 0
+head:stop 0
+head:airplane 0
+head:truck 0
+head:climb 0
+head:after 0
+head:watch (object) 0
+head:man 0
+head:let me 0
+head:vacuum 0
+head:who 0
+head:myself 0
+head:button 0
+head:chicken (food) 0
+head:orange (food) 0
+head:yellow 0
+head:ice 0
+head:black 0
+head:sheep 0
+head:ear 5
+head:wait 0
+head:shoe 0
+head:dance 0
+head:she 0
+head:what 0
+head:this little piggy 5
+head:hug 0
+head:high 0
+head:splash 0
+head:water (not beverage) 0
+head:does 0
+head:donut 0
+head:catch 0
+head:foot 0
+head:cheerio 0
+head:bee 0
+head:towel 0
+head:outside 0
+head:yard 0
+head:goose 0
+head:tear 0
+head:candy 0
+head:were 0
+head:bat 0
+head:think 5
+head:meow 0
+head:cockadoodledoo 0
+head:dish 0
+head:garden 0
+head:brown 0
+head:work (place) 0
+head:pattycake 0
+head:pants 0
+head:finger 0
+head:kiss 0
+head:apple 0
+head:lion 0
+head:stuck 0
+head:skate 0
+head:boo boo 0
+head:block 0
+head:grape 0
+head:did ya 0
+head:store 0
+head:her 0
+head:underpants 0
+head:mad 0
+head:zebra 0
+head:slide (object) 0
+head:so 0
+head:is 0
+head:slide (action) 0
+head:their 0
+head:grandpa 0
+head:shorts 0
+head:dry (action) 0
+head:sleep 0
+head:couch 0
+head:need to 0
+head:trash 0
+head:soda 0
+head:like 0
+head:applesauce 0
+head:cat 0
+head:which 0
+head:living room 0
+head:asleep 0
+head:sock 0
+head:telephone 0
+head:drink (beverage) 0
+head:next to 0
+head:hush 0
+head:tiger 0
+head:jacket 0
+head:soup 0
+head:was 0
+head:lamb 0
+head:raisin 0
+head:bird 0
+head:zoo 0
+head:him 0
+head:loud 0
+head:closet 0
+head:hot 0
+head:turkey 0
+head:cheese 0
+head:fish (food) 0
+head:about 0
+head:comb 0
+head:do 0
+head:yucky 0
+head:drawer 0
+head:babysitter's name 0
+head:monkey 0
+head:light 0
+head:turn around 0
+head:mouth 5
+head:melon 0
+head:got to 0
+head:taste 0
+head:that 0
+head:clean (description) 0
+head:here 0
+head:behind 0
+head:table 0
+head:flag 0
+head:he 0
+head:stone 0
+head:old 0
+head:walk 0
+head:fast 0
+head:ouch 0
+head:animal 0
+head:sandwich 0
+head:clean (action) 0
+head:later 0
+head:garage 0
+head:arm 0
+head:thirsty 0
+head:room 0
+head:pen 0
+head:spill 0
+head:slipper 0
+head:back 0
+head:finish 0
+head:drive 0
+head:ride 0
+head:over 0
+head:some 0
+head:pretzel 0
+head:fix 0
+head:sled 0
+head:scared 0
+head:park 0
+head:belly button 0
+head:gas station 0
+head:the 0
+head:spaghetti 0
+head:those 0
+head:pickle 0
+head:walker 0
+head:bench 0
+head:girl 0
+head:of 0
+head:knife 0
+head:tape 0
+head:pudding 0
+head:bubble 0
+head:jeans 0
+head:wind 0
+head:peekaboo 0
+head:tissue 0
+head:slow 0
+head:glasses 0
+head:bead 0
+head:gentle 0
+head:cold 0
+head:owl 0
+head:eat 0
+head:throw 0
+head:build 0
+head:meat 0
+head:hello 0
+head:rocking chair 0
+head:boat 0
+head:breakfast 0
+head:sleepy 0
+head:try 0
+head:camera 0
+head:basket 0
+head:donkey 0
+head:gum 0
+head:tuna 0
+head:tree 0
+head:downtown 0
+head:down 0
+head:heavy 0
+head:tonight 0
+head:coat 0
+head:broom 0
+head:cracker 0
+head:washing machine 0
+head:lunch 0
+head:teacher 0
+head:pencil 0
+head:cake 0
+head:porch 0
+head:elephant 0
+head:mine 0
+head:other 0
+head:bug 0
+head:feed 0
+head:cover 0
+head:green 0
+head:hose 0
+head:horse 0
+head:then 0
+head:carrot 0
+head:bottle 0
+head:french fries 0
+head:bear 0
+head:get 0
+head:in 0
+head:pour 0
+head:cow 0
+head:push 0
+head:circus 0
+head:mitten 0
+head:all gone 0
+head:door 0
+head:red 0
+head:by 0
+head:jump 0
+head:this 0
+head:shower 0
+head:noodle 0
+head:hear 0
+head:nail 0
+head:watch (action) 0
+head:hold 0
+head:quiet 0
+head:stick 0
+head:people 0
+head:lady 0
+head:money 0
+head:deer 0
+head:shovel 0
+head:stairs 0
+head:present 0
+head:awake 0
+head:make 0
+head:and 0
+head:any 0
+head:call 0
+head:cute 0
+head:giraffe 0
+head:bucket 0
+head:aunt 0
+head:pull 0
+head:brother 0
+head:movie 0
+head:face 0
+head:coffee 0
+head:penguin 0
+head:knock 0
+head:head 5
+head:child 0
+head:crib 0
+head:clock 0
+head:lick 0
+head:child's own name 0
+head:jelly 0
+head:his 0
+head:wipe 0
+head:ball 0
+head:poor 0
+head:hi 0
+head:shirt 0
+head:toast 0
+head:mop 0
+head:dirty 0
+head:farm 0
+head:gotta 0
+head:away 0
+head:clap 0
+head:tights 0
+head:chocolate 0
+head:give me five 0
+head:nut 0
+head:long 0
+head:look 0
+head:these 0
+head:cookie 0
+head:ladder 0
+head:find 0
+head:beach 0
+head:radio 0
+head:now 0
+head:juice 0
+head:crayon 0
+head:wolf 0
+head:jar 0
+head:pretend 0
+head:cry 0
+head:food 0
+head:sprinkler 0
+head:quack quack 0
+head:dog 0
+head:kick 0
+head:give 0
+head:street 0
+head:me 0
+head:sky 0
+head:hide 0
+head:lawn mower 0
+head:listen 0
+head:tooth 0
+head:our 0
+head:butterfly 0
+head:why 0
+head:gonna 0
+head:vroom 0
+head:toy 0
+head:put 0
+head:need 0
+head:helicopter 0
+head:pick 0
+head:stand 0
+head:chin 0
+head:dress 0
+head:break 0
+head:dark 0
+head:brush 0
+head:windy 0
+head:under 0
+head:mailman 0
+head:same 0
+head:fireman 0
+head:your 0
+head:sticky 0
+head:cereal 0
+head:plate 0
+head:green beans 0
+head:ant 0
+head:pillow 0
+head:drop 0
+head:dump 0
+head:hungry 0
+head:before 0
+head:show 0
+head:into 0
+head:morning 0
+head:school 0
+head:sister 0
+head:glove 0
+head:please 0
+head:yum yum 0
+head:us 0
+head:sofa 0
+head:spoon 0
+head:bedroom 0
+head:touch 0
+head:backyard 0
+head:it 0
+head:an 0
+head:cloud 0
+head:lamp 0
+head:on 0
+head:hard 0
+head:rain 0
+head:dinner 0
+head:empty 0
+head:stay 0
+head:on top of 0
+head:all 0
+head:bite 0
+head:scarf 0
+head:bib 0
+head:write 0
+head:sandbox 0
+head:dry (description) 0
+head:be 0
+head:wake 0
+head:playground 0
+head:bowl 0
+head:could 0
+head:lemme 0
+head:bye 0
+head:blow 0
+head:today 0
+head:belt 0
+head:nap 0
+head:sweater 0
+head:chase 0
+head:vitamins 0
+head:vanilla 0
+head:game 0
+head:yourself 0
+head:pumpkin 0
+head:above 0
+head:inside 0
+head:kitty 0
+head:butter 0
+head:at 0
+head:can (auxiliary) 0
+head:sun 0
+head:peanut butter 0
+head:knee 0
+head:full 0
+head:leg 0
+head:corn 0
+head:hafta 0
+head:tiny 0
+head:would 0
+head:lip 0
+head:doctor 0
+head:up 0
+head:noisy 0
+head:my 0
+head:help 0
+head:too 0
+head:pizza 0
+head:jello 0
+head:pet's name 0
+head:moon 0
+head:popcorn 0
+head:because 0
+head:pretty 0
+head:you 0
+head:night night 0
+head:carry 0
+head:last 0
+head:moo 0
+head:play pen 0
+head:happy 0
+head:refrigerator 0
+head:star 0
+head:bottom 0
+head:hamburger 0
+head:bad 0
+head:chalk 0
+head:puzzle 0
+head:talk 0
+head:love 0
+head:sad 0
+head:shopping 0
+head:when 0
+head:house 0
+head:tummy 0
+head:tongue 0
+head:book 0
+head:uh oh 0
+head:cup 0
+head:puppy 0
+head:see 0
+head:bathtub 0
+head:paper 0
+head:dryer 0
+head:kleenex 0
+head:play 0
+head:draw 0
+head:tired 0
+head:glue 0
+head:car 0
+head:fit 0
+head:owie 0
+head:ankle 0
+head:swing (object) 0
+head:snowsuit 0
+head:beside 0
+head:necklace 0
+head:nose 0
+head:play dough 0
+head:want to 0
+head:boots 0
+head:story 0
+head:water (beverage) 0
+head:yogurt 0
+head:bump 0
+head:have to 0
+head:fine 0
+head:did 0
+head:gonna get you 0
+head:naughty 0
+head:pool 0
+head:ice cream 0
+head:big 0
+head:but 0
+head:clown 0
+head:fish (animal) 0
+head:hate 0
+head:first 0
+head:salt 0
+head:around 0
+head:sink 0
+head:tricycle 0
+head:sweep 0
+head:picnic 0
+head:bath 0
+head:grass 0
+head:soap 0
+head:white 0
+head:bed 0
+head:sit 0
+head:rock 0
+head:bunny 0
+head:day 0
+head:lollipop 0
+head:orange (description) 0
+head:potato chip 0
+head:pig 0
+head:will 0
+head:soft 0
+head:don't 0
+head:for 0
+head:glass 0
+head:share 0
+head:window 0
+head:hen 0
+head:baa baa 0
+head:popsicle 0
+head:rip 0
+head:friend 0
+head:every 0
+head:if 0
+head:garbage 0
+head:church 0
+head:careful 0
+head:eye 0
+head:they 0
+head:plant 0
+head:chair 0
+head:how 0
+head:squirrel 0
+head:shoulder 0
+head:coke 0
+head:train 0
+head:chicken (an

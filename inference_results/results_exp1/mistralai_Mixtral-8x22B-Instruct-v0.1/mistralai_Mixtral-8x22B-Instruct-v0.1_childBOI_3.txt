@@ -1,0 +1,485 @@
+ apple: 7
+banana: 7
+water (not beverage): 6
+water (beverage): 7
+bread: 7
+cheerio: 7
+french fries: 7
+potato chip: 7
+cracker: 7
+donut: 7
+cookie: 7
+cake: 7
+pancake: 7
+jello: 7
+popcorn: 7
+candy: 7
+popsicle: 7
+ice cream: 7
+chocolate: 7
+vanilla: 7
+pudding: 7
+yogurt: 7
+milk: 7
+juice: 7
+soda: 7
+coffee: 3
+tea: 6
+beer: 2
+wine: 2
+soup: 7
+stew: 7
+chili: 7
+pizza: 7
+hamburger: 7
+hot dog: 7
+sandwich: 7
+spaghetti: 7
+lasagna: 7
+taco: 7
+burrito: 7
+chicken: 7
+turkey: 7
+ham: 7
+bacon: 7
+sausage: 7
+steak: 7
+lamb: 7
+fish: 7
+shrimp: 7
+lobster: 7
+crab: 7
+oyster: 7
+mussel: 7
+clam: 7
+corn: 7
+peas: 7
+green beans: 7
+carrots: 7
+broccoli: 7
+cauliflower: 7
+spinach: 7
+lettuce: 7
+tomato: 7
+cucumber: 7
+onion: 7
+garlic: 7
+potato: 7
+sweet potato: 7
+yam: 7
+rice: 7
+pasta: 7
+oatmeal: 7
+grits: 7
+cereal: 7
+bread: 7
+toast: 7
+bagel: 7
+muffin: 7
+roll: 7
+biscuit: 7
+tortilla: 7
+pita: 7
+naan: 7
+croissant: 7
+danish: 7
+pretzel: 7
+cracker: 7
+chip: 7
+popcorn: 7
+nuts: 7
+seeds: 7
+raisins: 7
+dried fruit: 7
+fruit snacks: 7
+granola bar: 7
+energy bar: 7
+protein bar: 7
+cereal bar: 7
+chocolate bar: 7
+candy bar: 7
+gum: 7
+mint: 7
+cookie: 7
+brownie: 7
+cake: 7
+pie: 7
+ice cream: 7
+sherbet: 7
+sorbet: 7
+gelato: 7
+frozen yogurt: 7
+popsicle: 7
+ice pop: 7
+milkshake: 7
+smoothie: 7
+juice: 7
+soda: 7
+lemonade: 7
+tea: 7
+coffee: 7
+hot chocolate: 7
+cocoa: 7
+milk: 7
+water: 7
+sports drink: 7
+energy drink: 7
+alcohol: 2
+beer: 2
+wine: 2
+liquor: 2
+mixed drink: 2
+cocktail: 2
+shot: 2
+punch: 7
+eggnog: 7
+cider: 7
+hot cider: 7
+hot toddy: 7
+mulled wine: 7
+spiced wine: 7
+mead: 7
+sake: 7
+soju: 7
+baijiu: 7
+cachaça: 7
+tequila: 7
+mezcal: 7
+rum: 7
+vodka: 7
+gin: 7
+whiskey: 7
+bourbon: 7
+scotch: 7
+brandy: 7
+cognac: 7
+armagnac: 7
+calvados: 7
+grappa: 7
+ouzo: 7
+raki: 7
+sambuca: 7
+aquavit: 7
+absinthe: 7
+pastis: 7
+vermouth: 7
+amaretto: 7
+campari: 7
+aperol: 7
+cointreau: 7
+triple sec: 7
+grand marnier: 7
+drambuie: 7
+bénédictine: 7
+chartreuse: 7
+jägermeister: 7
+kahlúa: 7
+tia maria: 7
+baileys: 7
+crème de cacao: 7
+crème de menthe: 7
+crème de cassis: 7
+crème de violette: 7
+blue curaçao: 7
+peach schnapps: 7
+pear brandy: 7
+plum brandy: 7
+apricot brandy: 7
+cherry brandy: 7
+raspberry liqueur: 7
+blackberry liqueur: 7
+blueberry liqueur: 7
+strawberry liqueur: 7
+cranberry liqueur: 7
+pomegranate liqueur: 7
+lychee liqueur: 7
+mango liqueur: 7
+passion fruit liqueur: 7
+pineapple liqueur: 7
+coconut liqueur: 7
+almond liqueur: 7
+hazelnut liqueur: 7
+walnut liqueur: 7
+peanut liqueur: 7
+sesame liqueur: 7
+coffee liqueur: 7
+tea liqueur: 7
+chai liqueur: 7
+ginger liqueur: 7
+cinnamon liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+vanilla liqueur: 7
+orange liqueur: 7
+lemon liqueur: 7
+lime liqueur: 7
+grapefruit liqueur: 7
+pomelo liqueur: 7
+tangerine liqueur: 7
+mandarin liqueur: 7
+clementine liqueur: 7
+bergamot liqueur: 7
+citron liqueur: 7
+yuzu liqueur: 7
+loquat liqueur: 7
+kumquat liqueur: 7
+quince liqueur: 7
+fig liqueur: 7
+prune liqueur: 7
+raisin liqueur: 7
+date liqueur: 7
+honey liqueur: 7
+maple liqueur: 7
+birch liqueur: 7
+sorghum liqueur: 7
+agave liqueur: 7
+cane liqueur: 7
+molasses liqueur: 7
+beet liqueur: 7
+carrot liqueur: 7
+parsnip liqueur: 7
+turnip liqueur: 7
+rutabaga liqueur: 7
+celery liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur: 7
+tarragon liqueur: 7
+chervil liqueur: 7
+coriander liqueur: 7
+cumin liqueur: 7
+cardamom liqueur: 7
+turmeric liqueur: 7
+ginger liqueur: 7
+pepper liqueur: 7
+chili liqueur: 7
+cayenne liqueur: 7
+paprika liqueur: 7
+saffron liqueur: 7
+vanilla liqueur: 7
+cinnamon liqueur: 7
+nutmeg liqueur: 7
+mace liqueur: 7
+clove liqueur: 7
+allspice liqueur: 7
+star anise liqueur: 7
+fennel liqueur: 7
+anise liqueur: 7
+licorice liqueur: 7
+mint liqueur: 7
+basil liqueur: 7
+thyme liqueur: 7
+rosemary liqueur: 7
+sage liqueur: 7
+marjoram liqueur: 7
+oregano liqueur

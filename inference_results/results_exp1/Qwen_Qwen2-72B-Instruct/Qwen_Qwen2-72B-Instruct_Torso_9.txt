@@ -1,0 +1,694 @@
+open: 2
+swim: 4
+fall: 3
+hair: 1
+them: N
+sidewalk: N
+basement: N
+shh: N
+try to: 3
+woods: N
+swing (action): 3
+grrr: N
+milk: 1
+oven: 2
+mouse: N
+new: N
+hers: N
+balloon: 1
+camping: 3
+run: 4
+going to: N
+tray: 1
+pea: 1
+strawberry: 1
+more: N
+nice: N
+frog: N
+wet: 1
+thank you: N
+potty: N
+hammer: 2
+buy: N
+tractor: N
+mommy: N
+bean: 1
+with: N
+snowman: 2
+not: N
+motorcycle: N
+firetruck: N
+snack: 1
+bread: 1
+moose: N
+duck: N
+I: N
+broken: N
+banana: 1
+cook: 3
+woof woof: N
+sneaker: N
+hat: 1
+party: 2
+where: N
+pony: N
+doll: N
+hand: N
+stove: 2
+person: N
+blanket: 1
+stop: N
+airplane: N
+truck: N
+climb: 3
+after: N
+watch (object): N
+man: N
+let me: N
+vacuum: 2
+who: N
+myself: N
+button: 1
+chicken (food): 1
+orange (food): 1
+yellow: N
+ice: 1
+black: N
+sheep: N
+ear: N
+wait: N
+shoe: 1
+dance: 3
+she: N
+what: N
+this little piggy: N
+hug: 3
+high: N
+splash: 2
+water (not beverage): 2
+does: N
+donut: 1
+catch: 2
+foot: N
+cheerio: 1
+bee: N
+towel: 1
+outside: N
+yard: N
+goose: N
+tear: N
+candy: 1
+were: N
+bat: N
+think: N
+meow: N
+cockadoodledoo: N
+dish: 1
+garden: 2
+brown: N
+work (place): N
+pattycake: N
+pants: 1
+finger: N
+kiss: 3
+apple: 1
+lion: N
+stuck: N
+skate: 3
+boo boo: N
+block: N
+grape: 1
+did ya: N
+store: N
+her: N
+underpants: N
+mad: N
+zebra: N
+slide (object): N
+so: N
+is: N
+slide (action): 3
+their: N
+grandpa: N
+shorts: 1
+dry (action): 2
+sleep: 3
+couch: 1
+need to: N
+trash: 1
+soda: 1
+like: N
+applesauce: 1
+cat: N
+which: N
+living room: N
+asleep: N
+sock: 1
+telephone: N
+drink (beverage): 1
+next to: N
+hush: N
+tiger: N
+jacket: 1
+soup: 1
+was: N
+lamb: N
+raisin: 1
+bird: N
+zoo: N
+him: N
+loud: N
+closet: 1
+hot: 1
+turkey: 1
+cheese: 1
+fish (food): 1
+about: N
+comb: 1
+do: N
+yucky: N
+drawer: 1
+babysitter's name: N
+monkey: N
+light: N
+turn around: 3
+mouth: N
+melon: 1
+got to: N
+taste: 1
+that: N
+clean (description): 1
+here: N
+behind: N
+table: 1
+flag: N
+he: N
+stone: N
+old: N
+walk: 3
+fast: N
+ouch: N
+animal: N
+sandwich: 1
+clean (action): 2
+later: N
+garage: N
+arm: N
+thirsty: N
+room: 1
+pen: 1
+spill: 2
+slipper: 1
+back: 2
+finish: N
+drive: N
+ride: 3
+over: N
+some: N
+pretzel: 1
+fix: N
+sled: 3
+scared: N
+park: N
+belly button: N
+gas station: N
+spaghetti: 1
+those: N
+pickle: 1
+walker: N
+bench: 1
+girl: N
+of: N
+knife: 1
+tape: 1
+pudding: 1
+bubble: N
+jeans: 1
+wind: N
+peekaboo: N
+tissue: 1
+slow: N
+glasses: 1
+bead: N
+gentle: N
+cold: 1
+owl: N
+eat: 2
+throw: 2
+build: 3
+meat: 1
+hello: N
+rocking chair: 1
+boat: N
+breakfast: 1
+sleepy: N
+try: 3
+camera: N
+basket: 1
+donkey: N
+gum: 1
+tuna: 1
+tree: N
+downtown: N
+down: N
+heavy: N
+tonight: N
+coat: 1
+broom: 2
+cracker: 1
+washing machine: N
+lunch: 1
+teacher: N
+pencil: 1
+cake: 1
+porch: 1
+elephant: N
+mine: N
+other: N
+bug: N
+feed: 2
+cover: 1
+green: N
+hose: N
+horse: N
+then: N
+carrot: 1
+bottle: 1
+french fries: 1
+bear: N
+get: N
+in: N
+pour: 2
+cow: N
+push: 2
+circus: N
+mitten: N
+all gone: N
+door: 1
+red: N
+by: N
+jump: 3
+this: N
+shower: 2
+noodle: 1
+hear: N
+nail: 1
+watch (action): N
+hold: 2
+quiet: N
+stick: N
+people: N
+lady: N
+money: N
+deer: N
+shovel: 2
+stairs: 3
+present: N
+awake: N
+make: 3
+and: N
+any: N
+call: N
+cute: N
+giraffe: N
+bucket: 1
+aunt: N
+pull: 2
+brother: N
+movie: N
+face: 1
+coffee: 1
+penguin: N
+knock: 2
+head: N
+child: N
+crib: N
+clock: N
+lick: N
+child's own name: N
+jelly: N
+his: N
+wipe: 2
+ball: N
+poor: N
+hi: N
+shirt: 1
+toast: 1
+mop: 2
+dirty: 1
+farm: N
+gotta: N
+away: N
+clap: 3
+tights: 1
+chocolate: 1
+give me five: 2
+nut: 1
+long: N
+look: N
+these: N
+cookie: 1
+ladder: 2
+find: N
+beach: 2
+radio: N
+now: N
+juice: 1
+crayon: 1
+wolf: N
+jar: 1
+pretend: N
+cry: N
+food: 1
+sprinkler: N
+quack quack: N
+dog: N
+kick: 3
+give: N
+street: N
+me: N
+sky: N
+hide: 2
+lawn mower: N
+listen: N
+tooth: N
+our: N
+butterfly: N
+why: N
+gonna: N
+vroom: N
+toy: N
+put: N
+need: N
+helicopter: N
+pick: 2
+stand: 2
+chin: N
+dress: 1
+break: N
+dark: N
+brush: 1
+windy: N
+under: N
+mailman: N
+same: N
+fireman: N
+your: N
+sticky: 1
+cereal: 1
+plate: 1
+green beans: 1
+ant: N
+pillow: 1
+drop: 2
+dump: N
+hungry: N
+before: N
+show: N
+into: N
+morning: N
+school: N
+sister: N
+glove: 1
+please: N
+yum yum: N
+us: N
+sofa: 1
+spoon: 1
+bedroom: 1
+touch: 2
+backyard: N
+it: N
+an: N
+cloud: N
+lamp: 1
+on: N
+hard: N
+rain: 2
+dinner: 1
+empty: N
+stay: N
+on top of: N
+all: N
+bite: 2
+scarf: 1
+bib: 1
+write: 2
+sandbox: N
+dry (description): 1
+be: N
+wake: N
+playground: N
+bowl: 1
+could: N
+lemme: N
+bye: N
+blow: 2
+today: N
+belt: 1
+nap: N
+sweater: 1
+chase: 3
+vitamins: N
+vanilla: N
+game: N
+yourself: N
+pumpkin: 1
+above: N
+inside: N
+kitty: N
+butter: 1
+at: N
+can (auxiliary): N
+sun: N
+peanut butter: 1
+knee: N
+full: N
+leg: N
+corn: 1
+hafta: N
+tiny: N
+would: N
+lip: N
+doctor: N
+up: N
+noisy: N
+my: N
+help: 3
+too: N
+pizza: 1
+jello: 1
+pet's name: N
+moon: N
+popcorn: 1
+because: N
+pretty: N
+you: N
+night night: N
+carry: 2
+last: N
+moo: N
+play pen: N
+happy: N
+refrigerator: N
+star: N
+bottom: N
+hamburger: 1
+bad: N
+chalk: N
+puzzle: N
+talk: N
+love: N
+sad: N
+shopping: N
+when: N
+house: N
+tummy: N
+tongue: N
+book: 1
+uh oh: N
+cup: 1
+puppy: N
+see: N
+bathtub: 2
+paper: 1
+dryer: N
+kleenex: 1
+play: N
+draw: 2
+tired: N
+glue: 1
+car: N
+fit: N
+owie: N
+ankle: N
+swing (object): N
+snowsuit: N
+beside: N
+necklace: 1
+nose: N
+play dough: N
+want to: N
+boots: 1
+story: N
+water (beverage): 1
+yogurt: 1
+bump: N
+have to: N
+fine: N
+did: N
+gonna get you: N
+naughty: N
+pool: N
+ice cream: 1
+big: N
+but: N
+clown: N
+fish (animal): N
+hate: N
+first: N
+salt: 1
+around: N
+sink: 1
+tricycle: N
+sweep: 2
+picnic: N
+bath: 2
+grass: N
+soap: 1
+white: N
+bed: 1
+sit: 2
+rock: N
+bunny: N
+day: N
+lollipop: 1
+orange (description): N
+potato chip: 1
+pig: N
+will: N
+soft: N
+don't: N
+for: N
+glass: 1
+share: N
+window: N
+hen: N
+baa baa: N
+popsicle: 1
+rip: N
+friend: N
+every: N
+if: N
+garbage: N
+church: N
+careful: N
+eye: N
+they: N
+plant: N
+chair: 1
+how: N
+squirrel: N
+shoulder: N
+coke: N
+train: N
+chicken (animal): N
+wanna: N
+read: 2
+blue: N
+home: N
+boy: N
+toothbrush: 1
+say: N
+shake: 2
+diaper: N
+uncle: N
+we: N
+stroller: N
+drink (action): N
+penis: N
+good: N
+none: N
+a: N
+fork: 1
+vagina: N
+each: N
+wash: 2
+roof: N
+pajamas: 1
+nurse: N
+time: N
+cowboy: N
+are: N
+close: N
+key: 1
+rooster: N
+wish: N
+penny: N
+yes: N
+off: N
+scissors: 1
+paint: 2
+toe: N
+police: N
+egg: 1
+can (object): 1
+TV: N
+choo choo: N
+country: N
+better: N
+much: N
+sick: N
+bring: N
+little: N
+bathroom: N
+no: N
+sauce: N
+hit: 2
+another: N
+buttocks: N
+turtle: N
+daddy: N
+purse: 1
+shush: N
+go: N
+tomorrow: N
+zipper: 1
+tickle: 3
+pop: N
+bus: N
+hurry: N
+am: N
+grandma: N
+teddybear: N
+snow: N
+potato: 1
+there: N
+take: N
+kitchen: 1
+so big: N
+pancake: N
+box: 1
+high chair: 1
+alligator: N
+to: N
+medicine: 1
+smile: N
+sing: 3
+cheek: 1
+napkin: N
+cut: 2
+baby: N
+out: N
+picture: 1
+flower: N
+night: N
+have: N
+hurt: N
+yesterday: N
+muffin: 1
+bicycle: 3
+work (action): 3
+a lot: N
+babysitter: N
+go potty: N

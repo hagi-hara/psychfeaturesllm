@@ -1,0 +1,565 @@
+Here are the ratings:
+
+1. boy: 7
+2. wipe: 2
+3. sing: 4
+4. ice cream: 3
+5. mine: 5
+6. babysitter: 7
+7. TV: 4
+8. hurt: 6
+9. scissors: 2
+10. under: 2
+11. nurse: 7
+12. nail: 2
+13. go: 4
+14. tooth: 3
+15. picture: 4
+16. beside: 4
+17. stay: 5
+18. lemme: 5
+19. garbage: 4
+20. much: 3
+21. sofa: 4
+22. hide: 4
+23. eye: 3
+24. cake: 3
+25. broken: 4
+26. better: 5
+27. cookie: 3
+28. naughty: 6
+29. car: 4
+30. why: 5
+31. doctor: 7
+32. meat: 3
+33. jar: 2
+34. slide (object): 2
+35. be: 4
+36. porch: 4
+37. sweater: 4
+38. kick: 5
+39. fit: 4
+40. donut: 3
+41. chin: 3
+42. him: 5
+43. water (beverage): 3
+44. hurry: 5
+45. pig: 4
+46. call: 5
+47. could: 5
+48. babysitter's name: 7
+49. go potty: 6
+50. hear: 4
+51. peekaboo: 6
+52. touch: 5
+53. gas station: 4
+54. mailman: 7
+55. jacket: 4
+56. pajamas: 4
+57. slide (action): 5
+58. paper: 2
+59. will: 5
+60. yes: 5
+61. vacuum: 4
+62. tiny: 3
+63. fine: 5
+64. got to: 5
+65. rip: 4
+66. shopping: 6
+67. can (object): 2
+68. popcorn: 3
+69. glue: 2
+70. chair: 2
+71. tummy: 3
+72. sock: 3
+73. cook: 4
+74. cockadoodledoo: 4
+75. goose: 4
+76. stove: 4
+77. sky: 2
+78. empty: 3
+79. wanna: 5
+80. child's own name: 7
+81. have: 5
+82. wish: 5
+83. they: 5
+84. yard: 4
+85. uh oh: 5
+86. wind: 2
+87. bird: 4
+88. sidewalk: 4
+89. bread: 3
+90. lip: 3
+91. try to: 5
+92. hamburger: 3
+93. hammer: 4
+94. swim: 5
+95. watch (action): 5
+96. washing machine: 4
+97. ride: 5
+98. applesauce: 3
+99. share: 6
+100. have to: 5
+101. poor: 5
+102. her: 5
+103. ladder: 4
+104. tired: 5
+105. park: 4
+106. moon: 2
+107. drink (beverage): 3
+108. did: 5
+109. woof woof: 4
+110. carrot: 3
+111. awake: 5
+112. turn around: 5
+113. dirty: 4
+114. drop: 4
+115. day: 4
+116. potty: 6
+117. of: 2
+118. fix: 4
+119. people: 7
+120. night: 4
+121. dress: 4
+122. mouse: 4
+123. what: 5
+124. next to: 4
+125. for: 5
+126. baa baa: 4
+127. oven: 4
+128. lion: 4
+129. tickle: 6
+130. flower: 4
+131. hand: 3
+132. alligator: 4
+133. am: 5
+134. above: 4
+135. penis: 6
+136. dance: 6
+137. snow: 2
+138. think: 5
+139. pillow: 4
+140. lunch: 4
+141. turkey: 4
+142. bicycle: 4
+143. bear: 4
+144. see: 4
+145. quack quack: 4
+146. plant: 4
+147. another: 5
+148. hate: 6
+149. pretzel: 3
+150. penny: 4
+151. drive: 5
+152. chicken (animal): 4
+153. cup: 3
+154. jump: 5
+155. would: 5
+156. bottle: 3
+157. about: 5
+158. read: 5
+159. blue: 3
+160. there: 5
+161. open: 4
+162. spoon: 3
+163. these: 5
+164. lollipop: 3
+165. cheese: 3
+166. grape: 3
+167. thank you: 7
+168. full: 4
+169. brother: 7
+170. coat: 4
+171. wash: 4
+172. star: 2
+173. lamp: 4
+174. my: 5
+175. cry: 6
+176. taste: 4
+177. sprinkler: 4
+178. zipper: 2
+179. was: 5
+180. she: 5
+181. apple: 3
+182. knife: 4
+183. jello: 3
+184. bad: 6
+185. glass: 3
+186. hi: 7
+187. stairs: 4
+188. home: 6
+189. aunt: 7
+190. raisin: 3
+191. this: 5
+192. gum: 3
+193. country: 6
+194. head: 3
+195. hello: 7
+196. wolf: 4
+197. duck: 4
+198. help: 6
+199. walk: 5
+200. he: 5
+201. behind: 4
+202. want to: 5
+203. book: 4
+204. play: 6
+205. tonight: 5
+206. basement: 4
+207. squirrel: 4
+208. animal: 4
+209. black: 3
+210. pen: 3
+211. stuck: 4
+212. crib: 4
+213. dish: 3
+214. belly button: 3
+215. feed: 5
+216. hat: 4
+217. zoo: 6
+218. going to: 5
+219. hard: 4
+220. bath: 4
+221. climb: 5
+222. which: 5
+223. does: 5
+224. boots: 4
+225. pickle: 3
+226. old: 4
+227. it: 5
+228. present: 6
+229. yellow: 3
+230. heavy: 4
+231. carry: 5
+232. draw: 5
+233. nose: 3
+234. hen: 4
+235. camping: 6
+236. gonna get you: 6
+237. jeans: 4
+238. rooster: 4
+239. sister: 7
+240. sandbox: 6
+241. elephant: 4
+242. where: 5
+243. stop: 5
+244. same: 5
+245. bucket: 4
+246. owl: 4
+247. grandma: 7
+248. napkin: 4
+249. can (auxiliary): 5
+250. french fries: 3
+251. popsicle: 3
+252. blanket: 4
+253. any: 5
+254. yum yum: 4
+255. time: 4
+256. say: 5
+257. potato: 3
+258. that: 5
+259. grass: 4
+260. hit: 5
+261. nap: 4
+262. here: 5
+263. pumpkin: 4
+264. belt: 4
+265. peanut butter: 3
+266. big: 4
+267. kleenex: 4
+268. bench: 4
+269. garage: 4
+270. stone: 4
+271. push: 5
+272. dog: 4
+273. bat: 4
+274. purse: 4
+275. frog: 4
+276. orange (food): 3
+277. soup: 4
+278. on: 4
+279. out: 5
+280. yogurt: 3
+281. because: 6
+282. knock: 5
+283. boo boo: 6
+284. soap: 4
+285. hose: 4
+286. train: 4
+287. but: 5
+288. bean: 3
+289. yesterday: 5
+290. work (place): 6
+291. other: 5
+292. window: 4
+293. sandwich: 4
+294. blow: 5
+295. ball: 4
+296. butter: 3
+297. refrigerator: 4
+298. how: 5
+299. every: 5
+300. pony: 4
+301. after: 5
+302. asleep: 5
+303. shoe: 4
+304. fish (food): 3
+305. tear: 4
+306. bottom: 3
+307. you: 5
+308. sticky: 4
+309. sad: 6
+310. salt: 3
+311. watch (object): 4
+312. who: 5
+313. story: 6
+314. toothbrush: 4
+315. butterfly: 4
+316. stand: 5
+317. fast: 4
+318. helicopter: 4
+319. toe: 3
+320. airplane: 4
+321. toy: 4
+322. mouth: 3
+323. pretend: 6
+324. talk: 6
+325. comb: 4
+326. your: 5
+327. bee: 4
+328. cold: 4
+329. ice: 2
+330. rain: 2
+331. some: 5
+332. lick: 4
+333. potato chip: 3
+334. block: 4
+335. hold: 5
+336. snack: 4
+337. let me: 5
+338. teddybear: 4
+339. put: 5
+340. glove: 4
+341. teacher: 7
+342. scared: 6
+343. clean (description): 4
+344. fork: 3
+345. were: 5
+346. soda: 3
+347. spill: 4
+348. high: 4
+349. no: 5
+350. and: 5
+351. meow: 4
+352. police: 7
+353. key: 4
+354. camera: 4
+355. us: 5
+356. none: 5
+357. now: 5
+358. ear: 3
+359. tractor: 4
+360. dinner: 4
+361. trash: 4
+362. strawberry: 4
+363. over: 4
+364. slipper: 4
+365. breakfast: 4
+366. box: 4
+367. movie: 4
+368. snowsuit: 4
+369. pencil: 3
+370. I: 5
+371. bump: 4
+372. broom: 4
+373. ant: 4
+374. tissue: 4
+375. bubble: 4
+376. sneaker: 4
+377. them: 5
+378. stick: 4
+379. dark: 4
+380. money: 6
+381. scarf: 4
+382. downtown: 6
+383. shovel: 4
+384. bunny: 4
+385. white: 3
+386. owie: 6
+387. finger: 3
+388. pop: 4
+389. myself: 5
+390. cracker: 3
+391. bead: 3
+392. shush: 5
+393. high chair: 6
+394. kitchen: 6
+395. girl: 7
+396. work (action): 6
+397. man: 7
+398. green beans: 4
+399. hush: 5
+400. chase: 6
+401. zebra: 4
+402. party: 6
+403. fireman: 7
+404. plate: 4
+405. bye: 7
+406. cowboy: 7
+407. so: 5
+408. kitty: 4
+409. get: 5
+410. his: 5
+411. ankle: 3
+412. clean (action): 5
+413. ouch: 6
+414. backyard: 6
+415. drawer: 4
+416. bathroom: 6
+417. noisy: 4
+418. puzzle: 4
+419. kiss: 6
+420. room: 6
+421. bring: 5
+422. basket: 4
+423. rock: 4
+424. bite: 4
+425. living room: 6
+426. first: 5
+427. we: 5
+428. chocolate: 4
+429. yucky: 6
+430. tree: 4
+431. in: 4
+432. break: 5
+433. playground: 6
+434. tiger: 4
+435. vagina: 6
+436. play pen: 6
+437. an: 5
+438. tape: 4
+439. nice: 6
+440. grandpa: 7
+441. mitten: 4
+442. drink (action): 5
+443. back: 4
+444. farm: 6
+445. finish: 5
+446. shh: 5
+447. pizza: 4
+448. gentle: 6
+449. show: 6
+450. noodle: 4
+451. up: 4
+452. cereal: 4
+453. smile: 6
+454. bed: 6
+455. choo choo: 4
+456. a lot: 5
+457. find: 5
+458. so big: 5
+459. fall: 5
+460. closet: 4
+461. moo: 4
+462. food: 4
+463. cute: 6
+464. leg: 3
+465. catch: 5
+466. hug: 6
+467. write: 5
+468. necklace: 4
+469. mad: 6
+470. take: 5
+471. vitamins: 4
+472. wet: 4
+473. game: 6
+474. shorts: 4
+475. tray: 4
+476. tuna: 4
+477. sheep: 4
+478. please: 7
+479. horse: 4
+480. around: 5
+481. uncle: 7
+482. turtle: 4
+483. night night: 6
+484. morning: 5
+485. cheek: 3
+486. cow: 4
+487. close: 4
+488. at: 4
+489. underpants: 4
+490. then: 5
+491. bathtub: 6
+492. cat: 4
+493. love: 7
+494. thirsty: 5
+495. button: 4
+496. tights: 4
+497. tricycle: 4
+498. happy: 6
+499. brown: 3
+500. hungry: 5
+501. each: 5
+502. buttocks: 6
+503. gonna: 5
+504. school: 7
+505. pudding: 4
+506. picnic: 6
+507. last: 5
+508. fish (animal): 4
+509. this little piggy: 6
+510. clock: 4
+511. eat: 5
+512. make: 5
+513. cut: 4
+514. bus: 4
+515. monkey: 4
+516. all gone: 6
+517. clown: 4
+518. dry (action): 4
+519. pattycake: 6
+520. yourself: 5
+521. away: 5
+522. gotta: 5
+523. garden: 6
+524. chicken (food): 4
+525. deer: 4
+526. face: 3
+527. towel: 4
+528. sink: 4
+529. down: 4
+530. on top of: 4
+531. pants: 4
+532. cloud: 2
+533. mop: 4
+534. today: 5
+535. stroller: 6
+536. walker: 6
+537. baby: 7
+538. swing (object): 4
+539. candy: 4
+540. later: 5
+541. good: 6
+542. couch: 4
+543. don't: 5
+544. splash: 5
+545. with: 5
+546. dryer: 4
+547. when: 5
+548. long: 4
+549. pet's name: 7
+550. like: 6
+551. egg: 3
+552. arm: 3
+553. banana: 3
+554. corn: 3
+555. person: 7
+556. radio: 4
+557. cheerio: 4
+558. bug: 4
+559. coke: 4
+560. pick: 5
+561. new: 5
+562. to: 5
+563. hot

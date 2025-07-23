@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-e464efa1fa114e078aa497ac5a67ae25",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the actions related to the foot/leg:\n\n* stand: 5\n* wait: 2\n* go: 4\n* run: 5\n* jump: 5\n* kick: 5\n* bump: 2\n* sweep: 2\n* walk: 5\n* climb: 4\n* carry: 3\n* slide: 4\n* ride: 4\n* go potty: 4\n* take: 2\n* sit: 2\n* climb: 4\n* carry: 3\n* go: 4\n* walk: 5\n* run: 5\n* jump: 5\n* kick: 5\n* bump: 2\n* sweep: 2\n* slide: 4\n* ride: 4\n* go potty: 4\n* take: 2\n* sit: 2\n* stand: 5\n* wait: 2\n* go: 4\n* run: 5\n* jump: 5\n* kick: 5\n* bump: 2\n* sweep: 2\n* walk: 5\n* climb: 4\n* carry: 3\n* slide: 4\n* ride: 4\n* go potty: 4\n* take: 2\n* sit: 2\n* knee: 4\n* garage: N\n* lamp: N\n* will: N\n* people: N\n* mop: N\n* lion: N\n* walker: N\n* try to: N\n* jeans: N\n* dinner: N\n* wind: N\n* sky: N\n* morning: N\n* teacher: N\n* banana: N\n* pour: N\n* your: N\n* wait: 2\n* could: N\n* clown: N\n* drop: N\n* lollipop: N\n* cow: N\n* block: N\n* bottle: N\n* bat: N\n* melon: N\n* babysitter's name: N\n* tape: N\n* downtown: N\n* hard: N\n* tired: N\n* backyard: N\n* closet: N\n* woods: N\n* and: N\n* plate: N\n* train: N\n* tummy: N\n* give: N\n* his: N\n* kitchen: N\n* stone: N\n* out: N\n* let me: N\n* look: N\n* bottom: N\n* can (object): N\n* beside: N\n* every: N\n* circus: N\n* don't: N\n* porch: N\n* be: N\n* pull: N\n* church: N\n* open: N\n* want to: N\n* grrr: N\n* cowboy: N\n* mommy: N\n* corn: N\n* there: N\n* green: N\n* turtle: N\n* go: 4\n* cheek: N\n* pet's name: N\n* key: N\n* ice cream: N\n* juice: N\n* sandwich: N\n* puzzle: N\n* on: N\n* puppy: N\n* stop: N\n* penguin: N\n* popcorn: N\n* elephant: N\n* soap: N\n* do: N\n* write: N\n* kitty: N\n* slow: N\n* roof: N\n* fireman: N\n* play: N\n* quack quack: N\n* cup: N\n* toast: N\n* mouse: N\n* so big: N\n* vanilla: N\n* sink: N\n* baby: N\n* up: N\n* hen: N\n* wipe: N\n* penis: N\n* person: N\n* egg: N\n* bead: N\n* work (action): N\n* doctor: N\n* chicken (food): N\n* farm: N\n* no: N\n* poor: N\n* love: N\n* we: N\n* yourself: N\n* need: N\n* sleep: N\n* much: N\n* help: N\n* sidewalk: N\n* cat: N\n* big: N\n* hide: N\n* sneaker: N\n* nurse: N\n* hello: N\n* peanut butter: N\n* they: N\n* moon: N\n* have to: N\n* pickle: N\n* naughty: N\n* raisin: N\n* build: N\n* knock: N\n* stick: N\n* strawberry: N\n* babysitter: N\n* dump: N\n* shake: N\n* windy: N\n* pancake: N\n* that: N\n* all gone: N\n* to: N\n* after: N\n* stove: N\n* wolf: N\n* first: N\n* pretzel: N\n* pillow: N\n* glove: N\n* daddy: N\n* read: N\n* push: N\n* sticky: N\n* sick: N\n* those: N\n* friend: N\n* drive: N\n* sofa: N\n* new: N\n* tiger: N\n* hungry: N\n* head: N\n* snow: N\n* hurry: N\n* kleenex: N\n* room: N\n* nap: N\n* mailman: N\n* around: N\n* think: N\n* go potty: 4\n* bathroom: N\n* careful: N\n* foot: 5\n* now: N\n* scissors: N\n* truck: N\n* lip: N\n* store: N\n* buy: N\n* noodle: N\n* camping: N\n* tiny: N\n* water (beverage): N\n* pumpkin: N\n* fork: N\n* hi: N\n* jacket: N\n* share: N\n* because: N\n* feed: N\n* thirsty: N\n* drink (beverage): N\n* white: N\n* last: N\n* thank you: N\n* hair: N\n* hose: N\n* hammer: N\n* lick: N\n* did ya: N\n* turkey: N\n* the: N\n* chalk: N\n* wish: N\n* grandpa: N\n* hers: N\n* is: N\n* I: N\n* hug: N\n* alligator: N\n* flower: N\n* touch: N\n* snack: N\n* girl: N\n* french fries: N\n* gas station: N\n* teddybear: N\n* this: N\n* yesterday: N\n* splash: N\n* their: N\n* cut: N\n* sweater: N\n* draw: N\n* motorcycle: N\n* picnic: N\n* into: N\n* him: N\n* bicycle: N\n* us: N\n* flag: N\n* sing: N\n* wanna: N\n* eat: N\n* horse: N\n* ladder: N\n* pants: N\n* what: N\n* milk: N\n* above: N\n* but: N\n* buttocks: N\n* none: N\n* story: N\n* brown: N\n* were: N\n* refrigerator: N\n* a lot: N\n* hamburger: N\n* so: N\n* ear: N\n* ice: N\n* rock: N\n* sock: N\n* see: N\n* boat: N\n* heavy: N\n* dark: N\n* then: N\n* loud: N\n* work (place): N\n* yard: N\n* muffin: N\n* other: N\n* tray: N\n* tickle: N\n* try: N\n* hold: N\n* where: N\n* kick: 5\n* awake: N\n* rocking chair: N\n* brother: N\n* sheep: N\n* bib: N\n* have: N\n* medicine: N\n* red: N\n* you: N\n* camera: N\n* water (not beverage): N\n* sleepy: N\n* hand: N\n* bean: N\n* dress: N\n* run: 5\n* scared: N\n* before: N\n* jump: 5\n* wake: N\n* bee: N\n* tree: N\n* belt: N\n* aunt: N\n* pig: N\n* finish: N\n* bump: 2\n* watch (action): N\n* hit: N\n* garden: N\n* our: N\n* soda: N\n* more: N\n* leg: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564148,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1897,
+    "prompt_tokens": 1950,
+    "total_tokens": 3847,
+    "estimated_cost": 0.00023082
+  }
+}

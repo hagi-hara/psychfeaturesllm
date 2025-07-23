@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJOY5Xlk01dOkEeNd9HUylM3UVpD",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "wet: 3.42\nballoon: 0.15\npick: 1.12\nsky: 0.15\nglass: 0.32\nshare: 0.26\nbath: 2.82\nbrush: 0.10\ncereal: 3.53\nride: 0.20\nschool: 0.23\nnoisy: 1.68\nraisin: 3.22\ntaste: 4.20\nheavy: 0.27\ntickle: 0.12\nbrother: 0.62\nbuy: 0.21\nopen: 0.23\nblanket: 0.11\nshovel: 0.05\nred: 0.12\ntake: 0.25\npumpkin: 3.89\nbite: 4.47\nbug: 0.70\ndrive: 0.15\nchild: 0.38\npig: 0.17\nhit: 0.15\ngum: 4.52\nowl: 0.15\nold: 0.10\nlunch: 4.10\nelephant: 0.20\nzipper: 0.10\nbasket: 0.12\nwipe: 0.15\nkick: 0.10\nmilk: 4.00\nblack: 0.10\ntree: 0.10\ncat: 0.15\nslipper: 0.10\nhungry: 4.20\nhose: 0.20\nchin: 0.10\npickle: 4.05\npolice: 0.15\ntime: 0.15\npony: 0.10\ntongue: 4.57\ntoast: 4.25\nbuild: 0.10\nteacher: 0.20\nwake: 0.20\ntrain: 0.10\nhead: 0.10\nbutter: 4.05\nlook: 0.10\nsink: 0.10\nclap: 0.10\nfirst: 0.10\nstar: 0.10\nrooster: 0.10\nbread: 4.15\nbottle: 4.10\ntable: 0.10\nradio: 0.10\npicture: 0.10\nsofa: 0.10\npizza: 4.47\ndump: 0.10\ntummy: 0.10\nparty: 0.10\npenguin: 0.10\nchair: 0.10\ngarbage: 0.10\ncow: 0.10\nhard: 0.10\nbeach: 0.10\ndirty: 0.10\nbe: 0.10\nhold: 0.10\nsit: 0.10\nbucket: 0.10\ntruck: 0.10\nscissors: 0.10\ndinner: 4.15\nlion: 0.10\nbib: 0.10\nchalk: 0.10\nhome: 0.10\nawake: 0.10\nshower: 0.10\ncake: 4.47\npotato: 4.10\nthrow: 0.10\njacket: 0.10\nstand: 0.10\ntowel: 0.10\ntractor: 0.10\ncold: 0.10\nstay: 0.10\nsplash: 0.10\nhide: 0.10\nplate: 0.10\nempty: 0.10\narm: 0.10\npull: 0.10\nknock: 0.10\ncut: 0.10\npudding: 4.10\ncoke: 4.10\neye: 0.10\nsoup: 4.10\nbreakfast: 4.10\nkitchen: 0.10\npuppy: 0.10\nboat: 0.10\npicnic: 0.10\npretzel: 4.10\nknee: 0.10\nbox: 0.10\ngive: 0.10\nstick: 0.10\nmoose: 0.10\nlamp: 0.10\nmouse: 0.10\ndiaper: 0.10\nbroken: 0.10\nmonkey: 0.10\nstory: 0.10\njuice: 4.10\nback: 0.10\ndress: 0.10\nlick: 4.10\nwindy: 0.10\ntissue: 0.10\nsock: 0.10\nwalk: 0.10\negg: 4.10\nbig: 0.10\nbelt: 0.10\nlisten: 0.10\nsalt: 0.10\nclimb: 0.10\ncloset: 0.10\nbowl: 0.10\nlove: 0.10\nwash: 0.10\ndish: 0.10\ndance: 0.10\nporch: 0.10\nyard: 0.10\nplay: 0.10\ncountry: 0.10\nmoney: 0.10\nant: 0.10\nstone: 0.10\nsmile: 0.10\ncircus: 0.10\ntiger: 0.10\nday: 0.10\nbutton: 0.10\nnaughty: 0.10\npencil: 0.10\nclown: 0.10\nsad: 0.10\nsandwich: 4.10\nbench: 0.10\nsled: 0.10\nfood: 4.10\ncup: 4.10\nstore: 0.10\ncandy: 4.10\nrun: 0.10\ngiraffe: 0.10\nankle: 0.10\ndo: 0.10\nwill: 0.10\nkiss: 4.10\ncrib: 0.10\nsprinkler: 0.10\nwindow: 0.10\nleg: 0.10\nsoap: 0.10\nsweep: 0.10\nsister: 0.10\nsweater: 0.10\nbird: 0.10\nhand: 0.10\nfix: 0.10\nfork: 0.10\nblock: 0.10\ncover: 0.10\npretend: 0.10\nbed: 0.10\nsee: 0.10\nfinish: 0.10\npour: 0.10\nhouse: 0.10\nfit: 0.10\nbump: 0.10\nput: 0.10\nroof: 0.10\nnew: 0.10\nfall: 0.10\nstroller: 0.10\nalligator: 0.10\nlittle: 0.10\ntouch: 0.10\nuncle: 0.10\nhelp: 0.10\nrain: 0.10",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989174,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 1578,
+    "prompt_tokens": 2262,
+    "total_tokens": 3840,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

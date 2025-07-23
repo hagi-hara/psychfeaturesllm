@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJP2WrVCffeGuMsGPtw8OGtefty5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "knee: 6.88\nlove: 2.74\npaper: 6.66\ncat: 6.17\ntoe: 6.83\ncute: 3.48\nbread: 6.74\nhave: 3.11\ngiraffe: 3.34\ncold: 4.56\npenny: 6.61\nthirsty: 3.91\nball: 6.93\nbib: 6.34\nhome: 6.47\nsprinkler: 5.59\nshoulder: 6.51\nmouth: 6.74\nchair: 6.82\nstove: 5.62\nyellow: 4.11\nstore: 5.84\nstory: 4.92\ntired: 3.83\nbottle: 6.77\nmommy: 6.29\nfull: 3.76\nbrush: 6.48\nchase: 4.58\nscarf: 6.19\ncereal: 6.72\nbad: 2.92\ntray: 6.11\nhorse: 5.18\nlamb: 4.86\npen: 6.71\nwhite: 4.92\ndaddy: 6.27\ncook: 5.41\ntiny: 3.28\nalligator: 3.13\nowl: 3.96\ncircus: 5.32\nrooster: 4.52\ntoy: 6.77\nnapkin: 6.53\nsoda: 6.09\ntickle: 5.88\nsoap: 6.45\ncake: 6.86\ngive: 3.74\ndump: 3.16\ncloset: 5.94\nbutter: 6.41\nuncle: 5.77\nhappy: 3.71\nblue: 4.87\nperson: 6.04\ndoor: 6.38\nshow: 4.67\nbreak: 4.08\nold: 2.59\nsit: 4.81\nnoisy: 3.62\nbroom: 5.47\nballoon: 6.59\ncoat: 6.78\nsink: 5.79\nshake: 4.82\nstick: 5.88\nslow: 3.24\ndress: 6.75\nbus: 5.94\ngoose: 4.82\nrain: 4.87\nwait: 3.12\nfarm: 5.63\ncheek: 6.68\nasleep: 4.61\nsnack: 6.39\nsalt: 6.35\nblanket: 6.71\nyard: 6.04\nnew: 2.81\ndirty: 4.02\nfriend: 5.71\nwish: 3.22\nbowl: 6.57\nspill: 4.26\nmoose: 3.27\nzipper: 6.52\nbench: 5.57\npull: 5.31\nhair: 6.71\npig: 4.66\nbear: 4.37\npumpkin: 6.11\nhide: 4.28\ncamera: 5.63\nstroller: 6.37\nwolf: 3.02\nwould: 2.85\ngood: 3.19\nbug: 5.44\npretty: 3.53\ntowel: 6.71\nzebra: 3.48\nswim: 5.34\ndoll: 6.69\nsoup: 6.23\ndance: 5.17\nsled: 5.16\nschool: 5.91\nradio: 4.26\ngrass: 6.04\npicture: 5.68\nlisten: 3.91\nsing: 4.86\ndo: 3.01\nsmile: 3.97\nwindow: 5.56\ngreen: 4.92\nporch: 5.21\nthrow: 5.32\npresent: 6.09\nwet: 5.36\nduck: 5.63\nmorning: 3.69\ncow: 5.09\nsock: 6.73\nhouse: 6.47\nput: 3.58\ntalk: 3.94\nspaghetti: 6.42\nblock: 6.72\nblack: 4.44\nshower: 6.19\ndoctor: 5.03\nchurch: 4.33\nhungry: 4.12\njump: 5.39\nshare: 3.62\nstone: 5.12\nstand: 4.52\nrefrigerator: 6.07\nsleepy: 4.03\nwind: 4.59\nhigh: 3.64\ncountry: 3.21\nlion: 3.48\ngarden: 5.91\ntooth: 6.54\npudding: 6.23\nlamp: 6.12\ncar: 6.61\nmouse: 5.11\nbrother: 5.83\nyogurt: 6.29\ntouch: 4.66\ndraw: 6.52\nbird: 5.07\nhurt: 3.21\nkick: 5.24\negg: 6.32\nfind: 4.12\ndonkey: 4.03\near: 6.72\nrun: 5.39\npencil: 6.57\ntrain: 5.71\ngo: 3.77\nlook: 3.96\nread: 4.82\nshovel: 5.63\nteacher: 5.21\nglass: 6.52\nfood: 6.74\ncloud: 2.83\nshirt: 6.79\nbuy: 4.23\ndeer: 3.96\ncorn: 5.92\ntape: 6.39\npizza: 6.76\nchalk: 6.43\nface: 6.78\ntongue: 6.76\nhate: 3.08\nheavy: 3.92\ntry: 3.23\nfirst: 2.79\ntiger: 3.34\nsweater: 6.62\nfine: 3.24\nkiss: 4.48\npour: 5.67\nsquirrel: 4.21\nskate: 4.67\nclown: 5.09\nfall: 3.84\nhurry: 3.16\nslipper: 6.53\npicnic: 6.18\nday: 2.97\nhit: 4.67\ndish: 6.51\nmoney: 4.88\ncrib: 6.24\ncouch: 6.23\nbee: 5.04\nnurse: 4.91\nmad: 3.22\ntruck: 5.98\nlunch: 6.42\ndrive: 4.58\ncut: 4.68\nclap: 5.08\nbath: 6.49\nnight: 3.64\nhug: 4.92\ntoast: 6.44\ncoffee: 5.01\nstreet: 4.28\ntractor: 5.73\nkitchen: 6.52\nwill: 2.93\npick: 4.64\nmeat: 5.88\ncarry: 4.67\nrip: 3.98\naunt: 5.72\nsheep: 4.73\nsticky: 4.32\nmeow: 3.91\nrock: 5.74\ncracker: 6.44\nhot: 4.11\nflag: 5.33\nglue: 6.28\nbanana: 6.87\nfix: 4.88\nbuild: 4.86\nother: 2.97\nmuffin: 6.41\nhear: 3.93\nhamburger: 6.24\ncomb: 6.32\ntrash: 6.21\nplant: 6.14\npickle: 6.04\nsun: 3.87\ncoke: 5.47\nride: 5.71\nbasket: 6.14\nplate: 6.74\npool: 5.98\npush: 5.11\ndrop: 4.61\nsofa: 6.19",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989204,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 1902,
+    "prompt_tokens": 2380,
+    "total_tokens": 4282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

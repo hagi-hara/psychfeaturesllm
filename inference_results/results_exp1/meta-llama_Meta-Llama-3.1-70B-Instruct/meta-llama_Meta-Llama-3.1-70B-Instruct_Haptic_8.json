@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-438398d729f142269d9ace9c01de8f49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for feeling through touch:\n\napple: 4\nbanana: 4\nbicycle: 3\nblanket: 5\nbook: 2\nbowl: 2\nbread: 2\nbubble: 1\nbutton: 1\ncar: 2\nchair: 2\nchicken (food): 2\ncloset: 1\ncloud: 0\ncoat: 3\ncookie: 2\ncouch: 3\ncup: 2\ndog: 4\ndoor: 2\ndress: 3\ndrink (beverage): 2\nduck: 4\negg: 2\nfish (food): 2\nflag: 1\nflower: 2\nfood: 2\nfork: 2\nfriend: 4\nfrog: 4\ngame: 1\ngarden: 2\nglass: 2\nglove: 3\nhat: 2\nhouse: 2\nice cream: 3\njacket: 3\njar: 2\nkitty: 4\nkitchen: 2\nlamp: 1\nlunch: 2\nmitten: 3\nmommy: 4\nmoon: 0\nmouse: 4\nmuffin: 2\nnapkin: 2\nnoodle: 2\npaper: 1\npen: 2\npencil: 2\npeanut butter: 2\npeople: 4\nphone: N\npillow: 3\npizza: 2\nplate: 2\nplayground: 2\npotty: 2\npuppy: 4\npurse: 2\nradio: 1\nrefrigerator: 2\nrock: 2\nsandbox: 2\nshoe: 3\nshirt: 3\nshoe: 3\nsock: 3\nspoon: 2\nstair: 2\nstool: N\nstroller: 2\nsun: 0\nsweater: 3\nswing (action): 3\nswing (object): 2\ntable: 2\ntape: 1\nteddybear: 3\ntelephone: 2\ntelevision: N\ntights: 3\ntissue: 2\ntoast: 2\ntoilet: N\ntowel: 3\ntoy: 2\ntrain: 2\ntree: 2\ntricycle: 2\ntruck: 2\nTV: 2\numbrella: N\nvan: N\nvase: N\nwatch (action): 1\nwatch (object): 2\nwater (beverage): 2\nwater (not beverage): 0\nwindow: 2\nyard: 2",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564891,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 594,
+    "prompt_tokens": 1938,
+    "total_tokens": 2532,
+    "estimated_cost": 0.0014532599999999998
+  }
+}

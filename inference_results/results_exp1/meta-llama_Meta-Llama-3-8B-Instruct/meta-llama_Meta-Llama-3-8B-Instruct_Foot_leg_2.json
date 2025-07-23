@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-faa10e38ca3041afb1b6b168465497c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the actions related to the foot/leg:\n\n* kick: 5\n* walk: 5\n* run: 5\n* jump: 5\n* stand: 5\n* sit: 5\n* ride: 5\n* climb: 4\n* slide: 4\n* hop: N\n* ankle: 2\n* toe: 2\n* knee: 2\n* foot: 2",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560446,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1950,
+    "total_tokens": 2046,
+    "estimated_cost": 0.00012276
+  }
+}

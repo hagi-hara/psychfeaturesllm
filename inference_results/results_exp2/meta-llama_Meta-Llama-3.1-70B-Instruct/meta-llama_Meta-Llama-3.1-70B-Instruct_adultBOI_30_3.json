@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-adca4061541c42168e9f523078c62979",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "chin: 6\nbanana: 6\nlamb: 4\nflag: 3\nstove: 5\nspaghetti: 6\nswim: 2\ngive: 2\nclimb: 3\nbowl: 6\ndo: 1\npuppy: 6\nthink: 1\nbe: 1\nwrite: 2\nsneaker: 6\nbib: 6\nplate: 6\nstar: 1\ndoll: 6\nopen: 2\ntray: 6\npillow: 6\nroom: 4\nowl: 4\nmoney: 3\ntractor: 5\nasleep: 1\nboots: 6\ncracker: 6\nbrush: 6\ncry: 2\narm: 6\nbreakfast: 6\nwish: 1\ncat: 6\neat: 2\ncloset: 5\negg: 6\nbottle: 6\nhurry: 2\nsock: 6\nscarf: 6\nbelt: 6\nbox: 6\nbroken: 1\nshow: 2\nwet: 2\nrock: 5\nstone: 5\nsleep: 1\njacket: 6\nhide: 2\nhard: 2\nfull: 2\noven: 5\ncheek: 6\nraisin: 6\ndog: 6\ngreen: 1\nride: 2\nspoon: 6\nzipper: 6\ngrass: 4\nshirt: 6\ncarry: 2\napple: 6\nbear: 4\nsweater: 6\nsoft: 2\nbath: 5\nyogurt: 6\ncover: 2\njelly: 6\nbus: 5\nchocolate: 6\npaper: 6\nsled: 6\nsad: 2\nbeach: 4\nbed: 6\ngood: 2\nred: 1\nfriend: 5\nyard: 4\nsay: 2\nbutter: 6\ncountry: 4\npush: 2\ncatch: 2\npig: 5\nfork: 6\nlick: 2\nkiss: 2\ndaddy: 5\nplay: 2\ngarbage: 4\nfeed: 2\ntape: 6\npumpkin: 6\nrain: 2\nshoe: 6\ngirl: 5\nblock: 6\nmedicine: 6\nnew: 2\ncereal: 6\npaint: 6\ncircus: 4\nsing: 2\ntummy: 6\npretty: 2\nschool: 4\ncorn: 6\nshoulder: 6\npour: 2\ngentle: 2\ntiny: 2\nnight: 2\nbunny: 6\nshake: 2\npurse: 6\nhate: 2\nsoap: 6\ntable: 6\npen: 6\nhead: 6\npants: 6\nheavy: 2\ndump: 2\nquiet: 2\nhammer: 6\nmoose: 4\nfinger: 6\nwind: 2\nthrow: 2\nsink: 5\ncake: 6\ntoast: 6\nmoon: 1\nmouse: 6\nhouse: 5\nsheep: 5\nsick: 2\ntaste: 2\nstand: 2\nlollipop: 6\neye: 6\nradio: 5\nhair: 6\nroof: 4\ndrop: 2\nchild: 5\nrip: 2\nface: 6\nday: 2\nnail: 6\ncloud: 2\ntake: 2\nchase: 2\nclap: 2\nlady: 5\nmake: 2\nscissors: 6\nsplash: 2\nsnack: 6\njeans: 6\nfix: 2\nbrown: 1\ncook: 2\nlove: 2\nankle: 6\npoor: 2\ntoe: 6\nchair: 7\ntry: 2\nthirsty: 2\npotty: 6\nblanket: 6\nfit: 2\ngo: 2\nnoisy: 2\nempty: 2\nhigh: 2\nhen: 5\ncup: 6\nmilk: 6\nball: 6\nfinish: 2\nsoup: 6\nmouth: 6\ngame: 4\nlittle: 2\nuncle: 5\nkitchen: 5\nboat: 5\nstrawberry: 6\ntired: 2\nsmile: 2\nbreak: 2\ntiger: 4\nawake: 2\nstay: 2\nboy: 5\npencil: 6\nbuild: 2\ndoctor: 5\nparty: 4\npicture: 4\nwindow: 5\nturkey: 5\nhold: 2\ncoffee: 6\nbutton: 6\nslipper: 6\nfind: 2\njar: 6\nyellow: 1\nget: 2\nmonkey: 5\npretzel: 6\nhear: 2\nlunch: 6\nstop: 2\nhorse: 5\nshare: 2\nwait: 2\nbat: 5\nbread: 6\nbroom: 6\npudding: 6\nbad: 2\nwolf: 4\nleg: 6\npick: 2\nman: 5\nmorning: 2\nsalt: 6\nother: 2\nbaby: 5\nput: 2\nknee: 6\npresent: 6\nshovel: 6\nant: 5\nskate: 6\nsit: 2\nmeat: 6\nbig: 2\nnap: 2\nhamburger: 6\nstick: 6\ncold: 2\nsofa: 6\nlook: 2\ntongue: 6\nmommy: 5\nstreet: 4\nhug: 2\nbasket: 6\nrun: 2\nnapkin: 6\nalligator: 4\nlamp: 5\nhungry: 2\nbrother: 5\ntear: 2\nfirst: 2\nperson: 5\nfarm: 4\nbring: 2\nmeow: 2\npizza: 6\nballoon: 6\nfall: 2\nice: 2\nturtle: 5\nclown: 5\nglue: 6\nzoo: 4\ngiraffe: 4\nwill: 2\nclock: 5\ntooth: 6\nglass: 6\ndiaper: 6\ntrash: 4\nwalk: 2\nhose: 5\ntruck: 5\nnose: 6\ngarden: 4\npenny: 6\nrefrigerator: 5\nstore: 4\ndraw: 2\nflower: 6\nhot: 2\ntouch: 2\nvacuum: 6\nsweep: 2\npool: 5",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989579,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1627,
+    "prompt_tokens": 2231,
+    "total_tokens": 3858,
+    "estimated_cost": 0.0011639299999999999
+  }
+}

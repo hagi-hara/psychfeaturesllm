@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+hungry: 6.17
+give: 3.50
+yogurt: 3.50
+tissue: 3.00
+put: 1.30
+store: 3.75
+rip: 2.18
+purse: 1.40
+smile: 5.64
+owl: 2.42
+coat: 2.36
+bring: 3.10
+drive: 2.40
+banana: 3.08
+find: 2.91
+bowl: 4.40
+mouse: 1.82
+baby: 10.00
+chocolate: 2.14
+tongue: 3.80
+dark: 1.36
+tummy: 7.17
+train: 3.55
+story: 7.00
+puppy: 4.25
+pig: 1.42
+raisin: 2.40
+nose: 5.83
+rock: 3.37
+doll: 7.13
+think: 2.70
+street: 1.70
+ear: 3.91
+make: 3.25
+person: 6.00
+puzzle: 3.31
+fit: 1.67
+shoulder: 2.83
+shower: 2.73
+muffin: 2.31
+mop: 2.25
+pillow: 3.89
+candy: 4.50
+read: 4.64
+basket: 5.00
+splash: 3.06
+picture: 5.30
+beach: 3.00
+sprinkler: 2.73
+sink: 3.17
+penny: 1.00
+hand: 4.90
+big: 2.73
+girl: 5.73
+tiger: 2.00
+box: 1.94
+lunch: 4.70
+do: 2.85
+giraffe: 4.50
+close: 5.62
+finish: 1.09
+noisy: 8.36
+black: 2.50
+hear: 4.60
+sweater: 2.91
+walk: 4.54
+cat: 2.00
+moose: 2.00
+bath: 7.67
+couch: 1.89
+wind: 2.55
+cute: 8.80
+tape: 1.50
+cook: 2.08
+wish: 3.92
+pretty: 5.69
+draw: 3.30
+zebra: 1.73
+mommy: 8.45
+stay: 3.20
+cow: 2.20
+sleep: 7.73
+build: 2.43
+farm: 1.73
+
+Please answer about all of the following words.
+
+ice
+truck
+tree
+basement
+lamp
+shovel
+try
+goose
+sofa
+ankle
+would
+house
+hammer
+napkin
+tuna
+ladder
+zipper
+nice
+bird
+bad
+mouth
+squirrel
+awake
+pizza
+donkey
+lollipop
+toy
+pretzel
+jacket
+snack
+morning
+dish
+elephant
+jelly
+glue
+full
+pants
+man
+tear
+hurry
+lion
+windy
+shake
+other
+sleepy
+coke
+milk
+toast
+belt
+diaper
+alligator
+duck
+asleep
+jeans
+uncle
+break
+fine
+throw
+go
+yellow
+yard
+hold
+gum
+pencil
+star
+touch
+cover
+tractor
+poor
+dryer
+circus
+blow
+moon
+present
+paint
+face
+naughty
+friend
+back
+towel
+night
+rain
+be
+cut
+sing
+spill
+oven
+drawer
+sock
+dress
+climb
+new
+skate
+hug
+jar
+hard
+cold
+cheek
+daddy
+play
+listen
+stand
+see
+book
+penguin
+scissors
+doctor
+bump
+horse
+cloud
+police
+lady
+game
+say
+potato
+picnic
+kiss
+pickle
+garden
+shoe
+refrigerator
+stone
+show
+nail
+spaghetti
+green
+cup
+sticky
+toe
+quiet
+wait
+plate
+money
+slow
+cry
+sit
+pick
+monkey
+broom
+apple
+heavy
+buy
+push
+bottle
+child
+wet
+white
+bunny
+leg
+sad
+knee
+brush
+soft
+sky
+sheep
+home
+share
+hat
+sandwich
+hair
+church
+flag
+catch
+sister
+strawberry
+stove
+corn
+clock
+turtle
+soap
+wipe
+hide
+bear
+clap
+sauce
+pretend
+hate
+hamburger
+open
+jump
+block
+pull
+garage
+breakfast
+tray
+boat
+brown
+bed
+animal
+balloon
+bus
+door
+hot
+bee
+bat
+turkey
+stroller
+talk
+write
+blanket
+kitchen
+feed
+eye
+dinner
+arm
+empty
+high
+gentle
+day
+teacher
+trash
+crayon
+dog
+snow
+bug
+people
+bench
+pumpkin
+help
+kick
+run
+juice
+sweep
+ball
+potty
+old
+camera
+grass
+red
+lick
+nap
+party
+eat
+tiny
+tickle
+dump
+soup
+dance
+park
+paper
+little
+bucket
+chin
+radio
+thirsty
+spoon
+hen
+glass
+boots
+hose
+food
+slipper
+wolf
+lamb
+fall
+look
+fix
+closet
+wake
+meat
+chase
+time
+chalk
+stop
+pour
+medicine
+first
+dirty
+zoo
+cheese
+fork
+deer
+soda
+sled
+taste
+salt
+swim
+porch
+coffee
+knock
+window
+ride
+cake
+finger
+egg
+bib
+good
+stick
+brother
+get
+drop
+boy
+sick
+take
+broken
+movie
+rooster
+carry
+tooth
+crib
+roof
+country
+pudding
+bite
+have
+vacuum
+butter
+love
+shirt
+sneaker
+nurse
+ant
+tired
+wash
+room
+hit
+flower
+bread
+plant
+car
+will
+school
+cookie
+clown
+chair
+pony
+sun
+meow
+cereal
+garbage
+blue
+pen
+table
+mad
+hurt
+scarf
+head
+like
+cracker
+happy
+button
+aunt
+pool
+comb

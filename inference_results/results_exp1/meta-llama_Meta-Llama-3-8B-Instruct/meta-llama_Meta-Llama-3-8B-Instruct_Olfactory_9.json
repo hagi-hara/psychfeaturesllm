@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-68b1a1b8b59349d4ae31072eab8b4c45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for smelling:\n\nairplane: 2\napple: 3\nbanana: 2\nbee: 1\nbird: 1\nbread: 3\nbroken: N\nbroom: 1\nbubble: 1\ncake: 2\ncall: N\ncamera: N\ncamping: 3\ncar: 1\ncheese: 3\nchicken (food): 3\nchocolate: 3\nclown: N\ncoffee: 2\ncomb: 1\ncookie: 2\ncountry: N\ncow: 1\ncracker: 2\ndance: N\ndish: 1\ndonut: 2\nduck: 1\near: N\nelephant: 1\neye: N\nfarm: 1\nfish (food): 3\nfrog: 1\ngarden: 2\ngirl: N\ngoose: 1\ngrandma: N\ngrandpa: N\nhair: 2\nhammer: 1\nhat: 1\nhers: N\nhoney: N\nhorse: 1\nhot: 2\nice cream: 3\njacket: 1\nkiss: 1\nknee: N\nknife: 1\nlady: N\nlamb: 1\nlawn mower: 1\nlion: 1\nlollipop: 2\nloud: 2\nman: N\nmeat: 2\nmelon: 2\nmommy: N\nmonkey: 1\nmorning: N\nmotorcycle: 1\nmouse: 1\nmovie: N\nnap: N\nnight: N\nnoisy: 2\norange (food): 3\noven: 2\npea: 1\npeanut butter: 2\npen: 1\nperson: N\npet's name: N\npig: 1\npillow: 1\npizza: 3\npony: 1\npotty: 2\npretzel: 2\npumpkin: 2\npuppy: 1\nradio: N\nraisin: 1\nred: N\nrefrigerator: 1\nrock: 1\nrooster: 1\nroom: N\nsandwich: 2\nsatin: N\nschool: N\nshirt: 1\nshoe: 1\nshower: 2\nsidewalk: 1\nsink: 1\nsoap: 2\nsock: 1\nspaghetti: 2\nspoon: 1\nstore: N\nstrawberry: 2\nsun: N\nswim: 1\ntable: N\ntaste: N\ntear: 1\ntelephone: N\nthank you: N\nthat: N\nthe: N\nthem: N\nthere: N\nthese: N\nthey: N\nthis: N\nthose: N\nthis little piggy: 1\nto: N\ntooth: 1\ntoothbrush: 1\ntowel: 1\ntractor: 1\ntrain: 1\ntrash: 1\ntree: 1\ntricycle: 1\ntruck: 1\nturtle: 1\ntv: N\nunder: N\nunderpants: 1\nvacuum: 1\nvanilla: 2\nvitamins: 1\nwater (beverage): 2\nwater (not beverage): 2\nwind: N\nwindow: N\nwork (place): N\nwork (action): 1\nyogurt: 2\nyummy: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564137,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 777,
+    "prompt_tokens": 1936,
+    "total_tokens": 2713,
+    "estimated_cost": 0.00016278
+  }
+}

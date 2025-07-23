@@ -1,0 +1,10 @@
+ mouth: 3
+foot: 2
+leg: 2
+hand: 4
+arm: 3
+torso: 1
+head: 2
+head excluding mouth: 1
+mouth excluding throat: 3
+throat: 2

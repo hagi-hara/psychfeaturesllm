@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-aed49a4098bd4d14bde77ff38776754f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for sensations inside your body:\n\nitch: 3\nhunger: 5\nthirst: 4\nfatigue: 2\npain: 2\ntension: 3",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560445,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 1939,
+    "total_tokens": 1982,
+    "estimated_cost": 0.00011891999999999999
+  }
+}

@@ -1,0 +1,445 @@
+Words differ in the extent to which they refer to objects or things that a child has experience physically interacting with. Some words refer to objects or things that a child easily interacts with physically, whereas other words refer to objects or things that a child does not easily physically interact with. We need your help to judge the words listed on the following pages for how easily the average 6-year-old can physically interact (using the body: hands, mouth, etc.) with what each word represents.
+
+For example, the words “ball”, “pillow”, and “banana” refer to objects or things that a 6-year-old child physically interacts with easily, using their hands, face, mouth, etc. Things like this should get high ratings.
+
+In contrast the words, “unicorn”, “fire”, and “cloud” refer to objects or things that a 6-year-old child does not physically interact with easily and so should get low ratings; a “unicorn” is imaginary, so although children may be familiar with unicorn they cannot easily physically interact with them; “fire” is dangerous and so not easy for children to interact with, and a “cloud” is too large, distant, and vaporous for children to easily interact with.
+
+Please rate the child’s experiences with the real object or thing, not a toy version of an object. Also, because words tend to make you think of other words as associates, it is important that your ratings not be based on this and that you judge only the ease with which a child could physically interact with what the given word represents.
+
+Your child-object interaction ratings will be made on a 1 to 7 scale. A value of 1 will indicate a low child-object interaction rating, and a value of 7 will indicate a high child-object interaction rating. Values of 2 to 6 will indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings. Choose the rating that is most appropriate for each word. When making your ratings, try to be as accurate as possible, but do not spend too much time on any one word. If you are unsure of what the word means, please skip the rating.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are unsure of what the word means, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+kitchen: 6.15
+box: 6.80
+strawberry: 6.79
+stove: 5.32
+hug: 6.22
+blanket: 6.80
+bat: 4.90
+clap: 6.19
+radio: 5.75
+squirrel: 4.46
+take: 4.00
+leg: 6.67
+ear: 6.61
+daddy: 6.83
+fit: 3.25
+food: 6.83
+dirty: 3.97
+horse: 5.41
+cold: 5.62
+hate: 2.53
+bump: 4.40
+day: 4.56
+chocolate: 5.90
+home: 6.19
+blue: 5.54
+grass: 6.78
+country: 3.55
+face: 6.73
+windy: 5.12
+rock: 6.72
+slow: 3.62
+ankle: 6.17
+nail: 5.27
+corn: 6.23
+garage: 5.91
+play: 5.46
+tiny: 3.48
+closet: 5.92
+chair: 6.79
+medicine: 5.32
+zebra: 3.88
+jacket: 6.89
+tape: 6.04
+finger: 6.96
+mouth: 6.91
+bus: 4.94
+gum: 5.85
+basket: 5.91
+sock: 6.83
+listen: 3.65
+cover: 4.04
+ride: 4.37
+sad: 3.67
+kick: 5.00
+feed: 3.96
+milk: 6.72
+sled: 6.29
+party: 5.31
+find: 3.00
+school: 6.56
+coke: 3.47
+lollipop: 6.48
+slipper: 6.68
+yogurt: 6.76
+bite: 5.15
+bug: 5.59
+basement: 6.11
+would: 1.89
+snow: 6.46
+wolf: 2.96
+hit: 4.32
+pretend: 4.09
+full: 4.44
+kiss: 5.74
+story: 5.16
+eye: 6.48
+stick: 6.47
+bird: 5.04
+dress: 6.43
+awake: 3.67
+plant: 6.03
+cheek: 6.03
+bunny: 5.65
+asleep: 4.39
+meow: 3.38
+crib: 4.38
+cat: 6.11
+back: 4.41
+sticky: 4.68
+chase: 4.48
+ant: 5.79
+naughty: 3.94
+head: 6.66
+owl: 4.44
+block: 6.04
+draw: 5.16
+climb: 4.44
+morning: 3.68
+bowl: 6.87
+hose: 5.39
+nurse: 4.67
+uncle: 5.31
+toe: 6.72
+mad: 3.91
+green: 4.81
+noisy: 3.76
+scissors: 6.00
+ball: 6.95
+people: 6.21
+lion: 3.70
+blow: 3.79
+coat: 6.24
+high: 4.12
+soup: 6.49
+room: 6.08
+wake: 2.88
+splash: 5.26
+monkey: 3.53
+child: 5.96
+balloon: 6.35
+soft: 4.58
+wait: 3.57
+refrigerator: 6.27
+happy: 4.07
+breakfast: 6.87
+share: 4.26
+
+Please answer about all of the following words.
+
+sandwich
+tree
+brown
+cook
+turtle
+old
+hide
+arm
+coffee
+paint
+banana
+sick
+dance
+yellow
+dark
+movie
+broom
+wash
+pickle
+penny
+show
+pull
+potato
+cute
+apple
+jelly
+pizza
+sink
+cereal
+rip
+shoe
+couch
+tear
+help
+open
+night
+cheese
+sheep
+pretty
+tongue
+napkin
+pillow
+raisin
+catch
+snack
+skate
+break
+hard
+taste
+knock
+friend
+dryer
+present
+try
+go
+pool
+boat
+mommy
+buy
+look
+pour
+flower
+beach
+bottle
+spoon
+goose
+garbage
+salt
+wet
+good
+like
+sky
+fork
+yard
+build
+tired
+dog
+wish
+sit
+stone
+pen
+nose
+camera
+spaghetti
+pony
+sleep
+sprinkler
+bear
+hair
+turkey
+bee
+ice
+tooth
+door
+bib
+tray
+shirt
+heavy
+little
+first
+butter
+man
+dish
+shake
+sister
+tractor
+carry
+boy
+pig
+bucket
+zoo
+chin
+talk
+car
+cake
+say
+egg
+hat
+shower
+belt
+puzzle
+picnic
+cookie
+fine
+clown
+sleepy
+wipe
+black
+police
+see
+throw
+will
+circus
+run
+sofa
+give
+nice
+doll
+fix
+zipper
+tummy
+mop
+teacher
+fall
+park
+comb
+jump
+smile
+bed
+be
+button
+hamburger
+puppy
+new
+roof
+animal
+hungry
+bench
+alligator
+brush
+have
+empty
+cloud
+broken
+muffin
+moon
+hen
+purse
+porch
+stand
+big
+juice
+soap
+stay
+lick
+pretzel
+hot
+thirsty
+bring
+tissue
+mouse
+read
+giraffe
+close
+cut
+store
+glue
+love
+cow
+cry
+knee
+paper
+meat
+tiger
+pants
+cracker
+hurt
+lamb
+wind
+toast
+doctor
+rooster
+jar
+game
+soda
+plate
+train
+touch
+dinner
+sauce
+lady
+rain
+time
+poor
+make
+house
+trash
+quiet
+other
+pudding
+sweep
+hear
+swim
+vacuum
+scarf
+stop
+brother
+window
+sing
+aunt
+boots
+chalk
+bad
+put
+do
+table
+shovel
+bath
+baby
+church
+drawer
+gentle
+candy
+pencil
+elephant
+book
+hurry
+moose
+shoulder
+penguin
+write
+sneaker
+hold
+crayon
+street
+star
+diaper
+hand
+person
+nap
+white
+glass
+oven
+spill
+ladder
+cup
+walk
+red
+girl
+farm
+hammer
+tickle
+deer
+flag
+clock
+get
+toy
+potty
+think
+garden
+towel
+sweater
+truck
+pumpkin
+drive
+dump
+bread
+stroller
+jeans
+money
+drop
+donkey
+finish
+sun
+lamp
+push
+pick
+duck
+tuna
+picture
+lunch
+eat

@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-ae9c288a98b94109bb7f6857a1f51ad3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "get: 2\ngame: 2\nhave: 2\nfirst: 4\nsleep: 8\nfinish: 2\nbuy: 2\nsled: 1\nparty: 5\nhelp: 5\nwould: 2\nsoup: 2\ncat: 2\nwish: 3\nchocolate: 4\nrun: 3\nwindy: 1\nfood: 4\ndaddy: 8\nsad: 4\nshirt: 3\nglass: 2\nhurry: 2\nswim: 2\nblack: 2\nnose: 5\nstory: 4\nhot: 2\nrain: 2\npull: 3\nboots: 3\nhen: 2\nbox: 3\nzipper: 2\nknee: 5\ncover: 4\ntoy: 8\nkiss: 7\nwhite: 2\nshow: 4\nthirsty: 5\nblue: 2\nsink: 2\nblock: 3\npenguin: 2\nwalk: 4\ncarry: 5\npig: 2\nhungry: 5\npretzel: 2\ndoll: 8\nradio: 2\nglue: 2\ngoose: 2\ntruck: 2\nmeow: 2\nteacher: 4\nvacuum: 2\nstove: 2\nchild: 9\ncook: 2\nman: 2\npenny: 2\nstroller: 9\nmoose: 1\nwind: 2\ntry: 2\ncookie: 6\nnight: 3\napple: 2\ntoe: 5\nsee: 2\ndiaper: 9\nsky: 2\nkick: 5\ntissue: 5\neat: 5\ndump: 2\ndoor: 2\npudding: 6\nblanket: 7\nyard: 2\nfit: 3\ntired: 6\nbrush: 5\npotty: 8\nlamb: 2\nsnack: 6\nclap: 5\npuppy: 2\nshoulder: 4\npizza: 2\nsplash: 2\nmuffin: 5\nporch: 2\nhead: 5\nmeat: 2\ntable: 2\nhate: 2\nfind: 2\nsoap: 2\nchase: 3\nbread: 2\nmouse: 2\ncow: 2\nhold: 5\ngarage: 2\ncorn: 2\nroom: 2\npush: 4\nbelt: 2\njeans: 2\nthrow: 3\nlittle: 8\ngrass: 2\ncatch: 3\nmilk: 7\nquiet: 5\ngarbage: 2\ncircus: 2\ndinner: 4\nspoon: 5\npeople: 2\ndish: 2\nwet: 2\neye: 5\nlook: 2\nplate: 2\nsit: 2\nbroom: 2\nride: 2\near: 5\nwindow: 2\nbring: 4\nbump: 3\nhorse: 2\nwake: 6\nclimb: 3\ncoffee: 2\nzoo: 2\npicture: 2\npencil: 2\nput: 2\nhurt: 4\npretend: 6\nbaby: 10\nsneaker: 2\nwill: 2\nstay: 5\nsticky: 2\nlike: 2\nbear: 2\nknock: 2\ndeer: 2\nskate: 2\nmake: 2\nsweater: 2\ncouch: 2\ntuna: 2\nbrother: 7\npolice: 2\ncoke: 1\nshoe: 4\nbottle: 7\nhear: 2\nmouth: 5\nmovie: 2\ndance: 2\ngiraffe: 2\nbath: 6\ncrayon: 5\nstick: 3\nbreak: 2\nhand: 5\nopen: 2\nblow: 2\nfriend: 5\nlamp: 2\nflag: 2\nturkey: 2\ngarden: 2\nelephant: 2\nspill: 2\nplant: 2\nclown: 2\nwash: 2\nstar: 2\ntrash: 2\nnoisy: 2\ntoast: 2\nmonkey: 2\nbanana: 2\ngreen: 2\ntape: 2\nchin: 5\njelly: 2\ncar: 2\nsock: 4\nbutter: 2\nwolf: 2\nlick: 2\nbird: 2\nsmile: 5\ncracker: 2\naunt: 6\nlisten: 2\nroof: 2\nsoft: 2\nballoon: 2\nlove: 5\nsofa: 2\nclose: 2\ndryer: 2\ntake: 2\nduck: 2\nread: 2\npumpkin: 2\nhose: 2\nanimal: 2\npotato: 2\nrooster: 2\nraisin: 2\nstrawberry: 2\ndog: 2\nback: 2\nfarm: 2\nleg: 5\nbucket: 2\nstand: 2\nwipe: 2\nsing: 2\nbutton: 2\negg: 2\nhouse: 2\nlady: 2\ngirl: 7\ncold: 2\nbeach: 2\nsay: 2\nstore: 2\nmoney: 2\npony: 2\ncry: 6\nbus: 2\nsprinkler: 2\nfull: 2\npants: 2\npour: 2\npool: 2\npark: 2\njump: 2\nankle: 2\nsnow: 2\npaint: 2\nstreet: 2\ndo: 2\nscarf: 2\nempty: 2\npuzzle: 2",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989326,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1399,
+    "prompt_tokens": 2032,
+    "total_tokens": 3431,
+    "estimated_cost": 0.0010269600000000002
+  }
+}

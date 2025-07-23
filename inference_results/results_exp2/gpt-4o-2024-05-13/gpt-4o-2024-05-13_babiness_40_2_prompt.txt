@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+soup: 2.64
+truck: 3.18
+button: 3.80
+jeans: 1.08
+pony: 3.00
+bunny: 2.80
+dog: 3.10
+fine: 3.00
+radio: 1.80
+plant: 2.20
+bird: 2.38
+sit: 5.83
+broken: 2.00
+black: 2.50
+bite: 3.62
+penguin: 1.30
+sauce: 1.82
+say: 3.90
+sky: 2.42
+deer: 2.07
+book: 4.70
+room: 4.60
+stay: 3.20
+have: 3.75
+block: 4.47
+plate: 3.10
+face: 5.79
+bring: 3.10
+quiet: 3.30
+sad: 2.10
+cover: 3.08
+story: 7.00
+brother: 5.30
+jelly: 2.50
+tiny: 8.00
+sink: 3.17
+tree: 3.36
+yogurt: 3.50
+shake: 3.55
+dirty: 6.46
+sheep: 3.40
+nice: 5.88
+fall: 4.18
+farm: 1.73
+hard: 2.17
+cold: 2.50
+basement: 1.36
+home: 5.23
+stand: 2.50
+tickle: 6.84
+slow: 3.13
+full: 3.36
+rip: 2.18
+sleep: 7.73
+mouse: 1.82
+eat: 6.10
+present: 4.10
+chin: 4.92
+porch: 1.12
+meow: 1.82
+pen: 2.55
+bad: 3.42
+lollipop: 5.18
+push: 4.14
+wipe: 8.27
+people: 3.92
+boat: 1.36
+put: 1.30
+pretend: 3.80
+listen: 2.17
+bread: 2.10
+pour: 2.18
+hurry: 2.73
+dish: 3.55
+gentle: 7.27
+dump: 2.36
+star: 3.64
+circus: 4.45
+rain: 2.17
+car: 2.08
+basket: 5.00
+tiger: 2.00
+time: 4.30
+closet: 1.92
+run: 2.00
+cook: 2.08
+hold: 6.68
+moon: 2.67
+turtle: 2.08
+man: 3.00
+hammer: 4.90
+grass: 1.73
+show: 3.31
+towel: 5.40
+alligator: 1.31
+hose: 2.31
+bottle: 9.60
+wolf: 1.18
+person: 6.00
+rock: 3.37
+tray: 2.30
+police: 1.90
+hen: 2.08
+fork: 1.71
+ice: 2.25
+sandwich: 2.70
+lamb: 5.00
+dryer: 2.35
+knock: 1.92
+chalk: 2.36
+corn: 1.82
+day: 3.33
+baby: 10.00
+ladder: 1.70
+lamp: 2.38
+stone: 1.15
+carry: 5.91
+paint: 3.08
+bowl: 4.40
+chair: 4.53
+fit: 1.67
+hide: 4.75
+morning: 3.58
+turkey: 2.64
+help: 5.83
+giraffe: 4.50
+bump: 7.36
+lunch: 4.70
+be: 2.24
+pudding: 5.60
+sneaker: 2.20
+old: 1.45
+ride: 2.70
+sock: 4.60
+cheek: 5.84
+window: 3.00
+noisy: 8.36
+hit: 2.86
+sick: 5.60
+diaper: 6.92
+sprinkler: 2.73
+trash: 1.73
+spoon: 6.90
+hungry: 6.17
+clock: 3.30
+gum: 3.71
+potato: 2.83
+bath: 7.67
+zipper: 2.70
+break: 4.70
+cow: 2.20
+teacher: 2.90
+milk: 9.12
+find: 2.91
+kick: 5.93
+dark: 1.36
+cookie: 4.73
+napkin: 3.36
+dress: 2.90
+tired: 4.25
+park: 5.14
+donkey: 1.00
+dinner: 4.18
+crib: 9.32
+strawberry: 2.83
+sled: 1.55
+bed: 4.20
+squirrel: 1.50
+try: 3.80
+
+Please answer about all of the following words.
+
+puzzle
+red
+country
+lion
+fix
+sister
+look
+cake
+mop
+owl
+bee
+stick
+snow
+camera
+salt
+finish
+vacuum
+tissue
+ankle
+hot
+uncle
+high
+coke
+happy
+toe
+swim
+pool
+climb
+wet
+soap
+pants
+couch
+bat
+scarf
+windy
+think
+tractor
+glue
+raisin
+movie
+eye
+flower
+empty
+cute
+brown
+balloon
+cry
+yard
+pig
+pencil
+mommy
+bus
+play
+share
+comb
+crayon
+tongue
+close
+roof
+doctor
+hand
+snack
+jacket
+cloud
+wait
+food
+duck
+moose
+potty
+cat
+broom
+bear
+awake
+child
+door
+flag
+bench
+draw
+box
+church
+go
+daddy
+brush
+touch
+horse
+shower
+do
+hamburger
+medicine
+thirsty
+other
+picnic
+muffin
+cracker
+heavy
+get
+throw
+toast
+hurt
+girl
+knee
+little
+sleepy
+white
+kitchen
+lady
+asleep
+big
+ant
+monkey
+write
+sing
+good
+goose
+chase
+first
+read
+like
+friend
+hear
+pillow
+green
+jar
+blue
+nurse
+train
+nap
+oven
+jump
+new
+house
+head
+wish
+wash
+scissors
+give
+splash
+dance
+nose
+street
+night
+love
+soft
+clown
+candy
+bucket
+coat
+animal
+game
+money
+build
+naughty
+sweep
+spill
+hug
+party
+zebra
+belt
+feed
+blow
+aunt
+sofa
+soda
+rooster
+taste
+kiss
+walk
+tummy
+store
+glass
+table
+boots
+mouth
+would
+shoe
+garden
+spaghetti
+stroller
+tooth
+sweater
+wind
+bib
+butter
+coffee
+beach
+hair
+see
+doll
+apple
+back
+garbage
+shoulder
+lick
+tape
+picture
+hate
+ear
+garage
+boy
+school
+skate
+will
+drop
+sun
+cut
+chocolate
+pickle
+stop
+pretty
+shovel
+pizza
+smile
+pumpkin
+leg
+make
+poor
+refrigerator
+talk
+sticky
+pull
+juice
+pick
+blanket
+slipper
+shirt
+mad
+tuna
+banana
+cheese
+paper
+pretzel
+purse
+clap
+bug
+nail
+open
+buy
+cereal
+drawer
+stove
+zoo
+wake
+toy
+hat
+meat
+tear
+yellow
+cup
+drive
+breakfast
+elephant
+penny
+finger
+take
+egg
+ball
+arm
+puppy
+catch

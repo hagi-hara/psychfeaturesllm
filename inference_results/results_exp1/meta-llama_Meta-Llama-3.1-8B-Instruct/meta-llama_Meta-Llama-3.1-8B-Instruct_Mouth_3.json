@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-a8e0d349e9cc4251aefbd672afd09d0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "talk: 5\ndrink (beverage): 5\nwater (not beverage): 5\nsplash: 5\nsoda: 5\ncoffee: 5\npickle: 5\nsauce: 5\nsoup: 5\njuice: 5\nyogurt: 5\nhamburger: 5\nfish (food): 5\nmeat: 5\npizza: 5\nchocolate: 5\nice cream: 5\nmilk: 5\ncheese: 5\napplesauce: 5\ncereal: 5\npudding: 5\ndonut: 5\ncracker: 5\ncookie: 5\ncake: 5\npopcorn: 5\npretzel: 5\nlollipop: 5\ncandy: 5\ngum: 5\nsugar: 5\nice: 5\nbubble: 5\ncup: 5\nglass: 5\nbowl: 5\ntray: 5\nspoon: 5\nfork: 5\nknife: 5\npen: 5\nbrush: 5\ntoothbrush: 5\ncomb: 5\npencil: 5\ncrayon: 5\nchalk: 5\nhammer: 5\nscrewdriver: 5\nglue: 5\ntape: 5\npaint: 5\nspill: 5\ndrop: 5\nsplash: 5\ndrink (action): 5\neat: 5\nchew: 5\nbite: 5\nlick: 5\ntaste: 5\nsmell: 5\nsavor: 5\ngulp: 5\nswallow: 5\nbelch: 5\nburp: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562150,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 392,
+    "prompt_tokens": 1950,
+    "total_tokens": 2342,
+    "estimated_cost": 0.00014052
+  }
+}

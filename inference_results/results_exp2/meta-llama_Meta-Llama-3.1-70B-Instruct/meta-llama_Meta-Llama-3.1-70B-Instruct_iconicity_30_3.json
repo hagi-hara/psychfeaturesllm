@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-5a8b99d242284a8dabc09b4e00f8ba45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "chin: 3.2\nbanana: 4.5\nlamb: 4.2\nflag: 3.5\nstove: 4.0\nspaghetti: 4.3\nswim: 5.1\ngive: 3.8\nclimb: 4.5\nbowl: 3.9\ndo: 2.8\npuppy: 4.8\nthink: 3.4\nbe: 2.5\nwrite: 4.1\nsneaker: 3.6\nbib: 3.9\nplate: 3.5\nstar: 4.2\ndoll: 4.0\nopen: 4.3\ntray: 3.7\npillow: 4.1\nroom: 3.4\nowl: 4.5\nmoney: 3.1\ntractor: 4.2\nasleep: 4.8\nboots: 4.0\ncracker: 4.2\nbrush: 4.1\ncry: 5.2\narm: 3.6\nbreakfast: 4.0\nwish: 3.9\ncat: 4.3\neat: 4.2\ncloset: 3.8\negg: 4.1\nbottle: 4.0\nhurry: 5.0\nsock: 3.9\nscarf: 4.0\nbelt: 3.8\nbox: 3.5\nbroken: 4.3\nshow: 4.1\nwet: 4.5\nrock: 4.2\nstone: 4.1\nsleep: 4.8\njacket: 4.0\nhide: 4.3\nhard: 4.1\nfull: 4.0\noven: 4.2\ncheek: 4.1\nraisin: 4.3\ndog: 4.5\ngreen: 4.2\nride: 4.5\nspoon: 4.1\nzipper: 4.3\ngrass: 4.2\nshirt: 4.0\ncarry: 4.3\napple: 4.5\nbear: 4.3\nsweater: 4.1\nsoft: 4.2\nbath: 4.3\nyogurt: 4.1\ncover: 4.0\njelly: 4.2\nbus: 4.0\nchocolate: 4.3\npaper: 3.9\nsled: 4.5\nsad: 4.2\nbeach: 4.3\nbed: 4.1\ngood: 4.0\nred: 4.2\nfriend: 4.3\nyard: 4.0\nsay: 4.1\nbutter: 4.2\ncountry: 4.1\npush: 4.5\ncatch: 4.8\npig: 4.3\nfork: 4.2\nlick: 5.1\nkiss: 5.0\ndaddy: 4.5\nplay: 4.3\ngarbage: 4.1\nfeed: 4.2\ntape: 4.0\npumpkin: 4.3\nrain: 4.5\nshoe: 4.2\ngirl: 4.3\nblock: 4.1\nmedicine: 4.0\nnew: 3.9\ncereal: 4.1\npaint: 4.2\ncircus: 4.3\nsing: 4.5\ntummy: 4.4\npretty: 4.3\nschool: 4.1\ncorn: 4.2\nshoulder: 4.0\npour: 4.5\ngentle: 4.3\ntiny: 4.2\nnight: 4.1\nbunny: 4.5\nshake: 5.1\npurse: 4.0\nhate: 4.2\nsoap: 4.1\ntable: 4.0\npen: 4.2\nhead: 4.1\npants: 4.0\nheavy: 4.3\ndump: 4.2\nquiet: 4.1\nhammer: 4.5\nmoose: 4.3\nfinger: 4.2\nwind: 4.5\nthrow: 5.0\nsink: 4.3\ncake: 4.2\ntoast: 4.1\nmoon: 4.3\nmouse: 4.5\nhouse: 4.2\nsheep: 4.3\nsick: 4.2\ntaste: 4.5\nstand: 4.3\nlollipop: 4.4\neye: 4.2\nradio: 4.1\nhair: 4.0\nroof: 4.2\ndrop: 5.0\nchild: 4.3\nrip: 5.0\nface: 4.2\nday: 4.1\nnail: 4.0\ncloud: 4.3\ntake: 4.2\nchase: 5.0\nclap: 5.0\nlady: 4.3\nmake: 4.2\nscissors: 4.5\nsplash: 5.2\nsnack: 4.3\njeans: 4.1\nfix: 4.2\nbrown: 4.0\ncook: 4.3\nlove: 4.5\nankle: 4.2\npoor: 4.1\ntoe: 4.0\nchair: 4.2\ntry: 4.1\nthirsty: 4.5\npotty: 4.3\nblanket: 4.2\nfit: 4.1\ngo: 4.0\nnoisy: 4.5\nempty: 4.3\nhigh: 4.2\nhen: 4.3\ncup: 4.1\nmilk: 4.2\nball: 4.3\nfinish: 4.5\nsoup: 4.4\nmouth: 4.2\ngame: 4.3\nlittle: 4.2\nuncle: 4.1\nkitchen: 4.2\nboat: 4.3\nstrawberry: 4.5\ntired: 4.4\nsmile: 4.5\nbreak: 5.0\ntiger: 4.5\nawake: 4.4\nstay: 4.3\nboy: 4.2\npencil: 4.1\nbuild: 4.3\ndoctor: 4.2\nparty: 4.4\npicture: 4.3\nwindow: 4.2\nturkey: 4.4\nhold: 4.3\ncoffee: 4.2\nbutton: 4.1\nslipper: 4.3\nfind: 4.2\njar: 4.1\nyellow: 4.3\nget: 4.1\nmonkey: 4.5\npretzel: 4.4\nhear: 4.3\nlunch: 4.2\nstop: 4.5\nhorse: 4.4\nshare: 4.3\nwait: 4.2\nbat: 4.3\nbread: 4.2\nbroom: 4.3\npudding: 4.4\nbad: 4.2\nwolf: 4.4\nleg: 4.2\npick: 4.5\nman: 4.3\nmorning: 4.2\nsalt: 4.1\nother: 4.0\nbaby: 4.4\nput: 4.2\nknee: 4.1\npresent: 4.3\nshovel: 4.4\nant: 4.2\nskate: 4.5\nsit: 4.3\nmeat: 4.2\nbig: 4.1\nnap: 4.4\nhamburger: 4.5\nstick: 4.5\ncold: 4.3\nsofa: 4.2\nlook: 4.3\ntongue: 4.4\nmommy: 4.5\nstreet: 4.3\nhug: 4.5\nbasket: 4.2\nrun: 5.0\nnapkin: 4.3\nalligator: 4.5\nlamp: 4.2\nhungry: 4.4\nbrother: 4.3\ntear: 4.5\nfirst: 4.2\nperson: 4.3\nfarm: 4.2\nbring: 4.4\nmeow: 5.0\npizza: 4.4\nballoon: 4.5\nfall: 4.5\nice: 4.4\nturtle: 4.4\nclown: 4.5\nglue: 4.3\nzoo: 4.4\ngiraffe: 4.5\nwill: 4.2\nclock: 4.3\ntooth: 4.2\nglass: 4.1\ndiaper: 4.3\ntrash: 4.2\nwalk: 4.5\nhose: 4.3\ntruck: 4.4\nnose: 4.2\ngarden: 4.3\npenny: 4.1\nrefrigerator: 4.2\nstore: 4.1\ndraw: 4.3\nflower: 4.4\nhot: 4.5\ntouch: 4.4\nvacuum: 4.3\nsweep: 4.5\npool: 4.4",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989598,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2231,
+    "prompt_tokens": 2127,
+    "total_tokens": 4358,
+    "estimated_cost": 0.0013816100000000001
+  }
+}

@@ -1,0 +1,695 @@
+ open: 4
+swim: 4
+fall: 4
+hair: 0
+them: 0
+sidewalk: 0
+basement: 0
+shh: 0
+try to: 4
+woods: 0
+swing (action): 4
+grrr: 0
+milk: 4
+oven: 0
+mouse: 0
+new: 0
+hers: 0
+balloon: 3
+camping: 0
+run: 4
+going to: 0
+tray: 4
+pea: 4
+strawberry: 4
+more: 0
+nice: 0
+frog: 0
+wet: 4
+thank you: 4
+potty: 0
+hammer: 4
+buy: 4
+tractor: 0
+mommy: 0
+bean: 0
+with: 0
+snowman: 0
+not: 0
+motorcycle: 0
+firetruck: 0
+snack: 0
+bread: 4
+moose: 0
+duck: 0
+I: 0
+broken: 0
+banana: 4
+cook: 4
+woof woof: 0
+sneaker: 0
+hat: 4
+party: 0
+where: 0
+pony: 0
+doll: 0
+hand: 4
+stove: 0
+person: 0
+blanket: 0
+stop: 0
+airplane: 0
+truck: 0
+climb: 4
+after: 0
+watch (object): 4
+man: 0
+let me: 0
+vacuum: 0
+who: 0
+myself: 4
+button: 4
+chicken (food): 4
+orange (food): 4
+yellow: 0
+ice: 4
+black: 0
+sheep: 0
+ear: 0
+wait: 0
+shoe: 4
+dance: 4
+she: 0
+what: 0
+this little piggy: 0
+hug: 4
+high: 0
+splash: 4
+water (not beverage): 4
+does: 0
+donut: 4
+catch: 4
+foot: 4
+cheerio: 4
+bee: 0
+towel: 4
+outside: 0
+yard: 0
+goose: 0
+tear: 0
+candy: 4
+were: 0
+bat: 0
+think: 0
+meow: 0
+cockadoodledoo: 0
+dish: 4
+garden: 0
+brown: 0
+work (place): 0
+pattycake: 0
+pants: 4
+finger: 4
+kiss: 4
+apple: 4
+lion: 0
+stuck: 0
+skate: 0
+boo boo: 0
+block: 4
+grape: 4
+did ya: 0
+store: 0
+her: 0
+underpants: 0
+mad: 0
+zebra: 0
+slide (object): 0
+so: 0
+is: 0
+slide (action): 4
+their: 0
+grandpa: 0
+shorts: 4
+dry (action): 0
+sleep: 0
+couch: 0
+need to: 0
+trash: 0
+soda: 4
+like: 0
+applesauce: 4
+cat: 0
+which: 0
+living room: 0
+asleep: 0
+sock: 4
+telephone: 4
+drink (beverage): 4
+next to: 0
+hush: 0
+tiger: 0
+jacket: 4
+soup: 4
+was: 0
+lamb: 0
+raisin: 4
+bird: 0
+zoo: 0
+him: 0
+loud: 0
+closet: 0
+hot: 4
+turkey: 4
+cheese: 4
+fish (food): 4
+about: 0
+comb: 4
+do: 0
+yucky: 0
+drawer: 0
+babysitter's name: N
+monkey: 0
+light: 4
+turn around: 0
+mouth: 4
+melon: 4
+got to: 0
+taste: 4
+that: 0
+clean (description): 0
+here: 0
+behind: 0
+table: 4
+flag: 0
+he: 0
+stone: 0
+old: 0
+walk: 4
+fast: 0
+ouch: 0
+animal: 0
+sandwich: 4
+clean (action): 0
+later: 0
+garage: 0
+arm: 4
+thirsty: 4
+room: 0
+pen: 4
+spill: 0
+slipper: 0
+back: 0
+finish: 0
+drive: 0
+ride: 0
+over: 0
+some: 0
+pretzel: 4
+fix: 0
+sled: 0
+scared: 0
+park: 0
+belly button: 0
+gas station: 0
+the: 0
+spaghetti: 4
+those: 0
+pickle: 4
+walker: 0
+bench: 0
+girl: 0
+of: 0
+knife: 4
+tape: 0
+pudding: 4
+bubble: 0
+jeans: 4
+wind: 0
+peekaboo: 0
+tissue: 0
+slow: 0
+glasses: 4
+bead: 0
+gentle: 0
+cold: 4
+owl: 0
+eat: 4
+throw: 4
+build: 0
+meat: 4
+hello: 0
+rocking chair: 0
+boat: 0
+breakfast: 0
+sleepy: 0
+try: 0
+camera: 0
+basket: 0
+donkey: 0
+gum: 4
+tuna: 4
+tree: 0
+downtown: 0
+down: 0
+heavy: 4
+tonight: 0
+coat: 4
+broom: 0
+cracker: 4
+washing machine: 0
+lunch: 0
+teacher: 0
+pencil: 4
+cake: 0
+porch: 0
+elephant: 0
+mine: 0
+other: 0
+bug: 0
+feed: 0
+cover: 0
+green: 0
+hose: 0
+horse: 0
+then: 0
+carrot: 4
+bottle: 4
+french fries: 4
+bear: 0
+get: 0
+in: 0
+pour: 0
+cow: 0
+push: 4
+circus: 0
+mitten: 4
+all gone: 0
+door: 0
+red: 0
+by: 0
+jump: 4
+this: 0
+shower: 0
+noodle: 4
+hear: 4
+nail: 4
+watch (action): 4
+hold: 4
+quiet: 0
+stick: 4
+people: 0
+lady: 0
+money: 4
+deer: 0
+shovel: 0
+stairs: 0
+present: 0
+awake: 0
+make: 0
+and: 0
+any: 0
+call: 0
+cute: 0
+giraffe: 0
+bucket: 0
+aunt: 0
+pull: 4
+brother: 0
+movie: 0
+face: 0
+coffee: 4
+penguin: 0
+knock: 0
+head: 4
+child: 0
+crib: 0
+clock: 4
+lick: 4
+child's own name: N
+jelly: 4
+his: 0
+wipe: 4
+ball: 4
+poor: 0
+hi: 0
+shirt: 4
+toast: 4
+mop: 0
+dirty: 0
+farm: 0
+gotta: 0
+away: 0
+clap: 4
+tights: 4
+chocolate: 4
+give me five: 0
+nut: 4
+long: 0
+look: 0
+these: 0
+cookie: 4
+ladder: 0
+find: 0
+beach: 0
+radio: 0
+now: 0
+juice: 4
+crayon: 0
+wolf: 0
+jar: 4
+pretend: 0
+cry: 0
+food: 0
+sprinkler: 0
+quack quack: 0
+dog: 4
+kick: 4
+give: 4
+street: 0
+me: 0
+sky: 0
+hide: 0
+lawn mower: 0
+listen: 4
+tooth: 4
+our: 0
+butterfly: 0
+why: 0
+gonna: 0
+vroom: 0
+toy: 0
+put: 0
+need: 0
+helicopter: 0
+pick: 4
+stand: 4
+chin: 0
+dress: 4
+break: 4
+dark: 0
+brush: 4
+windy: 0
+under: 0
+mailman: 0
+same: 0
+fireman: 0
+your: 0
+sticky: 4
+cereal: 4
+plate: 4
+green beans: 4
+ant: 0
+pillow: 4
+drop: 4
+dump: 0
+hungry: 4
+before: 0
+show: 0
+into: 0
+morning: 0
+school: 0
+sister: 0
+glove: 4
+please: 0
+yum yum: 0
+us: 0
+sofa: 0
+spoon: 4
+bedroom: 0
+touch: 4
+backyard: 0
+it: 0
+an: 0
+cloud: 0
+lamp: 0
+on: 0
+hard: 4
+rain: 0
+dinner: 0
+empty: 0
+stay: 0
+on top of: 0
+all: 0
+bite: 4
+scarf: 4
+bib: 0
+write: 4
+sandbox: 0
+dry (description): 0
+be: 0
+wake: 0
+playground: 0
+bowl: 4
+could: 0
+lemme: 0
+bye: 0
+blow: 0
+today: 0
+belt: 4
+nap: 0
+sweater: 4
+chase: 0
+vitamins: 0
+vanilla: 0
+game: 0
+yourself: 0
+pumpkin: 0
+above: 0
+inside: 0
+kitty: 0
+butter: 4
+at: 0
+can (auxiliary): 0
+sun: 0
+peanut butter: 4
+knee: 0
+full: 4
+leg: 4
+corn: 4
+hafta: 0
+tiny: 0
+would: 0
+lip: 0
+doctor: 0
+up: 0
+noisy: 0
+my: 0
+help: 0
+too: 0
+pizza: 4
+jello: 4
+pet's name: N
+moon: 0
+popcorn: 4
+because: 0
+pretty: 0
+you: 0
+night night: 0
+carry: 4
+last: 0
+moo: 0
+play pen: 0
+happy: 0
+refrigerator: 0
+star: 0
+bottom: 0
+hamburger: 4
+bad: 0
+chalk: 0
+puzzle: 0
+talk: 0
+love: 0
+sad: 0
+shopping: 0
+when: 0
+house: 0
+tummy: 0
+tongue: 0
+book: 4
+uh oh: 0
+cup: 4
+puppy: 0
+see: 0
+bathtub: 0
+paper: 4
+dryer: 0
+kleenex: 0
+play: 0
+draw: 0
+tired: 0
+glue: 0
+car: 0
+fit: 0
+owie: 0
+ankle: 0
+swing (object): 0
+snowsuit: 0
+beside: 0
+necklace: 0
+nose: 0
+play dough: 0
+want to: 0
+boots: 0
+story: 0
+water (beverage): 4
+yogurt: 4
+bump: 0
+have to: 0
+fine: 0
+did: 0
+gonna get you: 0
+naughty: 0
+pool: 0
+ice cream: 4
+big: 0
+but: 0
+clown: 0
+fish (animal): 0
+hate: 0
+first: 0
+salt: 0
+around: 0
+sink: 0
+tricycle: 0
+sweep: 0
+picnic: 0
+bath: 0
+grass: 0
+soap: 0
+white: 0
+bed: 0
+sit: 0
+rock: 0
+bunny: 0
+day: 0
+lollipop: 4
+orange (description): 0
+potato chip: 4
+pig: 0
+will: 0
+soft: 0
+don't: 0
+for: 0
+glass: 0
+share: 0
+window: 0
+hen: 0
+baa baa: 0
+popsicle: 4
+rip: 0
+friend: 0
+every: 0
+if: 0
+garbage: 0
+church: 0
+careful: 0
+eye: 0
+they: 0
+plant: 0
+chair: 0
+how: 0
+squirrel: 0
+shoulder: 0
+coke: 4
+train: 0
+chicken (animal): 0
+wanna: 0
+read: 0
+blue: 0
+home: 0
+boy: 0
+toothbrush: 0
+say: 0
+shake: 0
+diaper: 0
+uncle: 0
+we: 0
+stroller: 0
+drink (action): 0
+penis: N
+good: 0
+none: 0
+a: 0
+fork: 4
+vagina: N
+each: 0
+wash: 0
+roof: 0
+pajamas: 0
+nurse: 0
+time: 0
+cowboy: 0
+are: 0
+close: 0
+key: 4
+rooster: 0
+wish: 0
+penny: 0
+yes: 0
+off: 0
+scissors: 4
+paint: 0
+toe: 0
+police: 0
+egg: 4
+can (object): 0
+TV: 0
+choo choo: 0
+country: 0
+better: 0
+much: 0
+sick: 0
+bring: 0
+little: 0
+bathroom: 0
+no: 0
+sauce: 0
+hit: 0
+another: 0
+buttocks: 0
+turtle: 0
+daddy: 0
+purse: 0
+shush: 0
+go: 0
+tomorrow: 0
+zipper: 0
+tickle: 0
+pop: 0
+bus: 0
+hurry: 0
+am: 0
+grandma: 0
+teddybear: 0
+snow: 0
+potato: 4
+there: 0
+take: 0
+kitchen: 0
+so big: 0
+pancake: 4
+box: 4
+high chair: 0
+alligator: 0
+to: 0
+medicine: 0
+smile: 0
+sing: 0
+cheek: 0
+napkin: 0
+cut: 0
+baby: 0
+out: 0
+picture: 0
+flower: 0
+night: 0
+have: 0
+hurt: 0
+yesterday: 0
+muffin: 4
+bicycle: 0
+work (action): 0
+a lot: 0
+babysitter: 0
+go potty: 0

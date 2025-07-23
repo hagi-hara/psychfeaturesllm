@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses (sensations inside your body, tasting, smelling, feeling through touch, hearing and seeing). There are no right or wrong answers so please use your own judgement. 
+
+First, please answer with regard to sensations inside your body.
+
+The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+kitchen: 0.33
+box: 0.05
+strawberry: 1.21
+stove: 0.18
+hug: 2.75
+blanket: 0.68
+bat: 0.16
+clap: 0.62
+radio: 0.28
+squirrel: 0.06
+take: 0.37
+leg: 1.29
+ear: 1.44
+daddy: 1.28
+fit: 2.17
+food: 1.37
+dirty: 0.60
+horse: 0.18
+cold: 3.53
+hate: 3.58
+bump: 1.85
+day: 1.16
+chocolate: 1.11
+home: 1.73
+blue: 0.50
+grass: 0.44
+country: 0.35
+face: 0.45
+windy: 1.29
+rock: 0.95
+slow: 1.90
+ankle: 1.48
+nail: 0.21
+corn: 1.26
+garage: 0.50
+play: 2.81
+tiny: 0.68
+closet: 0.10
+chair: 0.00
+medicine: 2.95
+zebra: 0.06
+jacket: 0.94
+tape: 0.16
+finger: 0.79
+mouth: 1.26
+bus: 0.21
+gum: 0.82
+basket: 0.00
+sock: 0.28
+listen: 0.50
+cover: 0.30
+ride: 1.40
+sad: 3.35
+kick: 1.84
+feed: 1.24
+milk: 1.06
+sled: 0.62
+party: 1.47
+find: 0.17
+school: 0.78
+coke: 1.24
+lollipop: 0.44
+slipper: 0.38
+yogurt: 0.74
+bite: 2.00
+bug: 0.33
+basement: 0.45
+would: 0.82
+snow: 0.86
+wolf: 0.39
+hit: 2.15
+pretend: 1.85
+full: 4.21
+kiss: 2.39
+story: 0.50
+eye: 1.06
+stick: 0.06
+bird: 0.16
+dress: 0.53
+awake: 3.79
+plant: 0.66
+cheek: 1.11
+bunny: 0.30
+asleep: 3.16
+meow: 0.50
+crib: 0.29
+cat: 0.11
+back: 1.34
+sticky: 0.19
+chase: 0.47
+ant: 0.13
+naughty: 2.24
+head: 0.84
+owl: 0.06
+block: 0.57
+draw: 0.50
+climb: 1.58
+morning: 1.71
+bowl: 0.00
+hose: 0.00
+nurse: 0.57
+uncle: 0.45
+toe: 1.16
+mad: 3.00
+green: 0.16
+noisy: 0.92
+scissors: 0.14
+ball: 0.12
+people: 1.72
+lion: 0.94
+blow: 2.06
+coat: 0.53
+high: 2.44
+soup: 0.68
+room: 0.30
+wake: 3.94
+splash: 0.80
+monkey: 0.05
+child: 0.87
+balloon: 0.22
+soft: 0.84
+wait: 1.74
+refrigerator: 0.56
+happy: 4.50
+breakfast: 1.38
+share: 1.26
+
+Please answer about all of the following words.
+
+sandwich
+tree
+brown
+cook
+turtle
+old
+hide
+arm
+coffee
+paint
+banana
+sick
+dance
+yellow
+dark
+movie
+broom
+wash
+pickle
+penny
+show
+pull
+potato
+cute
+apple
+jelly
+pizza
+sink
+cereal
+rip
+shoe
+couch
+tear
+help
+open
+night
+cheese
+sheep
+pretty
+tongue
+napkin
+pillow
+raisin
+catch
+snack
+skate
+break
+hard
+taste
+knock
+friend
+dryer
+present
+try
+go
+pool
+boat
+mommy
+buy
+look
+pour
+flower
+beach
+bottle
+spoon
+goose
+garbage
+salt
+wet
+good
+like
+sky
+fork
+yard
+build
+tired
+dog
+wish
+sit
+stone
+pen
+nose
+camera
+spaghetti
+pony
+sleep
+sprinkler
+bear
+hair
+turkey
+bee
+ice
+tooth
+door
+bib
+tray
+shirt
+heavy
+little
+first
+butter
+man
+dish
+shake
+sister
+tractor
+carry
+boy
+pig
+bucket
+zoo
+chin
+talk
+car
+cake
+say
+egg
+hat
+shower
+belt
+puzzle
+picnic
+cookie
+fine
+clown
+sleepy
+wipe
+black
+police
+see
+throw
+will
+circus
+run
+sofa
+give
+nice
+doll
+fix
+zipper
+tummy
+mop
+teacher
+fall
+park
+comb
+jump
+smile
+bed
+be
+button
+hamburger
+puppy
+new
+roof
+animal
+hungry
+bench
+alligator
+brush
+have
+empty
+cloud
+broken
+muffin
+moon
+hen
+purse
+porch
+stand
+big
+juice
+soap
+stay
+lick
+pretzel
+hot
+thirsty
+bring
+tissue
+mouse
+read
+giraffe
+close
+cut
+store
+glue
+love
+cow
+cry
+knee
+paper
+meat
+tiger
+pants
+cracker
+hurt
+lamb
+wind
+toast
+doctor
+rooster
+jar
+game
+soda
+plate
+train
+touch
+dinner
+sauce
+lady
+rain
+time
+poor
+make
+house
+trash
+quiet
+other
+pudding
+sweep
+hear
+swim
+vacuum
+scarf
+stop
+brother
+window
+sing
+aunt
+boots
+chalk
+bad
+put
+do
+table
+shovel
+bath
+baby
+church
+drawer
+gentle
+candy
+pencil
+elephant
+book
+hurry
+moose
+shoulder
+penguin
+write
+sneaker
+hold
+crayon
+street
+star
+diaper
+hand
+person
+nap
+white
+glass
+oven
+spill
+ladder
+cup
+walk
+red
+girl
+farm
+hammer
+tickle
+deer
+flag
+clock
+get
+toy
+potty
+think
+garden
+towel
+sweater
+truck
+pumpkin
+drive
+dump
+bread
+stroller
+jeans
+money
+drop
+donkey
+finish
+sun
+lamp
+push
+pick
+duck
+tuna
+picture
+lunch
+eat

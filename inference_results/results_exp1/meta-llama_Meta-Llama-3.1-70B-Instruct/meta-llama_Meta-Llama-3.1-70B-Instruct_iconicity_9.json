@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-1bfedce012834e53b03ad9a85e0a69c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings:\n\n1. open: 2\n2. swim: 5\n3. fall: 6\n4. hair: 1\n5. them: 1\n6. sidewalk: 1\n7. basement: 1\n8. shh: 7\n9. try to: 1\n10. woods: 2\n11. swing (action): 6\n12. grrr: 7\n13. milk: 2\n14. oven: 1\n15. mouse: 3\n16. new: 1\n17. hers: 1\n18. balloon: 4\n19. camping: 2\n20. run: 6\n21. going to: 1\n22. tray: 1\n23. pea: 2\n24. strawberry: 3\n25. more: 1\n26. nice: 1\n27. frog: 3\n28. wet: 5\n29. thank you: 1\n30. potty: 2\n31. hammer: 4\n32. buy: 1\n33. tractor: 3\n34. mommy: 1\n35. bean: 2\n36. with: 1\n37. snowman: 4\n38. not: 1\n39. motorcycle: 3\n40. firetruck: 4\n41. snack: 2\n42. bread: 2\n43. moose: 3\n44. duck: 3\n45. I: 1\n46. broken: 2\n47. banana: 3\n48. cook: 4\n49. woof woof: 7\n50. sneaker: 2\n51. hat: 1\n52. party: 2\n53. where: 1\n54. pony: 3\n55. doll: 2\n56. hand: 1\n57. stove: 2\n58. person: 1\n59. blanket: 2\n60. stop: 6\n61. airplane: 4\n62. truck: 3\n63. climb: 5\n64. after: 1\n65. watch (object): 1\n66. man: 1\n67. let me: 1\n68. vacuum: 3\n69. who: 1\n70. myself: 1\n71. button: 2\n72. chicken (food): 3\n73. orange (food): 3\n74. yellow: 1\n75. ice: 5\n76. black: 1\n77. sheep: 3\n78. ear: 2\n79. wait: 2\n80. shoe: 2\n81. dance: 4\n82. she: 1\n83. what: 1\n84. this little piggy: 5\n85. hug: 5\n86. high: 4\n87. splash: 7\n88. water (not beverage): 4\n89. does: 1\n90. donut: 3\n91. catch: 5\n92. foot: 2\n93. cheerio: 4\n94. bee: 3\n95. towel: 2\n96. outside: 1\n97. yard: 1\n98. goose: 3\n99. tear: 5\n100. candy: 3\n\nPlease let me know when to proceed with the next set of words.",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564898,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 750,
+    "prompt_tokens": 2220,
+    "total_tokens": 2970,
+    "estimated_cost": 0.0017168999999999997
+  }
+}

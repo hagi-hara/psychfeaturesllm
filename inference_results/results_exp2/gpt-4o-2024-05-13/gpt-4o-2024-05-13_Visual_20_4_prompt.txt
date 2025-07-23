@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses (sensations inside your body, tasting, smelling, feeling through touch, hearing and seeing). There are no right or wrong answers so please use your own judgement. 
+
+First, please answer with regard to seeing.
+
+The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+hungry: 1.17
+give: 3.56
+yogurt: 3.58
+tissue: 4.05
+put: 3.18
+store: 3.94
+rip: 2.18
+purse: 4.61
+smile: 4.70
+owl: 4.65
+coat: 3.86
+bring: 2.90
+drive: 4.11
+banana: 3.89
+find: 3.44
+bowl: 4.53
+mouse: 4.08
+baby: 4.38
+chocolate: 3.39
+tongue: 3.36
+dark: 4.68
+tummy: 3.11
+train: 4.42
+story: 2.21
+puppy: 4.55
+pig: 3.75
+raisin: 3.52
+nose: 4.24
+rock: 4.10
+doll: 4.12
+think: 1.00
+street: 4.12
+ear: 3.83
+make: 3.39
+person: 4.45
+puzzle: 4.53
+fit: 4.33
+shoulder: 4.05
+shower: 3.62
+muffin: 3.83
+mop: 3.68
+pillow: 4.71
+candy: 3.88
+read: 4.50
+basket: 4.62
+splash: 3.05
+picture: 4.63
+beach: 4.44
+sprinkler: 4.53
+sink: 4.11
+penny: 4.47
+hand: 4.25
+big: 3.89
+girl: 4.50
+tiger: 4.47
+box: 4.37
+lunch: 4.00
+do: 1.70
+giraffe: 4.22
+close: 3.84
+finish: 3.06
+noisy: 1.01
+black: 4.47
+hear: 0.06
+sweater: 3.89
+walk: 3.12
+cat: 4.79
+moose: 4.06
+bath: 4.16
+couch: 4.11
+wind: 1.06
+cute: 4.17
+tape: 3.79
+cook: 4.25
+wish: 0.96
+pretty: 5.00
+draw: 4.06
+zebra: 4.00
+mommy: 3.90
+stay: 3.35
+cow: 3.95
+sleep: 2.10
+build: 3.53
+farm: 4.00
+
+Please answer about all of the following words.
+
+ice
+truck
+tree
+basement
+lamp
+shovel
+try
+goose
+sofa
+ankle
+would
+house
+hammer
+napkin
+tuna
+ladder
+zipper
+nice
+bird
+bad
+mouth
+squirrel
+awake
+pizza
+donkey
+lollipop
+toy
+pretzel
+jacket
+snack
+morning
+dish
+elephant
+jelly
+glue
+full
+pants
+man
+tear
+hurry
+lion
+windy
+shake
+other
+sleepy
+coke
+milk
+toast
+belt
+diaper
+alligator
+duck
+asleep
+jeans
+uncle
+break
+fine
+throw
+go
+yellow
+yard
+hold
+gum
+pencil
+star
+touch
+cover
+tractor
+poor
+dryer
+circus
+blow
+moon
+present
+paint
+face
+naughty
+friend
+back
+towel
+night
+rain
+be
+cut
+sing
+spill
+oven
+drawer
+sock
+dress
+climb
+new
+skate
+hug
+jar
+hard
+cold
+cheek
+daddy
+play
+listen
+stand
+see
+book
+penguin
+scissors
+doctor
+bump
+horse
+cloud
+police
+lady
+game
+say
+potato
+picnic
+kiss
+pickle
+garden
+shoe
+refrigerator
+stone
+show
+nail
+spaghetti
+green
+cup
+sticky
+toe
+quiet
+wait
+plate
+money
+slow
+cry
+sit
+pick
+monkey
+broom
+apple
+heavy
+buy
+push
+bottle
+child
+wet
+white
+bunny
+leg
+sad
+knee
+brush
+soft
+sky
+sheep
+home
+share
+hat
+sandwich
+hair
+church
+flag
+catch
+sister
+strawberry
+stove
+corn
+clock
+turtle
+soap
+wipe
+hide
+bear
+clap
+sauce
+pretend
+hate
+hamburger
+open
+jump
+block
+pull
+garage
+breakfast
+tray
+boat
+brown
+bed
+animal
+balloon
+bus
+door
+hot
+bee
+bat
+turkey
+stroller
+talk
+write
+blanket
+kitchen
+feed
+eye
+dinner
+arm
+empty
+high
+gentle
+day
+teacher
+trash
+crayon
+dog
+snow
+bug
+people
+bench
+pumpkin
+help
+kick
+run
+juice
+sweep
+ball
+potty
+old
+camera
+grass
+red
+lick
+nap
+party
+eat
+tiny
+tickle
+dump
+soup
+dance
+park
+paper
+little
+bucket
+chin
+radio
+thirsty
+spoon
+hen
+glass
+boots
+hose
+food
+slipper
+wolf
+lamb
+fall
+look
+fix
+closet
+wake
+meat
+chase
+time
+chalk
+stop
+pour
+medicine
+first
+dirty
+zoo
+cheese
+fork
+deer
+soda
+sled
+taste
+salt
+swim
+porch
+coffee
+knock
+window
+ride
+cake
+finger
+egg
+bib
+good
+stick
+brother
+get
+drop
+boy
+sick
+take
+broken
+movie
+rooster
+carry
+tooth
+crib
+roof
+country
+pudding
+bite
+have
+vacuum
+butter
+love
+shirt
+sneaker
+nurse
+ant
+tired
+wash
+room
+hit
+flower
+bread
+plant
+car
+will
+school
+cookie
+clown
+chair
+pony
+sun
+meow
+cereal
+garbage
+blue
+pen
+table
+mad
+hurt
+scarf
+head
+like
+cracker
+happy
+button
+aunt
+pool
+comb

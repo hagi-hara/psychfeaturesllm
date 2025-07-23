@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-3e5a7f3c5fae46aa8bc7db319896da44",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "fine: 6.5\ntry: 5.5\ntickle: 4.2\nchin: 6.8\nthink: 5.8\npull: 5.3\ndish: 6.5\ndog: 5.2\ntissue: 6.2\ncover: 6.1\nshower: 6.4\npick: 5.9\ntaste: 5.6\nkitchen: 6.7\nshoe: 6.3\nhamburger: 5.4\nbee: 4.8\nhelp: 5.1\nfood: 5.6\nyogurt: 6.1\nbump: 5.4\nteacher: 6.2\nthirsty: 5.5\ntouch: 5.8\nhat: 6.5\nbug: 4.9\nsnack: 5.8\ncloud: 6.8\ntiny: 6.3\ndress: 6.2\nbowl: 6.5\nfinger: 6.1\nlike: 5.5\npillow: 7.1\nhand: 6.2\nmoon: 6.9\nmop: 6.6\nlamb: 6.8\nhungry: 5.3\njeans: 6.4\nsandwich: 5.9\ngarbage: 5.1\nclock: 6.6\nhurry: 4.9\nwalk: 5.8\neat: 5.5\nmedicine: 6.1\npretty: 5.2\nboy: 5.6\nnose: 6.3\ncloset: 6.5\nhouse: 6.8\ncamera: 6.4\nbrush: 6.2\nslow: 6.9\npeople: 6.1\nblack: 6.4\npickle: 5.8\ncoffee: 5.4\nduck: 5.5\nsee: 5.9\npuppy: 4.8\nwhite: 6.6\nwould: 6.1\ndiaper: 6.3\nsquirrel: 6.2\nchocolate: 5.1\nuncle: 6.2\nscarf: 6.5\nbasement: 6.7\nface: 6.3\nshoulder: 6.5\npotty: 6.1\nsleepy: 7.3\nempty: 6.4\nstay: 6.2\nstar: 6.8\nbroom: 6.6\ngiraffe: 6.3\nhave: 6.1\npark: 6.5\nopen: 6.2\ntoy: 5.8\ncow: 6.3\ngive: 5.9\nhen: 6.2\nfarm: 6.5\nmeow: 5.4\nhold: 6.1\ncircus: 5.3\ncorn: 6.2\nflower: 6.4\nsit: 6.3\ndrop: 5.6\nmeat: 6.1\nsky: 7.0\nlady: 6.4\nballoon: 5.5\nhate: 4.5\nmommy: 5.8\ndance: 5.2\nsoft: 6.8\nporch: 6.6\ntruck: 6.3\ntear: 5.1\nraisin: 6.2\ndraw: 5.9\nschool: 6.5\nred: 5.8\nhorse: 6.2\nlisten: 6.1\ncatch: 5.6\ncoat: 6.4\nsofa: 7.0\nsay: 6.0\nbook: 6.5\ntime: 6.3\nhose: 6.6\nplant: 6.8\nrefrigerator: 6.9\nchurch: 6.7\nbird: 6.3\nclap: 5.5\nrock: 5.8\ntrain: 6.2\ndrive: 5.9\nstick: 5.7\ngarage: 6.6\nwill: 6.2\ntrash: 5.3\nankle: 6.4\nzebra: 6.1\nmouth: 6.2\nbite: 5.1\npoor: 5.5\nlion: 5.8\nbath: 6.6\ndoll: 6.3\nheavy: 6.1\nnurse: 6.4\nbeach: 6.8\nknee: 6.4\nbad: 4.9\nsalt: 6.2\nsad: 5.1\ndoctor: 6.3\ncat: 5.6\ntake: 6.0\nzipper: 6.3\nbig: 5.9\nwake: 5.6\nshare: 6.1\nrooster: 6.2\nturkey: 6.1\ncandy: 5.4\nturtle: 6.3\nblow: 5.7\npresent: 5.8\nstop: 6.1\nclose: 6.3\nwolf: 5.9\nboat: 6.4\nmake: 6.0\ncracker: 6.1\ndrawer: 6.5\nglass: 6.6\npen: 6.3\ngum: 6.1\nshake: 5.6\nladder: 6.4\nsick: 5.2\nnight: 6.6\nsing: 5.8\nread: 6.3\nstove: 6.6\npencil: 6.4\ntoe: 6.2\nput: 6.1\nball: 5.9\nmoose: 6.3\narm: 6.3\nroom: 6.7\njuice: 6.2\nbread: 6.4\npicture: 6.6\npenguin: 6.3\ndark: 6.1\nwind: 6.4\nnapkin: 6.5\nride: 5.9\ntummy: 6.2\nman: 6.2\nradio: 6.4\nwipe: 6.2\nclown: 5.4\nhurt: 5.0\ncereal: 6.3\ncookie: 5.9\nrun: 5.4\nbuild: 6.1\nbuy: 6.0\ntuna: 6.2\nstone: 6.4\ncook: 6.2\ntongue: 6.3\ngreen: 6.5\nthrow: 5.7\nquiet: 6.9\nbox: 6.5\nlook: 6.2\nflag: 6.4\ntape: 6.3\nother: 6.2\nawake: 5.6\nbutter: 6.4\nroof: 6.7\nfirst: 6.3\nyard: 6.6\nchild: 6.2\nbreakfast: 6.4\ncut: 5.8\nhit: 5.4\nstreet: 6.4\nhear: 6.2\nsweater: 6.6\ndo: 6.1\nfeed: 6.2\nlamp: 6.6\nsock: 6.4\ngood: 5.9\nsoup: 6.4\nhug: 5.8\ncoke: 5.6\nshirt: 6.4\nstore: 6.5\nplate: 6.6\noven: 6.7\ntray: 6.5\nbreak: 5.8\nfriend: 6.2\nbench: 6.6\ngentle: 6.8\npaper: 6.5\nsoda: 6.2\ncup: 6.4\nowl: 6.3\ndeer: 6.4\nelephant: 6.2\nsneaker: 6.3\nsister: 6.2\nfinish: 6.1\ncheese: 6.2\nwish: 6.0\nglue: 6.3\nnice: 5.9\near: 6.3\ncar: 6.3\nfull: 6.2\nmonkey: 6.1\nbroken: 5.5\npotato: 6.3\ndaddy: 6.2\npumpkin: 6.4\nbe: 6.2\nvacuum: 6.6\nblue: 6.5\nant: 6.2\napple: 6.3\npaint: 6.4\nkick: 5.6\nlove: 5.5\nsun: 6.8\nbed: 7.1\nhappy: 4.8\nmovie: 5.9\npizza: 5.8\ngo: 5.9\nbutton: 6.3\nfind: 6.1\nscissors: 6.4\ntalk: 6.2\npretend: 5.9\npenny: 6.3\nsink: 6.5\nstrawberry: 6.2\ncouch: 7.0\nsmile: 5.4\nfork: 6.4\naunt: 6.3\npour: 6.2\nmad: 4.9\neye: 6.3\nchair: 6.7\nstand: 6.3\nclimb: 5.9\npig: 6.2\nbaby: 6.1\negg: 6.3\ngoose: 6.3\nasleep: 7.4\nleg: 6.4\npony: 6.3\npretzel: 6.2\nchalk: 6.4\nspill: 5.7\nbear: 6.1\npuzzle: 6.3\nyellow: 6.5\ntiger: 5.9\nbucket: 6.4\ntooth: 6.3\nnoisy: 5.4\nlunch: 6.3\nplay: 5.8\npolice: 6.2\nanimal: 6.3\nhard: 6.1\nmouse: 6.2\nlittle: 6.3\nnew: 6.2\nbunny: 6.1\npurse: 6.4\nbelt: 6.3\nget: 6.1\ndinner: 6.4\nice: 6.3\nstory: 6.5\ncrib: 6.6\njump: 5.6\nkiss: 5.8\nshow: 6.1\nsnow: 6.8\nsplash: 5.7\nfall: 6.2\nmilk: 6.4\njar: 6.5\nsoap: 6.4\nday: 6.6\nnail: 6.3\ngirl: 6.2\nknock: 6.1\nmuffin: 6.3\ndump: 5.9\nsled: 6.3",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989368,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2540,
+    "prompt_tokens": 1772,
+    "total_tokens": 4312,
+    "estimated_cost": 0.0014235600000000001
+  }
+}

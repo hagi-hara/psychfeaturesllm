@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-0c231cb2281b4bbebe9c888fd154377a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "country: 5.5\nhammer: 6.8\npony: 5.9\nanimal: 5.2\ngarden: 6.1\nsky: 5.4\nbreakfast: 6.5\nwolf: 4.2\npillow: 6.4\ndoctor: 6.9\nsee: 7.1\nhug: 7.8\narm: 6.2\nmuffin: 6.6\nsofa: 6.3\nnapkin: 5.9\nsister: 7.4\nbunny: 6.7\nmonkey: 6.1\ntime: 5.6\npuzzle: 6.4\ncoat: 6.1\npig: 5.4\nhamburger: 7.1\nperson: 6.8\nroom: 6.2\nsheep: 5.5\nblue: 5.1\nswim: 7.3\ncook: 7.0\nwindow: 6.0\nwait: 4.9\nladder: 6.5\npicnic: 7.2\nmake: 7.4\negg: 6.6\nfirst: 6.9\nshower: 7.1\ngarage: 6.3\ngum: 5.8\ntoy: 6.8\ndaddy: 7.6\nclimb: 7.2\nshake: 6.4\nmoon: 5.6\ntissue: 5.9\nmovie: 7.1\nfind: 7.3\nsink: 6.1\nturkey: 6.4\ncloset: 6.0\npoor: 4.1\njar: 5.7\npants: 6.2\ngirl: 7.2\nstop: 5.4\nwill: 7.0\ngo: 7.4\nhorse: 6.8\nclown: 6.5\nfood: 7.1\nbroom: 6.3\nskate: 7.2\nclose: 5.8\ndrop: 5.2\nhome: 7.4\nbottle: 6.1\ntruck: 6.9\npark: 7.0\ndryer: 6.4\nrefrigerator: 6.6\ncheek: 6.3\ncorn: 6.1\nget: 7.1\nempty: 4.8\nnap: 6.6\npotty: 5.9\nant: 5.1\nmouth: 6.2\nsoda: 6.8\nrun: 7.5\npolice: 6.9\nbuy: 7.1\nhit: 6.3\nmop: 6.2\nhose: 6.4\ncracker: 6.1\nlittle: 6.4\ndump: 4.5\nflower: 6.8\nbowl: 6.1\nduck: 6.3\nelephant: 6.2\nsticky: 5.6\nflag: 6.4\nput: 7.0\ntiger: 5.8\nkitchen: 6.9\nlady: 7.3\nbad: 4.2\nhard: 5.4\nboy: 7.1\ndance: 7.4\nsoap: 6.3\nawake: 7.2\nfinish: 7.1\nbus: 6.8\nfit: 7.0\nsoft: 6.4\njeans: 6.6\nopen: 7.1\nhair: 6.8\ndog: 7.2\nface: 7.0\nblack: 5.3\nlike: 7.3\nlove: 8.1\nbig: 7.1\ntuna: 6.9\ntray: 6.3\nhappy: 8.2\nsad: 3.8\nnew: 7.0\ntowel: 6.5\npicture: 7.1\njacket: 6.8\nstand: 7.0\nleg: 6.4\nnaughty: 4.9\nwindy: 5.6\ncute: 7.4\ncereal: 6.9\ncircus: 7.3\nwet: 5.4\ndonkey: 6.1\ncover: 6.3\ncrib: 6.5\ndrawer: 6.2\nschool: 7.0\nbasket: 6.6\nblanket: 6.8\nbath: 7.0\nsun: 7.4\noven: 6.9\npretend: 7.3\nlollipop: 7.1\nsweater: 6.9\nbelt: 6.4\nknock: 6.1\nstay: 6.8\nowl: 6.3\nsing: 7.4\ncatch: 7.1\nnight: 5.6\ntractor: 6.8\nwipe: 6.3\nlunch: 7.0\nstory: 7.2\nbee: 6.2\nslipper: 6.6\nhave: 7.1\ntaste: 7.0\nsoup: 7.1\nchild: 7.4\nroof: 6.4\nplant: 6.8\nbed: 7.0\nbug: 5.5\naunt: 7.2\npaint: 7.0\nscissors: 6.6\nyellow: 6.1\nsandwich: 7.1\nwrite: 7.3\nice: 6.2\nshow: 7.4\nback: 6.8\nstrawberry: 7.2\ncookie: 7.3\ngiraffe: 6.9\nsnow: 6.4\nstreet: 6.6\nlamb: 6.5\ntickle: 7.4\nzoo: 7.2\nspill: 5.5\nplate: 6.4\nhide: 5.9\nshoe: 6.6\nbaby: 7.6\npurse: 6.9\nlick: 6.4\nnose: 6.3\ngood: 7.4\nmedicine: 6.9\nstone: 6.1\nblock: 6.3\nfinger: 6.4\ncamera: 7.0\nglass: 6.6\nbutton: 6.3\nscarf: 6.6\nbucket: 6.4\nbird: 6.8\nbroken: 4.5\nbox: 6.2\npretzel: 6.9\nsleepy: 5.8\nradio: 6.9\nhand: 7.0\ncut: 5.9\nbrown: 6.1\nknee: 6.3\ntree: 6.6\ntiny: 6.4\ncold: 5.5\nstove: 6.8\nman: 7.1\nsick: 4.3\ntrain: 6.9\ndrive: 7.2\nyogurt: 7.0\nasleep: 5.6\nslow: 5.3\nvacuum: 6.5\nhurt: 4.2\ndeer: 6.3\nsled: 6.9\ntry: 7.1\nbook: 7.3\ndinner: 7.2\nfall: 5.5\nthink: 7.4\ndo: 7.3\ncar: 7.1\ndoll: 7.0\nballoon: 7.2\nrip: 5.6\nthrow: 6.9\ntape: 6.4\nbutter: 7.0\nbasement: 6.4\nmoney: 7.0\ntoe: 6.2\nhate: 3.9\nkiss: 7.8\nsock: 6.5\ngreen: 6.2\nhear: 7.1\njump: 7.3\nread: 7.4\nrock: 6.6\ndoor: 6.8\nalligator: 5.4\ngarbage: 4.8\neye: 6.9\nmad: 4.1\ntalk: 7.2\nankle: 6.3\ncat: 7.1\nsleep: 6.5\nred: 6.2\nhigh: 7.0\ngrass: 6.6\npeople: 7.3\nmoose: 6.2\npretty: 7.4\nmorning: 7.2\nhold: 7.0\npizza: 7.3\nchalk: 6.5\ndark: 5.2\nshare: 7.1\ngentle: 7.3\nyard: 6.8\ndirty: 4.9\nbuild: 7.1\nclock: 6.9\nsprinkler: 6.6\nfull: 6.8\near: 6.4\nday: 7.2\ncoke: 6.9\nbib: 6.5\nbite: 6.4\ncoffee: 7.1\nmeow: 6.9\nrooster: 6.5\nnice: 7.4\nbump: 5.9\nporch: 6.8\ncloud: 6.4\npaper: 6.9\nuncle: 7.2\nwash: 6.9\nspoon: 6.6\nlamp: 6.8\ngive: 7.3\ncandy: 7.2\nstick: 6.5\nbeach: 7.4\nwish: 7.4\npenny: 6.8\ntongue: 6.6\nhen: 6.4\nbrother: 7.3\nfine: 7.1\nfriend: 7.8\nsit: 7.0\nbe: 7.2\nhat: 6.9\ntummy: 6.8\nchocolate: 7.4\nsalt: 6.3\nwould: 7.1\nbanana: 7.2\nlion: 6.4\nspaghetti: 7.2\nblow: 6.6\ndish: 6.8\ntake: 7.3\nboat: 7.1\npush: 7.0\nfork: 6.9\nchase: 7.2\nmilk: 7.1\npuppy: 7.4\nlook: 7.3\nbat: 6.4\ndress: 7.0\nsauce: 6.9\ncarry: 7.1\ntable: 6.9\njuice: 7.1\nbring: 7.2\nbreak: 6.1\nmommy: 7.6\nfix: 7.1\ncup: 6.8\npull: 7.0\ngame: 7.3\nwind: 6.6\nwhite: 6.8\ntired: 5.4\nbrush: 6.8\nglue: 6.6\nteacher: 7.4\npresent: 7.4\nraisin: 6.9\nturtle: 6.6\nshoulder: 6.5\nfarm: 6.9\nheavy: 5.8\nsay: 7.2\nrain: 6.3\ntoast: 7.0\nwalk: 7.3\ntouch: 7.1\nclap: 7.2\ncake: 7.4\nzebra: 6.9\nstroller: 6.9\nnoisy: 5.6\npen: 6.9\nquiet: 6.4\ncry: 4.9\nshirt: 6.9\npool: 7.2\nbench: 6.8\npour: 6.9\nhead: 7.0\ntooth: 6.6\nstore: 7.0\nlisten: 7.3\ntear: 5.1\ncrayon: 6.9\nhouse: 7.2\nother: 6.8\ndiaper: 6.4\ntrash: 4.8\ndraw: 7.1\nold: 5.6\nmeat: 6.8\nride: 7.2\nmouse: 6.5\njelly: 6.9\ngoose: 6.6\nchair: 6.9",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989493,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2863,
+    "prompt_tokens": 1545,
+    "total_tokens": 4408,
+    "estimated_cost": 0.00150055
+  }
+}

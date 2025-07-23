@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-9e8c420f482d4578aa110c618e919945",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for feeling through touch:\n\nice: 4\ntruck: 2\ntree: 3\nbasement: 1\nlamp: 2\nshovel: 4\ntry: 0\ngoose: 1\nsofa: 4\nankle: 4\nwould: 0\nhouse: 1\nhammer: 4\nnapkin: 3\ntuna: 1\nladder: 4\nzipper: 3\nnice: 0\nbird: 1\nbad: 0\nmouth: 3\nsquirrel: 1\nawake: 0\npizza: 2\ndonkey: 1\nlollipop: 3\ntoy: 3\npretzel: 2\njacket: 4\nsnack: 2\nmorning: 0\ndish: 3\nelephant: 1\njelly: 2\nglue: 3\nfull: 0\npants: 4\nman: 2\ntear: 0\nhurry: 0\nlion: 1\nwindy: 0\nshake: 2\nother: 0\nsleepy: 0\ncoke: 2\nmilk: 2\ntoast: 2\nbelt: 3\ndiaper: 3\nalligator: 1\nduck: 1\nasleep: 0\njeans: 4\nuncle: 1\nbreak: 0\nfine: 0\nthrow: 2\ngo: 0\nyellow: 0\nyard: 1\nhold: 3\ngum: 2\npencil: 2\nstar: 0\ntouch: 5\ncover: 3\ntractor: 2\npoor: 0\ndryer: 2\ncircus: 1\nblow: 2\nmoon: 0\npresent: 2\npaint: 2\nface: 4\nnaughty: 0\nfriend: 1\nback: 3\ntowel: 4\nnight: 0\nrain: 0\nbe: 0\ncut: 2\nsing: 0\nspill: 2\noven: 2\ndrawer: 3\nsock: 4\ndress: 4\nclimb: 2\nnew: 0\nskate: 3\nhug: 4\njar: 3\nhard: 0\ncold: 0\ncheek: 4\ndaddy: 1\nplay: 1\nlisten: 0\nstand: 1\nsee: 0\nbook: 2\npenguin: 1\nscissors: 3\ndoctor: 1\nbump: 2\nhorse: 1\ncloud: 0\npolice: 1\nlady: 1\ngame: 1\nsay: 0\npotato: 2\npicnic: 1\nkiss: 4\npickle: 2\ngarden: 1\nshoe: 4\nrefrigerator: 2\nstone: 3\nshow: 1\nnail: 2\nspaghetti: 2\ngreen: 0\ncup: 3\nsticky: 3\ntoe: 4\nquiet: 0\nwait: 0\nplate: 3\nmoney: 1\nslow: 0\ncry: 0\nsit: 1\npick: 2\nmonkey: 1\nbroom: 3\napple: 2\nheavy: 0\nbuy: 0\npush: 2\nbottle: 3\nchild: 2\nwet: 0\nwhite: 0\nbunny: 1\nleg: 4\nsad: 0\nknee: 4\nbrush: 3\nsoft: 0\nsky: 0\nsheep: 1\nhome: 1\nshare: 0\nhat: 3\nsandwich: 2\nhair: 4\nchurch: 1\nflag: 1\ncatch: 2\nsister: 1\nstrawberry: 2\nstove: 2\ncorn: 2\nclock: 2\nturtle: 1\nsoap: 3\nwipe: 2\nhide: 1\nbear: 1\nclap: 2\nsauce: 2\npretend: 0\nhate: 0\nhamburger: 2\nopen: 1\njump: 2\nblock: 2\npull: 2\ngarage: 1\nbreakfast: 1\ntray: 3\nboat: 1\nbrown: 0\nbed: 4\nanimal: 1\nballoon: 2\nbus: 1\ndoor: 2\nhot: 0\nbee: 1\nbat: 1\nturkey: 1\nstroller: 2\ntalk: 0\nwrite: 1\nblanket: 4\nkitchen: 1\nfeed: 1\neye: 3\ndinner: 1\narm: 4\nempty: 0\nhigh: 0\ngentle: 0\nday: 0\nteacher: 1\ntrash: 1\ncrayon: 2\ndog: 2\nsnow: 0\nbug: 1\npeople: 1\nbench: 2\npumpkin: 2\nhelp: 0\nkick: 2\nrun: 1\njuice: 2\nsweep: 2\nball: 2\npotty: 2\nold: 0\ncamera: 1\ngrass: 1\nred: 0\nlick: 2\nnap: 0\nparty: 1\neat: 1\ntiny: 0\ntickle: 4\ndump: 1\nsoup: 2\ndance: 1\npark: 1\npaper: 2\nlittle: 0\nbucket: 3\nchin: 4\nradio: 1\nthirsty: 0\nspoon: 3\nhen: 1\nglass: 3\nboots: 4\nhose: 2\nfood: 1\nslipper: 4\nwolf: 1\nlamb: 1\nfall: 0\nlook: 0\nfix: 2\ncloset: 2\nwake: 0\nmeat: 2\nchase: 2\ntime: 0\nchalk: 2\nstop: 0\npour: 2\nmedicine: 1\nfirst: 0\ndirty: 0\nzoo: 1\ncheese: 2\nfork: 3\ndeer: 1\nsoda: 2\nsled: 2\ntaste: 0\nsalt: 0\nswim: 1\nporch: 1\ncoffee: 2\nknock: 2\nwindow: 2\nride: 1\ncake: 2\nfinger: 4\negg: 2\nbib: 3\ngood: 0\nstick: 3\nbrother: 1\nget: 0\ndrop: 2\nboy: 1\nsick: 0\ntake: 1\nbroken: 0\nmovie: 1\nrooster: 1\ncarry: 2\ntooth: 3\ncrib: 2\nroof: 1\ncountry: 1\npudding: 2\nbite: 2\nhave: 0\nvacuum: 2\nbutter: 2\nlove: 0\nshirt: 4\nsneaker: 4\nnurse: 1\nant: 1\ntired: 0\nwash: 2\nroom: 1\nhit: 2\nflower: 1\nbread: 2\nplant: 1\ncar: 1\nwill: 0\nschool: 1\ncookie: 2\nclown: 1\nchair: 3\npony: 1\nsun: 0\nmeow: 0\ncereal: 2\ngarbage: 1\nblue: 0\npen: 2\ntable: 2\nmad: 0\nhurt: 0\nscarf: 3\nhead: 4\nlike: 0\ncracker: 2\nhappy: 0\nbutton: 2\naunt: 1\npool: 1\ncomb: 2",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989678,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1861,
+    "prompt_tokens": 1635,
+    "total_tokens": 3496,
+    "estimated_cost": 0.00112045
+  }
+}

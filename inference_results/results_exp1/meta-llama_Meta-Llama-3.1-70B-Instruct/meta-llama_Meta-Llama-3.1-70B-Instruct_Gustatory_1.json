@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-75f9fcc0afa2457ea0cdb375208fd1c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings for the words based on how much I experience them through the sense of taste:\n\napple: 4\nbanana: 4\ncake: 4\ncheese: 4\nchicken (food): 4\ncookie: 4\ncorn: 4\ncotton candy: N\ncracker: 3\ndonut: 4\ndrink (beverage): 4\nfrench fries: 4\ngrape: 4\nhamburger: 4\nice cream: 5\njuice: 4\nlollipop: 4\nmeat: 4\nmelon: 4\nmilk: 4\norange (food): 4\npeanut butter: 4\npickle: 4\npizza: 4\npopcorn: 4\npopsicle: 4\npudding: 4\nspaghetti: 4\nstrawberry: 4\ntuna: 4\nyogurt: 4\n\nOther words: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723561968,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 214,
+    "prompt_tokens": 1936,
+    "total_tokens": 2150,
+    "estimated_cost": 0.0011672199999999998
+  }
+}

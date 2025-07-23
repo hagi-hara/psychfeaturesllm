@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-e91573dc3b97417bb334980b8ae4c6bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are my ratings for the actions related to mouth/throat:\n\nshh: 5\ngrrr: 5\nthank you: 5\ntry to: 2\nhush: 5\ncheerio: 5\nmeow: 5\ncockadoodledoo: 5\npattycake: 5\nkiss: 5\nboo boo: 5\nhug: 5\ntaste: 5\nthank you: 5\nhello: 5\ngoodbye: 5\nbye: 5\nnight night: 5\nuh oh: 5\nyummy: 5\nnom nom nom: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564129,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1950,
+    "total_tokens": 2094,
+    "estimated_cost": 0.00012564
+  }
+}

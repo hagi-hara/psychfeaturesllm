@@ -1,0 +1,450 @@
+ hand / arm: banana: 1
+hand / arm: moose: 0
+hand / arm: stuck: 4
+hand / arm: watch (action): 2
+hand / arm: peanut butter: 1
+hand / arm: egg: 2
+hand / arm: train: 1
+hand / arm: frog: 1
+hand / arm: bug: 1
+hand / arm: yourself: 5
+hand / arm: brown: N
+hand / arm: gentle: 3
+hand / arm: lamp: 1
+hand / arm: pen: 4
+hand / arm: bicycle: 4
+hand / arm: sister: 3
+hand / arm: french fries: 2
+hand / arm: kitty: 3
+hand / arm: who: N
+hand / arm: fish (food): 2
+hand / arm: hurry: 2
+hand / arm: white: N
+hand / arm: my: N
+hand / arm: tights: 2
+hand / arm: got to: N
+hand / arm: close: 3
+hand / arm: refrigerator: 2
+hand / arm: jacket: 3
+hand / arm: bib: 2
+hand / arm: drive: 3
+hand / arm: bottom: 2
+hand / arm: sneaker: 3
+hand / arm: toast: 3
+hand / arm: owl: 1
+hand / arm: any: N
+hand / arm: strawberry: 2
+hand / arm: turkey: 2
+hand / arm: people: 3
+hand / arm: shoe: 3
+hand / arm: spill: 2
+hand / arm: belly button: 1
+hand / arm: hi: N
+hand / arm: pet's name: N
+hand / arm: noodle: 2
+hand / arm: hide: 1
+hand / arm: am: N
+hand / arm: all gone: N
+hand / arm: sandbox: 2
+hand / arm: country: N
+hand / arm: wipe: 2
+hand / arm: mommy: 4
+hand / arm: none: N
+hand / arm: share: 2
+hand / arm: day: N
+hand / arm: your: N
+hand / arm: him: 2
+hand / arm: tiger: 1
+hand / arm: medicine: 2
+hand / arm: purse: 2
+hand / arm: money: 2
+hand / arm: take: 3
+hand / arm: butter: 2
+hand / arm: moon: N
+hand / arm: crayon: 3
+hand / arm: back: 2
+hand / arm: catch: 2
+hand / arm: stairs: 3
+hand / arm: basement: 1
+hand / arm: mouth: 4
+hand / arm: do: N
+hand / arm: cloud: N
+hand / arm: pool: 2
+hand / arm: glove: 4
+hand / arm: write: 4
+hand / arm: same: N
+hand / arm: careful: 3
+hand / arm: scared: 2
+hand / arm: high: 2
+hand / arm: think: N
+hand / arm: dog: 3
+hand / arm: swing (action): 3
+hand / arm: stroller: 3
+hand / arm: toothbrush: 3
+hand / arm: porch: 2
+hand / arm: me: N
+hand / arm: chase: 3
+hand / arm: little: N
+hand / arm: soda: 2
+hand / arm: donut: 2
+hand / arm: our: N
+hand / arm: wolf: 1
+hand / arm: yucky: 1
+hand / arm: before: N
+hand / arm: hug: 4
+hand / arm: why: N
+hand / arm: each: N
+hand / arm: ankle: 2
+hand / arm: clean (description): N
+hand / arm: game: 3
+hand / arm: friend: 3
+hand / arm: bed: 3
+hand / arm: sing: 2
+hand / arm: hello: N
+hand / arm: underpants: 2
+hand / arm: chin: 2
+hand / arm: goose: 1
+hand / arm: nurse: 2
+hand / arm: slipper: 2
+hand / arm: teacher: 2
+hand / arm: clean (action): 2
+hand / arm: kiss: 4
+hand / arm: like: N
+hand / arm: plate: 3
+hand / arm: hen: 1
+hand / arm: tape: 2
+hand / arm: if: N
+hand / arm: vanilla: 2
+hand / arm: full: N
+hand / arm: red: N
+hand / arm: bowl: 3
+hand / arm: rocking chair: 2
+hand / arm: boy: 3
+hand / arm: give: 3
+hand / arm: there: N
+hand / arm: hot: N
+hand / arm: better: N
+hand / arm: grass: 1
+hand / arm: his: N
+hand / arm: ice: 2
+hand / arm: sofa: 2
+hand / arm: baa baa: N
+hand / arm: mitten: 3
+hand / arm: bus: 2
+hand / arm: snow: 2
+hand / arm: bubble: 2
+hand / arm: on top of: N
+hand / arm: pea: 1
+hand / arm: dryer: 2
+hand / arm: drink (action): 3
+hand / arm: don't: N
+hand / arm: high chair: 2
+hand / arm: duck: 2
+hand / arm: bee: 1
+hand / arm: chicken (animal): 2
+hand / arm: she: N
+hand / arm: by: N
+hand / arm: fork: 3
+hand / arm: shoulder: 2
+hand / arm: hafta: N
+hand / arm: muffin: 2
+hand / arm: dump: 2
+hand / arm: these: N
+hand / arm: swing (object): 2
+hand / arm: sled: 2
+hand / arm: light: 2
+hand / arm: find: 2
+hand / arm: say: N
+hand / arm: taste: N
+hand / arm: jump: 3
+hand / arm: penny: 2
+hand / arm: good: N
+hand / arm: hers: N
+hand / arm: tummy: 2
+hand / arm: wake: N
+hand / arm: drink (beverage): 3
+hand / arm: them: N
+hand / arm: put: N
+hand / arm: sun: N
+hand / arm: we: N
+hand / arm: the: N
+hand / arm: moo: N
+hand / arm: head: 3
+hand / arm: movie: 2
+hand / arm: button: 2
+hand / arm: noisy: N
+hand / arm: shush: N
+hand / arm: radio: 2
+hand / arm: when: N
+hand / arm: cook: 3
+hand / arm: alligator: 1
+hand / arm: man: 3
+hand / arm: you: N
+hand / arm: uh oh: N
+hand / arm: dress: 2
+hand / arm: naughty: 1
+hand / arm: puzzle: 3
+hand / arm: juice: 3
+hand / arm: this: N
+hand / arm: boots: 3
+hand / arm: can (object): 3
+hand / arm: here: N
+hand / arm: ladder: 2
+hand / arm: zoo: 2
+hand / arm: awake: N
+hand / arm: basket: 2
+hand / arm: washing machine: 1
+hand / arm: picnic: 2
+hand / arm: tray: 3
+hand / arm: tooth: 2
+hand / arm: home: N
+hand / arm: zipper: 2
+hand / arm: will: N
+hand / arm: clown: 1
+hand / arm: soup: 2
+hand / arm: this little piggy: 2
+hand / arm: hammer: 2
+hand / arm: table: 3
+hand / arm: hard: N
+hand / arm: meat: 3
+hand / arm: blow: 2
+hand / arm: off: N
+hand / arm: turn around: 3
+hand / arm: dish: 3
+hand / arm: over: N
+hand / arm: bench: 2
+hand / arm: daddy: 3
+hand / arm: present: 3
+hand / arm: bread: 3
+hand / arm: stay: N
+hand / arm: mad: N
+hand / arm: shower: 2
+hand / arm: carry: 3
+hand / arm: splash: 2
+hand / arm: have to: N
+hand / arm: a lot: N
+hand / arm: woods: 1
+hand / arm: empty: N
+hand / arm: police: 1
+hand / arm: yard: 2
+hand / arm: slide (object): 2
+hand / arm: please: N
+hand / arm: today: N
+hand / arm: hair: 3
+hand / arm: every: N
+hand / arm: bedroom: 3
+hand / arm: long: N
+hand / arm: at: N
+hand / arm: break: N
+hand / arm: outside: N
+hand / arm: bite: 3
+hand / arm: sticky: 2
+hand / arm: paint: 3
+hand / arm: fast: N
+hand / arm: dirty: N
+hand / arm: nut: 2
+hand / arm: walk: 4
+hand / arm: garage: 2
+hand / arm: snowman: 2
+hand / arm: a: N
+hand / arm: I: N
+hand / arm: roof: 1
+hand / arm: buttocks: N
+hand / arm: babysitter: 2
+hand / arm: sprinkler: 2
+hand / arm: cookie: 3
+hand / arm: hand: 5
+hand / arm: shovel: 3
+hand / arm: pattycake: 3
+hand / arm: where: N
+hand / arm: jelly: 2
+hand / arm: farm: 2
+hand / arm: room: N
+hand / arm: bad: N
+hand / arm: would: N
+hand / arm: eye: 3
+hand / arm: child: 3
+hand / arm: bat: 2
+hand / arm: cereal: 3
+hand / arm: rip: 2
+hand / arm: fit: N
+hand / arm: aunt: 2
+hand / arm: sheep: 2
+hand / arm: later: N
+hand / arm: swim: 3
+hand / arm: hush: N
+hand / arm: but: N
+hand / arm: grrr: N
+hand / arm: those: N
+hand / arm: popcorn: 2
+hand / arm: bear: 2
+hand / arm: truck: 2
+hand / arm: book: 3
+hand / arm: pony: 2
+hand / arm: out: N
+hand / arm: an: N
+hand / arm: cheerio: 2
+hand / arm: did: N
+hand / arm: talk: N
+hand / arm: airplane: 2
+hand / arm: pop: 2
+hand / arm: finish: N
+hand / arm: shh: N
+hand / arm: car: 3
+hand / arm: next to: N
+hand / arm: poor: N
+hand / arm: try: N
+hand / arm: key: 3
+hand / arm: pretend: 3
+hand / arm: show: 3
+hand / arm: meow: N
+hand / arm: not: N
+hand / arm: chocolate: 3
+hand / arm: glasses: 2
+hand / arm: lion: 1
+hand / arm: block: 3
+hand / arm: peekaboo: 3
+hand / arm: are: N
+hand / arm: pig: 2
+hand / arm: pancake: 3
+hand / arm: yogurt: 2
+hand / arm: living room: 3
+hand / arm: slow: N
+hand / arm: need to: N
+hand / arm: tear: 2
+hand / arm: telephone: 2
+hand / arm: napkin: 2
+hand / arm: towel: 2
+hand / arm: was: N
+hand / arm: street: 2
+hand / arm: chair: 3
+hand / arm: night: N
+hand / arm: carrot: 2
+hand / arm: have: N
+hand / arm: dark: N
+hand / arm: tricycle: 3
+hand / arm: play pen: 2
+hand / arm: sidewalk: 2
+hand / arm: make: N
+hand / arm: coffee: 3
+hand / arm: water (beverage): 3
+hand / arm: yum yum: N
+hand / arm: night night: N
+hand / arm: about: N
+hand / arm: paper: 3
+hand / arm: TV: 2
+hand / arm: jeans: 2
+hand / arm: dinner: 3
+hand / arm: ride: 3
+hand / arm: flag: 1
+hand / arm: inside: N
+hand / arm: apple: 2
+hand / arm: teddybear: 3
+hand / arm: smile: N
+hand / arm: big: N
+hand / arm: hurt: N
+hand / arm: blanket: 3
+hand / arm: uncle: 2
+hand / arm: person: 3
+hand / arm: her: N
+hand / arm: child's own name: N
+hand / arm: could: N
+hand / arm: their: N
+hand / arm: animal: 3
+hand / arm: wanna: N
+hand / arm: that: N
+hand / arm: knee: 3
+hand / arm: wind: N
+hand / arm: fix: N
+hand / arm: bird: 2
+hand / arm: want to: N
+hand / arm: hat: 2
+hand / arm: build: 3
+hand / arm: black: N
+hand / arm: can (auxiliary): N
+hand / arm: raisin: 2
+hand / arm: sleep: N
+hand / arm: plant: 2
+hand / arm: garbage: 2
+hand / arm: push: 3
+hand / arm: with: N
+hand / arm: is: N
+hand / arm: down: N
+hand / arm: lamb: 2
+hand / arm: glue: 2
+hand / arm: deer: 2
+hand / arm: tractor: 2
+hand / arm: gum: 2
+hand / arm: gas station: 1
+hand / arm: help: 3
+hand / arm: cup: 3
+hand / arm: tickle: 3
+hand / arm: walker: 3
+hand / arm: snowsuit: 2
+hand / arm: so big: 3
+hand / arm: gonna: N
+hand / arm: wish: N
+hand / arm: thirsty: N
+hand / arm: bye: N
+hand / arm: knife: 3
+hand / arm: which: N
+hand / arm: kick: 3
+hand / arm: camping: 2
+hand / arm: work (action): 3
+hand / arm: hear: 3
+hand / arm: sleepy: N
+hand / arm: flower: 2
+hand / arm: were: N
+hand / arm: corn: 2
+hand / arm: nice: N
+hand / arm: sweater: 2
+hand / arm: puppy: 3
+hand / arm: face: 3
+hand / arm: popsicle: 3
+hand / arm: owie: N
+hand / arm: tonight: N
+hand / arm: feed: 3
+hand / arm: house: 3
+hand / arm: belt: 2
+hand / arm: vacuum: 2
+hand / arm: yesterday: N
+hand / arm: trash: 2
+hand / arm: downtown: 1
+hand / arm: mouse: 2
+hand / arm: it: N
+hand / arm: bead: 2
+hand / arm: going to: N
+hand / arm: stone: 2
+hand / arm: hold: 3
+hand / arm: chicken (food): 3
+hand / arm: ball: 3
+hand / arm: fine: N
+hand / arm: try to: N
+hand / arm: stove: 3
+hand / arm: watch (object): 3
+hand / arm: necklace: 2
+hand / arm: scissors: 3
+hand / arm: boo boo: N
+hand / arm: spoon: 3
+hand / arm: asleep: N
+hand / arm: balloon: 2
+hand / arm: first: N
+hand / arm: buy: 2
+hand / arm: did ya: N
+hand / arm: old: N
+hand / arm: party: 3
+hand / arm: stick: 3
+hand / arm: kleenex: 2
+hand / arm: and: N
+hand / arm: last: N
+hand / arm: milk: 3
+hand / arm: bean: 2
+hand / arm: does: N
+hand / arm: food: N
+hand / arm: blue: N
+hand / arm: much: N
+hand / arm: pretzel: 2
+hand / arm: broken: 2
+hand / arm: after: N
+hand / arm: boat: 2
+hand / arm: foot:

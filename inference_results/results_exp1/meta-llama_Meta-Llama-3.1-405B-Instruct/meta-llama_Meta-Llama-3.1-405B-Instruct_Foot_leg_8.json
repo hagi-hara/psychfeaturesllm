@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-5b07623bc2284341b14b35ddf4dc281b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "stuck: 4\nwatch (action): 1\nhurry: 4\nclose: 2\ndrive: 2\nwipe: 1\ntake: 1\ncatch: 2\nchase: 4\nswing (action): 3\njump: 4\nrun: 5\nwalk: 4\nturn around: 2\ncarry: 2\nsplash: 2\nslide (action): 3\nkick: 4\npush: 2\nfix: 1\nbuild: 1\nhelp: 1\nhold: 1\ntry to: 2\nshake: 2\ndance: 3\nclimb: 3\nsweep: 1\nstand: 2\npull: 2\nskate: 2\nget: 2\nbring: 2\ngo: 4\ndraw: 1\ntouch: 1\npick: 1\nsit: 2\nclap: 2\nwait: 1\nthrow: 2\nslide (action): 3\ndrop: 1\nhit: 2 \nstep: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723602349,
+  "model": "meta-llama/Meta-Llama-3.1-405B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 240,
+    "prompt_tokens": 1950,
+    "total_tokens": 2190,
+    "estimated_cost": 0.005912999999999999
+  }
+}

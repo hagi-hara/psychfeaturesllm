@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-9vmH1CxoPewzBphij1PnA4CcXGNo9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "sensation: 4",
+        "refusal": null,
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1723557287,
+  "model": "gpt-4o-mini-2024-07-18",
+  "object": "chat.completion",
+  "system_fingerprint": "fp_48196bc67a",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 1901,
+    "total_tokens": 1906
+  }
+}

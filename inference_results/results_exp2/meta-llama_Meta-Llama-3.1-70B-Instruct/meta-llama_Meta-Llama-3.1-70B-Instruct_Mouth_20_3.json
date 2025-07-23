@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-0ad5bbc9420a42648ca81814efa0c37c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to mouth/throat:\n\nchurch: 0.5\nwrite: 0.2\ncatch: 0.8\nlion: 0.5\nstay: 0.3\nlady: 0.4\nstick: 1.2\nwindow: 0.2\nhat: 0.2\nfix: 0.5\nsheep: 0.6\nbring: 0.8\nyard: 0.3\nhair: 0.2\nmommy: 1.2\nbad: 0.8\ntoast: 4.2\nsticky: 2.5\nfriend: 0.8\ncrib: 0.4\nhigh: 0.6\ncup: 3.5\nbreak: 0.8\ntiny: 0.4\nfood: 4.5\nmonkey: 1.2\nbottle: 3.8\ntrain: 0.6\nheavy: 0.4\nparty: 2.5\nopen: 1.5\nboat: 0.8\ncarry: 0.8\nget: 1.2\nstrawberry: 4.8\nmoney: 0.6\nspoon: 3.5\ncry: 1.8\nwill: 0.8\ntaste: 4.5\nclap: 0.8\nbrown: 0.4\njacket: 0.2\nbowl: 3.2\nlollipop: 4.5\npumpkin: 3.8\ntuna: 3.5\ndress: 0.4\nfeed: 2.5\ndark: 0.6\nsink: 0.8\negg: 3.2\nshake: 2.2\nhand: 0.8\nsister: 0.8\nelephant: 1.2\ndrawer: 0.4\ngive: 1.2\ncoat: 0.4\ncountry: 0.6\nmedicine: 2.5\ndump: 0.8\nstore: 0.8\nfit: 0.8\nthrow: 1.2\nrun: 0.8\nschool: 0.6\nice: 3.2\napple: 4.5\ntruck: 0.6\nback: 0.4\nglass: 2.5\nbasket: 0.8\nbunny: 1.2\nhorse: 1.2\npuzzle: 0.4\npresent: 0.8\nleg: 0.2\ntry: 0.8\nboots: 0.4\nzebra: 1.2\nswim: 0.8\nuncle: 0.8\ntray: 2.2\npicture: 0.4\nshower: 0.8\nsquirrel: 1.2\nsnow: 0.4\nraisin: 3.5\nknock: 0.8\npudding: 4.2\nzoo: 1.2\ngirl: 0.8\nthink: 0.4\nshow: 1.2\ngarage: 0.4\nscissors: 0.2\nwindy: 0.4\neye: 0.2\nsalt: 2.2\ntear: 1.2\ncute: 0.8\nflag: 0.4\ntake: 0.8\nnail: 0.2\nwet: 0.6\nhamburger: 4.5\ndance: 1.2\nbook: 0.4\nbug: 0.6\nbat: 0.6\nfine: 0.8\nbrush: 0.4\nlick: 3.5\nbrother: 0.8\nlamp: 0.4\nhead: 0.4\nbelt: 0.2\npretend: 0.8\ndraw: 0.4\nsoda: 4.2\ncow: 1.2\nmovie: 0.8\nsmile: 1.2\nplant: 0.4\ndoor: 0.4\ntongue: 2.5\nrooster: 1.2\nkick: 0.8\nhit: 0.8\nchair: 0.4\nbird: 1.2\nnight: 0.6\nfork: 3.2\nbib: 2.2\npretzel: 4.2\nmouse: 1.2\nday: 0.6\nchalk: 0.4\nperson: 0.8\nsoft: 0.4\nlook: 0.4\nride: 0.8\npark: 0.6\ndinner: 4.5\npen: 0.4\nmake: 0.8\ntape: 0.4\nfull: 1.2\nclown: 1.2\nporch: 0.4\npony: 1.2\ntoe: 0.2\ngum: 4.2\nwait: 0.8\npretty: 0.8\nwolf: 1.2\nbed: 0.6\nsick: 1.2\narm: 0.4\nhard: 0.6\nhappy: 1.2\npaper: 0.4\nslipper: 0.4\nfarm: 0.8\nsled: 0.6\nspaghetti: 4.5\nhurt: 1.2\nsay: 1.2\nradio: 0.6\nmorning: 0.8\nslow: 0.6\ntummy: 1.2\nwalk: 0.8\ngoose: 1.2\nshirt: 0.4\nstove: 0.8\nroof: 0.4\nboy: 0.8\nchin: 0.6\ngentle: 0.8\nblock: 0.4\npotato: 3.2\naunt: 0.8\nhen: 1.2\nstand: 0.8\nstar: 0.4\nmoose: 1.2\ngiraffe: 1.2\ndo: 0.8\nsneaker: 0.4\ncake: 4.5\npants: 0.4\nhammer: 0.6\nroom: 0.6\nshoe: 0.4\ntime: 0.6\nawake: 0.8\nshare: 0.8\nballoon: 1.2\nscarf: 0.4\nstone: 0.4\nbroken: 0.8\nbox: 0.4\ntowel: 0.8\nkitchen: 0.8\ntouch: 0.8\nfirst: 0.6\nplay: 0.8\neat: 4.5\ncover: 0.8\nchild: 0.8\ngarden: 0.6\njar: 2.2\nwake: 0.8\nhear: 0.4\nsoup: 4.2\nsplash: 1.2\nasleep: 0.8\nhelp: 0.8\nmad: 1.2\ndiaper: 0.8\ntired: 1.2\ncheek: 0.6\nspill: 1.2\npenny: 0.4\nrip: 0.6\nsee: 0.4\nwhite: 0.4\nplate: 3.2\nfinger: 0.4\nowl: 1.2\nskate: 0.6\nhungry: 2.5\nred: 0.4\nfinish: 0.8\nlittle: 0.6\ndog: 1.2\nshoulder: 0.4\ncookie: 4.5\nturkey: 3.8\ntissue: 1.2\njelly: 4.2\nsweater: 0.4\nbus: 0.6\nquiet: 0.6\nclimb: 0.8\nbeach: 0.6\npillow: 0.6\ncold: 0.8\nbump: 0.8\npuppy: 1.2\npeople: 0.8\npickle: 3.2\nyellow: 0.4\ncook: 2.5\nnap: 0.8\nwipe: 0.8\nput: 0.8\ncandy: 4.5\nwish: 0.8\nrain: 0.6\nstroller: 0.6\nsprinkler: 0.6\ncloud: 0.4\nclose: 0.8\ncomb: 0.4\ngame: 0.8\nyogurt: 4.2\nnurse: 0.8\nteacher: 0.8\nsing: 1.2\nsnack: 4.2\nempty: 0.8\nduck: 1.2\ntickle: 1.2\nblue: 0.4\nknee: 0.4\ndirty: 0.8\nother: 0.6\nsock: 0.4\nstreet: 0.6\nthirsty: 2.2\nmoon: 0.4\ndrive: 0.8\ntractor: 0.6\ndryer: 0.4\nant: 0.6\nhate: 1.2\nstory: 0.8\nsoap: 0.8\nchase: 1.2\nsun: 0.6\ngreen: 0.4\nrefrigerator: 0.8\nbuild: 0.8\nface: 0.8\nfall: 0.8\nbroom: 0.4\nanimal: 1.2\nblanket: 0.6\nnice: 0.8\nrock: 0.4\npaint: 0.4\ngood: 0.8\nwind: 0.6\ntable: 0.8\nsweep: 0.8\npicnic: 2.2\nmeow: 1.2\ncracker: 4.2\nturtle: 1.2\nman: 0.8\ntoy: 0.8\npenguin: 1.2\nbig: 0.6\nshovel: 0.6\ncar: 0.8\nladder: 0.6\ndeer: 1.2\npoor: 0.8\nwould: 0.8\nmouth: 4.5\near: 0.4\ntooth: 2.2\nsauce: 3.5\nmop: 0.4\nnew: 0.6\nread: 0.4\nsad: 1.2\nbench: 0.6\ntiger: 1.2\nankle: 0.4\nbasement: 0.4\ncamera: 0.4\npurse: 0.4\nflower: 0.6\ndaddy: 0.8\nvacuum: 0.4\ntalk: 1.2\npush: 0.8\nnapkin: 2.2\nlike: 0.8\ncouch: 0.6",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989610,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2556,
+    "prompt_tokens": 1647,
+    "total_tokens": 4203,
+    "estimated_cost": 0.00140121
+  }
+}

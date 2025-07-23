@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-f97a8c62744d43dfac441c06815dde79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to foot / leg:\n\nwet: 2\nballoon: 0\npick: 1\nsky: 0\nglass: 0\nshare: 0\nbath: 2\nbrush: 0\ncereal: 0\nride: 3\nschool: 2\nnoisy: 0\nraisin: 0\ntaste: 0\nheavy: 1\ntickle: 1\nbrother: 0\nbuy: 0\nopen: 0\nblanket: 1\nshovel: 2\nred: 0\ntake: 0\npumpkin: 0\nbite: 0\nbug: 0\ndrive: 3\nchild: 0\npig: 0\nhit: 1\ngum: 0\nowl: 0\nold: 0\nlunch: 0\nelephant: 0\nzipper: 0\nbasket: 0\nwipe: 0\nkick: 4\nmilk: 0\nblack: 0\ntree: 0\ncat: 0\nslipper: 4\nhungry: 0\nhose: 1\nchin: 0\npickle: 0\npolice: 0\ntime: 0\npony: 0\ntongue: 0\ntoast: 0\nbuild: 2\nteacher: 0\nwake: 0\ntrain: 2\nhead: 0\nbutter: 0\nlook: 0\nsink: 0\nclap: 1\nfirst: 0\nstar: 0\nrooster: 0\nbread: 0\nbottle: 0\ntable: 0\nradio: 0\npicture: 0\nsofa: 1\npizza: 0\ndump: 1\ntummy: 0\nparty: 0\npenguin: 0\nchair: 1\ngarbage: 0\ncow: 0\nhard: 1\nbeach: 3\ndirty: 1\nbe: 0\nhold: 0\nsit: 2\nbucket: 1\ntruck: 2\nscissors: 0\ndinner: 0\nlion: 0\nbib: 0\nchalk: 0\nhome: 0\nawake: 0\nshower: 2\ncake: 0\npotato: 0\nthrow: 2\njacket: 1\nstand: 3\ntowel: 1\ntractor: 2\ncold: 0\nstay: 0\nsplash: 2\nhide: 0\nplate: 0\nempty: 0\narm: 0\npull: 2\nknock: 1\ncut: 1\npudding: 0\ncoke: 0\neye: 0\nsoup: 0\nbreakfast: 0\nkitchen: 0\npuppy: 0\nboat: 2\npicnic: 2\npretzel: 0\nknee: 3\nbox: 0\ngive: 0\nstick: 1\nmoose: 0\nlamp: 0\nmouse: 0\ndiaper: 0\nbroken: 1\nmonkey: 0\nstory: 0\njuice: 0\nback: 2\ndress: 0\nlick: 0\nwindy: 1\ntissue: 0\nsock: 4\nwalk: 4\negg: 0\nbig: 0\nbelt: 2\nlisten: 0\nsalt: 0\nclimb: 3\ncloset: 0\nbowl: 0\nlove: 0\nwash: 1\ndish: 0\ndance: 2\nporch: 1\nyard: 2\nplay: 2\ncountry: 1\nmoney: 0\nant: 0\nstone: 1\nsmile: 0\ncircus: 0\ntiger: 0\nday: 0\nbutton: 0\nnaughty: 0\npencil: 0\nclown: 0\nsad: 0\nsandwich: 0\nbench: 1\nsled: 2\nfood: 0\ncup: 0\nstore: 0\ncandy: 0\nrun: 4\ngiraffe: 0\nankle: 3\ndo: 0\nwill: 0\nkiss: 0\ncrib: 0\nsprinkler: 1\nwindow: 0\nleg: 5\nsoap: 1\nsweep: 2\nsister: 0\nsweater: 0\nbird: 0\nhand: 0\nfix: 1\nfork: 0\nblock: 1\ncover: 0\npretend: 0\nbed: 1\nsee: 0\nfinish: 0\npour: 0\nhouse: 0\nfit: 2\nbump: 2\nput: 0\nroof: 1\nnew: 0\nfall: 3\nstroller: 2\nalligator: 0\nlittle: 0\ntouch: 0\nuncle: 0\nhelp: 0\nrain: 1",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989561,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1174,
+    "prompt_tokens": 2292,
+    "total_tokens": 3466,
+    "estimated_cost": 0.00099676
+  }
+}

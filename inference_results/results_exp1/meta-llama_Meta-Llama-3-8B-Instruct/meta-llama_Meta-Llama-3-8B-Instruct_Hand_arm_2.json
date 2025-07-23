@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-12ab68dc2a684ab78b058b68da912dcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the action \"put\" using the part of the body \"hand / arm\":\n\nput: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560445,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 25,
+    "prompt_tokens": 1950,
+    "total_tokens": 1975,
+    "estimated_cost": 0.00011850000000000001
+  }
+}

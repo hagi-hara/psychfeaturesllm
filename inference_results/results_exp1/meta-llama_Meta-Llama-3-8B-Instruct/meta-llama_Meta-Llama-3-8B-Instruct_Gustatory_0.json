@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-bab4cd180cce465bb9d24f0727ee1d0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for tasting:\n\napple: 5\nbanana: 5\ncookie: 5\nfish (food): 5\ngreen beans: 5\nmeat: 5\npickle: 5\npopcorn: 5\nraisin: 5\nsauce: 5\ntuna: 5\nyogurt: 5\ncake: 4\ncereal: 4\nchocolate: 4\ndonut: 4\neggs: 4\nfish (animal): N\nFrench fries: 4\ngrape: 4\nhamburger: 4\nice cream: 4\njuice: 4\nmilk: 4\nmuffin: 4\nnut: 4\norange (food): 4\npeanut butter: 4\npizza: 4\npopsicle: 4\npotato: 4\npotato chip: 4\npretzel: 4\nsandwich: 4\nsoup: 4\nspaghetti: 4\nstrawberry: 4\ntoothbrush: N\nvitamins: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560448,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 239,
+    "prompt_tokens": 1936,
+    "total_tokens": 2175,
+    "estimated_cost": 0.0001305
+  }
+}

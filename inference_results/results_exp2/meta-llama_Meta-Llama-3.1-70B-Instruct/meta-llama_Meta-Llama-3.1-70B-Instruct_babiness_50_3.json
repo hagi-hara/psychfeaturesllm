@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-415fd45d0a214efdb97abe53bfd0d7bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "wet: 4\nballoon: 2\npick: 2\nsky: 1\nglass: 1\nshare: 5\nbath: 8\nbrush: 6\ncereal: 4\nride: 4\nschool: 2\nnoisy: 2\nraisin: 1\ntaste: 3\nheavy: 2\ntickle: 8\nbrother: 7\nbuy: 2\nopen: 2\nblanket: 7\nshovel: 1\nred: 2\ntake: 3\npumpkin: 2\nbite: 4\nbug: 1\ndrive: 1\nchild: 9\npig: 2\nhit: 2\ngum: 1\nowl: 1\nold: 2\nlunch: 4\nelephant: 2\nzipper: 2\nbasket: 4\nwipe: 6\nkick: 5\nmilk: 8\nblack: 2\ntree: 1\ncat: 2\nslipper: 5\nhungry: 6\nhose: 1\nchin: 5\npickle: 1\npolice: 1\ntime: 2\npony: 4\ntongue: 5\ntoast: 4\nbuild: 2\nteacher: 4\nwake: 6\ntrain: 2\nhead: 5\nbutter: 4\nlook: 4\nsink: 2\nclap: 6\nfirst: 5\nstar: 2\nrooster: 1\nbread: 4\nbottle: 8\ntable: 3\nradio: 1\npicture: 4\nsofa: 2\npizza: 2\ndump: 1\ntummy: 8\nparty: 5\npenguin: 2\nchair: 2\ngarbage: 1\ncow: 2\nhard: 2\nbeach: 2\ndirty: 2\nbe: 3\nhold: 5\nsit: 4\nbucket: 4\ntruck: 2\nscissors: 2\ndinner: 4\nlion: 2\nbib: 9\nchalk: 2\nhome: 4\nawake: 6\nshower: 5\ncake: 4\npotato: 2\nthrow: 4\njacket: 4\nstand: 4\ntowel: 6\ntractor: 2\ncold: 2\nstay: 5\nsplash: 5\nhide: 4\nplate: 4\nempty: 2\narm: 5\npull: 4\nknock: 2\ncut: 2\npudding: 4\ncoke: 1\neye: 5\nsoup: 4\nbreakfast: 4\nkitchen: 3\npuppy: 6\nboat: 2\npicnic: 4\npretzel: 2\nknee: 5\nbox: 3\ngive: 5\nstick: 4\nmoose: 1\nlamp: 2\nmouse: 2\ndiaper: 10\nbroken: 2\nmonkey: 2\nstory: 5\njuice: 6\nback: 5\ndress: 5\nlick: 6\nwindy: 2\ntissue: 6\nsock: 5\nwalk: 4\negg: 4\nbig: 5\nbelt: 2\nlisten: 4\nsalt: 2\nclimb: 3\ncloset: 2\nbowl: 4\nlove: 7\nwash: 6\ndish: 3\ndance: 5\nporch: 2\nyard: 2\nplay: 8\ncountry: 2\nmoney: 1\nant: 1\nstone: 1\nsmile: 6\ncircus: 3\ntiger: 2\nday: 3\nbutton: 4\nnaughty: 6\npencil: 3\nclown: 3\nsad: 4\nsandwich: 4\nbench: 2\nsled: 2\nfood: 4\ncup: 5\nstore: 2\ncandy: 4\nrun: 4\ngiraffe: 2\nankle: 4\ndo: 3\nwill: 2\nkiss: 7\ncrib: 10\nsprinkler: 2\nwindow: 2\nleg: 5\nsoap: 5\nsweep: 2\nsister: 8\nsweater: 5\nbird: 2\nhand: 6\nfix: 3\nfork: 4\nblock: 4\ncover: 4\npretend: 8\nbed: 7\nsee: 4\nfinish: 3\npour: 4\nhouse: 3\nfit: 4\nbump: 5\nput: 4\nroof: 2\nnew: 4\nfall: 2\nstroller: 9\nalligator: 1\nlittle: 8\ntouch: 7\nuncle: 6\nhelp: 6\nrain: 2",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989560,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1159,
+    "prompt_tokens": 2252,
+    "total_tokens": 3411,
+    "estimated_cost": 0.00098156
+  }
+}

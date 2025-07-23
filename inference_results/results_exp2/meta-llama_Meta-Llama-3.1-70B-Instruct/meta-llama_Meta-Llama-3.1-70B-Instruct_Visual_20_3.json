@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-70f4bae9d5e840cd8fa84147d205f2f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "church: 4.50\nwrite: 2.00\ncatch: 3.50\nlion: 4.75\nstay: 2.50\nlady: 4.25\nstick: 3.75\nwindow: 4.75\nhat: 4.50\nfix: 3.25\nsheep: 4.25\nbring: 2.75\nyard: 4.50\nhair: 4.25\nmommy: 4.50\nbad: 2.00\ntoast: 3.75\nsticky: 3.50\nfriend: 2.75\ncrib: 4.25\nhigh: 2.50\ncup: 4.25\nbreak: 3.00\ntiny: 2.50\nfood: 3.75\nmonkey: 4.50\nbottle: 4.25\ntrain: 4.75\nheavy: 2.75\nparty: 3.50\nopen: 3.00\nboat: 4.50\ncarry: 3.25\nget: 2.75\nstrawberry: 4.25\nmoney: 4.00\nspoon: 4.25\ncry: 2.50\nwill: 1.75\ntaste: 1.50\nclap: 2.50\nbrown: 4.00\njacket: 4.25\nbowl: 4.25\nlollipop: 4.25\npumpkin: 4.25\ntuna: 3.75\ndress: 4.25\nfeed: 3.25\ndark: 2.75\nsink: 4.25\negg: 4.25\nshake: 3.00\nhand: 4.25\nsister: 4.25\nelephant: 4.75\ndrawer: 4.25\ngive: 2.75\ncoat: 4.25\ncountry: 4.25\nmedicine: 4.00\ndump: 3.75\nstore: 4.50\nfit: 2.75\nthrow: 3.25\nrun: 3.50\nschool: 4.75\nice: 4.25\napple: 4.50\ntruck: 4.75\nback: 3.25\nglass: 4.50\nbasket: 4.25\nbunny: 4.50\nhorse: 4.75\npuzzle: 3.75\npresent: 4.25\nleg: 4.00\ntry: 2.50\nboots: 4.25\nzebra: 4.75\nswim: 3.75\nuncle: 4.00\ntray: 4.25\npicture: 4.50\nshower: 4.25\nsquirrel: 4.50\nsnow: 4.75\nraisin: 3.75\nknock: 2.75\npudding: 3.75\nzoo: 4.75\ngirl: 4.50\nthink: 1.75\nshow: 4.25\ngarage: 4.50\nscissors: 4.25\nwindy: 3.00\neye: 4.50\nsalt: 3.75\ntear: 2.50\ncute: 2.75\nflag: 4.25\ntake: 2.75\nnail: 3.75\nwet: 2.75\nhamburger: 4.25\ndance: 3.50\nbook: 4.50\nbug: 4.00\nbat: 4.00\nfine: 2.00\nbrush: 4.00\nlick: 2.50\nbrother: 4.25\nlamp: 4.50\nhead: 4.50\nbelt: 4.00\npretend: 2.50\ndraw: 3.25\nsoda: 4.25\ncow: 4.50\nmovie: 4.50\nsmile: 2.75\nplant: 4.25\ndoor: 4.75\ntongue: 4.00\nrooster: 4.25\nkick: 3.00\nhit: 3.00\nchair: 4.75\nbird: 4.50\nnight: 3.75\nfork: 4.25\nbib: 4.00\npretzel: 3.75\nmouse: 4.25\nday: 4.25\nchalk: 4.00\nperson: 4.50\nsoft: 2.50\nlook: 2.75\nride: 3.75\npark: 4.75\ndinner: 4.25\npen: 4.25\nmake: 2.75\ntape: 3.75\nfull: 2.50\nclown: 4.25\nporch: 4.50\npony: 4.50\ntoe: 4.00\ngum: 3.75\nwait: 2.50\npretty: 2.75\nwolf: 4.50\nbed: 4.75\nsick: 2.50\narm: 4.25\nhard: 2.50\nhappy: 2.50\npaper: 4.25\nslipper: 4.25\nfarm: 4.50\nsled: 4.25\nspaghetti: 4.00\nhurt: 2.50\nsay: 1.75\nradio: 4.25\nmorning: 4.25\nslow: 2.50\ntummy: 3.75\nwalk: 3.50\ngoose: 4.50\nshirt: 4.50\nstove: 4.50\nroof: 4.75\nboy: 4.50\nchin: 4.00\ngentle: 2.50\nblock: 4.25\npotato: 4.00\naunt: 4.25\nhen: 4.25\nstand: 3.75\nstar: 4.75\nmoose: 4.75\ngiraffe: 4.75\ndo: 1.75\nsneaker: 4.50\ncake: 4.50\npants: 4.50\nhammer: 4.25\nroom: 4.75\nshoe: 4.75\ntime: 2.75\nawake: 2.50\nshare: 2.50\nballoon: 4.25\nscarf: 4.25\nstone: 4.25\nbroken: 3.00\nbox: 4.50\ntowel: 4.25\nkitchen: 4.75\ntouch: 2.00\nfirst: 2.50\nplay: 3.50\neat: 3.75\ncover: 3.50\nchild: 4.50\ngarden: 4.75\njar: 4.25\nwake: 2.50\nhear: 1.50\nsoup: 4.00\nsplash: 3.75\nasleep: 2.50\nhelp: 2.50\nmad: 2.00\ndiaper: 4.25\ntired: 2.50\ncheek: 4.00\nspill: 3.00\npenny: 4.00\nrip: 2.75\nsee: 2.00\nwhite: 4.50\nplate: 4.50\nfinger: 4.25\nowl: 4.50\nskate: 4.25\nhungry: 2.50\nred: 4.50\nfinish: 2.75\nlittle: 2.50\ndog: 4.75\nshoulder: 4.00\ncookie: 4.25\nturkey: 4.50\ntissue: 4.25\njelly: 4.00\nsweater: 4.50\nbus: 4.75\nquiet: 2.00\nclimb: 3.50\nbeach: 4.75\npillow: 4.50\ncold: 2.75\nbump: 3.00\npuppy: 4.75\npeople: 4.50\npickle: 4.00\nyellow: 4.50\ncook: 3.75\nnap: 3.25\nwipe: 3.25\nput: 2.75\ncandy: 4.25\nwish: 2.00\nrain: 4.25\nstroller: 4.50\nsprinkler: 4.25\ncloud: 4.75\nclose: 2.75\ncomb: 4.25\ngame: 3.75\nyogurt: 4.00\nnurse: 4.50\nteacher: 4.50\nsing: 2.50\nsnack: 3.75\nempty: 2.50\nduck: 4.50\ntickle: 2.75\nblue: 4.50\nknee: 4.00\ndirty: 2.75\nother: 2.00\nsock: 4.25\nstreet: 4.75\nthirsty: 2.50\nmoon: 4.75\ndrive: 3.75\ntractor: 4.50\ndryer: 4.25\nant: 4.00\nhate: 2.00\nstory: 2.50\nsoap: 4.25\nchase: 3.50\nsun: 4.75\ngreen: 4.50\nrefrigerator: 4.75\nbuild: 3.50\nface: 4.50\nfall: 3.00\nbroom: 4.25\nanimal: 4.50\nblanket: 4.50\nnice: 2.50\nrock: 4.25\npaint: 4.25\ngood: 2.50\nwind: 3.75\ntable: 4.75\nsweep: 3.50\npicnic: 4.50\nmeow: 2.50\ncracker: 4.00\nturtle: 4.50\nman: 4.50\ntoy: 4.50\npenguin: 4.75\nbig: 2.75\nshovel: 4.25\ncar: 4.75\nladder: 4.50\ndeer: 4.75\npoor: 2.50\nwould: 1.75\nmouth: 4.25\near: 4.25\ntooth: 4.25\nsauce: 3.75\nmop: 4.25\nnew: 2.50\nread: 2.75\nsad: 2.00\nbench: 4.50\ntiger: 4.75\nankle: 4.00\nbasement: 4.50\ncamera: 4.50\npurse: 4.50\nflower: 4.50\ndaddy: 4.50\nvacuum: 4.50\ntalk: 2.00\npush: 3.00\nnapkin: 4.25\nlike: 2.00\ncouch: 4.75",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989609,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2541,
+    "prompt_tokens": 1633,
+    "total_tokens": 4174,
+    "estimated_cost": 0.00139199
+  }
+}

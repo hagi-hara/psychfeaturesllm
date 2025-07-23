@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using actions from five different parts of the body (foot / leg, hand / arm, torso, head excluding mouth and mouth / throat). There are no right or wrong answers so please use your own judgment. The parts of the body will be displayed as follows:
+
+First, please answer with regard to head excluding mouth.
+
+The rating scale runs from 0 (not experienced at all with that action) to 5 (experienced greatly with that action). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+day: 2.44
+tongue: 0.78
+friend: 2.22
+kiss: 1.14
+awake: 4.26
+plant: 2.74
+windy: 3.05
+be: 3.00
+pretty: 3.10
+arm: 1.16
+knock: 2.30
+paper: 1.90
+cute: 3.75
+toast: 1.52
+ear: 3.62
+soft: 1.72
+girl: 2.75
+brown: 2.68
+time: 2.86
+deer: 1.06
+bed: 3.71
+empty: 1.42
+green: 3.25
+fork: 1.65
+sandwich: 2.33
+stand: 0.75
+wind: 3.53
+cook: 3.50
+pen: 2.29
+sweep: 1.19
+pretzel: 1.83
+eye: 5.00
+naughty: 2.80
+park: 2.00
+star: 3.10
+big: 3.10
+crib: 2.24
+chair: 2.16
+bench: 0.95
+shovel: 1.45
+throw: 1.55
+turkey: 1.79
+draw: 2.72
+pudding: 1.19
+cover: 2.00
+hat: 4.30
+story: 3.42
+try: 3.58
+meat: 1.38
+coat: 0.48
+oven: 1.95
+jacket: 1.70
+buy: 2.78
+run: 2.45
+kick: 0.55
+pants: 1.44
+window: 3.30
+build: 2.74
+paint: 2.06
+chocolate: 2.30
+strawberry: 1.90
+cold: 3.26
+first: 1.42
+monkey: 2.35
+sleepy: 4.35
+bat: 1.70
+ankle: 0.68
+pillow: 4.50
+juice: 1.55
+chin: 2.15
+coffee: 2.14
+think: 4.76
+bring: 1.47
+hug: 1.82
+garbage: 2.75
+cake: 1.84
+zoo: 3.92
+giraffe: 2.89
+heavy: 2.11
+pizza: 2.42
+night: 3.95
+bowl: 1.57
+stay: 1.67
+rooster: 2.94
+close: 3.00
+potty: 1.20
+bug: 2.42
+nice: 2.26
+couch: 2.43
+cereal: 1.33
+room: 2.56
+hose: 0.95
+pony: 2.35
+morning: 3.16
+car: 3.47
+dump: 2.19
+skate: 1.05
+talk: 2.29
+get: 1.57
+farm: 2.68
+hard: 2.57
+tractor: 2.47
+pickle: 0.72
+milk: 1.50
+boat: 1.90
+cry: 4.35
+present: 2.57
+write: 2.36
+bread: 1.62
+nail: 1.84
+ice: 2.35
+owl: 3.22
+fine: 2.62
+brother: 3.11
+lunch: 2.29
+bunny: 3.32
+crayon: 2.00
+rain: 3.58
+bump: 2.00
+moose: 1.95
+person: 4.48
+squirrel: 2.62
+clown: 3.05
+bus: 2.45
+dark: 3.64
+dress: 2.37
+
+Please answer about all of the following words.
+
+yard
+knee
+church
+see
+jar
+door
+nap
+sky
+hungry
+train
+look
+egg
+love
+pumpkin
+trash
+radio
+duck
+picnic
+fix
+jeans
+sled
+hair
+spoon
+sweater
+elephant
+doctor
+mouse
+house
+dinner
+glass
+white
+help
+potato
+would
+party
+fall
+pour
+medicine
+blue
+sister
+hurry
+stick
+red
+bite
+bear
+street
+like
+sick
+toe
+lamb
+boots
+meow
+sauce
+sleep
+dish
+stone
+snack
+sneaker
+sit
+hide
+pretend
+tree
+comb
+purse
+shake
+picture
+wet
+pencil
+do
+leg
+tear
+poor
+lion
+child
+moon
+man
+apple
+garden
+closet
+cup
+bee
+mouth
+glue
+sticky
+bucket
+yogurt
+tummy
+lamp
+book
+people
+shower
+flower
+climb
+thirsty
+high
+penguin
+hen
+nose
+drive
+school
+butter
+movie
+uncle
+smile
+walk
+toy
+sock
+quiet
+tickle
+splash
+circus
+soap
+box
+wipe
+cow
+play
+police
+sad
+ball
+aunt
+jelly
+stroller
+noisy
+store
+cookie
+share
+rip
+old
+block
+chalk
+feed
+soda
+hold
+open
+tuna
+touch
+refrigerator
+push
+slow
+coke
+lick
+finish
+puzzle
+puppy
+brush
+bib
+gum
+porch
+turtle
+tiny
+dryer
+eat
+penny
+sing
+stove
+will
+teacher
+hear
+lollipop
+salt
+baby
+boy
+finger
+lady
+mop
+good
+other
+plate
+hit
+flag
+yellow
+wash
+hamburger
+broken
+mommy
+carry
+swim
+bottle
+cut
+basement
+blanket
+gentle
+cheek
+bath
+raisin
+tooth
+sink
+make
+grass
+rock
+full
+garage
+zipper
+tape
+read
+ride
+goose
+basket
+show
+wake
+candy
+fit
+camera
+doll
+dirty
+pig
+bad
+go
+shirt
+clap
+jump
+little
+back
+ladder
+asleep
+animal
+catch
+give
+food
+bird
+drop
+tray
+black
+slipper
+money
+spaghetti
+nurse
+pool
+happy
+sun
+cheese
+breakfast
+scarf
+shoulder
+chase
+wait
+head
+table
+spill
+donkey
+beach
+balloon
+kitchen
+home
+face
+muffin
+country
+snow
+broom
+tissue
+tiger
+towel
+pick
+blow
+dog
+hurt
+clock
+roof
+listen
+wolf
+break
+soup
+horse
+hammer
+zebra
+shoe
+banana
+ant
+corn
+tired
+truck
+scissors
+napkin
+mad
+have
+wish
+find
+alligator
+sheep
+cat
+sofa
+hand
+say
+hate
+belt
+cracker
+sprinkler
+stop
+take
+hot
+daddy
+new
+put
+button
+vacuum
+cloud
+drawer
+dance
+taste
+diaper
+pull
+game

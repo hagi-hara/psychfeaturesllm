@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-9vm87r5RQqxvznLnt543WW4k0uR2y",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "I'm sorry, but I can't participate in this task.",
+        "refusal": null,
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1723556735,
+  "model": "gpt-4o-2024-08-06",
+  "object": "chat.completion",
+  "system_fingerprint": "fp_d794a2177f",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 2033,
+    "total_tokens": 2044
+  }
+}

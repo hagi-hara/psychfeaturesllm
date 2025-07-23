@@ -1,0 +1,464 @@
+Here are the ratings for the hand / arm actions:
+
+* wipe: 5
+* sing: N
+* ice cream: N
+* mine: N
+* babysitter: N
+* TV: N
+* hurt: N
+* scissors: 5
+* under: N
+* nurse: N
+* nail: 5
+* go: N
+* tooth: N
+* picture: N
+* beside: N
+* stay: N
+* lemm: N
+* garbage: N
+* much: N
+* sofa: N
+* hide: 5
+* eye: N
+* cake: N
+* broken: N
+* better: N
+* cookie: N
+* naughty: N
+* car: N
+* why: N
+* doctor: N
+* meat: N
+* jar: N
+* slide (object): N
+* be: N
+* porch: N
+* sweater: N
+* kick: N
+* fit: N
+* donut: N
+* chin: N
+* him: N
+* water (beverage): N
+* hurry: N
+* pig: N
+* call: N
+* could: N
+* babysitter's name: N
+* go potty: N
+* hear: N
+* peekaboo: N
+* touch: 5
+* gas station: N
+* mailman: N
+* jacket: N
+* pajamas: N
+* slide (action): N
+* paper: N
+* will: N
+* yes: N
+* vacuum: N
+* tiny: N
+* fine: N
+* got to: N
+* rip: 5
+* shopping: N
+* can (object): N
+* popcorn: N
+* glue: N
+* chair: N
+* tummy: N
+* sock: N
+* cook: N
+* cockadoodledoo: N
+* goose: N
+* stove: N
+* sky: N
+* empty: N
+* wanna: N
+* child's own name: N
+* have: N
+* wish: N
+* they: N
+* yard: N
+* uh oh: N
+* wind: N
+* bird: N
+* sidewalk: N
+* bread: N
+* lip: N
+* try to: N
+* hamburger: N
+* hammer: N
+* swim: N
+* watch (action): N
+* washing machine: N
+* ride: N
+* applesauce: N
+* share: N
+* have to: N
+* poor: N
+* her: N
+* ladder: N
+* tired: N
+* park: N
+* moon: N
+* drink (beverage): N
+* did: N
+* woof woof: N
+* carrot: N
+* awake: N
+* turn around: N
+* dirty: N
+* drop: N
+* day: N
+* potty: N
+* of: N
+* fix: N
+* people: N
+* night: N
+* dress: N
+* mouse: N
+* what: N
+* next to: N
+* for: N
+* baa baa: N
+* oven: N
+* lion: N
+* tickle: N
+* flower: N
+* hand: 5
+* alligator: N
+* am: N
+* above: N
+* dance: N
+* snow: N
+* think: N
+* pillow: N
+* lunch: N
+* turkey: N
+* bicycle: N
+* bear: N
+* see: N
+* quack quack: N
+* plant: N
+* another: N
+* hate: N
+* pretzel: N
+* penny: N
+* drive: N
+* chicken (animal): N
+* cup: N
+* jump: N
+* would: N
+* bottle: N
+* about: N
+* read: N
+* blue: N
+* there: N
+* open: N
+* spoon: N
+* these: N
+* lollipop: N
+* cheese: N
+* grape: N
+* thank you: N
+* full: N
+* brother: N
+* coat: N
+* wash: N
+* star: N
+* lamp: N
+* my: N
+* cry: N
+* taste: N
+* sprinkler: N
+* zipper: N
+* was: N
+* she: N
+* apple: N
+* knife: N
+* jello: N
+* bad: N
+* glass: N
+* hi: N
+* stairs: N
+* home: N
+* aunt: N
+* raisin: N
+* this: N
+* gum: N
+* country: N
+* head: N
+* hello: N
+* wolf: N
+* duck: N
+* help: N
+* walk: N
+* he: N
+* behind: N
+* want to: N
+* book: N
+* play: N
+* tonight: N
+* basement: N
+* squirrel: N
+* animal: N
+* black: N
+* pen: N
+* stuck: N
+* crib: N
+* dish: N
+* belly button: N
+* feed: N
+* hat: N
+* zoo: N
+* going to: N
+* hard: N
+* bath: N
+* climb: N
+* which: N
+* does: N
+* boots: N
+* pickle: N
+* old: N
+* it: N
+* present: N
+* yellow: N
+* heavy: N
+* carry: N
+* draw: N
+* nose: N
+* hen: N
+* camping: N
+* gonna get you: N
+* jeans: N
+* rooster: N
+* sister: N
+* sandbox: N
+* elephant: N
+* where: N
+* stop: N
+* same: N
+* bucket: N
+* owl: N
+* grandma: N
+* napkin: N
+* can (auxiliary): N
+* french fries: N
+* popsicle: N
+* blanket: N
+* any: N
+* yum yum: N
+* time: N
+* say: N
+* potato: N
+* that: N
+* grass: N
+* hit: N
+* nap: N
+* here: N
+* pumpkin: N
+* belt: N
+* peanut butter: N
+* big: N
+* kleenex: N
+* bench: N
+* garage: N
+* stone: N
+* push: N
+* dog: N
+* bat: N
+* purse: N
+* frog: N
+* orange (food): N
+* soup: N
+* on: N
+* out: N
+* yogurt: N
+* because: N
+* knock: N
+* boo boo: N
+* soap: N
+* hose: N
+* train: N
+* but: N
+* bean: N
+* yesterday: N
+* work (place): N
+* other: N
+* window: N
+* sandwich: N
+* blow: N
+* ball: N
+* butter: N
+* refrigerator: N
+* how: N
+* every: N
+* pony: N
+* after: N
+* asleep: N
+* shoe: N
+* fish (food): N
+* tear: N
+* bottom: N
+* you: N
+* sticky: N
+* sad: N
+* salt: N
+* watch (object): N
+* who: N
+* story: N
+* toothbrush: N
+* butterfly: N
+* stand: N
+* fast: N
+* helicopter: N
+* toe: N
+* airplane: N
+* toy: N
+* mouth: N
+* pretend: N
+* talk: N
+* comb: N
+* your: N
+* bee: N
+* cold: N
+* ice: N
+* rain: N
+* some: N
+* lick: N
+* potato chip: N
+* block: N
+* hold: N
+* snack: N
+* let me: N
+* teddybear: N
+* put: N
+* glove: N
+* teacher: N
+* scared: N
+* clean (description): N
+* fork: N
+* were: N
+* soda: N
+* spill: N
+* high: N
+* no: N
+* and: N
+* meow: N
+* police: N
+* key: N
+* camera: N
+* us: N
+* none: N
+* now: N
+* ear: N
+* tractor: N
+* dinner: N
+* trash: N
+* strawberry: N
+* over: N
+* slipper: N
+* breakfast: N
+* box: N
+* movie: N
+* snowsuit: N
+* pencil: N
+* I: N
+* bump: N
+* broom: N
+* ant: N
+* tissue: N
+* bubble: N
+* sneaker: N
+* them: N
+* stick: N
+* dark: N
+* money: N
+* scarf: N
+* downtown: N
+* shovel: N
+* bunny: N
+* white: N
+* owie: N
+* finger: N
+* pop: N
+* myself: N
+* cracker: N
+* bead: N
+* shush: N
+* high chair: N
+* kitchen: N
+* girl: N
+* work (action): N
+* man: N
+* green beans: N
+* hush: N
+* chase: N
+* zebra: N
+* party: N
+* fireman: N
+* plate: N
+* bye: N
+* cowboy: N
+* so: N
+* kitty: N
+* get: N
+* his: N
+* ankle: N
+* clean (action): N
+* ouch: N
+* backyard: N
+* drawer: N
+* bathroom: N
+* noisy: N
+* puzzle: N
+* kiss: N
+* room: N
+* bring: N
+* basket: N
+* rock: N
+* bite: N
+* living room: N
+* first: N
+* we: N
+* chocolate: N
+* yucky: N
+* tree: N
+* in: N
+* break: N
+* playground: N
+* tiger: N
+* vagina: N
+* play pen: N
+* an: N
+* tape: N
+* nice: N
+* grandpa: N
+* mitten: N
+* drink (action): N
+* back: N
+* farm: N
+* finish: N
+* shh: N
+* pizza: N
+* gentle: N
+* show: N
+* noodle: N
+* up: N
+* cereal: N
+* smile: N
+* bed: N
+* choo choo: N
+* a lot: N
+* find: N
+* so big: N
+* fall: N
+* closet: N
+* moo: N
+* food: N
+* cute: N
+* leg: 5

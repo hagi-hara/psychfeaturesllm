@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJOYl7bJUE39XT9kBdlxPnR6jxFu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "chin: 0.62\nbanana: 0.85\nlamb: 2.15\nflag: 1.00\nstove: 1.25\nspaghetti: 0.53\nswim: 1.41\ngive: 1.85\nclimb: 1.28\nbowl: 0.62\ndo: 1.05\npuppy: 3.15\nthink: 0.89\nbe: 0.92\nwrite: 1.35\nsneaker: 0.45\nbib: 0.22\nplate: 0.68\nstar: 0.36\ndoll: 1.45\nopen: 1.85\ntray: 0.32\npillow: 0.25\nroom: 0.98\nowl: 2.85\nmoney: 1.15\ntractor: 2.18\nasleep: 0.53\nboots: 0.78\ncracker: 0.62\nbrush: 0.38\ncry: 3.15\narm: 0.45\nbreakfast: 1.12\nwish: 1.75\ncat: 3.05\neat: 1.12\ncloset: 0.45\negg: 0.38\nbottle: 0.45\nhurry: 1.75\nsock: 0.32\nscarf: 0.22\nbelt: 0.35\nbox: 0.50\nbroken: 1.05\nshow: 2.25\nwet: 0.95\nrock: 0.56\nstone: 0.45\nsleep: 0.42\njacket: 0.35\nhide: 1.25\nhard: 0.85\nfull: 0.75\noven: 1.25\ncheek: 0.45\nraisin: 0.38\ndog: 3.12\ngreen: 0.32\nride: 1.45\nspoon: 0.35\nzipper: 0.45\ngrass: 0.45\nshirt: 0.32\ncarry: 1.15\napple: 0.45\nbear: 2.85\nsweater: 0.35\nsoft: 0.52\nbath: 1.12\nyogurt: 0.38\ncover: 0.45\njelly: 0.25\nbus: 2.85\nchocolate: 0.35\npaper: 0.35\nsled: 1.45\nsad: 2.15\nbeach: 1.25\nbed: 0.58\ngood: 1.75\nred: 0.32\nfriend: 2.25\nyard: 0.45\nsay: 3.75\nbutter: 0.25\ncountry: 1.85\npush: 1.12\ncatch: 1.85\npig: 2.25\nfork: 0.35\nlick: 0.25\nkiss: 1.85\ndaddy: 1.85\nplay: 2.35\ngarbage: 0.45\nfeed: 0.85\ntape: 0.28\npumpkin: 0.45\nrain: 2.85\nshoe: 0.45\ngirl: 2.25\nblock: 0.45\nmedicine: 0.85\nnew: 0.75\ncereal: 0.35\npaint: 0.45\ncircus: 2.85\nsing: 3.85\ntummy: 0.45\npretty: 1.25\nschool: 2.85\ncorn: 0.45\nshoulder: 0.45\npour: 0.95\ngentle: 1.25\ntiny: 0.45\nnight: 0.45\nbunny: 1.85\nshake: 1.25\npurse: 0.35\nhate: 1.85\nsoap: 0.45\ntable: 0.35\npen: 0.25\nhead: 0.45\npants: 0.35\nheavy: 0.85\ndump: 1.05\nquiet: 1.85\nhammer: 0.45\nmoose: 2.85\nfinger: 0.45\nwind: 1.85\nthrow: 1.25\nsink: 0.32\ncake: 0.35\ntoast: 0.25\nmoon: 0.45\nmouse: 2.85\nhouse: 0.58\nsheep: 2.85\nsick: 1.25\ntaste: 0.75\nstand: 0.85\nlollipop: 0.25\neye: 0.45\nradio: 2.85\nhair: 0.45\nroof: 0.45\ndrop: 1.25\nchild: 1.85\nrip: 1.05\nface: 0.45\nday: 0.45\nnail: 0.25\ncloud: 0.25\ntake: 1.25\nchase: 1.85\nclap: 1.85\nlady: 1.85\nmake: 1.25\nscissors: 0.45\nsplash: 1.25\nsnack: 0.25\njeans: 0.25\nfix: 0.85\nbrown: 0.25\ncook: 1.25\nlove: 1.85\nankle: 0.25\npoor: 1.25\ntoe: 0.25\nchair: 0.25\ntry: 1.25\nthirsty: 0.45\npotty: 0.25\nblanket: 0.35\nfit: 0.85\ngo: 1.25\nnoisy: 2.85\nempty: 0.25\nhigh: 0.45\nhen: 2.85\ncup: 0.25\nmilk: 0.25\nball: 0.35\nfinish: 0.85\nsoup: 0.25\nmouth: 0.45\ngame: 1.85\nlittle: 0.85\nuncle: 2.25\nkitchen: 1.25\nboat: 1.85\nstrawberry: 0.45\ntired: 0.85\nsmile: 1.25\nbreak: 1.25\ntiger: 2.85\nawake: 0.85\nstay: 1.25\nboy: 2.25\npencil: 0.25\nbuild: 1.25\ndoctor: 2.85\nparty: 2.85\npicture: 1.25\nwindow: 1.25\nturkey: 2.85\nhold: 1.25\ncoffee: 0.25\nbutton: 0.25\nslipper: 0.25\nfind: 1.25\njar: 0.25\nyellow: 0.25\nget: 1.25\nmonkey: 2.85\npretzel: 0.25\nhear: 4.75\nlunch: 0.25\nstop: 1.85\nhorse: 3.15\nshare: 1.25\nwait: 1.25\nbat: 1.85\nbread: 0.35\nbroom: 0.45\npudding: 0.25\nbad: 1.25\nwolf: 2.85\nleg: 0.45\npick: 1.25\nman: 1.85\nmorning: 0.85\nsalt: 0.25\nother: 0.85\nbaby: 1.85\nput: 1.25\nknee: 0.45\npresent: 1.85\nshovel: 0.45\nant: 1.85\nskate: 0.85\nsit: 0.85\nmeat: 0.25\nbig: 0.85\nnap: 0.45\nhamburger: 0.25\nstick: 0.45\ncold: 0.45\nsofa: 0.25\nlook: 0.85\ntongue: 0.45\nmommy: 1.85\nstreet: 1.85\nhug: 1.25\nbasket: 0.25\nrun: 1.85\nnapkin: 0.25\nalligator: 2.85\nlamp: 0.25\nhungry: 0.85\nbrother: 2.85\ntear: 1.85\nfirst: 0.85\nperson: 1.85\nfarm: 1.85\nbring: 1.25\nmeow: 2.85\npizza: 0.25\nballoon: 1.25\nfall: 1.25\nice: 0.25\nturtle: 1.85\nclown: 1.85\nglue: 0.25\nzoo: 1.85\ngiraffe: 2.85\nwill: 0.85\nclock: 1.85\ntooth: 0.45\nglass: 0.25\ndiaper: 0.25\ntrash: 0.25\nwalk: 1.25\nhose: 0.25\ntruck: 1.85\nnose: 0.45\ngarden: 0.25\npenny: 0.25\nrefrigerator: 0.25\nstore: 0.85\ndraw: 0.85\nflower: 0.25\nhot: 0.85\ntouch: 0.85\nvacuum: 0.25\nsweep: 0.25\npool: 0.85",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989174,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 2216,
+    "prompt_tokens": 1812,
+    "total_tokens": 4028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

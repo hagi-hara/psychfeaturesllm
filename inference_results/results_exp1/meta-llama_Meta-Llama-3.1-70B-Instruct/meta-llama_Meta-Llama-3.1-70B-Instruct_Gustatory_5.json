@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-14c4914dd7864c43a8525d795795c19d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for tasting:\n\ndinner: 5\nbanana: 5\nlollipop: 5\nmelon: 5\npopcorn: 5\nice cream: 5\njuice: 5\nsandwich: 5\ntoast: 5\npeanut butter: 5\npickle: 5\nraisin: 5\nstrawberry: 5\npancake: 5\npretzel: 5\nchicken (food): 5\nnoodle: 5\nwater (beverage): 5\npumpkin: 5\nturkey: 5\nfrench fries: 5\nhamburger: 5\nmilk: 5\ncheese: 5\norange (food): 5\npizza: 5\ntuna: 5\ncereal: 5\napplesauce: 5\nvitamins: 5\njelly: 5\nbutter: 5\ngrape: 5\ndonut: 5\ncake: 5\ncarrot: 5\nyogurt: 5\nchocolate: 5\npea: 5\npotato chip: 5\ncandy: 5\ncookie: 5\nsauce: 5\nsoup: 5\njello: 5\ntongue: 5\nyum yum: 5\nall other words: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564876,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 300,
+    "prompt_tokens": 1936,
+    "total_tokens": 2236,
+    "estimated_cost": 0.00123172
+  }
+}

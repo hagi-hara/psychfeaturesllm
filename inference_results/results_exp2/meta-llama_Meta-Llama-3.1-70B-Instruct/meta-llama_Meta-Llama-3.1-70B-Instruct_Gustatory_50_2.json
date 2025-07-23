@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-f74d42dcf0134589a7092fdbfbb5d551",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for each word with regard to tasting:\n\nballoon: 0\npull: 0\nopen: 0\nsquirrel: 0\nfinger: 0\nstand: 0\nclimb: 0\ndark: 0\nvacuum: 0\nbanana: 4.50\npuppy: 0\nscissors: 0\nsoft: 0\nhair: 0\nkitchen: 0\ncoke: 4.80\ntummy: 1.50\ncook: 1.00\nchalk: 0\npretend: 0\npoor: 0\nbath: 0\nfeed: 0\npotato: 4.20\nhappy: 0\nbe: 0\nget: 0\nblow: 0\ndiaper: 0\nbat: 0\nbig: 0\nbroken: 0\ntree: 0\npenny: 0\nlamb: 0\npresent: 0\nsheep: 0\ntoy: 0\nhungry: 1.00\nzebra: 0\nmilk: 4.80\nhen: 0\nwrite: 0\nbunny: 0\nshow: 0\ndeer: 0\nhome: 0\ntiger: 0\ncup: 0\nhat: 0\ncold: 0\ndraw: 0\nwake: 0\nhigh: 0\nhead: 0\nstove: 0\nporch: 0\ngirl: 0\nstar: 0\ncry: 0\nwash: 0\npig: 0\ncamera: 0\npicture: 0\nsandwich: 4.50\nsticky: 0\ndrop: 0\nbaby: 0\nsun: 0\nsoup: 4.20\npickle: 4.00\nfind: 0\ntear: 0\nsweater: 0\nhot: 0\nman: 0\nfriend: 0\nlittle: 0\nbreak: 0\nwipe: 0\nsoap: 0\nwhite: 0\nrooster: 0\nmouse: 0\nfine: 0\nlisten: 0\ncatch: 0\nhouse: 0\nhard: 0\nwind: 0\npolice: 0\ntrain: 0\nhold: 0\nknock: 0\nbench: 0\ndish: 0\nrock: 0\nthrow: 0\nwalk: 0\nteacher: 0\nmoon: 0\nlike: 0\nspoon: 0\nfork: 0\nbee: 0\nmop: 0\npark: 0\nwet: 0\npick: 0\nstop: 0\nquiet: 0\ndaddy: 0\ncookie: 4.80\ntray: 0\nblue: 0\nfinish: 0\neye: 0\nbear: 0\nglue: 0\nroom: 0\nspill: 0\nmommy: 0\nback: 0\nchurch: 0\ntractor: 0\nstreet: 0\nsplash: 0\ngood: 0\nsleep: 0\nhurry: 0\nwolf: 0\nankle: 0\neat: 4.00\nfit: 0\nboy: 0\nscarf: 0\nturtle: 0\ntake: 0\nlick: 2.00\nplate: 0\ndryer: 0\nclown: 0\nchin: 0\nlamp: 0\nmouth: 0\nlady: 0\nslipper: 0\nstroller: 0\npillow: 0\ntooth: 0\nnap: 0\narm: 0\nchocolate: 4.80\nmeat: 4.00\nbite: 2.00\ncomb: 0\nwould: 0\ncrayon: 0\ncandy: 4.50\nyellow: 0\ndrawer: 0\npaper: 0\nstone: 0\nladder: 0\nbroom: 0\nfarm: 0\nfall: 0\ndance: 0\ngreen: 0\ntry: 0\nlunch: 4.20\nice: 0\nspaghetti: 4.20\nnoisy: 0\npeople: 0\nboots: 0\ncoat: 0\ngarbage: 0\nmad: 0\nparty: 0\nsick: 0\nsauce: 4.00\nradio: 0\ntongue: 2.00\nleg: 0\nhurt: 0\nzipper: 0\ncheese: 4.50\negg: 4.00\nflower: 0\nbutton: 0\npool: 0\nsing: 0\ndog: 0\nflag: 0\nread: 0\ncracker: 4.00\ncircus: 0\nbrother: 0\ndump: 0\nbutter: 4.00\nface: 0\nsoda: 4.00\nwindy: 0\ncouch: 0\ntalk: 0\nlook: 0\nlion: 0\nhose: 0\nclock: 0\npizza: 4.50\ntruck: 0\nbowl: 0\nturkey: 4.00\nsee: 0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989440,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1221,
+    "prompt_tokens": 2278,
+    "total_tokens": 3499,
+    "estimated_cost": 0.00101234
+  }
+}

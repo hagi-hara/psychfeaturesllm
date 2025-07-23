@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-b70b8723a30d48d3a6eec8ec8c8a9ace",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "head excluding mouth \n\nstuck: 4\nwatch (action): 5\nthink: 5\nsee: 5\nlook: 5\nknow: N\nhear: 5\nlisten: 4\nsay: 1\nso: 1\nyes: 1\nno: 1\nhi: 1\nhello: 1\nuh oh: 1\noh no: N\nouch: 2\nwow: N\nyum yum: 1\nnight night: 1\nbye: 1\nbig: 2\nlong: 2\nhigh: 2\nold: 2\nlittle: 2\nyoung: N\nhappy: 4\nsad: 4\nmad: 4\nscared: 4\nhurt: 3\ntired: 3\nsleepy: 3\nthirsty: 2\nhungry: 2\nangry: N\nbad: 2\ngood: 2\nyucky: 2\nfull: 2\nnaughty: N\nsorry: N\nfunny: N\nsilly: N\ncrazy: N\nshy: N\nquiet: 2\nloud: 2\nsoft: 2\nhard: 2\nfast: 2\nslow: 2\nhot: 2\ncold: 2\nwarm: N\nbright: N\ndark: 2\nlight: 2\nheavy: 2\nwet: 2\ndry (description): 2\nclean (description): 2\ndirty: 2\nnice: 2\nmean: N\npretty: 2\nugly: N\ncute: 2\nbeautiful: N\nfriendly: N\nkind: N\nnice: 2\nsweet: N\ngentle: 2\nhappy: 4\nsad: 4\nmad: 4\nscared: 4\nhurt: 3\ntired: 3\nsleepy: 3\nthirsty: 2\nhungry: 2\nangry: N\nbad: 2\ngood: 2\nyucky: 2\nfull: 2\nnaughty: N\nsorry: N\nfunny: N\nsilly: N\ncrazy: N\nshy: N\nquiet: 2\nloud: 2\nsoft: 2\nhard: 2\nfast: 2\nslow: 2\nhot: 2\ncold: 2\nwarm: N\nbright: N\ndark: 2\nlight: 2\nheavy: 2\nwet: 2\ndry (description): 2\nclean (description): 2\ndirty: 2\nnice: 2\nmean: N\npretty: 2\nugly: N\ncute: 2\nbeautiful: N\nfriendly: N\nkind: N\nnice: 2\nsweet: N\ngentle: 2 \n...",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723601948,
+  "model": "meta-llama/Meta-Llama-3.1-405B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 637,
+    "prompt_tokens": 1950,
+    "total_tokens": 2587,
+    "estimated_cost": 0.0069849
+  }
+}

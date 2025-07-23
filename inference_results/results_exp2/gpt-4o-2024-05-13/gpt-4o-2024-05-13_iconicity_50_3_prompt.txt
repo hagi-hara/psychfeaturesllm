@@ -1,0 +1,446 @@
+In this task you will be rating some English words on their “iconicity.” Please read the following instructions very carefully as they are important for doing this task.
+
+Some English words sound like what they mean. These words are iconic. You might be able to guess the meaning of such a word even if you did not know English. Some words that people have rated high in iconicity are “screech,” “twirl,” and “ooze” because they sound very much like what they mean. Some words that people have rated moderate in iconicity are “porcupine,” “glowing,” and “steep,” because they sound somewhat like what they mean. Some words rated low in iconicity are “menu,” “amateur,” and “are,” because they do not sound at all like what they mean. In this task, you are going to rate words for how iconic they are. You will rate each word on a scale from 1 to 7. A rating of 1 indicates that the word is not at all iconic and does not at all sound like what it means. 7 indicates that the word is high in iconicity and sounds very much like what it means.
+
+It is important that you say the word out loud to yourself, and that you think about its meaning. If you are unsure of the meaning or the pronunciation of a word, you have the option of skipping it.
+
+Try to focus on the word meaning of the whole word, rather than decomposing it into parts. For example, when rating ‘butterfly’ think of the insect rather than “butter” and “fly,” and rate how well the whole meaning relates to the sound of the whole word “butterfly.”
+
+Please remember to say the word to yourself and to think about the meaning of each word.
+Ready to start?
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you don’t know the meaning or the pronunciation of a word, please respond with the format "word: N".
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+think: 3.36
+thirsty: 3.80
+nap: 3.00
+sleep: 3.46
+flag: 3.90
+dark: 4.20
+room: 2.64
+clock: 4.10
+yogurt: 2.83
+nurse: 4.80
+nice: 3.90
+write: 3.70
+comb: 3.82
+moon: 3.30
+person: 4.45
+break: 5.17
+stop: 5.18
+read: 3.09
+hamburger: 4.80
+doll: 3.60
+stove: 2.00
+pillow: 2.70
+cloud: 5.00
+cheese: 3.85
+bee: 4.50
+sauce: 3.50
+aunt: 3.33
+squirrel: 4.40
+cry: 4.85
+asleep: 3.50
+lamb: 3.64
+soda: 4.00
+shirt: 2.00
+dog: 2.50
+park: 3.50
+eat: 3.64
+rip: 5.60
+corn: 3.45
+paint: 4.17
+finger: 3.10
+bunny: 3.50
+pretty: 3.50
+broom: 3.50
+poor: 3.60
+cheek: 4.00
+ice: 5.42
+boy: 3.00
+shake: 6.00
+turkey: 4.80
+nose: 3.30
+blow: 5.64
+man: 3.92
+happy: 4.20
+book: 3.70
+bring: 3.36
+toy: 3.20
+brown: 3.92
+dryer: 3.80
+spoon: 4.30
+camera: 2.30
+garden: 3.50
+wolf: 3.60
+puzzle: 4.10
+tooth: 4.00
+blue: 4.30
+baby: 4.18
+penny: 2.60
+medicine: 3.91
+jelly: 5.40
+catch: 4.80
+wind: 4.00
+sheep: 3.22
+soft: 4.64
+drop: 5.10
+deer: 3.50
+tray: 3.80
+pool: 4.40
+hurt: 3.50
+gentle: 3.91
+snack: 3.64
+hug: 4.20
+mop: 4.67
+crayon: 2.40
+hurry: 4.31
+show: 3.70
+duck: 4.70
+coat: 3.00
+glue: 4.60
+girl: 4.20
+friend: 3.09
+apple: 4.00
+lollipop: 4.18
+scarf: 2.90
+wait: 3.50
+couch: 3.10
+bat: 3.64
+hot: 5.70
+wish: 4.40
+tiny: 5.10
+hate: 4.21
+tape: 5.50
+chase: 3.27
+face: 3.60
+tired: 3.30
+jump: 5.69
+quiet: 4.45
+muffin: 3.55
+chocolate: 2.45
+hair: 4.00
+tuna: 3.50
+other: 2.00
+potty: 4.30
+turtle: 4.09
+bus: 3.25
+church: 4.00
+meat: 3.10
+shoulder: 2.60
+jar: 4.27
+sick: 3.60
+street: 3.09
+hen: 3.27
+plant: 4.70
+horse: 2.30
+jeans: 2.70
+trash: 4.40
+good: 4.20
+hear: 3.90
+snow: 4.36
+mad: 4.80
+goose: 4.50
+present: 3.00
+cracker: 4.40
+cute: 4.60
+pants: 3.00
+full: 4.50
+white: 3.18
+basement: 4.10
+shoe: 3.30
+night: 4.55
+coffee: 4.60
+green: 3.73
+boots: 4.90
+make: 3.38
+spaghetti: 3.20
+close: 3.90
+garage: 3.18
+hammer: 3.73
+push: 5.56
+high: 5.30
+napkin: 3.10
+draw: 4.70
+refrigerator: 2.55
+doctor: 3.18
+say: 3.10
+movie: 3.00
+purse: 3.50
+animal: 3.08
+sun: 3.91
+tear: 4.33
+farm: 3.90
+zebra: 4.20
+yellow: 4.10
+hat: 4.10
+sleepy: 4.27
+pen: 2.69
+lady: 4.56
+morning: 4.00
+strawberry: 4.09
+drawer: 2.82
+car: 3.10
+cookie: 3.40
+nail: 4.60
+daddy: 4.50
+banana: 3.10
+swim: 5.15
+donkey: 3.70
+ear: 3.55
+try: 3.30
+would: 2.67
+like: 2.60
+oven: 2.30
+rock: 4.83
+flower: 3.80
+toe: 3.50
+vacuum: 2.40
+bad: 4.40
+mommy: 5.10
+sneaker: 4.40
+bear: 3.91
+mouth: 3.40
+go: 4.90
+paper: 3.41
+game: 3.54
+cook: 4.27
+skate: 4.30
+door: 2.50
+talk: 4.50
+find: 3.40
+sing: 4.27
+zoo: 2.80
+get: 2.64
+carry: 2.90
+spill: 5.60
+ladder: 4.20
+sticky: 5.50
+feed: 4.50
+ball: 3.30
+meow: 5.80
+slow: 3.60
+fine: 3.20
+people: 3.36
+have: 3.18
+grass: 4.50
+
+Please answer about all of the following words.
+
+wet
+balloon
+pick
+sky
+glass
+share
+bath
+brush
+cereal
+ride
+school
+noisy
+raisin
+taste
+heavy
+tickle
+brother
+buy
+open
+blanket
+shovel
+red
+take
+pumpkin
+bite
+bug
+drive
+child
+pig
+hit
+gum
+owl
+old
+lunch
+elephant
+zipper
+basket
+wipe
+kick
+milk
+black
+tree
+cat
+slipper
+hungry
+hose
+chin
+pickle
+police
+time
+pony
+tongue
+toast
+build
+teacher
+wake
+train
+head
+butter
+look
+sink
+clap
+first
+star
+rooster
+bread
+bottle
+table
+radio
+picture
+sofa
+pizza
+dump
+tummy
+party
+penguin
+chair
+garbage
+cow
+hard
+beach
+dirty
+be
+hold
+sit
+bucket
+truck
+scissors
+dinner
+lion
+bib
+chalk
+home
+awake
+shower
+cake
+potato
+throw
+jacket
+stand
+towel
+tractor
+cold
+stay
+splash
+hide
+plate
+empty
+arm
+pull
+knock
+cut
+pudding
+coke
+eye
+soup
+breakfast
+kitchen
+puppy
+boat
+picnic
+pretzel
+knee
+box
+give
+stick
+moose
+lamp
+mouse
+diaper
+broken
+monkey
+story
+juice
+back
+dress
+lick
+windy
+tissue
+sock
+walk
+egg
+big
+belt
+listen
+salt
+climb
+closet
+bowl
+love
+wash
+dish
+dance
+porch
+yard
+play
+country
+money
+ant
+stone
+smile
+circus
+tiger
+day
+button
+naughty
+pencil
+clown
+sad
+sandwich
+bench
+sled
+food
+cup
+store
+candy
+run
+giraffe
+ankle
+do
+will
+kiss
+crib
+sprinkler
+window
+leg
+soap
+sweep
+sister
+sweater
+bird
+hand
+fix
+fork
+block
+cover
+pretend
+bed
+see
+finish
+pour
+house
+fit
+bump
+put
+roof
+new
+fall
+stroller
+alligator
+little
+touch
+uncle
+help
+rain

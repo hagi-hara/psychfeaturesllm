@@ -1,0 +1,693 @@
+Here are the ratings for hand/arm:
+
+eat: 5
+ride: 5
+put: 5
+cook: 5
+pen: 5
+shoe: 5
+dress: 5
+book: 5
+bottle: 5
+glass: 5
+cup: 5
+bowl: 5
+plate: 5
+key: 5
+pencil: 5
+watch (object): 5
+phone: N
+hammer: 5
+mitten: 5
+glove: 5
+hand: 5
+guitar: N
+soda: 5
+can (object): 5
+fork: 5
+spoon: 5
+knife: 5
+toothbrush: 5
+tooth: 5
+brush: 5
+comb: 5
+paint: 5
+draw: 5
+write: 5
+write (action): 5
+glue: 5
+scissors: 5
+tissue: 5
+napkin: 5
+towel: 5
+handkerchief: N
+sweater: 5
+coat: 5
+jacket: 5
+shirt: 5
+tie: 5
+belt: 5
+zipper: 5
+button: 5
+button (action): 5
+pick: 5
+choose: 5
+take: 5
+give: 5
+shake: 5
+clap: 5
+applaud: N
+play: 5
+play (action): 5
+play dough: 5
+play pen: 5
+puzzle: 5
+game: 5
+toy: 5
+stick: 5
+skate: 5
+ride (action): 5
+drive: 5
+bike: 5
+bicycle: 5
+helicopter: 5
+car: 5
+train: 5
+bus: 5
+truck: 5
+motorcycle: 5
+boat: 5
+plane: 5
+ship: 5
+surfboard: N
+fishing rod: N
+paintbrush: 5
+brush: 5
+comb: 5
+toothbrush: 5
+fingers: 5
+fingernail: 5
+nail: 5
+nail polish: N
+finger paint: N
+finger food: N
+finger bowl: N
+fist: 5
+punch: 5
+slap: 5
+hit: 5
+touch: 5
+feel: 5
+press: 5
+push: 5
+pull: 5
+lift: 5
+carry: 5
+hold: 5
+grab: 5
+clutch: 5
+cradle: 5
+rock: 5
+sway: 5
+swing: 5
+dance: 5
+shake: 5
+wave: 5
+point: 5
+show: 5
+display: 5
+hold up: 5
+raise: 5
+lift up: 5
+carry high: 5
+wave goodbye: 5
+wave hello: 5
+point to: 5
+point at: 5
+point out: 5
+show off: 5
+showcase: N
+exhibit: N
+display case: N
+case: N
+holder: N
+stand: 5
+stand up: 5
+stand still: 5
+stand firm: 5
+stand tall: 5
+stand proud: 5
+stand up straight: 5
+stand at attention: 5
+stand guard: 5
+stand watch: 5
+stand by: 5
+stand ready: 5
+stand still: 5
+stand firm: 5
+hold still: 5
+freeze: 5
+stay: 5
+stay put: 5
+stay still: 5
+stay firm: 5
+stay strong: 5
+stay steady: 5
+stay calm: 5
+stay quiet: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5
+stay dry: 5
+stay wet: 5
+stay messy: 5
+stay clean: 5
+stay tidy: 5
+stay organized: 5
+stay neat: 5
+stay orderly: 5
+stay arranged: 5
+stay decorated: 5
+stay furnished: 5
+stay equipped: 5
+stay prepared: 5
+stay ready: 5
+stay alert: 5
+stay awake: 5
+stay asleep: 5
+stay dreaming: 5
+stay fantasizing: 5
+stay imagining: 5
+stay thinking: 5
+stay concentrating: 5
+stay focused: 5
+stay attentive: 5
+stay listening: 5
+stay hearing: 5
+stay seeing: 5
+stay looking: 5
+stay watching: 5
+stay observing: 5
+stay noticing: 5
+stay aware: 5
+stay mindful: 5
+stay present: 5
+stay here: 5
+stay there: 5
+stay somewhere: 5
+stay anywhere: 5
+stay everywhere: 5
+stay nowhere: 5
+stay hidden: 5
+stay secret: 5
+stay safe: 5
+stay sound: 5
+stay snug: 5
+stay cozy: 5
+stay warm: 5
+stay cool: 5

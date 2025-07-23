@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-849d6cfb693d4832a5cbc1bc63700ca9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with respect to foot/leg:\n\nmilk: 0\nsoft: 0\nowl: 0\nankle: 5\nbaby: 0\nmuffin: 0\nfarm: 0\nthrow: 2\nnose: 0\nstone: 1\nsplash: 1\nrain: 1\nschool: 0\ncat: 0\nnight: 0\nhome: 0\nbig: 0\nteacher: 0\nstick: 1\nwill: 0\ntiger: 0\nslipper: 4\nhold: 1\nfeed: 0\nturkey: 0\nlady: 0\njacket: 0\ntowel: 0\ntongue: 0\ntrash: 0\nlion: 0\ntalk: 0\ncar: 2\ntickle: 0\nsister: 0\ndrawer: 0\nsprinkler: 1\nhot: 0\nant: 0\nshow: 0\nhungry: 0\npickle: 0\narm: 0\ncouch: 0\nsun: 0\nbath: 0\nhose: 1\nclimb: 4\nwind: 0\ncover: 0\ngiraffe: 0\ngoose: 0\nmeat: 0\nsoda: 0\ncheese: 0\njuice: 0\nknee: 5\nbus: 2\nwait: 0\nstand: 3\ncatch: 2\nzipper: 0\nread: 0\ngarage: 0\nbite: 0\nstar: 0\ntruck: 2\nfall: 3\npotato: 0\nduck: 0\nshare: 0\nwet: 1\nmovie: 0\nhard: 0\nbed: 0\nbib: 0\nsweep: 2\nsit: 2\nwindy: 0\nheavy: 0\ncook: 0\ncracker: 0\npotty: 0\nplay: 2\ndraw: 0\nfix: 0\ndoll: 0\nelephant: 0\nlunch: 0\ndoor: 0\ncandy: 0\nfriend: 0\nbox: 0\nkitchen: 0\nbrother: 0\nparty: 0\nshake: 2\nanimal: 0\nladder: 3\ntummy: 0\nride: 3\nraisin: 0\nnoisy: 0\npants: 0\ndoctor: 0\nfull: 0\nswim: 3\ngarbage: 0\nsquirrel: 0\nboat: 0\ntree: 0\nflag: 0\ngirl: 0\njar: 0\npretty: 0\nchalk: 0\ngood: 0\nmoney: 0\nwrite: 0\nsnack: 0\ncereal: 0\nbee: 0\nbench: 0\nhair: 0\nhit: 1\nglass: 0\nrun: 5\naunt: 0\nboots: 4\nbunny: 0\nroof: 0\ntable: 0\nhave: 0\nawake: 0\npretzel: 0\npool: 2\nwhite: 0\ndress: 0\njelly: 0\nhen: 0\nrefrigerator: 0\nsofa: 0\nmonkey: 0\nrock: 1\nstop: 2\ntime: 0\nface: 0\nshovel: 2\nmake: 0\nbrush: 0\ngreen: 0\nvacuum: 0\nsink: 0\npen: 0\ntooth: 0\npenny: 0\ntape: 0\nshoe: 4\ncheek: 0\npaper: 0\nbird: 0\ncut: 0\nmedicine: 0\nspaghetti: 0\nporch: 0\nblanket: 0\nyellow: 0\neat: 0\nbowl: 0\ntiny: 0\ndark: 0\nlook: 0\nquiet: 0\nother: 0\ncountry: 0\njeans: 0\nslow: 0\nsleepy: 0\nwindow: 0\nbump: 2\ndonkey: 0\nballoon: 0\ntry: 0\npencil: 0\nsad: 0\nclap: 1\ntaste: 0\ndo: 0\nbroken: 0\ntoy: 0\ngame: 0\ntouch: 0\nshower: 0\ncoffee: 0\ncloud: 0\nbasement: 0\nclock: 0\ndinner: 0\nhead: 0\nhappy: 0\nhide: 0\nbrown: 0\nsee: 0\nzoo: 0\nbuild: 0\nalligator: 0\nspoon: 0\ntoe: 5\nhurt: 0\nthink: 0\nleg: 5\ncow: 0\nstay: 0\npoor: 0\nlick: 0\nhigh: 0\nhouse: 0\nhelp: 0\npony: 0\nmad: 0\nmoon: 0\nsing: 0\ncute: 0\nbroom: 2\nstroller: 2\nmorning: 0\npour: 0\nbuy: 0\nsoup: 0\nblue: 0\npull: 2\npresent: 0\nmouth: 0\ncrayon: 0\nempty: 0\ndance: 3\nsleep: 0\nbring: 0\nfine: 0\nlamp: 0\ntuna: 0\npretend: 0\npicture: 0\nclown: 0\ngentle: 0\nshoulder: 0\nday: 0\nice: 0\nball: 2\nshirt: 0\nhug: 0\nchurch: 0\ntake: 0\nhamburger: 0\nmeow: 0\nzebra: 0\nlittle: 0\nlike: 0\nsnow: 0\ncircus: 0\nchair: 0\nhate: 0\nwash: 0\nroom: 0\ntray: 0\ncorn: 0\ndaddy: 0\nnurse: 0\nasleep: 0\ncloset: 0\ncomb: 0\nlamb: 0\nchase: 3\nfirst: 0\ncry: 0\nsweater: 0\nfork: 0\nfood: 0\ntoast: 0\nwould: 0\nchocolate: 0\nmouse: 0\ndiaper: 0\nhurry: 0\nplant: 0\ntrain: 0\nplate: 0\nopen: 0\nsauce: 0\nturtle: 0\nwalk: 4\nglue: 0\nsock: 0\nyogurt: 0\nlove: 0\nbeach: 0\npumpkin: 0\nknock: 1\nkick: 4\ndrive: 2\nskate: 4\npillow: 0\nblack: 0\napple: 0\nman: 0\ntired: 0\nmop: 2\nbanana: 0\ngo: 2\ncake: 0\nstrawberry: 0\nsled: 3\ncamera: 0\nuncle: 0\ndirty: 0\nyard: 0\nhat: 0\npick: 1\ncoke: 0\ntractor: 0\nblock: 0\nbread: 0\nput: 0\near: 0\nstore: 0\ngarden: 0\nbad: 0\nbottle: 0\ndish: 0\nbreak: 0\nwake: 0\nnaughty: 0\nstory: 0\nbreakfast: 0\nback: 0\nsneaker: 4\nstove: 0\nrip: 0\nsalt: 0\ncold: 0\npuppy: 0\npudding: 0\nhorse: 0\ngrass: 0",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989465,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1878,
+    "prompt_tokens": 1647,
+    "total_tokens": 3525,
+    "estimated_cost": 0.00113001
+  }
+}

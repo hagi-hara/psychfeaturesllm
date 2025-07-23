@@ -1,0 +1,583 @@
+ice cream: 5  
+cake: 5  
+cookie: 5  
+donut: 5  
+hamburger: 5  
+chocolate: 5  
+pizza: 5  
+popcorn: 5  
+strawberry: 5  
+vanilla: 5  
+soup: 4  
+water (beverage): 4  
+meat: 4  
+bread: 4  
+potato chip: 4  
+jello: 4  
+yogurt: 4  
+cereal: 4  
+fruit: 4  
+taco: 4  
+soda: 4  
+peanut butter: 4  
+pudding: 4  
+juice: 4  
+milk: 4  
+egg: 3  
+fish (food): 3  
+chicken (food): 3  
+green beans: 3  
+carrot: 3  
+bacon: 3  
+tuna: 3  
+noodle: 3  
+cheese: 3  
+treat: 3  
+cake pop: 3  
+salad: 3  
+spinach: 3  
+ketchup: 3  
+sauce: 3  
+sugar: 3  
+butter: 3  
+candy: 3  
+snack: 3  
+pasta: 3  
+cookie dough: 3  
+pie: 3  
+rice: 3  
+coconut: 3  
+mint: 3  
+chili: 3  
+honey: 3  
+syrup: 3  
+salsa: 3  
+muffin: 3  
+brownie: 3  
+pop tart: 3  
+granola: 3  
+cereal bar: 3  
+waffle: 3  
+pancake: 3  
+biscuit: 3  
+peach: 3  
+banana: 3  
+apple: 3  
+grape: 3  
+orange (food): 3  
+watermelon: 3  
+melon: 3  
+lime: 3  
+berry: 3  
+kiwi: 3  
+plum: 3  
+pear: 3  
+cabbage: 3  
+broccoli: 3  
+cauliflower: 3  
+asparagus: 3  
+sweet potato: 3  
+pumpkin: 3  
+zucchini: 3  
+corn: 3  
+bell pepper: 3  
+onion: 3  
+garlic: 3  
+mushroom: 3  
+eggplant: 3  
+caramel: 3  
+chocolate chip: 3  
+popcorn ball: 3  
+chocolate milk: 3  
+candy cane: 3  
+s'more: 3  
+fruit salad: 3  
+cheese stick: 3  
+grilled cheese: 3  
+potato salad: 3  
+taco salad: 3  
+chili cheese fries: 3  
+hot dog: 3  
+bagel: 3  
+croissant: 3  
+pita: 3  
+tortilla: 3  
+cereal mix: 3  
+trail mix: 3  
+fruit roll-up: 3  
+doughnut hole: 3  
+chocolate covered: 3  
+sorbet: 3  
+gelato: 3  
+fudge: 3  
+carrot cake: 3  
+cupcake: 3  
+cheesecake: 3  
+pudding cup: 3  
+fruit smoothie: 3  
+milkshake: 3  
+ice cream sandwich: 3  
+chocolate fountain: 3  
+frozen yogurt: 3  
+popsicle: 3  
+tootsie roll: 3  
+sour candy: 3  
+candy bar: 3  
+chocolate egg: 3  
+gummy bear: 3  
+marshmallow: 3  
+chocolate chip cookie: 3  
+fruit cup: 3  
+fruit snack: 3  
+pita chip: 3  
+crackers: 3  
+potato wedges: 3  
+sweet potato fries: 3  
+french fries: 3  
+tater tots: 3  
+cheese fries: 3  
+potato skins: 3  
+fried rice: 3  
+risotto: 3  
+couscous: 3  
+quinoa: 3  
+barbecue: 3  
+sushi: 3  
+sashimi: 3  
+bento: 3  
+dim sum: 3  
+spring roll: 3  
+egg roll: 3  
+pho: 3  
+ramen: 3  
+curry: 3  
+stew: 3  
+gumbo: 3  
+jambalaya: 3  
+chowder: 3  
+bisque: 3  
+pot pie: 3  
+lasagna: 3  
+mac and cheese: 3  
+stuffed pepper: 3  
+shepherd's pie: 3  
+casserole: 3  
+stir fry: 3  
+fajitas: 3  
+quesadilla: 3  
+enchilada: 3  
+taco: 3  
+burrito: 3  
+wrap: 3  
+salmon: 3  
+steak: 3  
+pork chop: 3  
+lamb: 3  
+venison: 3  
+duck: 3  
+quail: 3  
+rabbit: 3  
+goose: 3  
+frog legs: 3  
+snails: 3  
+clams: 3  
+oysters: 3  
+crab: 3  
+lobster: 3  
+shrimp: 3  
+sardines: 3  
+anchovies: 3  
+squid: 3  
+octopus: 3  
+seafood: 3  
+fish and chips: 3  
+chowder fries: 3  
+clam chowder: 3  
+lobster roll: 3  
+crab cakes: 3  
+tuna salad: 3  
+chicken salad: 3  
+egg salad: 3  
+potato salad: 3  
+coleslaw: 3  
+pasta salad: 3  
+tossed salad: 3  
+Caesar salad: 3  
+Greek salad: 3  
+cobb salad: 3  
+caprese salad: 3  
+wedge salad: 3  
+fruit salad: 3  
+green salad: 3  
+garden salad: 3  
+pasta primavera: 3  
+vegetable stir fry: 3  
+ratatouille: 3  
+caponata: 3  
+sautéed vegetables: 3  
+roasted vegetables: 3  
+grilled vegetables: 3  
+steamed vegetables: 3  
+pickled vegetables: 3  
+vegetable medley: 3  
+vegetable soup: 3  
+vegetable curry: 3  
+vegetable lasagna: 3  
+vegetable fried rice: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable casserole: 3  
+vegetable sushi: 3  
+vegetable wrap: 3  
+vegetable sandwich: 3  
+vegetable burger: 3  
+vegetable curry: 3  
+vegetable chili: 3  
+vegetable stew: 3  
+vegetable soup: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie: 3  
+vegetable chips: 3  
+vegetable sticks: 3  
+vegetable platter: 3  
+vegetable dip: 3  
+vegetable kebab: 3  
+vegetable tacos: 3  
+vegetable burrito: 3  
+vegetable enchilada: 3  
+vegetable fajitas: 3  
+vegetable quesadilla: 3  
+vegetable stir-fry: 3  
+vegetable curry: 3  
+vegetable soup: 3  
+vegetable stew: 3  
+vegetable salad: 3  
+vegetable platter: 3  
+vegetable juice: 3  
+vegetable smoothie:

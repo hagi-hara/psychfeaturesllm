@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-6f02345915ea4f41a86e0b6fff1e95b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "bubble: 0\ndon't: 0\nbench: 0\nbottom: 0\nwolf: 0\npajamas: 0\nlove: 0\ngotta: 0\nasleep: 0\ncorn: 0\nmad: 0\nbib: 0\nkleenex: 0\ntelephone: 0\nowie: 0\ncut: 0\npenis: N\npaper: 0\near: 0\ngoing to: 0\nbanana: 0\nfork: 0\nskate: 0\ntoday: 0\npudding: 0\nsmile: 0\npenguin: 0\nfinish: 0\ngive: 0\nsandbox: 0\nbehind: 0\nglass: 0\nhen: 0\nany: 0\nhelp: 0\nbead: 0\nclose: 0\nsofa: 0\nwith: 0\ntrain: 0\nwater (beverage): 0\nfireman: 0\nhat: 0\nbrown: 0\nthis little piggy: 0\nmilk: 0\narm: 0\nhis: 0\nhome: 0\ngarbage: 0\ntractor: 0\nhappy: 0\norange (description): 0\nold: 0\nthey: 0\nstone: 0\ntights: 0\nwould: 0\nblock: 0\nsoup: 0\npresent: 0\npants: 0\nrip: 0\ndark: 0\nballoon: 0\ncrayon: 0\nbrush: 0\nthere: 0\nthat: 0\nsweater: 0\nbreak: 0\nsee: 0\noff: 0\njar: 0\nbecause: 0\nand: 0\nbox: 0\nhard: 0\nlady: 0\nglove: 0\nclock: 0\nhafta: 0\nbuy: 0\nsweep: 0\nhere: 0\nsoap: 0\nboo boo: 0\ntricycle: 0\njeans: 0\nmake: 0\ncareful: 0\nbean: 0\nnight: 0\nclap: 0\nsun: 0\ngreen beans: 0\nmyself: 0\npoor: 0\nuh oh: 0\nface: 0\nvagina: N\nslide (object): 0\nTV: 0\nladder: 0\nall gone: 0\ngive me five: 0\negg: 0\npicnic: 0\non top of: 0\ndonut: 0\nstove: 0\ngiraffe: 0\nour: 0\nmop: 0\nhold: 0\npen: 0\nbad: 0\nthis: 0\nanother: 0\ngo: 0\nback: 0\ncountry: 0\nyogurt: 0\nbutton: 0\nlater: 0\nyum yum: 0\nlunch: 0\ntoo: 0\nsplash: 0\nget: 0\nbowl: 0\nman: 0\nanimal: 0\nlast: 0\nride: 0\npour: 0\nthink: 0\nzoo: 0\nclean (action): 0\nclean (description): 0\nchalk: 0\noven: 0\ngonna: 0\nnapkin: 0\njuice: 0\nstay: 0\nbutter: 0\nloud: 0\ndrink (action): 0\nhair: 0\nwindy: 0\npretzel: 0\ntruck: 0\nthem: 0\nboy: 0\nslow: 0\nfix: 0\nwhen: 0\nfit: 0\neat: 0\ngarage: 0\nclown: 0\npark: 0\nstick: 0\ngrrr: 0\nhe: 0\nbathtub: 0\nbabysitter: 0\ndrawer: 0\nsing: 0\nschool: 0\nswing (object): 0\nhose: 0\ntowel: 0\ncould: 0\nput: 0\nbuild: 0\nhammer: 0\ntoothbrush: 0\nant: 0\ndoll: 0\nbig: 0\nchurch: 0\nempty: 0\nnail: 0\nnext to: 0\nspoon: 0\neach: 0\npeekaboo: 0\nmuch: 0\nchicken (food): 0\nlemme: 0\ndog: 0\nare: 0\nhigh: 0\nday: 0\nbear: 0\nstore: 0\ncall: 0\nwere: 0\nhigh chair: 0\nbottle: 0\nsauce: 0\nme: 0\ndump: 0\nboots: 0\nnew: 0\nice cream: 0\nbasement: 0\ncloset: 0\nroof: 0\napplesauce: 0\nliving room: 0\ngrape: 0\nmine: 0\nmailman: 0\nbug: 0\nouch: 0\nrefrigerator: 0\nmeow: 0\nsled: 0\nmouse: 0\nbump: 0\nbasket: 0\nhush: 0\nblanket: 0\nbaby: 0\nboat: 0\npool: 0\npuppy: 0\nbathroom: 0\nbetter: 0\nsheep: 0\nstroller: 0\nscissors: 0\ndinner: 0\ndoctor: 0\nairplane: 0\nwash: 0\nso big: 0\nplay pen: 0\ncheese: 0\nwanna: 0\nmotorcycle: 0\nlike: 0\nhit: 0\nspaghetti: 0\na: 0\npizza: 0\ncookie: 0\nhead: 0\ndeer: 0\ncouch: 0\nwhy: 0\nsay: 0\nhave: 0\nturn around: 0\nknife: 0\ndid ya: 0\npopcorn: 0\ndoor: 0\nparty: 0\nchin: 0\nfinger: 0\nsalt: 0\nlawn mower: 0\nbefore: 0\nkitchen: 0\ntiny: 0\norange (food): 0\ncoat: 0\nmelon: 0\nbeach: 0\nnecklace: 0\nheavy: 0\nchocolate: 0\nsky: 0\ncoke: 0\ncracker: 0\nyou: 0\nnone: 0\nmoney: 0\ndraw: 0\nsister: 0\nthese: 0\nshake: 0\nhear: 0\nthirsty: 0\nrooster: 0\nkiss: 0\nsticky: 0\npancake: 0\ncrib: 0\nby: 0\nmorning: 0\nknock: 0\ncatch: 0\nwake: 0\non: 0\nhamburger: 0\nchoo choo: 0\nhand: 0\nfind: 0\nhelicopter: 0\npillow: 0\njump: 0\nkitty: 0\nshh: 0\ngirl: 0\nstory: 0\ntable: 0\npretend: 0\nfarm: 0\ntongue: 0\npotty: 0\ncamping: 0\nwashing machine: 0\ncake: 0\nfriend: 0\nvitamins: 0\nplay dough: 0\napple: 0\ntired: 0\nraisin: 0\nhug: 0\ntray: 0\nwalk: 0\nmommy: 0\ngonna get you: 0\ntiger: 0\nuncle: 0\nmoose: 0\ncomb: 0\nbreakfast: 0\ncan (object): 0\npuzzle: 0\nsad: 0\nrock: 0\nkey: 0\nhorse: 0\nplate: 0\nmouth: 1",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560465,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1893,
+    "prompt_tokens": 1950,
+    "total_tokens": 3843,
+    "estimated_cost": 0.00023058000000000003
+  }
+}

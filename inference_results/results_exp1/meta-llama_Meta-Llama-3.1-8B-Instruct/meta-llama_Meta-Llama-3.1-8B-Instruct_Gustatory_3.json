@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-92cbbaf2f8794554b60888f856a94ffb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for each word using the sense of tasting:\n\nbread: 5\nfrench fries: 5\ncoffee: 5\ncracker: 5\nmelon: 5\npickle: 5\nsoda: 5\ndonut: 5\ncookie: 5\ncereal: 5\ncheese: 5\nbanana: 5\npizza: 5\nchocolate: 5\nice cream: 5\njuice: 5\nvitamins: 3\nsauce: 4\ngrape: 4\nmilk: 4\nyogurt: 4\nhamburger: 4\nfish (food): 4\ntuna: 4\nspaghetti: 4\nmeat: 4\nsandwich: 4\nraisin: 4\ngreen beans: 4\neggs: 4\npeanut butter: 4\napple: 4\norange (food): 4\npopsicle: 4\ncandy: 4\ncake: 4\npopcorn: 4\npretzel: 4\nchicken (food): 4\ndon't know: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723562126,
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 251,
+    "prompt_tokens": 1936,
+    "total_tokens": 2187,
+    "estimated_cost": 0.00013122
+  }
+}

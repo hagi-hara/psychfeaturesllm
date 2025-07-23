@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-a909900844c349dd92cac4b65638b7ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "watch (action): 5\nwrite: 5\nhold: 5\ngive: 5\ntake: 5\ncatch: 5\nthrow: 5\ncarry: 5\npush: 5\npull: 5\npick: 5\nput: 5\ndraw: 5\npaint: 5\nwipe: 5\nclean (action): 5\nwash: 5\ndry (action): 5\ntouch: 5\nclap: 5\npat: N\nhug: 4\nshake: 4\nkiss: 4\nwave: N\npoint: N\nshow: 4\ngive me five: 5\npet: N\nstroke: N\ncut: 4\nsew: N\ntie: N\nopen: 5\nclose: 5\ndress: 4\nundress: N\nbutton: 4\nzip: 4\nunzip: N\nsnap: N\nbuckle: N\n unbuckle: N\ntie: N\nuntie: N\nsweep: 4\nmop: 4\nvacuum: 4\nwipe: 5\ndust: N\nscrub: N\nrub: N\nbrush: 4\nblow: 4\niron: N\nfold: N\nhang: N\nsort: N\nplace: N\narrange: N\nset: N\nwrap: N\npack: N\nunpack: N\ncover: 4\ntuck: N\nstuff: N\nsqueeze: N\npinch: N\npress: N\nsquirt: N\ngulp: N\nsip: N\ndrink (action): 5\neat: 5\nbite: 5\nchew: 5\nswallow: 5\nlick: 5\nsuck: N\ntaste: 5\nsmell: N\nsniff: N\ndrool: N\nspit: N\nvomit: N\ncough: N\nburp: N\nfart: N\npoo: N\npee: N\ntoot: N\nblow: 4\nsneeze: N\nyawn: N\nstretch: N\ndo: 5\nmake: 5\nbuild: 4\ncreate: N\nconstruct: N\nfix: 4\nrepair: N\nbreak: 4\ntear: 4\nrip: 4\ncut: 4\nglue: 4\ntape: 4\nhammer: 4\nnail: 4\nsaw: N\ndrill: N\ndrive: 4\nride: 4\nsteer: N\nturn: 4\npush: 5\npull: 5\npedal: N\nbrake: N\nstop: 5\ngo: 5\nfasten: N\nunfasten: N\nlock: N\nunlock: N\nclick: N\ntype: N\nwrite: 5\nerase: N\ndraw: 5\ncolor: N\nshade: N\ncount: N\nadd: N\nsubtract: N\nmultiply: N\ndivide: N\nmeasure: N\nweigh: N\nsort: N\nread: 5\nspell: N\nsay: 5\ntell: 5\nspeak: 5\nlisten: 5\nhear: 5\nthink: 5\nknow: N\nunderstand: N\nlearn: N\nremember: N\nforget: N\nimagine: N\npretend: 4\ndream: N\nwish: 4\nhope: N\npray: N\nguess: N\nwonder: N\nbelieve: N\nmake-believe: N\nfantasize: N\ndecide: N\nplan: N\nchoose: N\npick: 5\nselect: N\nprefer: N\nlike: 5\nlove: 5\nhate: 4\nwant: 5\nneed: 5\nshould: N\nmust: N\ncan: N\ncould: N\nmay: N\nmight: N\nshall: N\nwill: N\nwould: N\ntry: 5\nattempt: N\nhelp: 5\nassist: N\nsupport: N\naid: N\ngive: 5\nshare: 4\noffer: N\nlend: N\nborrow: N\nowe: N\npay: N\nbuy: 5\nsell: N\ntrade: N\nexchange: N\ntake: 5\nget: 5\nreceive: 5\nkeep: 5\nhold: 5\nstore: N\nsave: N\ncollect: N\ngather: N\naccumulate: N\nhoard: N\ndisplay: N\nshow: 4\nexhibit: N\npresent: 4\ngive: 5\nshare: 4\nreport: N\nexplain: N\ndescribe: N\ntell: 5\nsay: 5\ninform: N\nteach: N\nadvise: N\nwarn: N\nremind: N\nask: N\nrequest: N\nbeg: N\ndemand: N\norder: N\ncommand: N\nforbid: N\nrefuse: N\ndecline: N\nreject: N\ndeny: N\nagree: N\nconsent: N\naccept: N\nallow: N\npermit: N\npromise: N\npledge: N\nvow: N\nswear: N\nguarantee: N\nassure: N\ninsist: N\nurge: N\npersuade: N\nconvince: N\nencourage: N\ndiscourage: N\npraise: N\nblame: N\ncriticize: N\nscold: N\nyell: N\npunish: N\nreward: N\nforgive: N\nexcuse: N\napologize: N\nthank: N\ncongratulate: N\ngreet: N\nbid: N\nfarewell: N\ncall: 5\nphone: N\nvisit: N\nmeet: N\nsee: 5\nreceive: 5\ninvite: N\nwelcome: N\ninclude: N\nexclude: N\nignore: N\ndisregard: N\nneglect: N\nforget: N\nremember: N\nkeep: 5\nhold: 5\nstore: N\nsave: N\ncollect: N\ngather: N\naccumulate: N\nhoard: N\ndisplay: N\nshow: 4\nexhibit: N\npresent: 4\ngive: 5\nshare: 4\nreport: N\nexplain: N\ndescribe: N\ntell: 5\nsay: 5\ninform: N\nteach: N\nadvise: N\nwarn: N\nremind: N\nask: N\nrequest: N\nbeg: N\ndemand: N\norder: N\ncommand: N\nforbid: N\nrefuse: N\ndecline: N\nreject: N\ndeny: N\nagree: N\nconsent: N\naccept: N\nallow: N\npermit: N\npromise: N\npledge: N\nvow: N\nswear: N\nguarantee: N\nassure: N\ninsist: N\nurge: N\npersuade: N\nconvince: N\nencourage: N\ndiscourage: N\npraise: N\nblame: N\ncriticize: N\nscold: N\nyell: N\npunish: N\nreward: N\nforgive: N\nexcuse: N\napologize: N\nthank: N\ncongratulate: N\ngreet: N\nbid: N\nfarewell: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723601819,
+  "model": "meta-llama/Meta-Llama-3.1-405B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1675,
+    "prompt_tokens": 1950,
+    "total_tokens": 3625,
+    "estimated_cost": 0.0097875
+  }
+}

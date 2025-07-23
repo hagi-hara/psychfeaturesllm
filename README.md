@@ -14,16 +14,19 @@
 │   │   ├── word_features_exp2.csv
 │   ├── results_exp1
 │   ├── results_exp2
+├── inference_results
+│   ├── results_exp1
+│   ├── results_exp2
 ├── analysis
 │   ├── ...
 
 ```
 
-### llm
+## llm
 This directory contains the code and dataset for calculating word features by large language models (LLMs).
 
 
-#### Run in Google Colab or Jupyter Notebook:
+### Run in Google Colab or Jupyter Notebook:
 
 Word_features_in_LLMs_exp1.ipynb  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hagi-hara/psychfeaturesllm/blob/main/llm/Word_features_in_LLMs_exp1.ipynb)
@@ -39,3 +42,6 @@ llm/results_exp1/concatenated_results.csv
 # additional results files (few-shot results)
 llm/results_exp2/concatenated_results.csv  
 ```
+
+## inference_results
+This directory contains the results of the LLMs for the word features that we calculated by running the code in the `llm` directory.

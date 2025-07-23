@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-19cd6ff074604e8bb1dd7f873041993f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are my ratings for the words:\n\npuzzle: 0\nred: 0\ncountry: 0.50\nlion: 1.50\nfix: 1.00\nsister: 1.20\nlook: 1.50\ncake: 0.50\nmop: 0.50\nowl: 2.00\nbee: 1.00\nstick: 0.50\nsnow: 1.00\ncamera: 1.00\nsalt: 0.50\nfinish: 1.00\nvacuum: 2.00\ntissue: 0.50\nankle: 0.50\nhot: 0.50\nuncle: 1.00\nhigh: 0.50\ncoke: 0.50\nhappy: 1.50\ntoe: 0.50\nswim: 1.00\npool: 1.00\nclimb: 1.00\nwet: 0.50\nsoap: 0.50\npants: 0.50\ncouch: 0.50\nbat: 1.00\nscarf: 0.50\nwindy: 2.00\nthink: 1.00\ntractor: 2.50\nglue: 0.50\nraisin: 0.50\nmovie: 2.00\neye: 0.50\nflower: 0.50\nempty: 0.50\ncute: 1.00\nbrown: 0.50\nballoon: 1.00\ncry: 2.00\nyard: 0.50\npig: 1.50\npencil: 0.50\nmommy: 1.00\nbus: 2.00\nplay: 1.50\nshare: 1.00\ncomb: 0.50\ncrayon: 0.50\ntongue: 0.50\nclose: 1.00\nroof: 0.50\ndoctor: 1.50\nhand: 0.50\nsnack: 0.50\njacket: 0.50\ncloud: 1.00\nwait: 1.00\nfood: 0.50\nduck: 2.00\nmoose: 1.50\npotty: 0.50\ncat: 2.50\nbroom: 0.50\nbear: 1.50\nawake: 1.00\nchild: 1.00\ndoor: 0.50\nflag: 1.00\nbench: 0.50\ndraw: 1.00\nbox: 0.50\nchurch: 1.00\ngo: 1.50\ndaddy: 1.00\nbrush: 0.50\ntouch: 0.50\nhorse: 2.00\nshower: 1.00\ndo: 1.00\nhamburger: 1.00\nmedicine: 0.50\nthirsty: 0.50\nother: 1.00\npicnic: 1.00\nmuffin: 0.50\ncracker: 0.50\nheavy: 0.50\nget: 1.00\nthrow: 1.00\ntoast: 0.50\nhurt: 1.50\ngirl: 1.00\nknee: 0.50\nlittle: 0.50\nsleepy: 1.00\nwhite: 0.50\nkitchen: 0.50\nlady: 1.00\nasleep: 1.00\nbig: 0.50\nant: 0.50\nmonkey: 2.00\nwrite: 1.00\nsing: 2.50\ngood: 1.50\ngoose: 2.00\nchase: 1.50\nfirst: 1.00\nread: 1.00\nlike: 1.50\nfriend: 1.50\nhear: 4.00\npillow: 0.50\ngreen: 0.50\njar: 0.50\nblue: 0.50\nnurse: 1.00\ntrain: 2.50\nnap: 1.00\noven: 0.50\njump: 1.00\nnew: 0.50\nhouse: 0.50\nhead: 0.50\nwish: 1.00\nwash: 0.50\nscissors: 0.50\ngive: 1.00\nsplash: 1.00\ndance: 2.00\nnose: 0.50\nstreet: 1.00\nnight: 1.00\nlove: 1.50\nsoft: 0.50\nclown: 2.00\ncandy: 1.00\nbucket: 0.50\ncoat: 0.50\nanimal: 1.50\ngame: 1.50\nmoney: 0.50\nbuild: 1.00\nnaughty: 1.00\nsweep: 0.50\nspill: 1.00\nhug: 1.00\nparty: 2.00\nzebra: 2.00\nbelt: 0.50\nfeed: 1.00\nblow: 1.00\naunt: 1.00\nsofa: 0.50\nsoda: 0.50\nrooster: 2.00\ntaste: 0.50\nkiss: 1.00\nwalk: 1.00\ntummy: 0.50\nstore: 0.50\nglass: 0.50\ntable: 0.50\nboots: 0.50\nmouth: 0.50\nwould: 1.00\nshoe: 0.50\ngarden: 0.50\nspaghetti: 0.50\nstroller: 0.50\ntooth: 0.50\nsweater: 0.50\nwind: 2.00\nbib: 0.50\nbutter: 0.50\ncoffee: 0.50\nbeach: 1.00\nhair: 0.50\nsee: 1.50\ndoll: 0.50\napple: 0.50\nback: 0.50\ngarbage: 0.50\nshoulder: 0.50\nlick: 0.50\ntape: 0.50\npicture: 0.50\nhate: 1.00\near: 0.50\ngarage: 0.50\nboy: 1.00\nschool: 1.00\nskate: 1.00\nwill: 1.00\ndrop: 1.00\nsun: 1.00\ncut: 1.00\nchocolate: 0.50\npickle: 0.50\nstop: 1.00\npretty: 1.00\nshovel: 0.50\npizza: 0.50\nsmile: 1.50\npumpkin: 0.50\nleg: 0.50\nmake: 1.00\npoor: 1.00\nrefrigerator: 0.50\ntalk: 2.00\nsticky: 0.50\npull: 1.00\njuice: 0.50\npick: 1.00\nblanket: 0.50\nslipper: 0.50\nshirt: 0.50\nmad: 1.00\ntuna: 0.50\nbanana: 0.50\ncheese: 0.50\npaper: 0.50\npretzel: 0.50\npurse: 0.50\nclap: 1.00\nbug: 0.50\nnail: 0.50\nopen: 1.00\nbuy: 1.00\ncereal: 0.50\ndrawer: 0.50\nstove: 0.50\nzoo: 2.00\nwake: 1.00\ntoy: 0.50\nhat: 0.50\nmeat: 0.50\ntear: 1.00\nyellow: 0.50\ncup: 0.50\ndrive: 1.50\nbreakfast: 0.50\nelephant: 2.00\npenny: 0.50\nfinger: 0.50\ntake: 1.00\negg: 0.50\nball: 1.00\narm: 0.50\npuppy: 2.50\ncatch: 1.50",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989468,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1924,
+    "prompt_tokens": 2058,
+    "total_tokens": 3982,
+    "estimated_cost": 0.00124294
+  }
+}

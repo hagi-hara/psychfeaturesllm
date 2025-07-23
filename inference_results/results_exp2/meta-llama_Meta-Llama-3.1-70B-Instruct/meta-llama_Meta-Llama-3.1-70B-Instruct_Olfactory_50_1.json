@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-aa8536b0932f4039bc3093a6e2547e59",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for each word with regard to smelling:\n\ngarden: 4\nwhite: 0\nwindow: 0\ncloud: 0\nraisin: 2\ntoy: 0\ndiaper: 1\nfit: 0\nbunny: 0\npencil: 0\nstore: 0\ncoffee: 4\ntissue: 0\nhand: 0\nkick: 0\nshovel: 0\ntrash: 2\nbench: 0\nfinish: 0\nchocolate: 4\njelly: 3\nquiet: 0\nmedicine: 1\nturtle: 0\nhold: 0\ncake: 3\nblanket: 0\nbaby: 0\nwolf: 0\nzipper: 0\nshow: 0\ntouch: 0\napple: 2\nlion: 0\nglue: 0\nalligator: 0\nhug: 0\neat: 0\npolice: 0\ngame: 0\nsquirrel: 0\nold: 0\nhungry: 0\nmuffin: 2\nsad: 0\nchalk: 0\nbib: 0\ncoke: 2\ncook: 0\nwill: 0\ngo: 0\ncamera: 0\ncouch: 0\npillow: 0\nsit: 0\nradio: 0\nwindy: 0\neye: 0\nwash: 0\nthirsty: 0\ntree: 0\nfriend: 0\ncircus: 0\npicnic: 0\npuppy: 0\nasleep: 0\nstay: 0\ntuna: 2\nwalk: 0\nstrawberry: 3\nbuild: 0\nsoda: 2\npool: 0\nfind: 0\ncry: 0\ntray: 0\ncracker: 2\ntiger: 0\ncat: 0\nhot: 0\nbrown: 0\npickle: 3\nsplash: 0\near: 0\nnaughty: 0\nplant: 0\nspaghetti: 2\ngarage: 0\nbrother: 0\nsofa: 0\nchair: 0\nthink: 0\nyellow: 0\npenguin: 0\ntalk: 0\nteacher: 0\nheavy: 0\nget: 0\nread: 0\njump: 0\nfork: 0\nhurt: 0\ntry: 0\npony: 0\ncold: 0\njar: 1\nwet: 0\nempty: 0\njuice: 2\nyard: 0\noven: 0\ncereal: 1\nstand: 0\npretty: 0\npretend: 0\nboy: 0\nzoo: 0\nother: 0\nspill: 0\nwipe: 0\nbowl: 0\nbus: 0\nsoap: 1\npaint: 0\nbear: 0\nleg: 0\nmoney: 0\nlike: 0\ndeer: 0\nthrow: 0\nrip: 0\nbrush: 0\nstick: 0\nchin: 0\nlollipop: 2\nbottle: 0\ntape: 0\nhate: 0\npenny: 0\ndrive: 0\ngoose: 0\npresent: 0\nsnack: 2\nlamp: 0\nsee: 0\ndoor: 0\nchild: 0\nsled: 0\nclown: 0\ngiraffe: 0\nwake: 0\npotty: 0\nlook: 0\nbreakfast: 2\nroof: 0\nred: 0\ncheek: 0\nsheep: 0\ncookie: 2\nsweep: 0\nladder: 0\ncomb: 0\nsauce: 2\nball: 0\nbox: 0\nhamburger: 3\nstroller: 0\nbird: 0\nwait: 0\npotato: 2\nfeed: 0\nsister: 0\ntime: 0\npen: 0\naunt: 0\nstop: 0\nchurch: 0\nbroken: 0\nelephant: 0\nscarf: 0\nnurse: 0\nanimal: 0\nyogurt: 2\ncar: 0\nsneaker: 0\narm: 0\ndonkey: 0\nback: 0\nchase: 0\nnapkin: 0\nvacuum: 0\nface: 0\npumpkin: 2\nclose: 0\nhit: 0\nhear: 0\nbump: 0\ncut: 0\ndrawer: 0\nboat: 0\ntaste: 5\ntractor: 0\nbath: 0\nmouth: 0\nsticky: 0\npeople: 0\ncover: 0\nfirst: 0\nclock: 0\nuncle: 0\nsleepy: 0\nbring: 0\nshoulder: 0\ncarry: 0\ncheese: 2",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989316,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1178,
+    "prompt_tokens": 2278,
+    "total_tokens": 3456,
+    "estimated_cost": 0.00099514
+  }
+}

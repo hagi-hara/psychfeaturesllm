@@ -1,0 +1,437 @@
+You will be presented with a list of words. For each word, please rate how much you associate it with babies on a scale between 1 (not associated with babies) to 10 (very associated with babies). Please use the full range of the scale and try to be as accurate as possible in your judgments.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are not familiar with a word’s meaning, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+book: 4.70
+bear: 4.80
+nice: 5.88
+basket: 5.00
+old: 1.45
+find: 2.91
+cookie: 4.73
+bucket: 1.50
+red: 2.00
+get: 3.62
+oven: 1.30
+scarf: 2.60
+eye: 4.08
+button: 3.80
+butter: 2.40
+smile: 5.64
+hand: 4.90
+child: 8.62
+bug: 3.08
+jump: 3.60
+radio: 1.80
+drop: 2.54
+blow: 2.50
+fit: 1.67
+hear: 4.60
+say: 3.90
+people: 3.92
+cup: 3.36
+bat: 1.62
+wipe: 8.27
+be: 2.24
+pizza: 1.91
+scissors: 1.20
+new: 7.42
+nail: 2.85
+police: 1.90
+park: 5.14
+wolf: 1.18
+sick: 5.60
+lollipop: 5.18
+tear: 7.40
+street: 1.70
+sheep: 3.40
+push: 4.14
+thirsty: 4.45
+finger: 5.17
+close: 5.62
+puzzle: 3.31
+carry: 5.91
+gum: 3.71
+deer: 2.07
+nap: 8.50
+sandwich: 2.70
+sticky: 5.92
+pig: 1.42
+picnic: 2.73
+paint: 3.08
+chin: 4.92
+penguin: 1.30
+dog: 3.10
+finish: 1.09
+dump: 2.36
+napkin: 3.36
+kiss: 6.47
+tissue: 3.00
+person: 6.00
+flower: 2.70
+moose: 2.00
+listen: 2.17
+crib: 9.32
+soap: 4.90
+belt: 1.29
+hammer: 4.90
+give: 3.50
+boy: 7.92
+mommy: 8.45
+purse: 1.40
+rooster: 1.50
+wish: 3.92
+sky: 2.42
+coat: 2.36
+spill: 7.06
+egg: 3.64
+dryer: 2.35
+
+Please answer about all of the following words.
+
+milk
+soft
+owl
+ankle
+baby
+muffin
+farm
+throw
+nose
+stone
+splash
+rain
+school
+cat
+night
+home
+big
+teacher
+stick
+will
+tiger
+slipper
+hold
+feed
+turkey
+lady
+jacket
+towel
+tongue
+trash
+lion
+talk
+car
+tickle
+sister
+drawer
+sprinkler
+hot
+ant
+show
+hungry
+pickle
+arm
+couch
+sun
+bath
+hose
+climb
+wind
+cover
+giraffe
+goose
+meat
+soda
+cheese
+juice
+knee
+bus
+wait
+stand
+catch
+zipper
+read
+garage
+bite
+star
+truck
+fall
+potato
+duck
+share
+wet
+movie
+hard
+bed
+bib
+sweep
+sit
+windy
+heavy
+cook
+cracker
+potty
+play
+draw
+fix
+doll
+elephant
+lunch
+door
+candy
+friend
+box
+kitchen
+brother
+party
+shake
+animal
+ladder
+tummy
+ride
+raisin
+noisy
+pants
+doctor
+full
+swim
+garbage
+squirrel
+boat
+tree
+flag
+girl
+jar
+pretty
+chalk
+good
+money
+write
+snack
+cereal
+bee
+bench
+hair
+hit
+glass
+run
+aunt
+boots
+bunny
+roof
+table
+have
+awake
+pretzel
+pool
+white
+dress
+jelly
+hen
+refrigerator
+sofa
+monkey
+rock
+stop
+time
+face
+shovel
+make
+brush
+green
+vacuum
+sink
+pen
+tooth
+penny
+tape
+shoe
+cheek
+paper
+bird
+cut
+medicine
+spaghetti
+porch
+blanket
+yellow
+eat
+bowl
+tiny
+dark
+look
+quiet
+other
+country
+jeans
+slow
+sleepy
+window
+bump
+donkey
+balloon
+try
+pencil
+sad
+clap
+taste
+do
+broken
+toy
+game
+touch
+shower
+coffee
+cloud
+basement
+clock
+dinner
+head
+happy
+hide
+brown
+see
+zoo
+build
+alligator
+spoon
+toe
+hurt
+think
+leg
+cow
+stay
+poor
+lick
+high
+house
+help
+pony
+mad
+moon
+sing
+cute
+broom
+stroller
+morning
+pour
+buy
+soup
+blue
+pull
+present
+mouth
+crayon
+empty
+dance
+sleep
+bring
+fine
+lamp
+tuna
+pretend
+picture
+clown
+gentle
+shoulder
+day
+ice
+ball
+shirt
+hug
+church
+take
+hamburger
+meow
+zebra
+little
+like
+snow
+circus
+chair
+hate
+wash
+room
+tray
+corn
+daddy
+nurse
+asleep
+closet
+comb
+lamb
+chase
+first
+cry
+sweater
+fork
+food
+toast
+would
+chocolate
+mouse
+diaper
+hurry
+plant
+train
+plate
+open
+sauce
+turtle
+walk
+glue
+sock
+yogurt
+love
+beach
+pumpkin
+knock
+kick
+drive
+skate
+pillow
+black
+apple
+man
+tired
+mop
+banana
+go
+cake
+strawberry
+sled
+camera
+uncle
+dirty
+yard
+hat
+pick
+coke
+tractor
+block
+bread
+put
+ear
+store
+garden
+bad
+bottle
+dish
+break
+wake
+naughty
+story
+breakfast
+back
+sneaker
+stove
+rip
+salt
+cold
+puppy
+pudding
+horse
+grass

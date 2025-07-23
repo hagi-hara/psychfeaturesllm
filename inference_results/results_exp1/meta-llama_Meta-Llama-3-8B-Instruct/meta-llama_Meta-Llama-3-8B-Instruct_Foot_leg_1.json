@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-2c0984c635f6433b9396cb3825ffb9c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "at: 0\ncook: 0\negg: 0\ntomorrow: 0\nyourself: 0\nman: 0\nmailman: 0\nfull: 0\ndaddy: 0\ntonight: 0\ncut: 5\nsleepy: 0\nsit: 5\ncow: 0\nrain: 0\nnose: 0\nknock: 5\nso big: 0\nthem: 0\nunderpants: 0\npeople: 0\ntractor: 0\ntry to: 0\ngrandma: 0\nsky: 0\nhug: 5\nempty: 0\naunt: 0\npopcorn: 0\nsheep: 0\nuh oh: 0\ncar: 0\nmorning: 0\nall: 0\nbicycle: 0\nsweep: 0\ncheek: 0\ntaste: 0\nbackyard: 0\nbunny: 0\nyes: 0\nscissors: 0\nbroken: 0\ncatch: 0\nto: 0\nshirt: 0\nof: 0\nbox: 0\nback: 0\nsnow: 0\nswim: 0\nbe: 0\nfiretruck: 0\nfriend: 0\nslow: 0\nand: 0\nuncle: 0\nfall: 0\ndraw: 0\nboat: 0\npencil: 0\ndish: 0\nkitty: 0\nskate: 0\ngotta: 0\nhate: 0\nball: 0\nowl: 0\nbee: 0\nwhen: 0\nasleep: 0\nhose: 0\nbaa baa: 0\ncorn: 0\ncoffee: 0\nbubble: 0\nroof: 0\nbuy: 0\ntrain: 0\ntights: 0\nhard: 0\nyou: 0\ncamera: 0\ncouch: 0\ndiaper: 0\nstrawberry: 0\ndrive: 0\npuzzle: 0\ntalk: 0\near: 0\nstory: 0\npurse: 0\nanimal: 0\ndid ya: 0\nsoft: 0\nbutton: 0\nthank you: 0\nbutter: 0\nno: 0\nwake: 0\nbathtub: 0\nice cream: 0\ntiger: 0\nhelicopter: 0\nshoe: 0\ntrash: 0\npickle: 0\nrock: 0\npolice: 0\nhouse: 0\nfrench fries: 0\nlight: 0\nwait: 0\nif: 0\nhello: 0\nbelly button: 0\nover: 0\ncrayon: 0\nlong: 0\njuice: 0\nhow: 0\nsad: 0\nstreet: 0\njello: 0\nlove: 0\nsink: 0\ntruck: 0\nvacuum: 0\ntoo: 0\nhorse: 0\nread: 0\npudding: 0\nhave to: 0\nmore: 0\ndry (action): 5\njelly: 0\nplay dough: 0\nsing: 0\nnaughty: 0\nsay: 0\ndrink (beverage): 0\nbird: 0\ngo: 0\nfirst: 0\nmommy: 0\npuppy: 0\ndoes: 0\nwatch (object): 0\nlady: 0\nyum yum: 0\napplesauce: 0\ncall: 0\nstand: 0\nspaghetti: 0\nwork (action): 0\noutside: 0\nblack: 0\nthese: 0\nhurry: 0\nlollipop: 0\nteddybear: 0\ngiraffe: 0\npillow: 0\ndrop: 0\ngas station: 0\ngot to: 0\nnext to: 0\nthere: 0\nkick: 5\nice: 0\npoor: 0\nteacher: 0\ncarrot: 0\nsprinkler: 0\nstore: 0\nfork: 0\nbathroom: 0\ngrandpa: 0\nmotorcycle: 0\nfinish: 0\nhide: 0\nbite: 0\npopsicle: 0\nbreak: 0\nloud: 0\nin: 0\ndowntown: 0\nboy: 0\nanother: 0\nbuild: 0\nbean: 0\ntooth: 0\nsome: 0\nfish (animal): 0\nhis: 0\nzoo: 0\nboo boo: 0\nbeside: 0\nlike: 0\npicture: 0\nhave: 0\nsplash: 0\nbottom: 0\ncoat: 0\nhear: 0\nany: 0\ntime: 0\ncookie: 0\ntake: 0\nsoup: 0\nbabysitter's name: 0\nwind: 0\njacket: 0\nyucky: 0\npen: 0\nsandbox: 0\nlawn mower: 0\neat: 0\nhand: 0\ngrrr: 0\nthen: 0\nvroom: 0\nfit: 0\nthis little piggy: 0\ntable: 0\nnoisy: 0\nsweater: 0\nshh: 0\nred: 0\nsoap: 0\ndid: 0\ngonna: 0\nis: 0\nso: 0\nmake: 0\nknee: 5",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560458,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1309,
+    "prompt_tokens": 1950,
+    "total_tokens": 3259,
+    "estimated_cost": 0.00019554000000000002
+  }
+}

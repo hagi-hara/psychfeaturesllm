@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-c833764248b74a968f4eea133c43e8f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the words with mouth/throat actions:\n\nbanana: 5\npeanut butter: 5\negg: 5\nfrench fries: 5\ntoast: 5\nfish (food): 5\ndonut: 5\nyogurt: 5\napple: 5\norange (food): 5\ncake: 5\npickle: 5\npudding: 5\ncandy: 5\nice cream: 5\nlollipop: 5\nchocolate: 5\ncookie: 5\nmuffin: 5\nbread: 5\nmeat: 5\nchicken (food): 5\ntuna: 5\nspaghetti: 5\ncheese: 5\ncracker: 5\njello: 5\ngrape: 5\nmelon: 5\nsandwich: 5\nhamburger: 5\npizza: 5\npotato chip: 5\npopcorn: 5\npretzel: 5\ndrink (beverage): 5\njuice: 5\nmilk: 5\nwater (beverage): 5\nsoda: 5\ncoffee: 5\ntea: N\nyum yum: 5\ntaste: 5\nlick: 5\nbite: 5\neat: 5\nspill: 5\ndrool: N\n\nNote: I didn't rate words that are not typically associated with mouth/throat actions.",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564878,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 322,
+    "prompt_tokens": 1950,
+    "total_tokens": 2272,
+    "estimated_cost": 0.0012554999999999999
+  }
+}

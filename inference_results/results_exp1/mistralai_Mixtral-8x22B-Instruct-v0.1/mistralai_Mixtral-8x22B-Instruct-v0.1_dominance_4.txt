@@ -1,0 +1,695 @@
+ paint: 9
+bubble: 9
+sock: 9
+slipper: 9
+don't: 5
+bench: 9
+bottom: 9
+wolf: 3
+pajamas: 9
+love: 9
+gotta: 5
+asleep: 5
+corn: 9
+mad: 3
+bib: 9
+kleenex: 9
+telephone: 9
+owie: 3
+cut: 3
+penis: 9
+paper: 9
+ear: 5
+going to: 9
+banana: 9
+fork: 9
+skate: 9
+today: 9
+pudding: 9
+smile: 9
+penguin: 9
+finish: 9
+give: 9
+sandbox: 9
+behind: 9
+glass: 9
+hen: 9
+any: 9
+help: 9
+bead: 9
+close: 9
+sofa: 9
+with: 9
+train: 9
+water (beverage): 9
+fireman: 9
+hat: 9
+brown: 9
+this little piggy: 9
+milk: 9
+arm: 9
+his: 9
+home: 9
+garbage: 9
+tractor: 9
+happy: 9
+orange (description): 9
+old: 9
+they: 9
+stone: 9
+tights: 9
+would: 9
+block: 9
+soup: 9
+present: 9
+pants: 9
+rip: 9
+dark: 9
+balloon: 9
+crayon: 9
+brush: 9
+there: 9
+that: 9
+sweater: 9
+break: 9
+see: 9
+off: 9
+jar: 9
+because: 9
+and: 9
+box: 9
+hard: 9
+lady: 9
+glove: 9
+clock: 9
+hafta: 9
+buy: 9
+sweep: 9
+here: 9
+soap: 9
+boo boo: 9
+tricycle: 9
+jeans: 9
+make: 9
+careful: 9
+bean: 9
+night: 9
+clap: 9
+sun: 9
+green beans: 9
+myself: 9
+poor: 9
+uh oh: 9
+face: 9
+vagina: 9
+slide (object): 9
+TV: 9
+ladder: 9
+all gone: 9
+give me five: 9
+egg: 9
+picnic: 9
+on top of: 9
+donut: 9
+stove: 9
+giraffe: 9
+our: 9
+mop: 9
+hold: 9
+pen: 9
+bad: 3
+this: 9
+another: 9
+go: 9
+back: 9
+country: 9
+yogurt: 9
+button: 9
+later: 9
+yum yum: 9
+lunch: 9
+too: 9
+splash: 9
+get: 9
+bowl: 9
+man: 9
+animal: 9
+last: 9
+ride: 9
+pour: 9
+think: 9
+zoo: 9
+clean (action): 9
+clean (description): 9
+chalk: 9
+oven: 9
+gonna: 9
+napkin: 9
+juice: 9
+stay: 9
+butter: 9
+loud: 9
+drink (action): 9
+hair: 9
+windy: 9
+pretzel: 9
+truck: 9
+them: 9
+boy: 9
+slow: 9
+fix: 9
+when: 9
+fit: 9
+eat: 9
+garage: 9
+clown: 9
+park: 9
+stick: 9
+grrr: 9
+he: 9
+bathtub: 9
+babysitter: 9
+drawer: 9
+sing: 9
+school: 9
+swing (object): 9
+hose: 9
+towel: 9
+could: 9
+put: 9
+build: 9
+hammer: 9
+toothbrush: 9
+ant: 9
+doll: 9
+big: 9
+church: 9
+empty: 9
+nail: 9
+next to: 9
+spoon: 9
+each: 9
+peekaboo: 9
+much: 9
+chicken (food): 9
+lemme: 9
+dog: 9
+are: 9
+high: 9
+day: 9
+bear: 9
+store: 9
+call: 9
+were: 9
+high chair: 9
+bottle: 9
+sauce: 9
+me: 9
+dump: 9
+boots: 9
+new: 9
+ice cream: 9
+basement: 9
+closet: 9
+roof: 9
+applesauce: 9
+living room: 9
+grape: 9
+mine: 9
+mailman: 9
+bug: 9
+ouch: 9
+refrigerator: 9
+meow: 9
+sled: 9
+mouse: 9
+bump: 9
+basket: 9
+hush: 9
+blanket: 9
+baby: 9
+boat: 9
+pool: 9
+puppy: 9
+bathroom: 9
+better: 9
+sheep: 9
+stroller: 9
+scissors: 9
+dinner: 9
+doctor: 9
+airplane: 9
+wash: 9
+so big: 9
+play pen: 9
+cheese: 9
+wanna: 9
+motorcycle: 9
+like: 9
+hit: 9
+spaghetti: 9
+a: 9
+pizza: 9
+cookie: 9
+head: 9
+deer: 9
+couch: 9
+why: 9
+say: 9
+have: 9
+turn around: 9
+knife: 9
+did ya: 9
+popcorn: 9
+door: 9
+party: 9
+chin: 9
+finger: 9
+salt: 9
+lawn mower: 9
+before: 9
+kitchen: 9
+tiny: 9
+orange (food): 9
+coat: 9
+melon: 9
+beach: 9
+necklace: 9
+heavy: 9
+chocolate: 9
+sky: 9
+coke: 9
+cracker: 9
+you: 9
+none: 9
+money: 9
+draw: 9
+sister: 9
+these: 9
+shake: 9
+hear: 9
+thirsty: 9
+rooster: 9
+kiss: 9
+sticky: 9
+pancake: 9
+crib: 9
+by: 9
+morning: 9
+knock: 9
+catch: 9
+wake: 9
+on: 9
+hamburger: 9
+choo choo: 9
+hand: 9
+find: 9
+helicopter: 9
+pillow: 9
+jump: 9
+kitty: 9
+shh: 9
+girl: 9
+story: 9
+table: 9
+pretend: 9
+farm: 9
+tongue: 9
+potty: 9
+camping: 9
+washing machine: 9
+cake: 9
+friend: 9
+vitamins: 9
+play dough: 9
+apple: 9
+tired: 9
+raisin: 9
+hug: 9
+tray: 9
+walk: 9
+mommy: 9
+gonna get you: 9
+tiger: 9
+uncle: 9
+moose: 9
+comb: 9
+breakfast: 9
+can (object): 9
+puzzle: 9
+sad: 3
+rock: 9
+key: 9
+horse: 9
+plate: 9
+mouth: 9
+did: 9
+slide (action): 9
+feed: 9
+down: 9
+show: 9
+sprinkler: 9
+dress: 9
+lamb: 9
+read: 9
+hello: 9
+up: 9
+of: 9
+little: 9
+tuna: 9
+pig: 9
+grass: 9
+shirt: 9
+knee: 9
+pop: 9
+playground: 9
+toe: 9
+look: 9
+grandpa: 9
+blow: 9
+nose: 9
+pumpkin: 9
+glue: 9
+snow: 9
+inside: 9
+for: 9
+us: 9
+cereal: 9
+vacuum: 9
+pattycake: 9
+push: 9
+picture: 9
+elephant: 9
+lamp: 9
+chair: 9
+who: 9
+cheerio: 9
+firetruck: 9
+foot: 9
+alligator: 9
+now: 9
+stairs: 9
+yesterday: 9
+got to: 9
+cat: 9
+time: 9
+hi: 9
+which: 9
+shoe: 9
+monkey: 9
+first: 9
+chase: 9
+dryer: 9
+so: 9
+cowboy: 9
+babysitter's name: N
+do: 9
+naughty: 3
+sit: 9
+good: 9
+purse: 9
+yard: 9
+tomorrow: 9
+people: 9
+downtown: 9
+candy: 9
+nap: 9
+I: 9
+moon: 9
+broken: 3
+have to: 9
+nice: 9
+popsicle: 9
+pea: 9
+bat: 9
+aunt: 9
+buttocks: 9
+daddy: 9
+fine: 9
+tear: 9
+room: 9
+gentle: 9
+mitten: 9
+stop: 9
+woods: 9
+broom: 9
+food: 9
+potato: 9
+bee: 9
+sleep: 9
+hot: 9
+long: 9
+dirty: 3
+bread: 9
+can (auxiliary): 9
+am: 9
+cover: 9
+let me: 9
+him: 9
+coffee: 9
+at: 9
+hers: 9
+shoulder: 9
+flag: 9
+sneaker: 9
+wind: 9
+bird: 9
+all: 9
+circus: 9
+dry (action): 9
+butterfly: 9
+rain: 9
+child's own name: N
+bed: 9
+will: 9
+bite: 9
+shush: 9
+owl: 9
+brother: 9
+does: 9
+same: 9
+potato chip: 9
+lip: 9
+is: 9
+ball: 9
+dish: 9
+how: 9
+soft: 9
+stand: 9
+backyard: 9
+your: 9
+sink: 9
+nut: 9
+person: 9
+above: 9
+zipper: 9
+need: 9
+in: 9
+go potty: 9
+yes: 9
+belly button: 9
+she: 9
+pickle: 9
+fast: 9
+snowsuit: 9
+full: 9
+yourself: 9
+house: 9
+medicine: 9
+movie: 9
+swing (action): 9
+red: 9
+bunny: 9
+carry: 9
+try: 9
+tickle: 9
+squirrel: 9
+be: 9
+the: 9
+to: 9
+bring: 9
+tree: 9
+under: 9
+listen: 9
+what: 9
+ice: 9
+strawberry: 9
+around: 9
+radio: 9
+bucket: 9
+french fries: 9
+pretty: 9
+lion: 9
+nurse: 9
+jello: 9
+light: 9
+stuck: 3
+cow: 9
+walker: 9
+sidewalk: 9
+bye: 9
+dance: 9
+some: 9
+tooth: 9
+sandwich: 9
+pencil: 9
+out: 9
+lollipop: 9
+open: 9
+wait: 9
+donkey: 9
+wish: 9
+thank you: 9
+their: 9
+cute: 9
+over: 9
+street: 9
+hate: 3
+camera: 9
+outside: 9
+flower: 9
+scared: 3
+more: 9
+shower: 9
+chicken (animal): 9
+glasses: 9
+cockadoodledoo: 9
+kick: 9
+quiet: 9
+fish (animal): 9
+watch (action): 9
+play: 9
+moo: 9
+tonight: 9
+rocking chair: 9
+goose: 9
+drive: 9
+it: 9
+belt: 9
+then: 9
+dry (description): 9
+every: 9
+watch (object): 9
+garden: 9
+write: 9
+share: 9
+sleepy: 9
+beside: 9
+woof woof: 9
+quack quack: 9
+tummy: 9
+bath: 9
+cook: 9
+window: 9
+teddybear: 9
+lick: 9
+turtle: 9
+shovel: 9
+star: 9
+taste: 9
+please: 9
+work (action): 9
+jelly: 9
+need to: 9
+snack: 9
+if: 9
+green: 9
+toy: 9
+scarf: 9
+duck: 9
+blue: 9
+throw: 9
+her: 9
+tissue: 9
+sick: 3
+away: 9
+peanut butter: 9
+yucky: 3
+muffin: 9
+vroom: 9
+game: 9
+noisy: 9
+swim: 9
+into: 9
+my: 9
+zebra: 9
+no: 5
+child: 9
+talk: 9
+after: 9
+tape: 9
+hurry: 9
+jacket: 9
+awake: 9
+bedroom: 9
+turkey: 9
+drink (beverage): 9
+car: 9
+spill: 9
+those: 9
+not: 5
+wipe: 9
+underpants: 9
+try to: 9
+run: 9
+leg: 9
+was: 9
+porch: 9
+gas station: 9
+an: 9
+eye: 9
+hurt: 3
+cup: 9
+gum: 9
+vanilla: 9
+pull: 9
+cheek: 9
+book: 9
+penny: 9
+soda: 9
+white: 9
+trash: 9
+carrot: 9
+about: 9
+police: 9
+pet's name: N
+cold: 9
+climb: 9
+touch: 9
+a lot: 9
+diaper: 9
+fall: 9
+plant: 9
+cry: 9
+work (place): 9
+water (not beverage): 9
+wet: 9
+other: 9
+frog: 9
+teacher: 9
+want to: 9
+bicycle: 9
+take: 9
+black: 9
+drop: 9
+toast: 9
+hungry: 9
+ankle: 9
+baa baa: 9
+night night: 9
+yellow: 9
+noodle: 9
+cloud: 9
+pony: 9
+but: 9
+snowman: 9
+where: 9
+fish (food): 9
+bus: 9
+shopping: 9
+pick: 9
+we: 9
+grandma: 9
+hide: 9
+shorts: 9
+meat: 9

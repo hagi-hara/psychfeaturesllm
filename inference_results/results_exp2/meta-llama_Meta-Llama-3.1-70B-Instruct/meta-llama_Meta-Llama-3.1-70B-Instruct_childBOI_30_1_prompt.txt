@@ -1,0 +1,445 @@
+Words differ in the extent to which they refer to objects or things that a child has experience physically interacting with. Some words refer to objects or things that a child easily interacts with physically, whereas other words refer to objects or things that a child does not easily physically interact with. We need your help to judge the words listed on the following pages for how easily the average 6-year-old can physically interact (using the body: hands, mouth, etc.) with what each word represents.
+
+For example, the words “ball”, “pillow”, and “banana” refer to objects or things that a 6-year-old child physically interacts with easily, using their hands, face, mouth, etc. Things like this should get high ratings.
+
+In contrast the words, “unicorn”, “fire”, and “cloud” refer to objects or things that a 6-year-old child does not physically interact with easily and so should get low ratings; a “unicorn” is imaginary, so although children may be familiar with unicorn they cannot easily physically interact with them; “fire” is dangerous and so not easy for children to interact with, and a “cloud” is too large, distant, and vaporous for children to easily interact with.
+
+Please rate the child’s experiences with the real object or thing, not a toy version of an object. Also, because words tend to make you think of other words as associates, it is important that your ratings not be based on this and that you judge only the ease with which a child could physically interact with what the given word represents.
+
+Your child-object interaction ratings will be made on a 1 to 7 scale. A value of 1 will indicate a low child-object interaction rating, and a value of 7 will indicate a high child-object interaction rating. Values of 2 to 6 will indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings. Choose the rating that is most appropriate for each word. When making your ratings, try to be as accurate as possible, but do not spend too much time on any one word. If you are unsure of what the word means, please skip the rating.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are unsure of what the word means, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+day: 4.56
+tongue: 6.43
+friend: 6.39
+kiss: 5.74
+awake: 3.67
+plant: 6.03
+windy: 5.12
+be: 3.44
+pretty: 2.33
+arm: 6.31
+knock: 4.97
+paper: 6.74
+cute: 3.53
+toast: 6.47
+ear: 6.61
+soft: 4.58
+girl: 5.52
+brown: 4.76
+time: 2.67
+deer: 3.96
+bed: 6.67
+empty: 3.85
+green: 4.81
+fork: 6.80
+sandwich: 6.88
+stand: 5.38
+wind: 4.69
+cook: 4.88
+pen: 6.37
+sweep: 3.78
+pretzel: 6.52
+eye: 6.48
+naughty: 3.94
+park: 6.35
+star: 3.54
+big: 4.00
+crib: 4.38
+chair: 6.79
+bench: 5.04
+shovel: 6.23
+throw: 4.65
+turkey: 5.20
+draw: 5.16
+pudding: 4.62
+cover: 4.04
+hat: 5.63
+story: 5.16
+try: 3.79
+meat: 5.45
+coat: 6.24
+oven: 5.38
+jacket: 6.89
+buy: 3.54
+run: 5.65
+kick: 5.00
+pants: 6.86
+window: 6.19
+build: 4.39
+paint: 6.56
+chocolate: 5.90
+strawberry: 6.79
+cold: 5.62
+first: 3.69
+monkey: 3.53
+sleepy: 3.56
+bat: 4.90
+ankle: 6.17
+pillow: 6.81
+juice: 6.13
+chin: 5.78
+coffee: 4.83
+think: 3.52
+bring: 3.93
+hug: 6.22
+garbage: 6.17
+cake: 6.71
+zoo: 5.36
+giraffe: 3.56
+heavy: 4.04
+pizza: 6.75
+night: 3.48
+bowl: 6.87
+stay: 3.48
+rooster: 3.80
+close: 3.76
+potty: 6.27
+bug: 5.59
+nice: 3.17
+couch: 6.59
+cereal: 6.89
+room: 6.08
+hose: 5.39
+pony: 5.26
+morning: 3.68
+car: 6.52
+dump: 3.60
+skate: 6.04
+talk: 5.04
+get: 3.42
+farm: 5.00
+hard: 4.36
+tractor: 4.35
+pickle: 5.74
+milk: 6.72
+boat: 5.70
+cry: 4.40
+present: 5.89
+write: 4.48
+bread: 6.96
+nail: 5.27
+ice: 5.86
+owl: 4.44
+fine: 2.73
+brother: 5.81
+lunch: 6.57
+bunny: 5.65
+crayon: 6.96
+rain: 6.54
+bump: 4.40
+moose: 2.92
+person: 6.04
+squirrel: 4.46
+clown: 4.41
+bus: 4.94
+dark: 4.04
+dress: 6.43
+
+Please answer about all of the following words.
+
+yard
+knee
+church
+see
+jar
+door
+nap
+sky
+hungry
+train
+look
+egg
+love
+pumpkin
+trash
+radio
+duck
+picnic
+fix
+jeans
+sled
+hair
+spoon
+sweater
+elephant
+doctor
+mouse
+house
+dinner
+glass
+white
+help
+potato
+would
+party
+fall
+pour
+medicine
+blue
+sister
+hurry
+stick
+red
+bite
+bear
+street
+like
+sick
+toe
+lamb
+boots
+meow
+sauce
+sleep
+dish
+stone
+snack
+sneaker
+sit
+hide
+pretend
+tree
+comb
+purse
+shake
+picture
+wet
+pencil
+do
+leg
+tear
+poor
+lion
+child
+moon
+man
+apple
+garden
+closet
+cup
+bee
+mouth
+glue
+sticky
+bucket
+yogurt
+tummy
+lamp
+book
+people
+shower
+flower
+climb
+thirsty
+high
+penguin
+hen
+nose
+drive
+school
+butter
+movie
+uncle
+smile
+walk
+toy
+sock
+quiet
+tickle
+splash
+circus
+soap
+box
+wipe
+cow
+play
+police
+sad
+ball
+aunt
+jelly
+stroller
+noisy
+store
+cookie
+share
+rip
+old
+block
+chalk
+feed
+soda
+hold
+open
+tuna
+touch
+refrigerator
+push
+slow
+coke
+lick
+finish
+puzzle
+puppy
+brush
+bib
+gum
+porch
+turtle
+tiny
+dryer
+eat
+penny
+sing
+stove
+will
+teacher
+hear
+lollipop
+salt
+baby
+boy
+finger
+lady
+mop
+good
+other
+plate
+hit
+flag
+yellow
+wash
+hamburger
+broken
+mommy
+carry
+swim
+bottle
+cut
+basement
+blanket
+gentle
+cheek
+bath
+raisin
+tooth
+sink
+make
+grass
+rock
+full
+garage
+zipper
+tape
+read
+ride
+goose
+basket
+show
+wake
+candy
+fit
+camera
+doll
+dirty
+pig
+bad
+go
+shirt
+clap
+jump
+little
+back
+ladder
+asleep
+animal
+catch
+give
+food
+bird
+drop
+tray
+black
+slipper
+money
+spaghetti
+nurse
+pool
+happy
+sun
+cheese
+breakfast
+scarf
+shoulder
+chase
+wait
+head
+table
+spill
+donkey
+beach
+balloon
+kitchen
+home
+face
+muffin
+country
+snow
+broom
+tissue
+tiger
+towel
+pick
+blow
+dog
+hurt
+clock
+roof
+listen
+wolf
+break
+soup
+horse
+hammer
+zebra
+shoe
+banana
+ant
+corn
+tired
+truck
+scissors
+napkin
+mad
+have
+wish
+find
+alligator
+sheep
+cat
+sofa
+hand
+say
+hate
+belt
+cracker
+sprinkler
+stop
+take
+hot
+daddy
+new
+put
+button
+vacuum
+cloud
+drawer
+dance
+taste
+diaper
+pull
+game

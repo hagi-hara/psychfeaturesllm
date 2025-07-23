@@ -1,0 +1,445 @@
+Words differ in the extent to which they refer to objects or things that a child has experience physically interacting with. Some words refer to objects or things that a child easily interacts with physically, whereas other words refer to objects or things that a child does not easily physically interact with. We need your help to judge the words listed on the following pages for how easily the average 6-year-old can physically interact (using the body: hands, mouth, etc.) with what each word represents.
+
+For example, the words “ball”, “pillow”, and “banana” refer to objects or things that a 6-year-old child physically interacts with easily, using their hands, face, mouth, etc. Things like this should get high ratings.
+
+In contrast the words, “unicorn”, “fire”, and “cloud” refer to objects or things that a 6-year-old child does not physically interact with easily and so should get low ratings; a “unicorn” is imaginary, so although children may be familiar with unicorn they cannot easily physically interact with them; “fire” is dangerous and so not easy for children to interact with, and a “cloud” is too large, distant, and vaporous for children to easily interact with.
+
+Please rate the child’s experiences with the real object or thing, not a toy version of an object. Also, because words tend to make you think of other words as associates, it is important that your ratings not be based on this and that you judge only the ease with which a child could physically interact with what the given word represents.
+
+Your child-object interaction ratings will be made on a 1 to 7 scale. A value of 1 will indicate a low child-object interaction rating, and a value of 7 will indicate a high child-object interaction rating. Values of 2 to 6 will indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings. Choose the rating that is most appropriate for each word. When making your ratings, try to be as accurate as possible, but do not spend too much time on any one word. If you are unsure of what the word means, please skip the rating.
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you are unsure of what the word means, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+ball: 6.95
+button: 6.59
+penny: 5.20
+window: 6.19
+game: 6.36
+sleepy: 3.56
+yellow: 5.71
+pen: 6.37
+goose: 3.59
+hug: 6.22
+dirty: 3.97
+doll: 6.54
+brush: 6.69
+chase: 4.48
+pickle: 5.74
+hamburger: 6.12
+zoo: 5.36
+naughty: 3.94
+home: 6.19
+daddy: 6.83
+bib: 4.80
+stove: 5.32
+chair: 6.79
+party: 5.31
+raisin: 6.42
+cover: 4.04
+kiss: 5.74
+back: 4.41
+spoon: 6.93
+bunny: 5.65
+ride: 4.37
+sandwich: 6.88
+diaper: 5.22
+high: 4.12
+chocolate: 5.90
+awake: 3.67
+blue: 5.54
+nurse: 4.67
+get: 3.42
+country: 3.55
+sweater: 6.43
+boat: 5.70
+breakfast: 6.87
+jelly: 5.21
+scarf: 6.24
+juice: 6.13
+strawberry: 6.79
+hold: 4.95
+wind: 4.69
+dryer: 5.56
+tiny: 3.48
+hurt: 3.96
+crayon: 6.96
+sticky: 4.68
+fit: 3.25
+soda: 4.16
+try: 3.79
+school: 6.56
+chalk: 6.39
+pudding: 4.62
+ant: 5.79
+splash: 5.26
+drawer: 5.74
+glass: 5.44
+shake: 3.82
+wake: 2.88
+potato: 6.11
+zipper: 6.61
+soft: 4.58
+heavy: 4.04
+vacuum: 6.34
+sneaker: 5.96
+basement: 6.11
+rooster: 3.80
+basket: 5.91
+bring: 3.93
+hide: 3.91
+wait: 3.57
+tractor: 4.35
+shirt: 6.78
+finger: 6.96
+dump: 3.60
+arm: 6.31
+pour: 4.65
+open: 3.58
+tear: 3.87
+tiger: 4.24
+bump: 4.40
+pig: 5.07
+rock: 6.72
+tickle: 5.24
+brown: 4.76
+gum: 5.85
+cold: 5.62
+cow: 4.97
+kick: 5.00
+room: 6.08
+grass: 6.78
+paper: 6.74
+wash: 5.20
+jump: 4.81
+mop: 5.19
+aunt: 5.77
+play: 5.46
+beach: 4.89
+sheep: 4.24
+full: 4.44
+build: 4.39
+blanket: 6.80
+sauce: 5.69
+truck: 6.21
+street: 6.06
+coke: 3.47
+tooth: 6.68
+lamp: 5.96
+bench: 5.04
+refrigerator: 6.27
+trash: 5.50
+toy: 7.00
+hear: 3.63
+sock: 6.83
+finish: 3.78
+toe: 6.72
+toast: 6.47
+book: 6.92
+pretend: 4.09
+noisy: 3.76
+clock: 5.93
+blow: 3.79
+child: 5.96
+little: 3.40
+do: 3.67
+ear: 6.61
+find: 3.00
+lady: 4.73
+nail: 5.27
+feed: 3.96
+sad: 3.67
+cup: 6.86
+butter: 6.21
+draw: 5.16
+morning: 3.68
+carry: 4.79
+uncle: 5.31
+asleep: 4.39
+salt: 5.00
+read: 4.74
+monkey: 3.53
+share: 4.26
+squirrel: 4.46
+door: 6.79
+turkey: 5.20
+make: 3.32
+picture: 6.20
+cheese: 6.14
+hammer: 5.37
+bed: 6.67
+people: 6.21
+baby: 6.02
+leg: 6.67
+pony: 5.26
+slow: 3.62
+sky: 3.54
+roof: 4.15
+sofa: 6.48
+bite: 5.15
+quiet: 3.85
+car: 6.52
+dance: 4.78
+hot: 4.00
+ice: 5.86
+shoulder: 6.46
+bug: 5.59
+bread: 6.96
+mad: 3.91
+ladder: 5.44
+listen: 3.65
+stone: 5.64
+police: 4.46
+meow: 3.38
+shoe: 6.82
+elephant: 3.64
+day: 4.56
+flag: 5.26
+man: 6.20
+lollipop: 6.48
+moon: 2.91
+break: 4.18
+yard: 5.76
+cut: 4.93
+brother: 5.81
+soap: 6.68
+banana: 6.91
+take: 4.00
+face: 6.73
+pretzel: 6.52
+glue: 6.20
+money: 6.00
+wipe: 4.61
+tree: 6.67
+clap: 6.19
+horse: 5.41
+hit: 4.32
+sun: 3.60
+hate: 2.53
+happy: 4.07
+lamb: 5.24
+bottle: 6.40
+climb: 4.44
+house: 5.94
+green: 4.81
+windy: 5.12
+sink: 6.17
+
+Please answer about all of the following words.
+
+bus
+hat
+night
+coat
+bat
+red
+pick
+pencil
+deer
+run
+nap
+balloon
+crib
+put
+rip
+smile
+park
+cookie
+tray
+nice
+dress
+first
+kitchen
+meat
+empty
+spaghetti
+comb
+push
+shower
+bee
+scissors
+purse
+belt
+gentle
+candy
+show
+pumpkin
+wish
+teacher
+paint
+wet
+stay
+puppy
+would
+cracker
+pillow
+egg
+hose
+jacket
+cloud
+clown
+think
+look
+train
+potty
+tape
+yogurt
+cook
+cheek
+stroller
+pizza
+animal
+swim
+sing
+hard
+stop
+old
+milk
+chin
+farm
+like
+fine
+big
+bucket
+broom
+skate
+slipper
+couch
+lion
+tummy
+broken
+throw
+close
+wolf
+jeans
+head
+hurry
+eye
+have
+drop
+spill
+owl
+pretty
+giraffe
+thirsty
+church
+black
+coffee
+circus
+bird
+stick
+bad
+taste
+napkin
+walk
+sled
+jar
+boots
+sleep
+boy
+moose
+mommy
+cry
+bowl
+tuna
+zebra
+snow
+cereal
+tongue
+fork
+towel
+garage
+picnic
+radio
+present
+say
+ankle
+buy
+nose
+be
+girl
+hungry
+white
+hair
+lick
+person
+medicine
+knock
+fix
+camera
+apple
+help
+other
+drive
+lunch
+write
+soup
+stand
+duck
+good
+mouse
+closet
+penguin
+sit
+plant
+cake
+will
+dish
+tissue
+bath
+doctor
+knee
+hen
+sick
+rain
+pool
+porch
+snack
+poor
+turtle
+go
+talk
+corn
+mouth
+bear
+story
+new
+flower
+see
+shovel
+dinner
+alligator
+pants
+cat
+time
+table
+sister
+food
+garden
+catch
+store
+give
+friend
+plate
+puzzle
+sweep
+hand
+muffin
+block
+garbage
+touch
+star
+eat
+dog
+pull
+sprinkler
+love
+dark
+donkey
+box
+fall
+movie
+cute
+tired
+oven

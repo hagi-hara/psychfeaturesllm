@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-0fa4e3c0af1b48b188d615fe3e035744",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for the actions related to the hand / arm:\n\n* stand: 5\n* pour: 5\n* pull: 5\n* write: 5\n* wipe: 5\n* work: 5\n* read: 5\n* push: 5\n* knock: 5\n* hold: 5\n* shake: 5\n* give: 5\n* take: 5\n* draw: 5\n* cut: 5\n* hold: 5\n* pick: 5\n* drive: 5\n* write: 5\n* lift: 5\n* swing: 5\n* tap: 5\n* clap: 5\n* blow: 5\n* carry: 5\n* make: 5\n* paint: 5\n* brush: 5\n* comb: 5\n* pencil: 5\n* napkin: 5\n* toothbrush: 5\n* telephone: 5\n* TV: 5\n* ball: 5\n* gum: 5\n* quiet: 5\n* bread: 5\n* rip: 5\n* mitten: 5\n* pea: 5\n* chocolate: 5\n* scarf: 5\n* some: 5\n* why: 5\n* mouth: 5\n* paint: 5\n* empty: 5\n* later: 5\n* call: 5\n* door: 5\n* sled: 5\n* shopping: 5\n* balloon: 5\n* hurt: 5\n* drawer: 5\n* noisy: 5\n* coat: 5\n* who: 5\n* pajamas: 5\n* lamb: 0\n* plant: 0\n* play dough: 0\n* basement: 0\n* sister: 0\n* chicken (animal): 0\n* party: 0\n* shovel: 0\n* would: 0\n* better: 0\n* clock: 0\n* animal: 0\n* lemmme: 0\n* it: 0\n* broken: 0\n* snowsuit: 0\n* living room: 0\n* pretty: 0\n* slide (action): 0\n* garbage: 0\n* brush: 0\n* fish (animal): 0\n* tights: 0\n* pretend: 0\n* got to: 0\n* pop: 0\n* skate: 0\n* bedroom: 0\n* stroller: 0\n* each: 0\n* box: 0\n* are: 0\n* any: 0\n* slipper: 0\n* turn around: 0\n* shirt: 0\n* home: 0\n* goose: 0\n* giraffe: 0\n* money: 0\n* uncle: 0\n* this little piggy: 0\n* catch: 0\n* dance: 0\n* pattycake: 0\n* hafta: 0\n* sad: 0\n* bench: 0\n* ant: 0\n* candy: 0\n* happy: 0\n* please: 0\n* game: 0\n* how: 0\n* night night: 0\n* ankle: 0\n* like: 0\n* give me five: 0\n* throw: 0\n* eye: 0\n* here: 0\n* man: 0\n* popsicle: 0\n* purse: 0\n* high chair: 0\n* spaghetti: 0\n* cracker: 0\n* cloud: 0\n* beach: 0\n* mad: 0\n* food: 0\n* moo: 0\n* sauce: 0\n* cookie: 0\n* basket: 0\n* kiss: 0\n* owl: 0\n* lady: 0\n* same: 0\n* bye: 0\n* towel: 0\n* soup: 0\n* all: 0\n* toy: 0\n* nice: 0\n* fix: 0\n* tractor: 0\n* toe: 0\n* pony: 0\n* duck: 0\n* pen: 0\n* hear: 0\n* green beans: 0\n* shoulder: 0\n* dry (description): 0\n* was: 0\n* next to: 0\n* clean (action): 0\n* uh oh: 0\n* book: 0\n* bite: 0\n* jello: 0\n* tongue: N",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723564139,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1031,
+    "prompt_tokens": 1950,
+    "total_tokens": 2981,
+    "estimated_cost": 0.00017885999999999998
+  }
+}

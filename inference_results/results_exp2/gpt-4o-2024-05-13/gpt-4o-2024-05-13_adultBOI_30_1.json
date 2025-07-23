@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNhTcxw6IkyyXHx8VcMH6Jljy7X",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "yard: 4.13\nknee: 6.48\nchurch: 4.00\nsee: 1.83\njar: 5.65\ndoor: 6.20\nnap: 2.20\nsky: 1.92\nhungry: 2.46\ntrain: 5.19\nlook: 1.83\negg: 6.04\nlove: 1.87\npumpkin: 5.96\ntrash: 4.96\nradio: 5.04\nduck: 4.35\npicnic: 5.04\nfix: 2.92\njeans: 6.33\nsled: 5.13\nhair: 5.72\nspoon: 6.20\nsweater: 6.33\nelephant: 4.00\ndoctor: 5.04\nmouse: 5.30\nhouse: 5.68\ndinner: 6.04\nglass: 5.74\nwhite: 2.17\nhelp: 2.25\npotato: 5.96\nwould: 1.65\nparty: 4.16\nfall: 2.70\npour: 3.68\nmedicine: 5.54\nblue: 2.25\nsister: 5.04\nhurry: 2.33\nstick: 5.59\nred: 2.65\nbite: 3.00\nbear: 4.42\nstreet: 4.24\nlike: 1.83\nsick: 2.78\ntoe: 5.83\nlamb: 4.42\nboots: 6.33\nmeow: 1.88\nsauce: 5.96\nsleep: 2.20\ndish: 6.16\nstone: 5.46\nsnack: 6.04\nsneaker: 6.33\nsit: 4.04\nhide: 2.92\npretend: 1.87\ntree: 5.65\ncomb: 5.72\npurse: 6.12\nshake: 3.59\npicture: 2.82\nwet: 2.33\npencil: 6.64\ndo: 1.65\nleg: 6.48\ntear: 2.70\npoor: 1.72\nlion: 4.26\nchild: 5.52\nmoon: 1.92\nman: 6.12\napple: 6.31\ngarden: 5.65\ncloset: 5.68\ncup: 6.16\nbee: 5.30\nmouth: 6.65\nglue: 5.54\nsticky: 2.33\nbucket: 5.57\nyogurt: 5.96\ntummy: 5.83\nlamp: 6.44\nbook: 5.70\npeople: 6.12\nshower: 5.68\nflower: 5.65\nclimb: 3.92\nthirsty: 2.46\nhigh: 1.92\npenguin: 4.00\nhen: 4.42\nnose: 6.65\ndrive: 3.22\nschool: 5.04\nbutter: 6.09\nmovie: 2.82\nuncle: 5.04\nsmile: 1.88\nwalk: 4.07\ntoy: 6.04\nsock: 6.33\nquiet: 1.67\ntickle: 3.00\nsplash: 3.00\ncircus: 4.16\nsoap: 5.54\nbox: 5.70\nwipe: 2.33\ncow: 4.42\nplay: 4.65\npolice: 5.04\nsad: 1.87\nball: 6.33\naunt: 5.04\njelly: 5.96\nstroller: 6.04\nnoisy: 1.88\nstore: 5.68\ncookie: 6.09\nshare: 1.88\nrip: 2.70\nold: 2.75\nblock: 5.70\nchalk: 6.36\nfeed: 3.92\nsoda: 5.74\nhold: 1.83\nopen: 1.62\ntuna: 5.96\ntouch: 1.83\nrefrigerator: 5.68\npush: 3.59\nslow: 2.75\ncoke: 5.74\nlick: 3.00\nfinish: 1.88\npuzzle: 5.09\npuppy: 4.50\nbrush: 6.36\nbib: 6.33\ngum: 6.31\nporch: 5.68\nturtle: 4.00\ntiny: 2.65\ndryer: 5.68\neat: 3.92\npenny: 5.70\nsing: 1.83\nstove: 5.92\nwill: 1.65\nteacher: 5.04\nhear: 1.83\nlollipop: 6.31\nsalt: 5.54\nbaby: 5.52\nboy: 5.52\nfinger: 6.48\nlady: 5.52\nmop: 5.93\ngood: 2.24\nother: 1.65\nplate: 6.16\nhit: 3.00\nflag: 2.65\nyellow: 2.25\nwash: 3.00\nhamburger: 6.09\nbroken: 2.75\nmommy: 5.52\ncarry: 1.83\nswim: 3.22\nbottle: 5.74\ncut: 2.70\nbasement: 5.68\nblanket: 6.39\ngentle: 2.24\ncheek: 5.88\nbath: 5.68\nraisin: 5.96\ntooth: 6.65\nsink: 5.68\nmake: 1.83\ngrass: 5.65\nrock: 5.46\nfull: 2.78\ngarage: 5.68\nzipper: 5.70\ntape: 5.70\nread: 2.82\nride: 3.22\ngoose: 4.35\nbasket: 5.70\nshow: 2.82\nwake: 2.08\ncandy: 6.31\nfit: 2.24\ncamera: 5.70\ndoll: 6.04\ndirty: 2.33\npig: 4.42\nbad: 1.88\ngo: 1.83\nshirt: 6.16\nclap: 3.00\njump: 3.22\nlittle: 2.65\nback: 6.48\nladder: 5.68\nasleep: 2.20\nanimal: 5.52\ncatch: 3.59\ngive: 1.83\nfood: 6.04\nbird: 4.35\ndrop: 2.70\ntray: 5.70\nblack: 2.25\nslipper: 6.33\nmoney: 5.70\nspaghetti: 6.09\nnurse: 5.04\npool: 5.68\nhappy: 2.24\nsun: 2.25\ncheese: 6.09\nbreakfast: 6.04\nscarf: 6.33\nshoulder: 6.48\nchase: 3.59\nwait: 1.67\nhead: 6.65\ntable: 6.88\nspill: 2.70\ndonkey: 3.92\nbeach: 4.13\nballoon: 6.04\nkitchen: 5.68\nhome: 5.68\nface: 6.65\nmuffin: 6.09\ncountry: 5.04\nsnow: 2.78\nbroom: 5.93\ntissue: 5.68\ntiger: 4.26\ntowel: 6.33\npick: 3.59\nblow: 3.00\ndog: 5.52\nhurt: 2.70\nclock: 5.68\nroof: 2.79\nlisten: 1.83\nwolf: 3.92\nbreak: 2.70\nsoup: 6.09\nhorse: 4.42\nhammer: 5.93\nzebra: 4.00\nshoe: 6.33\nbanana: 6.31\nant: 5.30\ncorn: 5.96\ntired: 2.20\ntruck: 5.19\nscissors: 5.70\nnapkin: 6.33\nmad: 1.88\nhave: 1.65\nwish: 1.88\nfind: 1.83\nalligator: 4.00\nsheep: 4.42\ncat: 5.52\nsofa: 6.26\nhand: 6.48\nsay: 1.83\nhate: 1.88\nbelt: 6.33\ncracker: 6.09\nsprinkler: 5.68\nstop: 1.67\ntake: 1.83\nhot: 2.78\ndaddy: 5.52\nnew: 2.25\nput: 1.83\nbutton: 6.33\nvacuum: 5.68\ncloud: 1.92\ndrawer: 5.68\ndance: 3.22\ntaste: 1.83\ndiaper: 6.33\npull: 3.59\ngame: 5.04",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989121,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_cff9ff6818",
+  "usage": {
+    "completion_tokens": 2221,
+    "prompt_tokens": 2202,
+    "total_tokens": 4423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

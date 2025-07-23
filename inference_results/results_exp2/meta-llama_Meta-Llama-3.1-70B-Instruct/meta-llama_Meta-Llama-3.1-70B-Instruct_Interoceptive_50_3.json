@@ -1,0 +1,25 @@
+{
+  "id": "chatcmpl-e24fdf4c73c54538b340b8f41f1bca69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Here are the ratings for the given words with regard to sensations inside the body:\n\nwet: 2.5\nballoon: 0.2\npick: 1.1\nsky: 0.1\nglass: 0.2\nshare: 0.8\nbath: 2.8\nbrush: 1.3\ncereal: 1.2\nride: 2.1\nschool: 0.6\nnoisy: 1.4\nraisin: 0.8\ntaste: 2.9\nheavy: 2.5\ntickle: 3.9\nbrother: 1.2\nbuy: 0.8\nopen: 1.1\nblanket: 1.9\nshovel: 1.4\nred: 0.4\ntake: 1.3\npumpkin: 0.8\nbite: 2.3\nbug: 0.6\ndrive: 1.9\nchild: 1.4\npig: 0.6\nhit: 2.1\ngum: 1.2\nowl: 0.4\nold: 0.8\nlunch: 1.8\nelephant: 0.6\nzipper: 0.6\nbasket: 0.4\nwipe: 1.1\nkick: 2.2\nmilk: 1.4\nblack: 0.2\ntree: 0.4\ncat: 0.8\nslipper: 1.2\nhungry: 4.2\nhose: 0.8\nchin: 1.1\npickle: 1.2\npolice: 0.8\ntime: 1.1\npony: 0.6\ntongue: 1.9\ntoast: 1.5\nbuild: 1.4\nteacher: 0.8\nwake: 3.5\ntrain: 1.2\nhead: 2.1\nbutter: 1.2\nlook: 1.1\nsink: 0.8\nclap: 1.9\nfirst: 1.1\nstar: 0.4\nrooster: 0.6\nbread: 1.2\nbottle: 0.8\ntable: 0.6\nradio: 0.4\npicture: 0.6\nsofa: 0.8\npizza: 1.8\ndump: 0.6\ntummy: 3.2\nparty: 2.1\npenguin: 0.6\nchair: 0.6\ngarbage: 0.4\ncow: 0.6\nhard: 2.1\nbeach: 1.4\ndirty: 1.9\nbe: 1.1\nhold: 1.9\nsit: 2.1\nbucket: 0.8\ntruck: 1.2\nscissors: 0.8\ndinner: 2.1\nlion: 0.8\nbib: 0.8\nchalk: 0.4\nhome: 1.4\nawake: 3.8\nshower: 2.9\ncake: 1.9\npotato: 1.2\nthrow: 2.1\njacket: 1.1\nstand: 2.1\ntowel: 1.4\ntractor: 0.8\ncold: 2.5\nstay: 2.1\nsplash: 2.3\nhide: 1.9\nplate: 0.8\nempty: 1.9\narm: 2.1\npull: 2.1\nknock: 1.9\ncut: 2.1\npudding: 1.8\ncoke: 1.2\neye: 2.1\nsoup: 1.8\nbreakfast: 2.5\nkitchen: 1.4\npuppy: 1.2\nboat: 1.2\npicnic: 1.8\npretzel: 1.2\nknee: 2.1\nbox: 0.6\ngive: 1.9\nstick: 1.4\nmoose: 0.6\nlamp: 0.4\nmouse: 0.8\ndiaper: 0.8\nbroken: 1.9\nmonkey: 0.8\nstory: 1.1\njuice: 1.8\nback: 2.1\ndress: 1.1\nlick: 2.1\nwindy: 1.9\ntissue: 0.8\nsock: 0.8\nwalk: 2.3\negg: 1.2\nbig: 1.4\nbelt: 0.8\nlisten: 1.9\nsalt: 1.2\nclimb: 2.1\ncloset: 0.6\nbowl: 0.8\nlove: 3.8\nwash: 1.9\ndish: 0.8\ndance: 2.3\nporch: 0.8\nyard: 0.6\nplay: 2.1\ncountry: 1.1\nmoney: 0.8\nant: 0.4\nstone: 0.6\nsmile: 3.1\ncircus: 1.4\ntiger: 0.8\nday: 1.1\nbutton: 0.4\nnaughty: 1.9\npencil: 0.6\nclown: 1.1\nsad: 3.4\nsandwich: 1.8\nbench: 0.8\nsled: 1.2\nfood: 2.5\ncup: 0.8\nstore: 0.8\ncandy: 1.8\nrun: 2.9\ngiraffe: 0.6\nankle: 1.9\ndo: 1.9\nwill: 1.1\nkiss: 2.9\ncrib: 0.8\nsprinkler: 0.8\nwindow: 0.6\nleg: 2.1\nsoap: 1.2\nsweep: 1.4\nsister: 1.4\nsweater: 1.1\nbird: 0.8\nhand: 2.1\nfix: 1.9\nfork: 0.8\nblock: 0.8\ncover: 1.4\npretend: 2.1\nbed: 2.5\nsee: 1.9\nfinish: 1.9\npour: 1.4\nhouse: 1.1\nfit: 2.1\nbump: 2.1\nput: 1.9\nroof: 0.6\nnew: 1.1\nfall: 2.3\nstroller: 0.8\nalligator: 0.6\nlittle: 1.4\ntouch: 2.9\nuncle: 1.1\nhelp: 2.1\nrain: 1.9",
+        "role": "assistant",
+        "tool_calls": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1742989578,
+  "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1605,
+    "prompt_tokens": 2281,
+    "total_tokens": 3886,
+    "estimated_cost": 0.00116663
+  }
+}

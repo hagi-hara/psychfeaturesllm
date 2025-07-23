@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-3ccf527c829d48dab06d745222ebe515",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Here are the ratings for tasting:\n\nbread: 5\ncoffee: 5\nwater: 5\nfrench fries: 5\npotato chip: 5\nmelon: 5\npickle: 5\nmilk: 5\ndonut: 5\ncookie: 5\npeanut butter: 5\nlollipop: 5\npancake: 5\nturkey: 5\napple: 5\nbanana: 5\ncheese: 5\nhamburger: 5\ntuna: 5\nmuffin: 5\nspaghetti: 5\nmeat: 5\ncandy: 5\ntoast: 5\npizza: 5\nchocolate: 5\nstrawberry: 5\njuice: 5\nraisin: 5\ngreen beans: 5\nice cream: 5\nbutter: 5\nsauce: 5\nnut: 5\negg: 5\npea: 5\ngrape: 5\norange: 5\ncorn: 5\npretzel: 5\ncheerio: 5\nsoda: 5\ncracker: 5\nnoodle: 5\nfish: 5\nsoup: 5\nyogurt: 5\ncake: 5\npopsicle: 5\napplesauce: 5\njello: 5\ncereal: 5\nbutterfly: 0\nbroom: 0\nbook: 0\nchurch: 0\ncowboy: 0\ndoctor: 0\nfarm: 0\nfireman: 0\ngrandma: 0\ngrandpa: 0\ngum: 0\nhair: 0\nhat: 0\nkitty: 0\nlawn mower: 0\nlamp: 0\nlady: 0\nman: 0\nmonkey: 0\nmoon: 0\nowl: 0\npet: 0\nphone: 0\npiano: 0\npumpkin: 0\nrooster: 0\nschool: 0\nsheep: 0\nshower: 0\nsister: 0\nsnowman: 0\nsoccer: 0\ntoothbrush: 0\ntractor: 0\ntree: 0\nuncle: 0\nvan: 0\nwoman: 0",
+        "role": "assistant",
+        "tool_calls": [],
+        "name": null
+      }
+    }
+  ],
+  "created": 1723560450,
+  "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 523,
+    "prompt_tokens": 1936,
+    "total_tokens": 2459,
+    "estimated_cost": 0.00014754
+  }
+}

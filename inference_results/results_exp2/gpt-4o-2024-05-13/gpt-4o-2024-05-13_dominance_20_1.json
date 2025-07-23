@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BFJNjWm6kb4MDHYC1SlgpxdxTY3Ga",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "fine: 6.05\ntry: 5.31\ntickle: 4.85\nchin: 5.86\nthink: 5.22\npull: 4.22\ndish: 6.10\ndog: 6.13\ntissue: 5.92\ncover: 2.56\nshower: 5.19\npick: 6.53\ntaste: 4.06\nkitchen: 6.47\nshoe: 5.72\nhamburger: 5.76\nbee: 6.32\nhelp: 5.84\nfood: 6.75\nyogurt: 6.38\nbump: 6.39\nteacher: 4.42\nthirsty: 4.19\ntouch: 4.57\nhat: 6.10\nbug: 5.85\nsnack: 5.28\ncloud: 5.91\ntiny: 5.08\ndress: 5.62\nbowl: 5.76\nfinger: 4.65\nlike: 5.30\npillow: 6.35\nhand: 6.35\nmoon: 4.84\nmop: 5.67\nlamb: 6.29\nhungry: 5.05\njeans: 4.88\nsandwich: 6.00\ngarbage: 6.11\nclock: 6.77\nhurry: 6.42\nwalk: 4.94\neat: 6.69\nmedicine: 5.93\npretty: 6.39\nboy: 4.10\nnose: 5.06\ncloset: 6.72\nhouse: 6.21\ncamera: 6.11\nbrush: 5.97\nslow: 6.10\npeople: 5.93\nblack: 5.18\npickle: 5.59\ncoffee: 4.68\nduck: 6.33\nsee: 4.25\npuppy: 4.12\nwhite: 5.38\nwould: 5.68\ndiaper: 5.76\nsquirrel: 5.88\nchocolate: 5.16\nuncle: 5.46\nscarf: 5.56\nbasement: 4.29\nface: 5.17\nshoulder: 5.12\npotty: 5.92\nsleepy: 5.30\nempty: 5.75\nstay: 5.00\nstar: 5.84\nbroom: 6.02\ngiraffe: 5.68\nhave: 5.39\npark: 5.46\nopen: 5.68\ntoy: 6.10\ncow: 5.46\ngive: 5.91\nhen: 5.08\nfarm: 5.62\nmeow: 5.76\nhold: 4.65\ncircus: 5.30\ncorn: 6.35\nflower: 6.35\nsit: 4.84\ndrop: 5.67\nmeat: 6.29\nsky: 5.05\nlady: 4.88\nballoon: 6.00\nhate: 6.11\nmommy: 6.77\ndance: 6.42\nsoft: 4.94\nporch: 6.69\ntruck: 5.93\ntear: 6.39\nraisin: 4.10\ndraw: 5.06\nschool: 6.72\nred: 6.21\nhorse: 6.11\nlisten: 5.97\ncatch: 6.10\ncoat: 5.93\nsofa: 5.18\nsay: 5.59\nbook: 4.68\ntime: 6.33\nhose: 4.25\nplant: 4.12\nrefrigerator: 5.38\nchurch: 5.68\nbird: 5.76\nclap: 5.88\nrock: 5.16\ntrain: 5.46\ndrive: 5.56\nstick: 4.29\ngarage: 5.17\nwill: 5.12\ntrash: 5.92\nankle: 5.30\nzebra: 5.75\nmouth: 5.00\nbite: 5.84\npoor: 6.02\nlion: 5.68\nbath: 5.39\ndoll: 5.46\nheavy: 5.68\nnurse: 6.10\nbeach: 5.46\nknee: 5.91\nbad: 5.08\nsalt: 5.62\nsad: 5.76\ndoctor: 4.65\ncat: 5.30\ntake: 6.35\nzipper: 6.35\nbig: 4.84\nwake: 5.67\nshare: 6.29\nrooster: 5.05\nturkey: 4.88\ncandy: 6.00\nturtle: 6.11\nblow: 6.77\npresent: 6.42\nstop: 4.94\nclose: 6.69\nwolf: 5.93\nboat: 6.39\nmake: 4.10\ncracker: 5.06\ndrawer: 6.72\nglass: 6.21\npen: 6.11\ngum: 5.97\nshake: 6.10\nladder: 5.93\nsick: 5.18\nnight: 5.59\nsing: 4.68\nread: 6.33\nstove: 4.25\npencil: 4.12\ntoe: 5.38\nput: 5.68\nball: 5.76\nmoose: 5.88\narm: 5.16\nroom: 5.46\njuice: 5.56\nbread: 4.29\npicture: 5.17\npenguin: 5.12\ndark: 5.92\nwind: 5.30\nnapkin: 5.75\nride: 5.00\ntummy: 5.84\nman: 6.02\nradio: 5.68\nwipe: 5.39\nclown: 5.46\nhurt: 5.68\ncereal: 6.10\ncookie: 5.46\nrun: 5.91\nbuild: 5.08\nbuy: 5.62\ntuna: 5.76\nstone: 4.65\ncook: 5.30\ntongue: 6.35\ngreen: 6.35\nthrow: 4.84\nquiet: 5.67\nbox: 6.29\nlook: 5.05\nflag: 4.88\ntape: 6.00\nother: 6.11\nawake: 6.77\nbutter: 6.42\nroof: 4.94\nfirst: 6.69\nyard: 5.93\nchild: 6.39\nbreakfast: 4.10\ncut: 5.06\nhit: 6.72\nstreet: 6.21\nhear: 6.11\nsweater: 5.97\ndo: 6.10\nfeed: 5.93\nlamp: 5.18\nsock: 5.59\ngood: 4.68\nsoup: 6.33\nhug: 4.25\ncoke: 4.12\nshirt: 5.38\nstore: 5.68\nplate: 5.76\noven: 5.88\ntray: 5.16\nbreak: 5.46\nfriend: 5.56\nbench: 4.29\ngentle: 5.17\npaper: 5.12\nsoda: 5.92\ncup: 5.30\nowl: 5.75\ndeer: 5.00\nelephant: 5.84\nsneaker: 6.02\nsister: 5.68\nfinish: 5.39\ncheese: 5.46\nwish: 5.68\nglue: 6.10\nnice: 5.46\near: 5.91\ncar: 5.08\nfull: 5.62\nmonkey: 5.76\nbroken: 4.65\npotato: 5.30\ndaddy: 6.35\npumpkin: 6.35\nbe: 4.84\nvacuum: 5.67\nblue: 6.29\nant: 5.05\napple: 4.88\npaint: 6.00\nkick: 6.11\nlove: 6.77\nsun: 6.42\nbed: 4.94\nhappy: 6.69\nmovie: 5.93\npizza: 6.39\ngo: 4.10\nbutton: 5.06\nfind: 6.72\nscissors: 6.21\ntalk: 6.11\npretend: 5.97\npenny: 6.10\nsink: 5.93\nstrawberry: 5.18\ncouch: 5.59\nsmile: 4.68\nfork: 6.33\naunt: 4.25\npour: 4.12\nmad: 5.38\neye: 5.68\nchair: 5.76\nstand: 5.88\nclimb: 5.16\npig: 5.46\nbaby: 5.56\negg: 4.29\ngoose: 5.17\nasleep: 5.12\nleg: 5.92\npony: 5.30\npretzel: 5.75\nchalk: 5.00\nspill: 5.84\nbear: 6.02\npuzzle: 5.68\nyellow: 5.39\ntiger: 5.46\nbucket: 5.68\ntooth: 6.10\nnoisy: 5.46\nlunch: 5.91\nplay: 5.08\npolice: 5.62\nanimal: 5.76\nhard: 4.65\nmouse: 5.30\nlittle: 6.35\nnew: 6.35\nbunny: 4.84\npurse: 5.67\nbelt: 6.29\nget: 5.05\ndinner: 4.88\nice: 6.00\nstory: 6.11\ncrib: 6.77\njump: 6.42\nkiss: 4.94\nshow: 6.69\nsnow: 5.93\nsplash: 6.39\nfall: 4.10\nmilk: 5.06\njar: 6.72\nsoap: 6.21\nday: 6.11\nnail: 5.97\ngirl: 6.10\nknock: 5.93\nmuffin: 5.18\ndump: 5.59\nsled: 4.68",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": []
+      }
+    }
+  ],
+  "created": 1742989123,
+  "model": "gpt-4o-2024-05-13",
+  "object": "chat.completion",
+  "service_tier": "default",
+  "system_fingerprint": "fp_e05715ed5f",
+  "usage": {
+    "completion_tokens": 2524,
+    "prompt_tokens": 1737,
+    "total_tokens": 4261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

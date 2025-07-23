@@ -1,0 +1,441 @@
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses (sensations inside your body, tasting, smelling, feeling through touch, hearing and seeing). There are no right or wrong answers so please use your own judgement. 
+
+First, please answer with regard to seeing.
+
+The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). 
+
+Please respond in the format "word: number". Do not generate any text other than your response. If you do not know the meaning of a word, please respond with the format “word: N”.
+
+For reference, the mean ratings by human participants are listed below. Please rate each word in accordance with the ratings provided.
+
+hair: 4.39
+tree: 4.75
+chalk: 4.14
+soda: 3.82
+talk: 2.00
+church: 4.25
+uncle: 4.15
+tractor: 4.20
+doctor: 4.00
+hide: 3.25
+turtle: 4.28
+bunny: 4.60
+bench: 3.89
+heavy: 2.12
+share: 3.37
+build: 3.53
+rip: 2.18
+touch: 2.62
+yellow: 4.59
+naughty: 3.38
+juice: 3.70
+tummy: 3.11
+fix: 3.72
+pickle: 3.65
+hit: 3.15
+jacket: 4.12
+sun: 4.70
+ball: 3.82
+poor: 2.94
+camera: 4.40
+dress: 4.35
+tiny: 3.89
+donkey: 4.50
+country: 2.88
+hammer: 4.21
+pillow: 4.71
+kitchen: 4.44
+cut: 3.25
+finger: 3.95
+bowl: 4.53
+comb: 3.89
+school: 3.50
+coat: 3.86
+nurse: 3.90
+arm: 3.82
+stone: 4.11
+sandwich: 3.89
+book: 4.50
+fork: 4.11
+awake: 3.53
+towel: 4.35
+hard: 2.90
+zebra: 4.00
+moon: 4.78
+closet: 4.14
+ice: 4.31
+gentle: 3.26
+slow: 3.90
+pick: 2.67
+bite: 3.12
+bat: 4.05
+nice: 2.53
+ladder: 4.63
+picnic: 4.05
+boat: 3.63
+nap: 1.76
+cheek: 3.95
+time: 2.00
+spaghetti: 3.81
+asleep: 2.21
+pretty: 5.00
+other: 2.57
+fall: 4.17
+present: 3.50
+bee: 4.50
+tray: 3.68
+stop: 3.56
+lion: 4.82
+shower: 3.62
+alligator: 4.81
+think: 1.00
+drawer: 3.65
+paper: 4.32
+clock: 4.32
+home: 4.00
+high: 3.17
+face: 4.95
+mop: 3.68
+chair: 4.35
+sick: 3.11
+drive: 4.11
+feed: 3.18
+hug: 2.50
+shake: 2.89
+tiger: 4.47
+sauce: 3.50
+salt: 3.25
+big: 3.89
+bib: 3.17
+flower: 4.28
+day: 4.21
+be: 1.82
+hamburger: 3.94
+person: 4.45
+candy: 3.88
+breakfast: 3.75
+purse: 4.61
+squirrel: 4.34
+dirty: 4.25
+lunch: 4.00
+go: 2.42
+sweep: 3.44
+old: 3.35
+shovel: 4.00
+mommy: 3.90
+drop: 3.76
+red: 4.56
+mad: 3.16
+napkin: 4.38
+train: 4.42
+cloud: 4.90
+hat: 4.47
+happy: 3.57
+draw: 4.06
+refrigerator: 3.78
+basket: 4.62
+gum: 2.76
+crib: 3.65
+slipper: 3.75
+cereal: 3.76
+bug: 4.19
+new: 3.94
+tongue: 3.36
+tickle: 1.81
+sleepy: 2.00
+lollipop: 4.00
+play: 3.75
+give: 3.56
+sheep: 4.11
+jar: 4.53
+taste: 0.94
+ant: 4.27
+cup: 4.50
+cake: 4.00
+medicine: 3.70
+nail: 4.43
+owl: 4.65
+morning: 3.59
+cute: 4.17
+rock: 4.10
+boy: 4.00
+scissors: 3.38
+tooth: 3.25
+dark: 4.68
+broken: 4.47
+good: 3.00
+sister: 4.21
+pen: 4.21
+cheese: 3.25
+write: 3.65
+basement: 4.15
+tear: 3.33
+fine: 2.32
+oven: 4.37
+wait: 1.63
+bad: 2.70
+bed: 4.11
+brown: 4.38
+yogurt: 3.58
+
+Please answer about all of the following words.
+
+get
+game
+have
+first
+sleep
+finish
+buy
+sled
+party
+help
+would
+soup
+cat
+wish
+chocolate
+run
+windy
+food
+daddy
+sad
+shirt
+glass
+hurry
+swim
+black
+nose
+story
+hot
+rain
+pull
+boots
+hen
+box
+zipper
+knee
+cover
+toy
+kiss
+white
+show
+thirsty
+blue
+sink
+block
+penguin
+walk
+carry
+pig
+hungry
+pretzel
+doll
+radio
+glue
+goose
+truck
+meow
+teacher
+vacuum
+stove
+child
+cook
+man
+penny
+stroller
+moose
+wind
+try
+cookie
+night
+apple
+toe
+see
+diaper
+sky
+kick
+tissue
+eat
+dump
+door
+pudding
+blanket
+yard
+fit
+tired
+brush
+potty
+lamb
+snack
+clap
+puppy
+shoulder
+pizza
+splash
+muffin
+porch
+head
+meat
+table
+hate
+find
+soap
+chase
+bread
+mouse
+cow
+hold
+garage
+corn
+room
+push
+belt
+jeans
+throw
+little
+grass
+catch
+milk
+quiet
+garbage
+circus
+dinner
+spoon
+people
+dish
+wet
+eye
+look
+plate
+sit
+broom
+ride
+ear
+window
+bring
+bump
+horse
+wake
+climb
+coffee
+zoo
+picture
+pencil
+put
+hurt
+pretend
+baby
+sneaker
+will
+stay
+sticky
+like
+bear
+knock
+deer
+skate
+make
+sweater
+couch
+tuna
+brother
+police
+coke
+shoe
+bottle
+hear
+mouth
+movie
+dance
+giraffe
+bath
+crayon
+stick
+break
+hand
+open
+blow
+friend
+lamp
+flag
+turkey
+garden
+elephant
+spill
+plant
+clown
+wash
+star
+trash
+noisy
+toast
+monkey
+banana
+green
+tape
+chin
+jelly
+car
+sock
+butter
+wolf
+lick
+bird
+smile
+cracker
+aunt
+listen
+roof
+soft
+balloon
+love
+sofa
+close
+dryer
+take
+duck
+read
+pumpkin
+hose
+animal
+potato
+rooster
+raisin
+strawberry
+dog
+back
+farm
+leg
+bucket
+stand
+wipe
+sing
+button
+egg
+house
+lady
+girl
+cold
+beach
+say
+store
+money
+pony
+cry
+bus
+sprinkler
+full
+pants
+pour
+pool
+park
+jump
+ankle
+snow
+paint
+street
+do
+scarf
+empty
+puzzle
