@@ -1,0 +1,12 @@
+,concreteness,iconicity,childBOI,adultBOI,Auditory,Gustatory,Haptic,Interoceptive,Olfactory,Visual,Foot_leg,Hand_arm,Head,Mouth,Torso,socialness,valence,arousal,dominance,imageability,babiness
+gpt-4o-2024-08-06,0,0,2,0,3,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+gpt-4o-2024-05-13,11,25,2,12,3,8,21,17,19,15,3,6,0,3,3,0,15,6,9,9,0
+gpt-4o-mini-2024-07-18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+meta-llama_Meta-Llama-3-70B-Instruct,59,45,726,1992,2,3804,2230,866,3159,699,233,284,2,3,2,0,9,13,8,25,2
+meta-llama_Meta-Llama-3-8B-Instruct,50,48,1715,3622,19,1475,2196,1451,2785,1139,373,242,7,2,1053,76,33,32,36,121,35
+meta-llama_Meta-Llama-3.1-405B-Instruct,29,54,767,850,0,87,7,333,145,3,0,9,4,2,2,7,25,28,27,31,1
+meta-llama_Meta-Llama-3.1-70B-Instruct,28,18,1049,795,0,172,0,89,308,5,2,2,1,0,680,0,23,23,19,26,4
+meta-llama_Meta-Llama-3.1-8B-Instruct,54,102,1411,2033,20,686,560,122,268,131,23,2,30,5,12,32,23,22,30,279,26
+mistralai_Mixtral-8x22B-Instruct-v0.1,19,49,1130,1269,339,810,787,148,1302,694,130,179,153,1292,0,7,574,48,25,307,317
+microsoft_WizardLM-2-8x22B,186,86,1330,810,17,343,801,159,720,290,6,190,21,590,27,50,236,89,153,463,350
+Qwen_Qwen2-72B-Instruct,66,221,999,998,512,1828,1251,3651,908,348,366,1483,1997,2,454,0,23,29,53,22,21
