@@ -1,0 +1,595 @@
+---
+title: "Experiment 2_2"
+author: "Hiromichi Hagihara"
+date: "2025-07-27"
+output: html_document
+---
+
+```{r, results = FALSE}
+library(tidyverse)
+library(rlang)
+library(ggrepel)
+library(ggExtra)
+library(purrr)
+library(here)
+library(scales)
+library(philentropy)
+library(car)
+library(MASS)
+library(Rtsne)
+library(TSclust)
+
+# Reference about color palette: https://r-graphics.org/recipe-colors-palette-discrete
+```
+
+
+
+# Preparation
+
+```{r}
+d <- read.csv("dataset/exp1/concatenated_results.csv", header=TRUE) %>% 
+  dplyr::select(seq1:word_used, contains("_average")) %>% 
+  dplyr::select(seq1:word_used, contains("gpt.4o.2024.05.13"), contains("meta.llama_Meta.Llama.3.1.70B.Instruct"), -contains("_imageability_"), -contains("_socialness_")) %>%
+  rename_with(~ gsub("_average", "", .), contains("_average")) %>% 
+  mutate(valence=-valence+10, 
+         arousal=-arousal+10) %>% 
+  mutate(category2=case_when(category2=="verbs" | category2=="adjectives"~"predicates", TRUE~category2)) %>% 
+  dplyr::select(-phoneme, -semD, -frequency, -mlu, -contextD, -imageability, -socialness)
+
+d.tmp <- read.csv("dataset/exp2/concatenated_results.csv", header=TRUE) %>% 
+  dplyr::select(seq1:word_used, contains("gpt.4o"), contains("meta.llama")) %>% 
+  dplyr::select(-contains("_average"), -valence, -arousal) %>%
+  rename(valence=valence2, arousal=arousal2) %>% 
+  mutate(category2=case_when(category2=="verbs" | category2=="adjectives"~"predicates", TRUE~category2)) %>% 
+  dplyr::select(seq1, seq2, item_id, word_used)
+
+d <- d.tmp %>% left_join(d, by=c("seq1", "seq2", "item_id", "word_used"))
+rm(d.tmp)
+  
+# Confirm we have two models
+data.frame(Colname=colnames(d)) %>% subset(grepl("gpt", Colname) | grepl("meta", Colname)) %>% 
+  mutate(Model = str_replace(Colname, "(.*)_(.+)$", "\\1"),
+         Other = str_extract(Colname, "(?:[^_]+)$")) %>% 
+  mutate(Model=str_remove(Model, "(_Foot|_Hand)$")) %>% 
+  dplyr::select(Model) %>% unique()
+
+d.head <- d %>% dplyr::select(seq1:note)
+
+d.human <- d %>% dplyr::select(seq1:babiness) %>% mutate(RatedBy = "human")
+
+tmp <- "gpt.4o.2024.05.13_"
+d.gpt <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% 
+  rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp) 
+
+tmp <- "meta.llama_Meta.Llama.3.1.70B.Instruct_"
+d.meta <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% 
+  rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp)
+
+d$word_used %>% unique() %>% length() # A total of 428 words
+
+rm(tmp)
+```
+
+
+
+# Correlations
+
+## Overall
+
+```{r}
+cols <- d.human %>% dplyr::select(concreteness:babiness) %>% names()
+
+cor.gpt.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human[[col_name]], d.gpt[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Gpt-4o`=cor)
+
+cor.meta.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human[[col_name]], d.meta[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Llama-3.1-70B`=cor)
+
+cor.all.res <- cor.gpt.res %>% left_join(cor.meta.res, by="wordFeatures")
+
+rm(cor.gpt.res, cor.meta.res)
+```
+
+
+## By syntactic category
+
+```{r}
+cats <- d.head$category2 %>% unique()
+
+cor.gpt.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.gpt %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(df1[[col_name]], df2[[col_name]], method="spearman", use="complete.obs")
+  data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+  rename(`Gpt-4o`=cor) 
+
+cor.meta.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.meta %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(df1[[col_name]], df2[[col_name]], method="spearman", use="complete.obs")
+  data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+  rename(`Llama-3.1-70B`=cor)
+
+cor.all.cat.res <- cor.gpt.res %>% left_join(cor.meta.res, by=c("category", "wordFeatures"))
+
+rm(cor.gpt.res, cor.meta.res)
+```
+
+
+
+# KL divergence
+
+## Overall
+
+```{r}
+calc_kl <- function(df1, df2, name){
+  d1 <- df1[[name]]
+  d2 <- df2[[name]]
+  breaks <- seq(floor(min(c(d1, d2), na.rm=TRUE)), max(c(d1, d2), na.rm=TRUE)+0.2, by=0.2)
+
+  hist1 <- hist(d1, breaks=breaks, plot=FALSE)
+  hist2 <- hist(d2, breaks=breaks, plot=FALSE)
+
+  prob1 <- hist1$counts / sum(hist1$counts)
+  prob2 <- hist2$counts / sum(hist2$counts)
+
+  kl <- suppressMessages(KL(rbind(prob1, prob2), epsilon=1e-10))
+  return(as.numeric(kl))
+}
+```
+
+
+```{r}
+# All datasets
+
+cols <- d.human %>% dplyr::select(concreteness:babiness) %>% names()
+
+kld.gpt.res <- map_dfr(cols, function(col_name) {
+  kl_value <- calc_kl(d.human, d.gpt, col_name)
+  data.frame(wordFeatures=col_name, kl=kl_value)}) %>% 
+  rename(`Gpt-4o`=kl)
+
+kld.meta.res <- map_dfr(cols, function(col_name) {
+  kl_value <- calc_kl(d.human, d.meta, col_name)
+  data.frame(wordFeatures=col_name, kl=kl_value)}) %>% 
+  rename(`Llama-3.1-70B`=kl)
+
+kld.all.res <- kld.gpt.res %>% left_join(kld.meta.res, by="wordFeatures")
+
+rm(kld.gpt.res, kld.meta.res)
+```
+
+
+## By syntactic category
+
+```{r}
+kld.gpt.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.gpt %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  kl_value <- calc_kl(df1, df2, col_name)
+  data.frame(category=cat_name, wordFeatures=col_name, kl=kl_value)})}) %>% 
+  rename(`Gpt-4o`=kl)
+
+kld.meta.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.meta %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  kl_value <- calc_kl(df1, df2, col_name)
+  data.frame(category=cat_name, wordFeatures=col_name, kl=kl_value)})}) %>% 
+  rename(`Llama-3.1-70B`=kl)
+
+kld.all.cat.res <- kld.gpt.res %>% left_join(kld.meta.res, by=c("category", "wordFeatures"))
+
+rm(kld.gpt.res, kld.meta.res)
+```
+
+
+
+# Performance comparison
+
+## Overall
+
+```{r}
+cor.all.res <- cor.all.res %>% mutate(Index="Correlation coefficient")
+kld.all.res <- kld.all.res %>% mutate(Index="KL divergence (log)") %>% 
+  mutate(`Gpt-4o`=log(`Gpt-4o`),
+         `Llama-3.1-70B`=log(`Llama-3.1-70B`))
+
+all.res <- cor.all.res %>% rbind(kld.all.res) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")))
+
+all.res.sum <- all.res %>% group_by(wordFeatures, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+## By syntactic category
+
+```{r}
+cor.all.cat.res <- cor.all.cat.res %>% mutate(Index="Correlation coefficient")
+kld.all.cat.res <- kld.all.cat.res %>% mutate(Index="KL divergence (log)") %>% 
+  mutate(`Gpt-4o`=log(`Gpt-4o`),
+         `Llama-3.1-70B`=log(`Llama-3.1-70B`))
+
+all.cat.res <- cor.all.cat.res %>% rbind(kld.all.cat.res) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")))
+
+all.cat.res.sum <- all.cat.res %>% group_by(category, wordFeatures, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+
+# AoA (correlation)
+
+## Overall
+
+```{r}
+aoa.human.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human[["AoA"]], d.human[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(Human=cor)
+
+aoa.gpt.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human[["AoA"]], d.gpt[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Gpt-4o`=cor)
+
+aoa.meta.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human[["AoA"]], d.meta[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Llama-3.1-70B`=cor)
+
+aoa.all.res <- aoa.human.res %>% left_join(aoa.gpt.res, by="wordFeatures") %>% left_join(aoa.meta.res, by="wordFeatures")
+
+rm(aoa.human.res, aoa.gpt.res, aoa.meta.res)
+```
+
+
+```{r}
+# Difference scores in correlations
+aoa.all.diff <- aoa.all.res %>% mutate(across(`Gpt-4o`:`Llama-3.1-70B`, ~. -Human, .names="{col}")) %>% 
+  dplyr::select(-Human)
+```
+
+
+## By syntactic category
+
+```{r}
+aoa.human.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.human %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+  data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+  rename(Human=cor) # errors due to impossible calculation of correlation coefficients for some features (sd=0)
+
+aoa.gpt.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.gpt %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+  data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+  rename(`Gpt-4o`=cor) 
+
+aoa.meta.res <- map_dfr(cats, function(cat_name) {
+  df1 <- d.human %>% subset(category2==cat_name)
+  df2 <- d.meta %>% subset(category2==cat_name)
+  map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+  data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+  rename(`Llama-3.1-70B`=cor) 
+
+aoa.all.cat.res <- aoa.human.res %>% left_join(aoa.gpt.res, by=c("category", "wordFeatures")) %>% 
+  left_join(aoa.meta.res, by=c("category", "wordFeatures"))
+
+rm(aoa.human.res, aoa.gpt.res, aoa.meta.res)
+```
+
+
+```{r}
+# Difference scores in correlations
+aoa.all.cat.diff <- aoa.all.cat.res %>% mutate(across(`Gpt-4o`:`Llama-3.1-70B`, ~. -Human, .names="{col}")) %>% 
+  dplyr::select(-Human)
+```
+
+
+
+# Performance comparison
+
+## Overall
+
+```{r}
+aoa.all.res <- aoa.all.res %>% mutate(Index="Correlation coefficient (AoA)")
+aoa.all.diff <- aoa.all.diff %>% mutate(Index="Difference (correlation to AoA)") %>% 
+  mutate(`Gpt-4o`=abs(`Gpt-4o`),
+         `Llama-3.1-70B`=abs(`Llama-3.1-70B`))
+
+all.res.2 <- aoa.all.res %>% dplyr::select(-Human) %>% rbind(aoa.all.diff) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")))
+
+all.res.2.sum <- all.res.2 %>% group_by(wordFeatures, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+## By syntactic category
+
+```{r}
+aoa.all.cat.res <- aoa.all.cat.res %>% mutate(Index="Correlation coefficient (AoA)")
+aoa.all.cat.diff <- aoa.all.cat.diff %>% mutate(Index="Difference (correlation to AoA)") %>% 
+  mutate(`Gpt-4o`=abs(`Gpt-4o`),
+         `Llama-3.1-70B`=abs(`Llama-3.1-70B`))
+
+all.cat.2.res <- aoa.all.cat.res %>% dplyr::select(-Human) %>% rbind(aoa.all.cat.diff) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")))
+
+all.cat.2.res.sum <- all.cat.2.res %>% group_by(category, wordFeatures, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+
+# Export
+
+```{r}
+tmp <- all.res.sum %>% rbind(all.res.2.sum)
+write.csv(tmp, here("dataset", "exp2", "summary_all_original.csv"), row.names=FALSE)
+tmp <- all.cat.res.sum %>% rbind(all.cat.2.res.sum)
+write.csv(tmp, here("dataset", "exp2", "summary_cat_original.csv"), row.names=FALSE)
+```
+
+
+
+# Integrate Enp 1 & 2
+
+```{r}
+rm(list=ls())
+
+d.all <- read.csv("dataset/exp2/summary_all_original.csv", header=TRUE) %>% 
+  mutate(Prop=0) %>% 
+  rbind(read.csv("dataset/exp2/summary_all.csv", header=TRUE) %>% subset(Prop %in% c(10, 30, 50))) %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Calibration=case_when(Prop==0 ~ "(-)", TRUE~"(+)"),
+         Index=factor(Index, levels=c("Correlation coefficient", "KL divergence (log)", "Correlation coefficient (AoA)", "Difference (correlation to AoA)")))
+  
+
+d.cat <- read.csv("dataset/exp2/summary_cat_original.csv", header=TRUE) %>% 
+  mutate(Prop=0) %>% 
+  rbind(read.csv("dataset/exp2/summary_cat.csv", header=TRUE) %>% subset(Prop %in% c(10, 30, 50))) %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Calibration=case_when(Prop==0 ~ "(-)", TRUE~"(+)"),
+         Index=factor(Index, levels=c("Correlation coefficient", "KL divergence (log)", "Correlation coefficient (AoA)", "Difference (correlation to AoA)")))
+```
+
+
+## Overall
+
+```{r}
+d.all %>% group_by(Index, Model, Prop) %>% 
+  summarize(N=n(), Mean.all=mean(Mean, na.rm=TRUE), SD=sd(Mean, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(data=d.all, aes(y=Mean, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.6)+
+  geom_line(data=d.all, aes(y=Mean, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.6)+
+  geom_point(aes(y=Mean.all), color="gray50", size=4)+
+  geom_line(aes(y=Mean.all, group=Model), color="gray50", linewidth=2)+
+  geom_ribbon(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), fill="gray30", alpha=0.4)+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", "Exp2_3_All_Calib.png"), dpi=350, width=11, height=12)   
+
+d.all$wordFeatures %>% unique()
+
+target_feature <- "iconicity"
+
+d.all %>% subset(wordFeatures==target_feature) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(aes(y=Mean, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.6)+
+  geom_line(aes(y=Mean, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.6)+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+```
+
+
+```{r}
+# Performance improvement
+d.all.diff <- d.all %>% dplyr::select(-N, -SD, -SE, -Calibration) %>% 
+  pivot_wider(names_from="Prop", values_from="Mean") %>% 
+  mutate(`10` = `10`-`0`,
+         `30` = `30`-`0`,
+         `50` = `50`-`0`) %>% 
+  pivot_longer(c("10", "30", "50"), names_to="Prop", values_to="Diff") %>% 
+  mutate("Improve" = case_when(Index=="Correlation coefficient" & Diff > 0 ~ "Improved",
+                               Index=="KL divergence (log)" & Diff < 0 ~ "Improved",
+                               Index=="Difference (correlation to AoA)" & Diff < 0 ~ "Improved",
+                               TRUE ~ "Not improved"))
+
+d.all.diff.sum <- d.all.diff %>% group_by(Index, Model, Prop) %>% 
+  summarize(N=n(), Mean.all=mean(Diff, na.rm=TRUE), SD=sd(Diff, na.rm=TRUE), SE=SD/sqrt(N))
+d.all.diff.sum
+
+d.all.diff.sum %>% ggplot(aes(x=Prop))+
+  geom_point(data=d.all.diff, aes(y=Diff, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.4)+
+  geom_line(data=d.all.diff, aes(y=Diff, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.4)+
+  geom_bar(aes(y=Mean.all), stat="identity", fill="gray10", alpha=0.4)+
+  geom_errorbar(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), color="gray30", linewidth=0.7, width=0.3)+
+  # geom_point(aes(y=Mean.all), color="gray50", size=4)+
+  # geom_line(aes(y=Mean.all, group=Model), color="gray50", linewidth=2)+
+  # geom_ribbon(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), fill="gray30", alpha=0.4)+
+  geom_abline(intercept=0, slope=0, linewidth=1, linetype="dashed")+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", "Exp2_4_All_Calib.png"), dpi=350, width=11, height=12)   
+
+d.all.diff %>% subset(Index!="Correlation coefficient (AoA)") %>% 
+  ggplot(aes(x=Prop, y=fct_rev(wordFeatures)))+
+  geom_tile(aes(fill=Improve))+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Calibration data (%)", y="Word features")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", "Exp2_5_All_Improve.png"), dpi=350, width=9, height=11)
+```
+
+
+## By syntactic category
+
+```{r}
+d.cat$category %>% unique()
+# "function_words" "nouns"          "other"          "predicates" 
+
+cat_name <- "predicates"
+
+d.cat %>% subset(category==cat_name) %>% 
+  group_by(Index, Model, Prop) %>% 
+  summarize(N=n(), Mean.all=mean(Mean, na.rm=TRUE), SD=sd(Mean, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(data=d.all, aes(y=Mean, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.6)+
+  geom_line(data=d.all, aes(y=Mean, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.6)+
+  geom_point(aes(y=Mean.all), color="gray50", size=4)+
+  geom_line(aes(y=Mean.all, group=Model), color="gray50", linewidth=2)+
+  geom_ribbon(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), fill="gray30", alpha=0.4)+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_3_", cat_name, "_Calib.png", sep="")), dpi=350, width=11, height=12) 
+
+d.cat %>% subset(category==cat_name) %>% 
+  group_by(Index, Model, Prop) %>% 
+  summarize(N=n(), Mean.all=mean(Mean, na.rm=TRUE), SD=sd(Mean, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(data=d.cat %>% subset(category==cat_name), aes(y=Mean, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.6)+
+  geom_line(data=d.cat %>% subset(category==cat_name), aes(y=Mean, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.6)+
+  geom_point(aes(y=Mean.all), color="gray50", size=4)+
+  geom_line(aes(y=Mean.all, group=Model), color="gray50", linewidth=2)+
+  geom_ribbon(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), fill="gray30", alpha=0.4)+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_3_", cat_name, "_Calib.png", sep="")), dpi=350, width=11, height=12)   
+
+target_feature <- "iconicity"
+
+d.cat %>% subset(category==cat_name) %>% 
+  subset(wordFeatures==target_feature) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(aes(y=Mean, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.6)+
+  geom_line(aes(y=Mean, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.6)+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+```
+
+
+```{r}
+# Performance improvement
+d.cat.diff <- d.cat %>% dplyr::select(-N, -SD, -SE, -Calibration) %>% 
+  pivot_wider(names_from="Prop", values_from="Mean") %>% 
+  mutate(`10` = `10`-`0`,
+         `30` = `30`-`0`,
+         `50` = `50`-`0`) %>% 
+  pivot_longer(c("10", "30", "50"), names_to="Prop", values_to="Diff") %>% 
+  mutate("Improve" = case_when(Index=="Correlation coefficient" & Diff > 0 ~ "Improved",
+                               Index=="KL divergence (log)" & Diff < 0 ~ "Improved",
+                               Index=="Difference (correlation to AoA)" & Diff < 0 ~ "Improved",
+                               TRUE ~ "Not improved"))
+
+d.cat.diff.sum <- d.cat.diff %>% group_by(Index, Model, Prop, category) %>% 
+  summarize(N=n(), Mean.all=mean(Diff, na.rm=TRUE), SD=sd(Diff, na.rm=TRUE), SE=SD/sqrt(N))
+d.cat.diff.sum
+
+cat_name <- "predicates"
+
+d.cat.diff.sum %>% subset(category==cat_name) %>% 
+  ggplot(aes(x=Prop))+
+  geom_point(data=d.cat.diff %>% subset(category==cat_name), aes(y=Diff, color=wordFeatures), size=2, position=position_dodge(width=0), alpha=0.4)+
+  geom_line(data=d.cat.diff %>% subset(category==cat_name), aes(y=Diff, color=wordFeatures, group=wordFeatures), linewidth=1, position=position_dodge(width=0), alpha=0.4)+
+  geom_bar(aes(y=Mean.all), stat="identity", fill="gray10", alpha=0.4)+
+  geom_errorbar(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), color="gray30", linewidth=0.7, width=0.3)+
+  # geom_point(aes(y=Mean.all), color="gray50", size=4)+
+  # geom_line(aes(y=Mean.all, group=Model), color="gray50", linewidth=2)+
+  # geom_ribbon(aes(y=Mean.all, ymin=Mean.all-SE, ymax=Mean.all+SE, group=Model), fill="gray30", alpha=0.4)+
+  geom_abline(intercept=0, slope=0, linewidth=1, linetype="dashed")+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Calibration data (%)", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_4_", cat_name, "_Calib.png", sep="")), dpi=350, width=11, height=12)
+
+d.cat.diff %>% subset(category==cat_name) %>% 
+  subset(Index!="Correlation coefficient (AoA)") %>% 
+  ggplot(aes(x=Prop, y=fct_rev(wordFeatures)))+
+  geom_tile(aes(fill=Improve))+
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Calibration data (%)", y="Word features")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_5_", cat_name, "_Improve.png", sep="")), dpi=350, width=9, height=11)
+```
+

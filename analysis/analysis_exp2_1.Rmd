@@ -1,0 +1,754 @@
+---
+title: "Experiment 2_1"
+author: "Hiromichi Hagihara"
+date: "2025-07-27"
+output: html_document
+---
+
+```{r, results = FALSE}
+library(tidyverse)
+library(rlang)
+library(ggrepel)
+library(ggExtra)
+library(purrr)
+library(here)
+library(scales)
+library(philentropy)
+library(car)
+library(MASS)
+library(Rtsne)
+library(TSclust)
+
+# Reference about color palette: https://r-graphics.org/recipe-colors-palette-discrete
+```
+
+Representative models (2)
+- gpt-4o-2024-05-13
+- meta-llama_Meta-Llama-3.1-70B-Instruct
+
+Word features (19)
+- concreteness
+- iconicity
+- childBOI
+- adultBOI
+- Auditory
+- Gustatory
+- Haptic
+- Interoceptive
+- Olfactory
+- Visual
+- Foot_leg
+- Hand_arm
+- Head
+- Mouth
+- Torso
+- valence
+- arousal
+- dominance
+- babiness
+
+
+# Preparation
+
+```{r}
+d <- read.csv("dataset/exp2/concatenated_results.csv", header=TRUE) %>% 
+  dplyr::select(seq1:word_used, contains("gpt.4o"), contains("meta.llama")) %>% 
+  dplyr::select(-contains("_average"), -valence, -arousal) %>%
+  rename(valence=valence2, arousal=arousal2) %>% 
+  mutate(category2=case_when(category2=="verbs" | category2=="adjectives"~"predicates", TRUE~category2)) %>% 
+  dplyr::select(-phoneme, -semD, -frequency, -mlu, -contextD, -imageability, -socialness)
+
+# Confirm we have two models
+data.frame(Colname=colnames(d)) %>% subset(grepl("gpt", Colname) | grepl("meta", Colname)) %>% 
+  mutate(Model = str_replace(Colname, "(.*)_(.+)_(.+)_(.+)$", "\\1"),
+         Other = str_extract(Colname, "(?:[^_]+_[^_]+_[^_]+)$")) %>% 
+  mutate(Model=str_remove(Model, "(_Foot|_Hand)$")) %>% 
+  dplyr::select(Model) %>% unique()
+
+d.head <- d %>% dplyr::select(seq1:note)
+
+d.human <- d %>% dplyr::select(seq1:babiness) %>% mutate(RatedBy = "human")
+
+tmp <- "gpt.4o.2024.05.13_"
+d.gpt <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% 
+  rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp)
+d.gpt.l <- d.gpt %>% pivot_longer(c(concreteness_50_1:babiness_10_5), names_to="Colname", values_to="Value") %>% 
+  mutate(Feature=str_replace(Colname, "(.*)_(.+)_(.+)$", "\\1"), 
+         Prop=str_replace(Colname, ".*_([^_]*)_[^_]*$", "\\1"),
+         Round=str_replace(Colname, ".*_", "")) %>% 
+  dplyr::select(-Colname)
+
+tmp <- "meta.llama_Meta.Llama.3.1.70B.Instruct_"
+d.meta <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp)
+d.meta.l <- d.meta %>% pivot_longer(c(concreteness_50_1:babiness_10_5), names_to="Colname", values_to="Value") %>% 
+  mutate(Feature=str_replace(Colname, "(.*)_(.+)_(.+)$", "\\1"), 
+         Prop=str_replace(Colname, ".*_([^_]*)_[^_]*$", "\\1"),
+         Round=str_replace(Colname, ".*_", "")) %>% 
+  dplyr::select(-Colname)
+
+d$word_used %>% unique() %>% length() # A total of 428 words
+
+d.gpt.l %>% group_by(Prop, Round) %>% 
+  summarize(N=n()/19, N.Training=sum(Value=="T")/19, Prop.Training=round(N.Training/428,1)) %>% 
+  dplyr::select(-Round) %>% unique() %>% print(n=40)
+
+d.meta.l %>% group_by(Prop, Round) %>% 
+  summarize(N=n()/19, N.Training=sum(Value=="T")/19, Prop.Training=round(N.Training/428,1)) %>% 
+  dplyr::select(-Round) %>% unique() %>% print(n=40)
+
+prop_name <- d.gpt.l$Prop %>% unique() 
+round_name <- d.gpt.l$Round %>% unique() 
+
+rm(tmp)
+```
+
+
+
+# Correlations
+
+## Overall
+
+```{r}
+# Single case
+
+i = 1
+j = 1
+
+cols <- d.human %>% dplyr::select(concreteness:babiness) %>% names()
+
+d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+  mutate(Value=as.numeric(Value)) %>% 
+  pivot_wider(names_from=Feature, values_from=Value)
+d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+  mutate(Value=as.numeric(Value)) %>% 
+  pivot_wider(names_from=Feature, values_from=Value)
+d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+
+cor.gpt.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human.tmp[[col_name]], d.gpt.tmp[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Gpt-4o`=cor)
+
+cor.meta.res <- map_dfr(cols, function(col_name) {
+  spearman_cor <- cor(d.human.tmp[[col_name]], d.meta.tmp[[col_name]], method="spearman", use="complete.obs")
+  data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+  rename(`Llama-3.1-70B`=cor) %>% mutate(Prop=prop_name[i], Round=round_name[j])
+
+cor.all.res <- cor.gpt.res %>% left_join(cor.meta.res, by="wordFeatures")
+
+rm(cor.gpt.res, cor.meta.res)
+```
+
+
+```{r}
+# All datasets
+
+cor.all.res <- data.frame()
+cols <- d.human %>% dplyr::select(concreteness:babiness) %>% names()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    cor.gpt.res <- map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(d.human.tmp[[col_name]], d.gpt.tmp[[col_name]], method="spearman", use="complete.obs")
+      data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+      rename(`Gpt-4o`=cor)
+    
+    cor.meta.res <- map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(d.human.tmp[[col_name]], d.meta.tmp[[col_name]], method="spearman", use="complete.obs")
+      data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+      rename(`Llama-3.1-70B`=cor) %>% mutate(Prop=prop_name[i], Round=round_name[j])
+    
+    tmp <- cor.gpt.res %>% left_join(cor.meta.res, by="wordFeatures")
+    cor.all.res <- rbind(cor.all.res, tmp)
+    
+    rm(cor.gpt.res, cor.meta.res, tmp)
+  }
+}
+```
+
+
+## By syntactic category
+
+```{r}
+cats <- d.head$category2 %>% unique()
+cor.all.cat.res <- data.frame()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    cor.gpt.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.gpt.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(df1[[col_name]], df2[[col_name]], method="spearman", use="complete.obs")
+      data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+      rename(`Gpt-4o`=cor) 
+    
+    cor.meta.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.meta.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(df1[[col_name]], df2[[col_name]], method="spearman", use="complete.obs")
+      data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+      rename(`Llama-3.1-70B`=cor) %>% mutate(Prop=prop_name[i], Round=round_name[j])
+    
+    tmp <- cor.gpt.res %>% left_join(cor.meta.res, by=c("category", "wordFeatures"))
+    cor.all.cat.res <- rbind(cor.all.cat.res, tmp)
+    
+    rm(cor.gpt.res, cor.meta.res, tmp)
+  }
+}
+```
+
+
+
+# KL divergence
+
+## Overall
+
+```{r}
+calc_kl <- function(df1, df2, name){
+  d1 <- df1[[name]]
+  d2 <- df2[[name]]
+  breaks <- seq(floor(min(c(d1, d2), na.rm=TRUE)), max(c(d1, d2), na.rm=TRUE)+0.2, by=0.2)
+
+  hist1 <- hist(d1, breaks=breaks, plot=FALSE)
+  hist2 <- hist(d2, breaks=breaks, plot=FALSE)
+
+  prob1 <- hist1$counts / sum(hist1$counts)
+  prob2 <- hist2$counts / sum(hist2$counts)
+
+  kl <- suppressMessages(KL(rbind(prob1, prob2), epsilon=1e-10))
+  return(as.numeric(kl))
+}
+```
+
+
+```{r}
+# All datasets
+
+kld.all.res <- data.frame()
+cols <- d.human %>% dplyr::select(concreteness:babiness) %>% names()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    kld.gpt.res <- map_dfr(cols, function(col_name) {
+      kl_value <- calc_kl(d.human.tmp, d.gpt.tmp, col_name)
+      data.frame(wordFeatures=col_name, kl=kl_value)}) %>% 
+      rename(`Gpt-4o`=kl)
+    
+    kld.meta.res <- map_dfr(cols, function(col_name) {
+      kl_value <- calc_kl(d.human.tmp, d.meta.tmp, col_name)
+      data.frame(wordFeatures=col_name, kl=kl_value)}) %>% 
+      rename(`Llama-3.1-70B`=kl) %>% 
+      mutate(Prop=prop_name[i], Round=round_name[j])
+    
+    tmp <- kld.gpt.res %>% left_join(kld.meta.res, by="wordFeatures")
+    kld.all.res <- rbind(kld.all.res, tmp)
+    
+    rm(kld.gpt.res, kld.meta.res, tmp)
+  }
+}
+```
+
+
+## By syntactic category
+
+```{r}
+cats <- d.head$category2 %>% unique()
+kld.all.cat.res <- data.frame()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    kld.gpt.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.gpt.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      kl_value <- calc_kl(df1, df2, col_name)
+      data.frame(category=cat_name, wordFeatures=col_name, kl=kl_value)})}) %>% 
+      rename(`Gpt-4o`=kl)
+    
+    kld.meta.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.meta.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      kl_value <- calc_kl(df1, df2, col_name)
+      data.frame(category=cat_name, wordFeatures=col_name, kl=kl_value)})}) %>% 
+      rename(`Llama-3.1-70B`=kl) %>% 
+      mutate(Prop=prop_name[i], Round=round_name[j])
+
+    tmp <- kld.gpt.res %>% left_join(kld.meta.res, by=c("category", "wordFeatures"))
+    kld.all.cat.res <- rbind(kld.all.cat.res, tmp)
+    
+    rm(kld.gpt.res, kld.meta.res, tmp)
+  }
+}
+```
+
+
+
+# Performance comparison
+
+## Overall
+
+```{r}
+cor.all.res <- cor.all.res %>% mutate(Index="Correlation coefficient")
+kld.all.res <- kld.all.res %>% mutate(Index="KL divergence (log)") %>% 
+  mutate(`Gpt-4o`=log(`Gpt-4o`),
+         `Llama-3.1-70B`=log(`Llama-3.1-70B`))
+
+all.res <- cor.all.res %>% rbind(kld.all.res) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Prop=as.numeric(Prop))
+
+all.res.sum <- all.res %>% group_by(wordFeatures, Prop, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+```{r}
+all.res.sum %>% 
+  # subset(Prop==10 | Prop==30 | Prop==50) %>% 
+  ggplot(aes(x=Prop, y=Mean, color=wordFeatures))+
+  geom_point(size=2, position=position_dodge(width=2), alpha=0.6)+
+  geom_errorbar(aes(ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2), alpha=0.6)+
+  geom_line(aes(group=wordFeatures), linewidth=1, position=position_dodge(width=2), alpha=0.6)+
+  geom_smooth(color="gray60", method="lm", se=TRUE, alpha=0.3, linewidth=3)+ # se is 95%CI here
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Proportion of answers provided", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", "Exp2_1_All.png"), dpi=350, width=11, height=9.5)   
+```
+
+
+```{r}
+# Time series clustering
+# https://sinhrks.hatenablog.com/entry/2014/11/16/194012
+tmp <- all.res.sum %>% 
+  # subset(Model=="Gpt.4o.2024.05.13" & Index=="Correlation coefficient") %>% 
+  # subset(Model=="Gpt.4o.2024.05.13" & Index=="KL divergence (log)") %>% 
+  # subset(Model=="Meta.Llama.3.1.70B.Instruct" & Index=="Correlation coefficient") %>%
+  subset(Model=="Llama-3.1-70B" & Index=="KL divergence (log)") %>%
+  dplyr::select(wordFeatures, Prop, Mean) %>% 
+  pivot_wider(names_from=wordFeatures, values_from=Mean) %>% 
+  dplyr::select(-Prop) %>% 
+  diss("DTWARP")
+
+h <- hclust(tmp)
+par(cex=0.6)
+plot(h, hang=-1)
+tmp <- data.frame(Group=cutree(h,5))  # Num of clusters = 3
+tmp <- tmp %>% mutate(wordFeatures=rownames(tmp),
+                      Group=LETTERS[Group])
+
+all.res.sum %>% 
+  # subset(Model=="Gpt-4o" & Index=="Correlation coefficient") %>% 
+  # subset(Model=="Gpt-4o" & Index=="KL divergence (log)") %>% 
+  # subset(Model=="Llama-3.1-70B" & Index=="Correlation coefficient") %>%
+  subset(Model=="Llama-3.1-70B" & Index=="KL divergence (log)") %>%
+  left_join(tmp, by="wordFeatures") %>% 
+  ggplot(aes(x=Prop, color=wordFeatures))+
+  geom_point(aes(y=Mean), size=2, position=position_dodge(width=2))+
+  geom_errorbar(aes(y=Mean, ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2))+
+  geom_line(aes(y=Mean, group=wordFeatures), linewidth=1, position=position_dodge(width=2))+
+  facet_grid(~Group, scales="free")+
+  theme_bw()
+```
+
+
+## By syntactic category
+
+```{r}
+cor.all.cat.res <- cor.all.cat.res %>% mutate(Index="Correlation coefficient")
+kld.all.cat.res <- kld.all.cat.res %>% mutate(Index="KL divergence (log)") %>% 
+  mutate(`Gpt-4o`=log(`Gpt-4o`),
+         `Llama-3.1-70B`=log(`Llama-3.1-70B`))
+
+all.cat.res <- cor.all.cat.res %>% rbind(kld.all.cat.res) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Prop=as.numeric(Prop))
+
+all.cat.res.sum <- all.cat.res %>% group_by(category, wordFeatures, Prop, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+```{r}
+all.cat.res.sum$category %>% unique()
+# "function_words" "nouns"          "other"          "predicates" 
+
+cat_name <- "function_words"
+
+all.cat.res.sum %>%
+  subset(category==cat_name) %>% 
+  # subset(Prop==10 | Prop==30 | Prop==50) %>% 
+  ggplot(aes(x=Prop, y=Mean, color=wordFeatures))+
+  geom_point(size=2, position=position_dodge(width=2), alpha=0.6)+
+  geom_errorbar(aes(ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2), alpha=0.6)+
+  geom_line(aes(group=wordFeatures), linewidth=1, position=position_dodge(width=2), alpha=0.6)+
+  geom_smooth(color="gray60", method="lm", se=TRUE, alpha=0.3, linewidth=3)+ # se is 95%CI here
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Proportion of answers provided", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_1_", cat_name, ".png", sep="")), dpi=350, width=11, height=9.5)   
+```
+
+
+
+# Missing values
+
+```{r}
+mis.all.res <- data.frame()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    mis.human.res <- d.human.tmp %>% dplyr::select(concreteness:babiness) %>% 
+      summarize(across(everything(), ~sum(is.na(.)))) %>% 
+      pivot_longer(cols=everything(), names_to="wordFeatures", values_to="misCount") %>% 
+      rename(Human=misCount)
+    
+    mis.gpt.res <- d.gpt.tmp %>% dplyr::select(concreteness:babiness) %>% 
+      summarize(across(everything(), ~sum(is.na(.)))) %>% 
+      pivot_longer(cols=everything(), names_to="wordFeatures", values_to="misCount") %>% 
+      rename(`Gpt-4o`=misCount)
+    
+    mis.meta.res <- d.meta.tmp %>% dplyr::select(concreteness:babiness) %>% 
+      summarize(across(everything(), ~sum(is.na(.)))) %>% 
+      pivot_longer(cols=everything(), names_to="wordFeatures", values_to="misCount") %>% 
+      rename(`Llama-3.1-70B`=misCount) %>% 
+      mutate(Prop=prop_name[i], Round=round_name[j])
+    
+    tmp <- mis.human.res %>% left_join(mis.gpt.res, by="wordFeatures") %>% left_join(mis.meta.res, by="wordFeatures")
+    mis.all.res <- rbind(mis.all.res, tmp)
+    
+    rm(mis.human.res, mis.gpt.res, mis.meta.res, tmp)
+  }
+}
+```
+
+
+```{r}
+# Summary of missing data
+tmp <- d.gpt.l %>% group_by(Prop, Round) %>% 
+  summarize(N=n()/19, N.Training=sum(Value=="T")/19, Prop.Training=round(N.Training/428,1)) %>% 
+  dplyr::select(-Round) %>% unique() %>% 
+  mutate(N.Test=N-N.Training)
+
+mis.all.res.sum <- mis.all.res %>% pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso"))) %>% 
+  group_by(wordFeatures, Model, Prop) %>% 
+  summarize(Total.misCount=sum(Value, na.rm=TRUE), Min=min(Value, na.rm=TRUE), Max=max(Value, na.rm=TRUE)) %>% 
+  left_join(tmp %>% dplyr::select(N.Test), by="Prop") %>% 
+  mutate(Prop.misCount=round(Total.misCount / N.Test, 3)) %>% 
+  subset(Total.misCount!=0)
+
+d.meta.tmp <- d.meta.l %>% subset(Prop==20 & Round==1 & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value) %>% 
+  subset(is.na(Foot_leg))
+nrow(d.meta.tmp)
+```
+
+
+
+# AoA (correlation)
+
+## Overall
+
+```{r}
+# All datasets
+
+# tmp <- d.gpt.tmp %>% dplyr::select(seq1, seq2) %>% 
+#   rename(seq1model=seq1, seq2model=seq2) %>% 
+#   cbind(d.human.tmp) %>% 
+#   mutate(seq1_diff = seq1model - seq1, seq2_diff = seq2model - seq2)
+
+aoa.all.res <- data.frame()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    aoa.human.res <- map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(d.human.tmp[["AoA"]], d.human.tmp[[col_name]], method="spearman", use="complete.obs")
+      data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+      rename(Human=cor)
+    
+    aoa.gpt.res <- map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(d.human.tmp[["AoA"]], d.gpt.tmp[[col_name]], method="spearman", use="complete.obs")
+      data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+      rename(`Gpt-4o`=cor)
+    
+    aoa.meta.res <- map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(d.human.tmp[["AoA"]], d.meta.tmp[[col_name]], method="spearman", use="complete.obs")
+      data.frame(wordFeatures=col_name, cor=spearman_cor)}) %>% 
+      rename(`Llama-3.1-70B`=cor) %>% 
+      mutate(Prop=prop_name[i], Round=round_name[j])
+
+    tmp <- aoa.human.res %>% left_join(aoa.gpt.res, by="wordFeatures") %>% left_join(aoa.meta.res, by="wordFeatures")
+    aoa.all.res <- rbind(aoa.all.res, tmp)
+    
+    rm(aoa.human.res, aoa.gpt.res, aoa.meta.res, tmp)
+  }
+}
+```
+
+
+```{r}
+# Difference scores in correlations
+aoa.all.diff <- aoa.all.res %>% mutate(across(`Gpt-4o`:`Llama-3.1-70B`, ~. -Human, .names="{col}")) %>% 
+  dplyr::select(-Human)
+```
+
+
+## By syntactic category
+
+```{r}
+aoa.all.cat.res <- data.frame()
+
+for (i in 1:length(prop_name)) {
+  for ( j in 1:length(round_name)) {
+    d.gpt.tmp <- d.gpt.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>% 
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.meta.tmp <- d.meta.l %>% subset(Prop==prop_name[i] & Round==round_name[j] & Value!="T") %>%
+      mutate(Value=as.numeric(Value)) %>% 
+      pivot_wider(names_from=Feature, values_from=Value)
+    d.human.tmp <- d.human %>% right_join(d.gpt.tmp %>% dplyr::select(seq1, seq2, item_id, word_1), by=c("seq1", "seq2", "item_id", "word_1"))
+    
+    aoa.human.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.human.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+      data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+      rename(Human=cor) 
+    
+    aoa.gpt.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.gpt.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+      data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+      rename(`Gpt-4o`=cor) 
+    
+    aoa.meta.res <- map_dfr(cats, function(cat_name) {
+      df1 <- d.human.tmp %>% subset(category2==cat_name)
+      df2 <- d.meta.tmp %>% subset(category2==cat_name)
+      map_dfr(cols, function(col_name) {
+      spearman_cor <- cor(df1[["AoA"]], df2[[col_name]], method="spearman", use="complete.obs")
+      data.frame(category=cat_name, wordFeatures=col_name, cor=spearman_cor)})}) %>% 
+      rename(`Llama-3.1-70B`=cor) %>% 
+      mutate(Prop=prop_name[i], Round=round_name[j])
+
+    tmp <- aoa.human.res %>% left_join(aoa.gpt.res, by=c("category", "wordFeatures")) %>% left_join(aoa.meta.res, by=c("category", "wordFeatures"))
+    aoa.all.cat.res <- rbind(aoa.all.cat.res, tmp)
+    
+    rm(aoa.human.res, aoa.gpt.res, aoa.meta.res, tmp)
+  }
+}
+```
+
+
+```{r}
+# Difference scores in correlations
+aoa.all.cat.diff <- aoa.all.cat.res %>% mutate(across(`Gpt-4o`:`Llama-3.1-70B`, ~. -Human, .names="{col}")) %>% 
+  dplyr::select(-Human)
+```
+
+
+
+# Performance comparison
+
+## Overall
+
+```{r}
+aoa.all.res <- aoa.all.res %>% mutate(Index="Correlation coefficient (AoA)")
+aoa.all.diff <- aoa.all.diff %>% mutate(Index="Difference (correlation to AoA)") %>% 
+  mutate(`Gpt-4o`=abs(`Gpt-4o`),
+         `Llama-3.1-70B`=abs(`Llama-3.1-70B`))
+
+all.res.2 <- aoa.all.res %>% dplyr::select(-Human) %>% rbind(aoa.all.diff) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Prop=as.numeric(Prop))
+
+all.res.2.sum <- all.res.2 %>% group_by(wordFeatures, Prop, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+```{r}
+all.res.2.sum %>% 
+  # subset(Prop==10 | Prop==30 | Prop==50) %>% 
+  ggplot(aes(x=Prop, y=Mean, color=wordFeatures))+
+  geom_point(size=2, position=position_dodge(width=2), alpha=0.6)+
+  geom_errorbar(aes(ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2), alpha=0.6)+
+  geom_line(aes(group=wordFeatures), linewidth=1, position=position_dodge(width=2), alpha=0.6)+
+  geom_smooth(color="gray60", method="lm", se=TRUE, alpha=0.3, linewidth=3)+ # se is 95%CI here
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(x="Proportion of answers provided", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", "Exp2_2_All.png"), dpi=350, width=11, height=9.5)   
+```
+
+
+```{r}
+# Time series clustering
+# https://sinhrks.hatenablog.com/entry/2014/11/16/194012
+tmp <- all.res.2.sum %>% 
+  # subset(Model=="Gpt-4o" & Index=="Correlation coefficient (AoA)") %>% 
+  # subset(Model=="Gpt-4o" & Index=="Difference (correlation to AoA)") %>% 
+  # subset(Model=="Llama-3.1-70B" & Index=="Correlation coefficient (AoA)") %>%
+  subset(Model=="Llama-3.1-70B" & Index=="Difference (correlation to AoA)") %>%
+  dplyr::select(wordFeatures, Prop, Mean) %>% 
+  pivot_wider(names_from=wordFeatures, values_from=Mean) %>% 
+  dplyr::select(-Prop) %>% 
+  diss("DTWARP")
+
+h <- hclust(tmp)
+par(cex=0.6)
+plot(h, hang=-1)
+tmp <- data.frame(Group=cutree(h,3))  # Num of clusters = 3
+tmp <- tmp %>% mutate(wordFeatures=rownames(tmp),
+                      Group=LETTERS[Group])
+
+all.res.2.sum %>% 
+  # subset(Model=="Gpt-4o" & Index=="Correlation coefficient (AoA)") %>% 
+  # subset(Model=="Gpt-4o" & Index=="Difference (correlation to AoA)") %>% 
+  # subset(Model=="Llama-3.1-70B" & Index=="Correlation coefficient (AoA)") %>%
+  subset(Model=="Llama-3.1-70B" & Index=="Difference (correlation to AoA)") %>%
+  left_join(tmp, by="wordFeatures") %>% 
+  ggplot(aes(x=Prop, color=wordFeatures))+
+  geom_point(aes(y=Mean), size=2, position=position_dodge(width=2))+
+  geom_errorbar(aes(y=Mean, ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2))+
+  geom_line(aes(y=Mean, group=wordFeatures), linewidth=1, position=position_dodge(width=2))+
+  facet_grid(~Group, scales="free")+
+  theme_bw()
+```
+
+
+## By syntactic category
+
+```{r}
+aoa.all.cat.res <- aoa.all.cat.res %>% mutate(Index="Correlation coefficient (AoA)")
+aoa.all.cat.diff <- aoa.all.cat.diff %>% mutate(Index="Difference (correlation to AoA)") %>% 
+  mutate(`Gpt-4o`=abs(`Gpt-4o`),
+         `Llama-3.1-70B`=abs(`Llama-3.1-70B`))
+
+all.cat.2.res <- aoa.all.cat.res %>% dplyr::select(-Human) %>% rbind(aoa.all.cat.diff) %>% 
+  pivot_longer(`Gpt-4o`:`Llama-3.1-70B`, names_to="Model", values_to="Value") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness", "valence", "arousal", "dominance", "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", "Head", "Mouth", "Torso")),
+         Prop=as.numeric(Prop))
+
+all.cat.2.res.sum <- all.cat.2.res %>% group_by(category, wordFeatures, Prop, Index, Model) %>% 
+  summarize(N=n(), Mean=mean(Value, na.rm=TRUE), SD=sd(Value, na.rm=TRUE), SE=SD/sqrt(N)) %>% 
+  ungroup()
+```
+
+
+```{r}
+all.cat.2.res.sum$category %>% unique()
+# "function_words" "nouns"          "other"          "predicates" 
+
+cat_name <- "predicates"
+
+all.cat.2.res.sum %>%
+  subset(category==cat_name) %>% 
+  # subset(Prop==10 | Prop==30 | Prop==50) %>% 
+  ggplot(aes(x=Prop, y=Mean, color=wordFeatures))+
+  geom_point(size=2, position=position_dodge(width=2), alpha=0.6)+
+  geom_errorbar(aes(ymin=Mean-SE, ymax=Mean+SE), width=0.2, position=position_dodge(width=2), alpha=0.6)+
+  geom_line(aes(group=wordFeatures), linewidth=1, position=position_dodge(width=2), alpha=0.6)+
+  geom_smooth(color="gray60", method="lm", se=TRUE, alpha=0.3, linewidth=3)+ # se is 95%CI here
+  facet_grid(Index~Model, scales="free")+
+  theme_bw()+
+  labs(title=cat_name, x="Proportion of answers provided", y="Measurement")+
+  theme(axis.ticks=element_line(color="black"),
+        axis.text=element_text(size=14, color="black"),
+        axis.title=element_text(size=14, color="black"),
+        axis.text.x=element_text(size=14, color="black"),
+        strip.text=element_text(size=14))
+ggsave(file=here("figures", "exp2", paste("Exp2_2_", cat_name, ".png", sep="")), dpi=350, width=11, height=9.5)   
+```
+
+
+# Export
+
+```{r}
+tmp <- all.res.sum %>% rbind(all.res.2.sum)
+write.csv(tmp, here("dataset", "exp2", "summary_all.csv"), row.names=FALSE)
+tmp <- all.cat.res.sum %>% rbind(all.cat.2.res.sum)
+write.csv(tmp, here("dataset", "exp2", "summary_cat.csv"), row.names=FALSE)
+```
+
