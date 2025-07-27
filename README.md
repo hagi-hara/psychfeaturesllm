@@ -18,8 +18,25 @@
 │   ├── results_exp1
 │   ├── results_exp2
 ├── analysis
-│   ├── ...
-
+│   ├── llm_analysis.Rproj
+│   ├── analysis_exp1.Rmd
+│   ├── analysis_exp2_1.Rmd
+│   ├── analysis_exp2_2.Rmd
+│   ├── dataset
+│   │   ├── exp1
+│   │   │   ├── concatenated_results.csv
+│   │   │   ├── ...
+│   │   ├── exp2
+│   │   │   ├── concatenated_results.csv
+│   │   │   ├── wordlist_exp2.csv
+│   │   │   ├── ...
+│   ├── figures
+│   │   ├── exp1
+│   │   │   ├── AoA_All.png
+│   │   │   ├── ...
+│   │   ├── exp2
+│   │   │   ├── Exp2_1_All.png
+│   │   │   ├── ...
 ```
 
 ## llm
@@ -45,3 +62,6 @@ llm/results_exp2/concatenated_results.csv
 
 ## inference_results
 This directory contains the results of the LLMs for the word features that we calculated by running the code in the `llm` directory.
+
+## analysis
+This directory contains the code and dataset for analyzing the data based on the estimates calculated by LLMs using the files in llm directory.
