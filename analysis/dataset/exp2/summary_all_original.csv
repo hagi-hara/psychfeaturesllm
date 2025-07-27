@@ -1,0 +1,153 @@
+"wordFeatures","Index","Model","N","Mean","SD","SE"
+"concreteness","Correlation coefficient","Gpt-4o",1,0.870463632057613,NA,NA
+"concreteness","Correlation coefficient","Llama-3.1-70B",1,0.835779909342227,NA,NA
+"concreteness","KL divergence (log)","Gpt-4o",1,-1.04077049756358,NA,NA
+"concreteness","KL divergence (log)","Llama-3.1-70B",1,-1.06946258163157,NA,NA
+"adultBOI","Correlation coefficient","Gpt-4o",1,0.864300606686348,NA,NA
+"adultBOI","Correlation coefficient","Llama-3.1-70B",1,0.841990766626358,NA,NA
+"adultBOI","KL divergence (log)","Gpt-4o",1,0.781258689149435,NA,NA
+"adultBOI","KL divergence (log)","Llama-3.1-70B",1,2.35656153993406,NA,NA
+"childBOI","Correlation coefficient","Gpt-4o",1,0.810783538039974,NA,NA
+"childBOI","Correlation coefficient","Llama-3.1-70B",1,0.789907419668017,NA,NA
+"childBOI","KL divergence (log)","Gpt-4o",1,-0.157713851253037,NA,NA
+"childBOI","KL divergence (log)","Llama-3.1-70B",1,0.249330105385263,NA,NA
+"iconicity","Correlation coefficient","Gpt-4o",1,0.412157553281123,NA,NA
+"iconicity","Correlation coefficient","Llama-3.1-70B",1,0.351129189666951,NA,NA
+"iconicity","KL divergence (log)","Gpt-4o",1,2.83743719821424,NA,NA
+"iconicity","KL divergence (log)","Llama-3.1-70B",1,1.8011460184719,NA,NA
+"babiness","Correlation coefficient","Gpt-4o",1,0.581991815624731,NA,NA
+"babiness","Correlation coefficient","Llama-3.1-70B",1,0.648446685394212,NA,NA
+"babiness","KL divergence (log)","Gpt-4o",1,-0.0268814596279717,NA,NA
+"babiness","KL divergence (log)","Llama-3.1-70B",1,1.20789236771709,NA,NA
+"valence","Correlation coefficient","Gpt-4o",1,0.766642119188782,NA,NA
+"valence","Correlation coefficient","Llama-3.1-70B",1,0.716953744251364,NA,NA
+"valence","KL divergence (log)","Gpt-4o",1,-0.512809838105854,NA,NA
+"valence","KL divergence (log)","Llama-3.1-70B",1,0.374733218166088,NA,NA
+"arousal","Correlation coefficient","Gpt-4o",1,0.332350687374318,NA,NA
+"arousal","Correlation coefficient","Llama-3.1-70B",1,0.460579766982275,NA,NA
+"arousal","KL divergence (log)","Gpt-4o",1,1.6556686320605,NA,NA
+"arousal","KL divergence (log)","Llama-3.1-70B",1,2.55012942421937,NA,NA
+"dominance","Correlation coefficient","Gpt-4o",1,0.384164497066505,NA,NA
+"dominance","Correlation coefficient","Llama-3.1-70B",1,0.41257153971784,NA,NA
+"dominance","KL divergence (log)","Gpt-4o",1,1.91859099524238,NA,NA
+"dominance","KL divergence (log)","Llama-3.1-70B",1,-0.167089159286382,NA,NA
+"Auditory","Correlation coefficient","Gpt-4o",1,0.770156614950403,NA,NA
+"Auditory","Correlation coefficient","Llama-3.1-70B",1,0.739546002683094,NA,NA
+"Auditory","KL divergence (log)","Gpt-4o",1,2.27349309404731,NA,NA
+"Auditory","KL divergence (log)","Llama-3.1-70B",1,1.08859547651499,NA,NA
+"Gustatory","Correlation coefficient","Gpt-4o",1,0.576848027294527,NA,NA
+"Gustatory","Correlation coefficient","Llama-3.1-70B",1,0.558316625473535,NA,NA
+"Gustatory","KL divergence (log)","Gpt-4o",1,1.46979259468762,NA,NA
+"Gustatory","KL divergence (log)","Llama-3.1-70B",1,2.31577885753762,NA,NA
+"Haptic","Correlation coefficient","Gpt-4o",1,0.769558695404395,NA,NA
+"Haptic","Correlation coefficient","Llama-3.1-70B",1,0.723637026426582,NA,NA
+"Haptic","KL divergence (log)","Gpt-4o",1,1.26867671919826,NA,NA
+"Haptic","KL divergence (log)","Llama-3.1-70B",1,-0.0789651958856602,NA,NA
+"Interoceptive","Correlation coefficient","Gpt-4o",1,0.513461212844511,NA,NA
+"Interoceptive","Correlation coefficient","Llama-3.1-70B",1,0.657061471660456,NA,NA
+"Interoceptive","KL divergence (log)","Gpt-4o",1,2.86762773151677,NA,NA
+"Interoceptive","KL divergence (log)","Llama-3.1-70B",1,0.778028626077374,NA,NA
+"Olfactory","Correlation coefficient","Gpt-4o",1,0.622701688349679,NA,NA
+"Olfactory","Correlation coefficient","Llama-3.1-70B",1,0.636406359133593,NA,NA
+"Olfactory","KL divergence (log)","Gpt-4o",1,0.863140658081874,NA,NA
+"Olfactory","KL divergence (log)","Llama-3.1-70B",1,0.636761162474466,NA,NA
+"Visual","Correlation coefficient","Gpt-4o",1,0.619465171671969,NA,NA
+"Visual","Correlation coefficient","Llama-3.1-70B",1,0.60836397899967,NA,NA
+"Visual","KL divergence (log)","Gpt-4o",1,-0.117116203802332,NA,NA
+"Visual","KL divergence (log)","Llama-3.1-70B",1,0.410989038993592,NA,NA
+"Foot_leg","Correlation coefficient","Gpt-4o",1,0.599287000423627,NA,NA
+"Foot_leg","Correlation coefficient","Llama-3.1-70B",1,0.520511037970239,NA,NA
+"Foot_leg","KL divergence (log)","Gpt-4o",1,0.342520236265507,NA,NA
+"Foot_leg","KL divergence (log)","Llama-3.1-70B",1,1.14726495931147,NA,NA
+"Hand_arm","Correlation coefficient","Gpt-4o",1,0.620146641971644,NA,NA
+"Hand_arm","Correlation coefficient","Llama-3.1-70B",1,0.56814273199684,NA,NA
+"Hand_arm","KL divergence (log)","Gpt-4o",1,1.17684697809027,NA,NA
+"Hand_arm","KL divergence (log)","Llama-3.1-70B",1,0.464391256328535,NA,NA
+"Head","Correlation coefficient","Gpt-4o",1,0.430565114231987,NA,NA
+"Head","Correlation coefficient","Llama-3.1-70B",1,0.183135686228551,NA,NA
+"Head","KL divergence (log)","Gpt-4o",1,2.19415366020584,NA,NA
+"Head","KL divergence (log)","Llama-3.1-70B",1,2.39951791448218,NA,NA
+"Mouth","Correlation coefficient","Gpt-4o",1,0.711244505091803,NA,NA
+"Mouth","Correlation coefficient","Llama-3.1-70B",1,0.612674896437765,NA,NA
+"Mouth","KL divergence (log)","Gpt-4o",1,2.03181853495958,NA,NA
+"Mouth","KL divergence (log)","Llama-3.1-70B",1,1.63374941898279,NA,NA
+"Torso","Correlation coefficient","Gpt-4o",1,0.47167622307524,NA,NA
+"Torso","Correlation coefficient","Llama-3.1-70B",1,0.307975252168399,NA,NA
+"Torso","KL divergence (log)","Gpt-4o",1,2.87927674943676,NA,NA
+"Torso","KL divergence (log)","Llama-3.1-70B",1,1.92947792926126,NA,NA
+"concreteness","Correlation coefficient (AoA)","Gpt-4o",1,-0.272071660480526,NA,NA
+"concreteness","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.226804762656433,NA,NA
+"concreteness","Difference (correlation to AoA)","Gpt-4o",1,0.0171439808942863,NA,NA
+"concreteness","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0624108787183788,NA,NA
+"adultBOI","Correlation coefficient (AoA)","Gpt-4o",1,-0.245099603367546,NA,NA
+"adultBOI","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.201474514458574,NA,NA
+"adultBOI","Difference (correlation to AoA)","Gpt-4o",1,0.0334436088809083,NA,NA
+"adultBOI","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0770686977898809,NA,NA
+"childBOI","Correlation coefficient (AoA)","Gpt-4o",1,-0.330196725343904,NA,NA
+"childBOI","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.256612145739599,NA,NA
+"childBOI","Difference (correlation to AoA)","Gpt-4o",1,0.0981746372034193,NA,NA
+"childBOI","Difference (correlation to AoA)","Llama-3.1-70B",1,0.171759216807724,NA,NA
+"iconicity","Correlation coefficient (AoA)","Gpt-4o",1,-0.156830828705434,NA,NA
+"iconicity","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0682750570113021,NA,NA
+"iconicity","Difference (correlation to AoA)","Gpt-4o",1,0.149738066643386,NA,NA
+"iconicity","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0611822949492539,NA,NA
+"babiness","Correlation coefficient (AoA)","Gpt-4o",1,-0.484073713013931,NA,NA
+"babiness","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.325745544201437,NA,NA
+"babiness","Difference (correlation to AoA)","Gpt-4o",1,0.21355526740309,NA,NA
+"babiness","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0552270985905964,NA,NA
+"valence","Correlation coefficient (AoA)","Gpt-4o",1,0.223639423820122,NA,NA
+"valence","Correlation coefficient (AoA)","Llama-3.1-70B",1,0.190154382387773,NA,NA
+"valence","Difference (correlation to AoA)","Gpt-4o",1,0.0542624704195597,NA,NA
+"valence","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0207774289872103,NA,NA
+"arousal","Correlation coefficient (AoA)","Gpt-4o",1,-0.262810520844246,NA,NA
+"arousal","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0318112561379949,NA,NA
+"arousal","Difference (correlation to AoA)","Gpt-4o",1,0.228315937560077,NA,NA
+"arousal","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0026833271461735,NA,NA
+"dominance","Correlation coefficient (AoA)","Gpt-4o",1,0.0251964268717161,NA,NA
+"dominance","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0478972321479303,NA,NA
+"dominance","Difference (correlation to AoA)","Gpt-4o",1,0.0529722157108321,NA,NA
+"dominance","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0201214433088144,NA,NA
+"Auditory","Correlation coefficient (AoA)","Gpt-4o",1,0.0200522112666561,NA,NA
+"Auditory","Correlation coefficient (AoA)","Llama-3.1-70B",1,0.116994291221521,NA,NA
+"Auditory","Difference (correlation to AoA)","Gpt-4o",1,0.0521058253531908,NA,NA
+"Auditory","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0448362546016739,NA,NA
+"Gustatory","Correlation coefficient (AoA)","Gpt-4o",1,-0.0414549429865165,NA,NA
+"Gustatory","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0525965024130253,NA,NA
+"Gustatory","Difference (correlation to AoA)","Gpt-4o",1,0.00498324557717694,NA,NA
+"Gustatory","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0061583138493319,NA,NA
+"Haptic","Correlation coefficient (AoA)","Gpt-4o",1,-0.233501059149675,NA,NA
+"Haptic","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.244841513048621,NA,NA
+"Haptic","Difference (correlation to AoA)","Gpt-4o",1,0.0150040290096264,NA,NA
+"Haptic","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0263444829085716,NA,NA
+"Interoceptive","Correlation coefficient (AoA)","Gpt-4o",1,-0.142454551056952,NA,NA
+"Interoceptive","Correlation coefficient (AoA)","Llama-3.1-70B",1,0.00392818114432076,NA,NA
+"Interoceptive","Difference (correlation to AoA)","Gpt-4o",1,0.167328130491248,NA,NA
+"Interoceptive","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0209453982899757,NA,NA
+"Olfactory","Correlation coefficient (AoA)","Gpt-4o",1,-0.150845370385932,NA,NA
+"Olfactory","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0773987473318831,NA,NA
+"Olfactory","Difference (correlation to AoA)","Gpt-4o",1,0.0266590698773771,NA,NA
+"Olfactory","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0467875531766722,NA,NA
+"Visual","Correlation coefficient (AoA)","Gpt-4o",1,-0.216007238818609,NA,NA
+"Visual","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.212022512459682,NA,NA
+"Visual","Difference (correlation to AoA)","Gpt-4o",1,0.0200515513779387,NA,NA
+"Visual","Difference (correlation to AoA)","Llama-3.1-70B",1,0.016066825019011,NA,NA
+"Foot_leg","Correlation coefficient (AoA)","Gpt-4o",1,-0.0481985855606001,NA,NA
+"Foot_leg","Correlation coefficient (AoA)","Llama-3.1-70B",1,0.00355424412618823,NA,NA
+"Foot_leg","Difference (correlation to AoA)","Gpt-4o",1,0.0492309403263813,NA,NA
+"Foot_leg","Difference (correlation to AoA)","Llama-3.1-70B",1,0.00252188936040703,NA,NA
+"Hand_arm","Correlation coefficient (AoA)","Gpt-4o",1,-0.0356567292122285,NA,NA
+"Hand_arm","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.00931337412939532,NA,NA
+"Hand_arm","Difference (correlation to AoA)","Gpt-4o",1,0.010273826111836,NA,NA
+"Hand_arm","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0160695289709972,NA,NA
+"Head","Correlation coefficient (AoA)","Gpt-4o",1,0.0915399261308236,NA,NA
+"Head","Correlation coefficient (AoA)","Llama-3.1-70B",1,0.0964283489716134,NA,NA
+"Head","Difference (correlation to AoA)","Gpt-4o",1,0.168549002499789,NA,NA
+"Head","Difference (correlation to AoA)","Llama-3.1-70B",1,0.173437425340579,NA,NA
+"Mouth","Correlation coefficient (AoA)","Gpt-4o",1,-0.0680954962718293,NA,NA
+"Mouth","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0771729860066414,NA,NA
+"Mouth","Difference (correlation to AoA)","Gpt-4o",1,0.0335674171780618,NA,NA
+"Mouth","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0426449069128738,NA,NA
+"Torso","Correlation coefficient (AoA)","Gpt-4o",1,-0.033743336339617,NA,NA
+"Torso","Correlation coefficient (AoA)","Llama-3.1-70B",1,-0.0013794257033831,NA,NA
+"Torso","Difference (correlation to AoA)","Gpt-4o",1,0.0285408589709435,NA,NA
+"Torso","Difference (correlation to AoA)","Llama-3.1-70B",1,0.0609047696071774,NA,NA
