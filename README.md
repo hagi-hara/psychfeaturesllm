@@ -64,4 +64,4 @@ llm/results_exp2/concatenated_results.csv
 This directory contains the results of the LLMs for the word features that we calculated by running the code in the `llm` directory.
 
 ## analysis
-This directory contains the code and dataset for analyzing the data based on the estimates calculated by LLMs using the files in llm directory.
+This directory contains the code and dataset for analyzing the data based on the estimates calculated by LLMs using the files in `llm` directory.
