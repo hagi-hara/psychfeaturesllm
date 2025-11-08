@@ -1,0 +1,210 @@
+---
+title: "Experiment 1"
+author: "Hiromichi Hagihara"
+date: "2025-07-27"
+output: html_document
+---
+
+```{r, results = FALSE}
+library(tidyverse)
+# library(rlang)
+library(ggrepel)
+library(ggExtra)
+# library(purrr)
+library(here)
+library(scales)
+# library(philentropy)
+# library(car)
+# library(MASS)
+# library(Rtsne)
+
+# Reference about color palette: https://r-graphics.org/recipe-colors-palette-discrete
+```
+
+
+# Preparation
+
+```{r}
+d <- read.csv("dataset/exp1/std.csv", header=TRUE) %>% dplyr::select(seq1:note, contains("_sd")) %>% 
+  rename_with(~ gsub("_sd", "", .), contains("_sd")) %>% 
+  mutate(category2=case_when(category2=="verbs" | category2=="adjectives"~"predicates", TRUE~category2)) %>% 
+  dplyr::select(-phoneme, -semD, -frequency, -mlu, -contextD)
+
+d.head <- d %>% dplyr::select(seq1:note)
+
+d.human <- d %>% dplyr::select(seq1:babiness) %>% mutate(RatedBy = "human")
+
+tmp <- "gpt.4o.2024.05.13_"
+d.gpt1 <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp) 
+  
+tmp <- "gpt.4o.mini.2024.07.18_"
+d.gpt2 <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp) 
+
+tmp <- "meta.llama_Meta.Llama.3.1.405B.Instruct_"
+d.meta1 <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp) 
+
+tmp <- "meta.llama_Meta.Llama.3.1.70B.Instruct_"
+d.meta2 <- d %>% dplyr::select(seq1:note, contains(tmp)) %>% rename_with(~ gsub(tmp, "", .), contains(tmp)) %>% mutate(RatedBy = tmp)
+
+d$word_for_llm %>% unique() %>% length() # A total of 695 words
+
+tmp <- d.human %>% filter(category2=="function_words")
+tmp <- d.gpt1 %>% filter(category2=="function_words")
+
+rm(tmp)
+```
+
+
+# Comparison of mean SDs
+
+```{r}
+se <- function(x) sd(x, na.rm = TRUE) / sqrt(sum(!is.na(x)))
+
+# Overall -----------------------------
+summarize_stats <- function(df, model_name) {
+  df %>% select(concreteness:imageability) %>%
+    pivot_longer(cols = everything(), names_to = "wordFeatures", values_to = "value") %>%
+    group_by(wordFeatures) %>%
+    summarise(
+      mean = mean(value, na.rm = TRUE),
+      sd = sd(value, na.rm = TRUE),
+      se = se(value),
+      .groups = "drop"
+    ) %>% mutate(model = model_name)
+}
+
+mean.all.res <- bind_rows(
+  summarize_stats(d.human, "Human"),
+  summarize_stats(d.gpt1, "Gpt-4o"),
+  summarize_stats(d.gpt2, "Gpt-4o-mini"),
+  summarize_stats(d.meta1, "Llama-3.1-405B"),
+  summarize_stats(d.meta2, "Llama-3.1-70B"))
+
+# By syntactic category -----------------------------
+summarize_by_category <- function(df, model_name) {
+  df %>% select(category2, concreteness:imageability) %>%
+    pivot_longer(cols = c(concreteness:imageability), names_to = "wordFeatures", values_to = "value") %>%
+    group_by(category2, wordFeatures) %>%
+    summarise(
+      mean = mean(value, na.rm = TRUE),
+      sd = sd(value, na.rm = TRUE),
+      se = se(value),
+      .groups = "drop") %>%
+    mutate(model = model_name)
+}
+
+mean.all.cat.res <- bind_rows(
+  summarize_by_category(d.human, "Human"),
+  summarize_by_category(d.gpt1, "Gpt-4o"),
+  summarize_by_category(d.gpt2, "Gpt-4o-mini"),
+  summarize_by_category(d.meta1, "Llama-3.1-405B"),
+  summarize_by_category(d.meta2, "Llama-3.1-70B"))
+```
+
+
+```{r}
+# Overall -----------------------------
+mean.all.res <- mean.all.res %>% mutate(category="Overall") %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness",
+                                      "valence", "arousal", "dominance",
+                                      "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", 
+                                      "Head", "Mouth", "Torso")),
+         model=factor(model, levels=c("Human", "Gpt-4o", "Gpt-4o-mini", "Llama-3.1-405B", "Llama-3.1-70B")))
+
+mean.all.res.sum <- mean.all.res %>% group_by(model, category) %>% 
+  summarize(Mean=mean(mean, na.rm=TRUE), SD=sd(mean, na.rm=TRUE), SE=SD/sqrt(n()))
+  
+mean.all.res %>% ggplot(aes(x = model, y = mean, group = wordFeatures)) +
+  geom_col(data = mean.all.res.sum, 
+           aes(x = model, y = Mean, fill = model), 
+           inherit.aes = FALSE, 
+           width = 0.5, alpha = 1, color = "black") +
+  geom_line(aes(color = wordFeatures), alpha = 0.15, linewidth = 0.3) +
+  geom_point(aes(color = wordFeatures), alpha = 0.3, size = 1.2, 
+             position = position_jitter(width = 0.02, height = 0)) +
+  geom_errorbar(data = mean.all.res.sum, 
+                aes(x = model, ymin = Mean - SE, ymax = Mean + SE),
+                inherit.aes = FALSE,
+                color = "black", width = 0.15, linewidth = 0.7) +
+  facet_wrap(~category, strip.position="top")+
+  scale_y_continuous(limits = c(-0.01, 2.9), breaks = seq(0, 3, 0.5)) +
+  theme_bw() +
+  labs(x = "", y = "Mean SD") +
+  theme(
+    axis.text.x = element_text(size = 12, color = "black", angle = 45, hjust = 1),
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title = element_text(size = 13, color = "black"),
+    strip.text = element_text(size = 12, color = "black", face = "bold"),
+    legend.position = "none")
+ggsave(file=here("figures", "exp1", "SD_All.png"), dpi=350, width=3, height=3.4)
+
+
+# By syntactic category -----------------------------
+mean.all.cat.res <- mean.all.cat.res %>% 
+  # rbind(mean.all.res %>% mutate(category2="Overall")) %>% 
+  mutate(wordFeatures=factor(wordFeatures, 
+                             levels=c("concreteness", "imageability", "adultBOI", "childBOI", "iconicity", "socialness", "babiness",
+                                      "valence", "arousal", "dominance",
+                                      "Auditory", "Gustatory", "Haptic", "Interoceptive", "Olfactory", "Visual", "Foot_leg", "Hand_arm", 
+                                      "Head", "Mouth", "Torso")),
+         model=factor(model, levels=c("Human", "Gpt-4o", "Gpt-4o-mini", "Llama-3.1-405B", "Llama-3.1-70B")),
+         category = str_replace_all(category2, "_", " "),
+         category = str_to_title(category),
+         category = factor(category, levels = c("Overall", "Nouns", "Predicates", "Function Words", "Other")))
+
+mean.all.cat.res.sum <- mean.all.cat.res %>% group_by(model, category) %>% 
+  summarize(Mean=mean(mean, na.rm=TRUE), SD=sd(mean, na.rm=TRUE), SE=SD/sqrt(n()))
+  
+mean.all.cat.res %>% ggplot(aes(x = model, y = mean, group = wordFeatures)) +
+  geom_col(data = mean.all.cat.res.sum, 
+           aes(x = model, y = Mean, fill = model), 
+           inherit.aes = FALSE, 
+           width = 0.5, alpha = 1, color = "black") +
+  geom_line(aes(color = wordFeatures), alpha = 0.15, linewidth = 0.3) +
+  geom_point(aes(color = wordFeatures), alpha = 0.3, size = 1.2, 
+             position = position_jitter(width = 0.02, height = 0)) +
+  geom_errorbar(data = mean.all.cat.res.sum, 
+                aes(x = model, ymin = Mean - SE, ymax = Mean + SE),
+                inherit.aes = FALSE,
+                color = "black", width = 0.15, linewidth = 0.7) +
+  facet_wrap(~category, strip.position="top")+
+  scale_y_continuous(limits = c(-0.01, 2.9), breaks = seq(0, 3, 0.5)) +
+  theme_bw() +
+  labs(x = "", y = "Mean SD") +
+  theme(
+    axis.text.x = element_text(size = 12, color = "black", angle = 45, hjust = 1),
+    axis.text.y = element_text(size = 12, color = "black"),
+    axis.title = element_text(size = 13, color = "black"),
+    strip.text = element_text(size = 12, color = "black", face = "bold"),
+    legend.position = "none")
+ggsave(file=here("figures", "exp1", "SD_Cat.png"), dpi=350, width=6, height=6)
+```
+
+
+```{r}
+tmp <- mean.all.res %>% subset(model=="Human") %>% dplyr::select(wordFeatures, mean) %>% rename(Human=mean)
+tmp <- mean.all.res %>% subset(model!="Human") %>% left_join(tmp, by="wordFeatures")
+  
+tmp %>% ggplot(aes(x = mean, y = Human, color = wordFeatures)) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "black", size = 0.8) +
+  geom_smooth(method = "lm", se = TRUE, color = "gray60", alpha = 0.3, linewidth = 1) +
+  geom_point(size = 2) +
+  geom_label_repel(aes(label = wordFeatures), size = 4.5, label.size = 0,
+                   label.padding = unit(2.5, "pt"), box.padding = unit(2, "pt"),
+                   point.padding = unit(2, "pt"), segment.size = 0.25, segment.alpha = 0.8,
+                   seed = 123, fill = alpha("white", 0.6), max.overlaps = Inf) +
+  scale_x_continuous(limits = c(0, 2.5), breaks = seq(0, 3, 0.5)) +
+  scale_y_continuous(limits = c(0, 2.5), breaks = seq(0, 3, 0.5)) +
+  theme_bw() +
+  labs(x = "SD (Model)", y = "SD (Human)") +
+  facet_wrap(~model, strip.position = "top") +
+  theme(
+    axis.ticks = element_line(color = "black"),
+    axis.text = element_text(size = 14, color = "black"),
+    axis.title = element_text(size = 14, color = "black"),
+    strip.text = element_text(size = 14),
+    legend.position = "none")
+ggsave(file=here("figures", "exp1", "SD_Scat_All.png"), dpi=350, width=11, height=9.5)   
+```
+
