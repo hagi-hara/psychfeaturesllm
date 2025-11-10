@@ -8,15 +8,19 @@
 ├── llm
 │   ├── word_features_in_LLMs_exp1.ipynb
 │   ├── word_features_in_LLMs_exp2.ipynb
+│   ├── word_features_in_sd.ipynb
 │   ├── dataset
 │   │   ├── prompt_list.xlsx
 │   │   ├── word_features_exp1.csv
 │   │   ├── word_features_exp2.csv
+│   │   ├── word_features_exp1_with_sd.csv
 │   ├── results_exp1
 │   ├── results_exp2
+│   ├── results_sd
 ├── inference_results
 │   ├── results_exp1
 │   ├── results_exp2
+│   ├── results_sd
 ├── analysis
 │   ├── llm_analysis.Rproj
 │   ├── analysis_exp1_1.Rmd
@@ -52,13 +56,21 @@ Word_features_in_LLMs_exp1.ipynb
 Word_features_in_LLMs_exp2.ipynb  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hagi-hara/psychfeaturesllm/blob/main/llm/Word_features_in_LLMs_exp2.ipynb)
 
-After running the code (`word_features_in_LLMs_exp1.ipynb` and `word_features_in_LLMs_exp2.ipynb`), you will find the results in the `results_exp1` and `results_exp2` directories.
+word_features_in_sd.ipynb  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hagi-hara/psychfeaturesllm/blob/main/llm/word_features_in_sd.ipynb)
+
+After running the code (`word_features_in_LLMs_exp1.ipynb`, `word_features_in_LLMs_exp2.ipynb` and `word_features_in_sd.ipynb`), you will find the results in the `results_exp1`, `results_exp2` and `results_sd` directories.
 ```bash
 # main results files
 llm/results_exp1/concatenated_results.csv
 
 # additional results files (few-shot results)
 llm/results_exp2/concatenated_results.csv  
+
+# additional results files (std results)
+llm/results_sd/std.csv
+llm/results_sd/std_mean.csv
+llm/results_sd/std_cossim.csv
 ```
 
 ## inference_results
